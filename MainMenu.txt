@@ -2,51 +2,51 @@
 
 schema: *key,text
 
-resolution,                 Resolution
-fullscreen,                 Fullscreen
-quality,                    Quality
-play,                       Play
-mods,                       Mods
-advanced,                   Advanced
-restart,                    Restart
-restartInfo,                Restart setup from beginning
-exit,                       Exit
-modNote,                    Note: Enabling mods can increase performance requirements
+resolution,                 해상도
+fullscreen,                 풀스크린
+quality,                    퀼리티
+play,                       플레이
+mods,                       모드
+advanced,                   고급설정
+restart,                    재시작
+restartInfo,                초기 설정 부터 재시작
+exit,                       종료
+modNote,                    알림: 모드 활성화로 인해 성능 요구사항이 증가할 수 있습니다.
 
-alwayShowOptions,           Always show this window
-alwayShowOptionsInfo,       Always show this window on startup\rOtherwise use settings.ini to configure
-vsync,                      Vertical Sync
-vsyncInfo,                  Sync FPS with monitor refresh
-swapHealthAndFatigue,       Swap Health & Fatigue
-swapHealthAndFatigueInfo,   Swap health & fatigue bar colors
-invertMouseVertical,        Invert Mouse
-invertMouseVerticalInfo,    Invert mouse-look vertical
-mouseSmoothing,             Mouse Look Smoothing
-mouseSmoothingInfo,         Degree of first person camera smoothing
-leftHandWeapons,            Left Hand Weapons
-leftHandWeaponsInfo,        Draw weapons on left side of screen
-playerNudity,               Player Nudity
-playerNudityInfo,           Allow nudity on paper doll
-weaponSwingMode,            Weapon swing mode
-weaponSwingModeInfo,        Enable a click or hold to trigger attacks
-sdfFontRendering,           SDF Font Rendering
-sdfFontRenderingInfo,       Enable for smooth fonts at high resolutions
-enableController,           Enable Controller
-enableControllerInfo,       Allow joysticks or other controllers to be detected and used in-game
+alwayShowOptions,           이 화면 항상 띄우기
+alwayShowOptionsInfo,       이 화면을 시작시에 항상 띄웁니다\r이 옵션을 끌 경우 settings.ini 로 설정을 변경하십시오.
+vsync,                      수직 동기화
+vsyncInfo,                  FPS를 모니터의 갱신율에 맞춥니다
+swapHealthAndFatigue,       체력 지구력 교체
+swapHealthAndFatigueInfo,   체력과 지구력 바의 색을 서로 바꿉니다.
+invertMouseVertical,        마우스 반전
+invertMouseVerticalInfo,    마우스 수직 방향을 반전합니다
+mouseSmoothing,             마우스 시야 스무딩
+mouseSmoothingInfo,         1인칭 카메라 스무딩의 강도를 변경합니다
+leftHandWeapons,            왼손 무기
+leftHandWeaponsInfo,        무기를 화면의 왼쪽에 표시합니다
+playerNudity,               플레이어 누드
+playerNudityInfo,           페이퍼돌의 노출을 허용합니다.
+weaponSwingMode,            무기 공격 모드
+weaponSwingModeInfo,        클릭 혹은 누르고 유지 방식으로 공격 방식을 바꿉니다
+sdfFontRendering,           SDF 폰트 렌더링
+sdfFontRenderingInfo,       고해상도 유려 폰트를 활성화(비활성화시 한글출력이 되지 않습니다)
+enableController,           컨트롤러 활성화
+enableControllerInfo,       조이스틱 혹은 다른 컨트롤러를 탐지하고 게임에서 사용할 수 있게 활성화 합니다
 
-findArena2Tip,              Tip: Daggerfall contains a folder called 'arena2'
-foundArena2But,             Found 'arena2' but
-missingTextures,            it's missing one or more TEXTURE files
-missingModels,              it's missing ARCH3D.BSA
-missingBlocks,              it's missing BLOCKS.BSA
-missingMaps,                it's missing MAPS.BSA
-missingSounds,              it's missing DAGGER.SND
-missingWoods,               it's missing WOODS.WLD
-missingVideos,              it's missing one or more .VID files
-justNotValid,               it does not appear to be valid
-pathValidated,              Great! This looks like a valid Daggerfall folder :)
-testText,                   Test
-okText,                     OK
-keepSetting,                Keep this setting? Changes will revert in 8 seconds.
-incompatibleMods,           One or more mods are incompatible with current version of the game. Please check mods window for details. Do you wish to continue anyway?
-showOptionsAgain,           Hold the Shift key when starting Daggerfall Unity to show the launcher again
+findArena2Tip,              팁 : 대거폴은 arena2 라는 폴더를 포함하고 있습니다.
+foundArena2But,             arena2' 폴더를 찾았지만
+missingTextures,            텍스쳐 파일 한개 혹은 그 이상이 없습니다
+missingModels,              ARCH3D.BSA 파일이 없습니다
+missingBlocks,              BLOCKS.BSA 파일이 없습니다
+missingMaps,                MAPS.BSA 파일이 없습니다
+missingSounds,              DAGGER.SND 파일이 없습니다
+missingWoods,               WOODS.WLD 파일이 없습니다
+missingVideos,              하나 혹은 그 이상의 .VID 파일이 없습니다
+justNotValid,               정상적인 폴더가 아닌 것 같습니다
+pathValidated,              훌륭합니다! 정상적인 대거폴 폴더로 보입니다 :)
+testText,                   테스트
+okText,                     확인
+keepSetting,                이 설정을 유지합니까? 8초 후에 원상복구 됩니다.
+incompatibleMods,           하나 혹은 그 이상의 모드가 현재 게임 버전과 호환되지 않습니다. 모드 메뉴에서 자세히 확인해 보십시오. 그래도 계속 합니까?
+showOptionsAgain,           런처를 다시 나오게 하려면 쉬프트키를 누르고 대거폴 유니티를 실행하십시오
