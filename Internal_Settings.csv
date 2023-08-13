@@ -1,75 +1,75 @@
 ﻿Key,Value
-weaponSwingModes,"Vanilla
-Click
-Hold"
-mouseLookSmoothingStrengths,"None
-Lowest
-Low
-Medium
-High
-Highest"
-configureAdvancedControls,Configure Advanced Controls
-continueUpper,CONTINUE
-mouseLookSmoothing,Mouse Look Smoothing
-mouseLookSensitivity,Mouse Look Sensitivity
-invertLookY,Invert Look-Y
-movementAcceleration,Movement Acceleration
-weaponSwingMode,Weapon Swing Mode
-bowDrawback,Bows - draw and release
-toggleSneak,Toggle Sneak
-mouseWeaponAttackThreshold,Mouse Weapon Attack Threshold
-Escape,Escape
-AutoRun,AutoRun
-ToggleConsole,Console
-PrintScreen,Screenshot
-QuickSave,QuickSave
-QuickLoad,QuickLoad
-close,Close
-dungeonTextureModes,"Classic
-Climate
-Climate Only
-Random
-Random Only"
-cameraRecoilStrengths,"Off
-Low (25%)
-Medium (50%)
-High (75%)
-V. High(100%)"
-interactionModeIconModes,"None
-Minimal
-Large
-Classic
-Colour
-Monochrome
-Classic Crosshair
-Colour Crosshair"
-iconsPositioningSchemes,"Classic
-Medium
-Small
-Small Deck Left
-Small Deck Right
-Small Vert Left
-Small Vert Right
-Small Horz Bottom"
-helmAndShieldMaterialDisplay,"Off
-No Leather Chain
-No Leather
-On"
-qualitySettings,"Fastest
-Fast
-Simple
-Good
-Beautiful
-Fantastic"
-filterModes,"Point
-Bilinear
-Trilinear"
-shadowResolutionModes,"Low
-Medium
-High
-Very High"
-textureArrayLabel,Texture Arrays: 
-unsupported,Unsupported
-enabled,Enabled
-disabled,Disabled
-textureArrayInfo,"Improved implementation of terrain textures, with better performance and modding support"
+weaponSwingModes,"바닐라
+클릭
+누르고유지"
+mouseLookSmoothingStrengths,"없음
+최저
+낮음
+중간
+높음
+최고"
+configureAdvancedControls,고급 조작 설정
+continueUpper,계속
+mouseLookSmoothing,마우스 시야 스무딩
+mouseLookSensitivity,마우스 시야 민감도
+invertLookY,시야 세로축 반전
+movementAcceleration,이동시 가속
+weaponSwingMode,무기 공격 모드
+bowDrawback,활 - 당겨서 놓기
+toggleSneak,은신 토글
+mouseWeaponAttackThreshold,마우스 무기공격 임계치
+Escape,이스케이프
+AutoRun,자동 달리기
+ToggleConsole,콘솔
+PrintScreen,스크린샷
+QuickSave,퀵세이브
+QuickLoad,퀵로드
+close,닫기
+dungeonTextureModes,"클래식
+기후
+기후만
+랜덤
+랜덤만"
+cameraRecoilStrengths,"끄기
+낮음 (25%)
+중간 (50%)
+높음 (75%)
+최고(100%)"
+interactionModeIconModes,"없음
+미니멀
+대형
+클래식
+컬러
+흑백
+클래식 크로스헤어
+컬러 크로스헤어"
+iconsPositioningSchemes,"클래식
+중간
+소형
+소형 계단 좌측
+소형 계단 우측
+소형 수직 좌측
+소형 수직 우측
+소형 수평 하단"
+helmAndShieldMaterialDisplay,"끄기
+가죽/체인 제외
+가죽 제외
+켜기"
+qualitySettings,"최고빠른
+빠른
+단순한
+좋은
+아름다운
+환상적인"
+filterModes,"포인트
+이중선형보간
+삼중선형보간"
+shadowResolutionModes,"낮음
+중간
+높음
+최고"
+textureArrayLabel,텍스트 어레이: 
+unsupported,호환불가
+enabled,활성화
+disabled,비활성화
+textureArrayInfo,"개선된 지형 텍스쳐 배치, 더 빠르고 모드 지원"
