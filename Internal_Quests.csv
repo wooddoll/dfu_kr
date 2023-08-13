@@ -1,0 +1,3 @@
+﻿Key,Value
+Z1C10Y99.1000,"EXAMPLE ONLY
+The Key format is {QuestName}.{MessageID}. In this example, the key ""Z1C10Y99.1000"" would replace message 1000 in a quest named ""Z1C10Y99"" with the text in this cell. In this way, you can provide translated text strings for quests without needing to touch the quest script."
