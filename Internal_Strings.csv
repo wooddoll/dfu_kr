@@ -1,96 +1,96 @@
 ﻿Key,Value
 about_internal_strings,This string table collection stores text that was hard-coded in FALL.EXE and text unique to Daggerfall Unity.
-pleaseSelectYourHomeProvince,Please select your home province...
-saveGame,Save Game
-loadGame,Load Game
-thingJustDied,%s just died.
-gameSaved,Game saved.
-gameLoaded,Game loaded.
-thisHouseHasNothingOfValue,This house has nothing of value.
-findLocationPrompt,Enter name of place : 
-rightHandEquipped,Right hand equipped.
-leftHandEquipped,Left hand equipped.
-usingRightHand,Using weapon in right hand.
-usingLeftHand,Using weapon in left hand.
-itemHasBroken,%s has broken.
-itemHasBrokenPlural,%s have broken.
-cannotCarryGold,You cannot carry that much gold.
-cannotFloat,You are carrying too much to stay afloat.
-youHaveNoArrows,You have no arrows.
-oldSaveNoTrade,"Old indoor save loaded, trade window will not work please exit and re-enter building."
-theBodyHasNoTreasure,The body has no treasure.
-youAreTooFarAway,You are too far away...
-youSeeAn,You see an %s.
-youSeeA,You see a %s.
-youSeeADeadPerson,You see a dead person.
-youSeeADead,You see a dead %s.
-youCollectArrows,You pluck your arrows out of the corpse.
-loiterHowManyHours,Loiter how many hours : 
-restHowManyHours,Rest how many hours : 
-potionRecipeFor,Recipe for Potion of %po
-potionOf,Potion of %po
-letterPrefix,Letter: 
-multipleAssignments,You have multiple assignments...
-youAreEntering,You are entering %s
-storeClosed,Store is closed. Open from %d1:00 to %d2:00.
-guildClosed,Guild is closed. Open from %d1:00 to %d2:00.
-any,Any %s
-arkayDesc,God of Birth and Death
-zenDesc,God of Work and Commerce
-maraDesc,Goddess of Love
-akatoshDesc,God of Time
-julianosDesc,God of Logic
-dibellaDesc,Goddess of Beauty
-stendarDesc,God of Mercy
-kynarethDesc,Goddess of Air
-interactionIsNowInMode,Interaction is now in %s mode.
-steal,steal
-grab,grab
-info,info
-dialogue,dialogue
-residence,Residence
-youSee,You see %s.
-theNamedResidence,The %s Residence
-playerResidence,%s's house
-materialIneffective,The material of the weapon you are using is ineffective.
-successfulBackstab,Successful backstab!
-languagePacified,Pacified %e using %s skill.
-lockpickingSuccess,The lock clicks open.
-lockpickingFailure,It does not unlock.
-magicLock,This is a magically held lock...
-lockpickChance1,This lock has nothing to fear from you...
-lockpickChance2,It'd be a miracle if you picked this lock...
-lockpickChance3,This lock looks to be beyond your skills...
-buildingNames,"Temple of Akatosh
-Temple of Arkay
-Temple of Dibella
-Temple of Julianos
-Temple of Kynareth
-Temple of Mara
-Temple of Stendarr
-Temple of Zen
-Order of the Raven
-Knights of the Dragon
-Knights of the Owl
-Order of the Candle
-Knights of the Flame
-Host of the Horn
-Knights of the Rose
-Knights of the Wheel
-Order of the Scarab
-Knights of the Hawk
-Mages Guild
-Fighters Guild
-Tavern
-Library
-Weapon Smith
-Armorer
-Alchemist
-Bank
-Bookstore
-Clothing store
-Gem store
-Pawn shop"
+pleaseSelectYourHomeProvince,출신 지역을 선택하십시오...
+saveGame,게임 저장
+loadGame,게임 로드
+thingJustDied,%s - 죽었습니다.
+gameSaved,게임 저장됨.
+gameLoaded,게임 로드됨.
+thisHouseHasNothingOfValue,이 집은 아무 가치도 없습니다.
+findLocationPrompt,장소 이름 입력 :
+rightHandEquipped,오른손 장비됨.
+leftHandEquipped,왼손 장비됨.
+usingRightHand,오른손의 무기 사용.
+usingLeftHand,왼손의 무기 사용.
+itemHasBroken,%s - 부러졌습니다.
+itemHasBrokenPlural,%s - 부서졌습니다.
+cannotCarryGold,골드를 더 이상 들 수 없습니다.
+cannotFloat,물에 뜨려면 더 이상 물건을 주울 수 없습니다.
+youHaveNoArrows,화살이 없습니다.
+oldSaveNoTrade,구버전 실내 저장파일 로드됨, 실내에서 나간 후 재입장 전까지 거래 메뉴 사용불가.
+theBodyHasNoTreasure,이 시체엔 아무 보물도 없습니다.
+youAreTooFarAway,너무 멉니다...
+youSeeAn,봤습니다 - %s.
+youSeeA,봤습니다 - %s.
+youSeeADeadPerson,죽은 사람을 봤다.
+youSeeADead,봤습니다 - 죽은 %s.
+youCollectArrows,시체에서 화살을 뽑아냈습니다.
+loiterHowManyHours,대기 시간:
+restHowManyHours,휴식 시간:
+potionRecipeFor,%po 포션 제작법
+potionOf,%po 포션
+letterPrefix,편지:
+multipleAssignments,여러 임무 수행중...
+youAreEntering,%s 입장
+storeClosed,상점이 문을 닫음. 개점 시간 %d1:00 에서 %d2:00.
+guildClosed,길드가 문을 닫음. 개방 시간 %d1:00 에서 %d2:00.
+any,어떤 %s
+arkayDesc,삶과 죽음의 신
+zenDesc,직업과 상업의 신
+maraDesc,사랑의 여신
+akatoshDesc,시간의 신
+julianosDesc,논리의 신
+dibellaDesc,아름다움의 여신
+stendarDesc,자비의 신
+kynarethDesc,바람의 여신
+interactionIsNowInMode,상호작용 %s 모드.
+steal,절도
+grab,잡기
+info,정보
+dialogue,대화
+residence,거주지
+youSee,봤습니다 - %s.
+theNamedResidence,%s 거주지
+playerResidence,%s 의 집
+materialIneffective,사용중인 무기의 재질 때문에 효과가 없다.
+successfulBackstab,백스탭 성공
+languagePacified,%e, %s 기술로 비적대화 성공.
+lockpickingSuccess,잠금장치가 철컥 소리를 내며 풀렸다.
+lockpickingFailure,잠금이 풀리지 않았다.
+magicLock,마법적 방법으로 잠겨있다...
+lockpickChance1,이 잠금 장치는 열기 힘들다...
+lockpickChance2,이 잠금 장치를 열 가망이 없다...
+lockpickChance3,이 잠금 장치 수준이 너무 높다...
+buildingNames,"아카토쉬의 사원
+아케이의 사원
+디벨라의 사원
+줄리아노스의 사원
+키나레스의 사원
+마라의 사원
+스텐다르의 사원
+젠의 사원
+까마귀 기사단
+용 기사단
+부엉이 기사단
+촛불 기사단
+화염 기사단
+뿔의 주인
+장미 기사단
+바퀴 기사단
+딱정벌레 기사단
+매 기사단
+메이지 길드
+파이터 길드
+주점
+도서관
+무기 대장장이
+갑옷 대장장이
+연금술사
+은행
+서점
+의류점
+보석상
+전당포"
 lockpickChance,"You doubt your ability to open this lock...
 This lock looks difficult...
 You would be challenged by this lock...
