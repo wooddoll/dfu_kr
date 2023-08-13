@@ -1,232 +1,60 @@
-﻿Key,Value
-0,"STRENGTH[/center]
-Strength governs encumbrance, weapon damage[/left]
-and the ease of increasing strength-related skills.[/left]
-With your strength of %str, you are considered %ark[/left]
-[/pos:x=20,y=0]%dam [/pos:x=40,y=0]modifier is factored into your[/left]
-[/pos:x=40,y=0]hand-to-hand / weapon damage.[/left]
-[/pos:x=20,y=0]%enc [/pos:x=40,y=0]kilograms is your maximum encumbrance.[/left]
-[/end]"
-1,"INTELLIGENCE[/center]
-Intelligence governs total magic potential[/left]
-and the ease of increasing intelligence-related skills.[/left]
-With your intelligence of %int, you are considered %ark.[/left]
-[/pos:x=20,y=0]%spc out of %spt spell points are available for casting.[/left]
-[/end]"
-2,"WILLPOWER[/center]
-Willpower governs resistance to spell effects[/left]
-and the ease of increasing willpower-related skills.[/left]
-With your willpower of %wil, you are considered %ark.[/left]
-[/pos:x=20,y=0]+%mad [/pos:x=40,y=0]modifier is factored into your magical resistance.[/left]
-[/end]"
-3,"AGILITY[/center]
-Agility governs ability to hit a target,[/left]
-to avoid getting hit, and the ease of increasing[/left]
-agility-related skills. With your agility of %agi,[/left]
-you are considered %ark.[/left]
-[/pos:x=20,y=0]%thd [/pos:x=40,y=0]modifier is factored into your combat odds.[/left]
-[/end]"
-4,"ENDURANCE[/center]
-Endurance governs hit points, healing rate,[/left]
-resistance to poisons and diseases, and fatigue.[/left]
-With your endurance of %end, you are considered %ark.[/left]
-[/pos:x=20,y=0]%hea [/pos:x=40,y=0]modifier is factored into the number[/left]
-[/pos:x=40,y=0]of hit points you gain each level.[/left]
-[/pos:x=20,y=0]%hmd [/pos:x=40,y=0]modifier is factored into your healing rate.[/left]
-[/end]"
-5,"PERSONALITY[/center]
-Personality governs the ease of increasing[/left]
-personality-related skills.[/left]
-With your personality of %per, you are considered %ark.[/left]
-[/end]"
-6,"SPEED[/center]
-Speed governs movement rate, missile reloading time,[/left]
-and all speed-related skills.[/left]
-With your speed of %spd, you are considered %ark.[/left]
-[/end]"
-7,"LUCK[/center]
-Luck is a powerful modifier to any action you take.[/left]
-There are no skills in which luck is the primary attribute,[/left]
-but your odds of succeeding in any skill trial is modified[/left]
-by your luck.[/left]
-With your luck of %luc, you are considered %ark.[/left]
-[/end]"
-8,"Training will cost you %a.[/center]
-Do you wish to receive training?[/end]"
-10,I think they have one in %fcn.[/end]
-11,"I have no idea.[/record]
-I honestly couldn't tell you.[/record]
-Don't know, really...[/record]
-Try asking someone else.[/record]
-You tell me.[/end]"
-12,You have no spells in your spellbook.[/end]
-13,"There is no place by[/center]
-that name on your map.[/center]
-[/end]"
-14,You must distribute your bonus points.[/end]
-15,Do you wish to surrender to the city guards?[/end]
-16,You are asking for too many days into the future.[/end]
-17,It is illegal to camp in or near a city.[/end]
-18,You are healthy.[/end]
-19,You have no affiliations.[/end]
-20,There is no soul to release from Azura's Star.[/end]
-21,You cannot train a skill that above 50%.[/end]
-22,"You are in %cn.[/center]
-It is %tim on %dat.[/center]
-In the eyes of the law of %crn,[/center]
-you are %ltn.[/center]
-[/end]"
-23,"You have to wait at least 12 hours before you[/center]
-can undertake more training.[/center]
-[/end]"
-24,"This does not need to be repaired.[/center]
-[/end]"
-25,"You have %gii gold pieces. How many[/center]
-do you wish to drop ?[/center]
-[/input] [/center]
-[/end]"
-26,"You cannot rest for more[/center]
-than 99 hours at a time.[/center]
-[/end]"
-27,"You cannot loiter for more[/center]
-than 3 hours at a time.[/center]
-[/end]"
-28,%hnt[/end]
-29,"%it is broken.[/center]
-[/end]"
-30,"You have no diseases.[/center]
-[/end]"
-31,"Do you wish to travel to[/center]
-%tcn?[/center]
-[/end]"
-32,"The soul is released.[/center]
-[/end]"
-33,"You cannot repair magic items.[/center]
-[/end]"
-34,"You don't have any potion ingredients.[/center]
-[/end]"
-35,"Your reputation have changed as follows:[/left]
-[/left]
-Commoners: [/pos:x=70,y=0]%r1[/left]
-Merchants: [/pos:x=70,y=0]%r2[/left]
-Scholars: [/pos:x=70,y=0]%r3[/left]
-Nobility: [/pos:x=70,y=0]%r4[/left]
-Underworld: [/pos:x=70,y=0]%r5[/left]
-[/end]"
-36,"It has been too long since you sated your[/center]
-need to kill as a vampire. You are unable[/center]
-to regain your strength.[/center]
-[/end]"
-37,"This looks like private property. Do you[/center]
-still want to look through it?[/center]
-[/end]"
-38,"Do you wish to access your wagon[/center]
-and stay in %cn?[/center]
-[/end]"
-100,"You have contracted Witches' Pox.[/center]
-It will slowly deteriorate your strength,[/center]
-endurance, and health until you are cured[/center]
-or dead.[/center]
-[/end]"
-101,"You have contracted the Plague,[/center]
-a very serious, often fatal disease.[/center]
-Very quickly it will spread through[/center]
-your system. Few who contracted it[/center]
-live for more than a few days[/center]
-unless they are cured quickly.[/center]
-[/end]"
-102,"You have contracted Yellow Fever.[/center]
-Your endurance, willpower, and health[/center]
-will decline every day until you find[/center]
-a cure or die.[/center]
-[/end]"
-103,"You have contracted Stomach Rot.[/center]
-It is a permanent condition, unless[/center]
-you are cured, characterized by a[/center]
-slight daily drop in health.[/center]
-[/end]"
-104,"You have contracted Consumption.[/center]
-Your willpower, agility, and strength[/center]
-will slowly leave you, until you are[/center]
-cured or you die.[/center]
-[/end]"
-105,"You have contracted Brain Fever.[/center]
-It is a slow death, as your willpower,[/center]
-your health, even your personality trickle[/center]
-away, day by day. You must either get a[/center]
-cure or face oblivion.[/center]
-[/end]"
-106,"You have contracted Swamp Rot.[/center]
-Every day your willpower, agility,[/center]
-and strength will fall, until you[/center]
-waste away or are cured.[/center]
-[/end]"
-107,"You have contracted Caliron's Curse.[/center]
-Some people have recovered by themselves[/center]
-in a week or two, but their strength,[/center]
-speed, and agility remain stunted. It[/center]
-is best to cure the disease quickly.[/center]
-[/end]"
-108,"You have contracted Cholera,[/center]
-one of the deadliest diseases in[/center]
-Tamriel and always fatal unless help[/center]
-is given very, very quickly.[/center]
-[/end]"
-109,"You have contracted Leprosy[/center]
-and will slowly waste away, a little[/center]
-bit every day, unless you are cured.[/center]
-[/end]"
-110,"You have contracted Wound Rot,[/center]
-which will very slowly erode your[/center]
-strength, endurance, and health[/center]
-until you cure yourself.[/center]
-[/end]"
-111,"You have contracted Red Death,[/center]
-a very serious disease which can[/center]
-quickly decimate a victim's endurance[/center]
-and even destroy personality until[/center]
-a cure is given or the victim[/center]
-dies.[/center]
-[/end]"
-112,"You have contracted Blood Rot,[/center]
-which will adversely affect your[/center]
-health, personality, and willpower[/center]
-over the next several days or weeks[/center]
-unless you cure it. Some have not[/center]
-found a cure and died of this[/center]
-disease.[/center]
-[/end]"
-113,"You have contracted Typhoid Fever,[/center]
-a deadly disease affecting a victim's[/center]
-intelligence, endurance, and health.[/center]
-The condition is permanent, barring[/center]
-a cure or death.[/center]
-[/end]"
-114,"You have contracted Dementia,[/center]
-a hideous disease which slowly robs[/center]
-a victim of his or her intelligence,[/center]
-willpower, and even personality,[/center]
-until he or she is dead or a cure[/center]
-has been applied.[/center]
-[/end]"
-115,"You have contracted Chrondiasis,[/center]
-a magical disease, which will consume[/center]
-your intelligence and innate magicka,[/center]
-day by day. The disease must be cured,[/center]
-or it will eventually kill you.[/center]
-[/end]"
-116,"You have contracted Wizard Fever,[/center]
-a sometimes merely irritating, sometimes[/center]
-devastating magical disease. Some have[/center]
-suffered this and barely noticed it[/center]
-before the fever broke on its own and[/center]
-some have been left feebleminded. Your[/center]
-innate magicka and intelligence will[/center]
-trickle away, day by day, for as[/center]
-long as three weeks.[/center]
-[/end]"
-117,"You have been poisoned.[/center]
-[/end]"
+Key,Value
+0,"근력[/center]\n근력은 무게제한, 무기피해량에 영향을 주며[/left]\n근력 관련 기술 습득량에 영향을 줍니다.[/left]\n%str 의 근력은, %ark 수준입니다.[/left]\n[/pos:x=20,y=0]%dam [/pos:x=40,y=0]수정치가[/left]\n[/pos:x=40,y=0]맨손/무기 피해량에 포함 됩니다.[/left]\n[/pos:x=20,y=0]%enc [/pos:x=40,y=0]킬로그램이 최대 무게제한 수치입니다.[/left]\n[/end]"
+1,"지능[/center]\n지능은 마법 잠재력의 총량에 영향을 주며[/left]\n지능 관련 기술 습득량에 영향을 줍니다.[/left]\n%int 의 지능은, %ark 수준입니다.[/left]\n[/pos:x=20,y=0]%spc - %spt 주문 점수를 캐스팅에 사용 가능합니다.[/left]\n[/end]"
+2,"의지[/center]\n의지력은 주문 효과를 저항하는데 영향을 주며[/left]\n의지 관련 기술의 습득량에 영향을 줍니다.[/left]\n%wil 의 의지력은, %ark 수준입니다.[/left]\n[/pos:x=20,y=0]+%mad [/pos:x=40,y=0]수정치가 마법 저항력에 포함됩니다.[/left]\n[/end]"
+3,"민첩[/center]\n민첩성은 목표를 맞추는데 영향을 주며,[/left]\n피격을 피하고, 민첩 관련 기술의[/left]\n습득량에 영향을 줍니다.[/left]\n%agi 의 민첩은, %ark 수준입니다.[/left]\n[/pos:x=20,y=0]%thd [/pos:x=40,y=0]수정치가 전투시 계산에 포함됩니다.[/left]\n[/end]"
+4,"체력[/center]\n체력은 생명력과, 회복 속도,[/left]\n독과 질병 저항력, 지구력에 영향을 줍니다.[/left]\n%end 의 체력은, %ark 수준입니다.[/left]\n[/pos:x=20,y=0]%hea [/pos:x=40,y=0]수정치가[/left]\n[/pos:x=40,y=0]레벨업시 추가 생명력에[/left]\n[/pos:x=20,y=0]%hmd [/pos:x=40,y=0]가 회복 속도에 추가됩니다.[/left]\n[/end]"
+5,"매력[/center]\n매력은 매력 관련 기술의[/left]\n습득량에 영향을 줍니다.[/left]\n%per 의 매력은, %ark 수준입니다.[/left]\n[/end]"
+6,"속도[/center]\n속도는 이동 속도, 활 재장전 속도,[/left]\n그리고 모든 속도 관련 기술 습득에 영향을 줍니다.[/left]\n%spd 의 속도는, %ark 수준입니다.[/left]\n[/end]"
+7,"행운[/center]\n행운은 모든 행동에 있어서 강력한 변수입니다.[/left]\n행운이 주요 능력치인 기술은 없지만,[/left]\n모든 기술의 성공 확률에 영향을 줍니다.[/left]\n[/left]\n%luc 의 행운은, %ark 수준입니다.[/left]\n[/end]"
+8,"훈련에 %a 가 필요합니다.[/center]\n훈련을 받으시겠습니까?[/end]"
+10,"%fcn 에 하나 있다고 들었습니다.[/end]"
+11,"모르겠습니다.[/record]\n솔직히 말할게 없습니다.[/record]\n아는게 정말 없습니다...[/record]\n다른 사람한테 물어보시죠.[/record]\n모릅니다.[/end]"
+12,"주문책에 아무 주문도 없습니다.[/end]"
+13,"이 이름을 가진 곳이[/center]\n이 지도에 없습니다.[/center]\n[/end]"
+14,"보너스 점수를 모두 분배해야 합니다.[/end]"
+15,"도시 경비병에 투항합니까?[/end]"
+16,"너무 기간이 깁니다.[/end]"
+17,"도시 안 혹은 근처에서 노숙은 불법입니다.[/end]"
+18,"당신은 건강한 상태입니다.[/end]"
+19,"당신은 소속된 곳이 없습니다.[/end]"
+20,"아주라의 별에 영혼이 비어 있습니다.[/end]"
+21,"50% 이상 기술을 훈련 할 수 없습니다.[/end]"
+22,"현재 위치는 %cn 입니다.[/center]\n%dat %tim 입니다.[/center]\n%crn 의 사법권에서,[/center]\n당신은 %ltn 상태 입니다.[/center]\n[/end]"
+23,"훈련을 더 받으려면[/center]\n적어도 12시간은 더 있어야 합니다.[/center]\n[/end]"
+24,"이건 수리할 필요가 없습니다.[/center]\n[/end]"
+25,"금화 %gii 개가 있습니다.[/center]\n몇닢을 떨어트립니까?[/center]\n[/input] [/center]\n[/end]"
+26,"한번에 99시간 이상[/center]\n휴식을 취할 수 없습니다.[/center]\n[/end]"
+27,"한번에 3시간 이상[/center]\n대기를 할 수 없습니다.[/center]\n[/end]"
+28,"%hnt[/end]"
+29,"%it - 부러졌습니다.[/center]\n[/end]"
+30,"감염된 질병이 없습니다.[/center]\n[/end]"
+31,"다음 목적지로 여행 하시겠습니까?[/center]\n%tcn[/center]\n[/end]"
+32,"속박된 영혼이 해방되었습니다.[/center]\n[/end]"
+33,"마법 물품을 수리할 수 없습니다.[/center]\n[/end]"
+34,"가지고 있는 포션 재료가 없습니다.[/center]\n[/end]"
+35,"평판이 다음과 같이 변경 되었습니다:[/left]\n[/left]\n평민: [/pos:x=70,y=0]%r1[/left]\n상인: [/pos:x=70,y=0]%r2[/left]\n학자: [/pos:x=70,y=0]%r3[/left]\n귀족: [/pos:x=70,y=0]%r4[/left]\n무법자: [/pos:x=70,y=0]%r5[/left]\n[/end]"
+36,"흡혈귀로서 살해를 통해 욕구를 충족해야 할[/center]\n시간이 오래 지나버렸습니다.[/center]\n이제 힘을 회복할 수 없습니다.[/center]\n[/end]"
+37,"이것은 사유재산 같습니다.[/center]\n정말로 열어보시겠습니까?[/center]\n[/end]"
+38,"마차를 확인하고[/center]\n%cn 안에 남아있습니까?[/center]\n[/end]"
+100,"마녀 두창에 감염되었습니다.[/center]\n근력, 체력, 생명력이,[/center]\n치료 전까지 점점 감소하며[/center]\n치료하지 않으면 사망합니다.[/center]\n[/end]"
+101,"역병에 감염되었습니다.[/center]\n아주 심각한, 치명적 질병입니다.[/center]\n몸에 매우 빠른 속도로 퍼지며,[/center]\n감염 후 치료하지 않으면,[/center]\n몇일 밖에 살 수 없습니다.[/center]\n[/center]\n[/end]"
+102,"황열에 감염되었습니다.[/center]\n체력, 의지, 생명력이[/center]\n치료 전까지 매일 감소하며[/center]\n치료하지 않으면 사망합니다.[/center]\n[/end]"
+103,"장 부패병에 감염되었습니다.[/center]\n치료하지 않으면, 영구히 지속됩니다.[/center]\n증상은 매일 약간씩 생명력이[/center]\n감소하는 것입니다.[/center]\n[/end]"
+104,"폐결핵에 감염되었습니다.[/center]\n의지, 민첩, 근력이 느리게 감소하며,[/center]\n치료하지 않으면[/center]\n사망합니다.[/center]\n[/end]"
+105,"뇌염에 감염되었습니다.[/center]\n의지력, 생명력, 심지어 매력까지[/center]\n하루하루 빠져나갑니다.[/center]\n치료하지 않으면 죽음을 맞게 됩니다.[/center]\n[/center]\n[/end]"
+106,"늪지병에 감염되었습니다.[/center]\n의지력, 민첩, 근력이,[/center]\n매일 감소하며, 치료하지 않으면[/center]\n죽게 됩니다.[/center]\n[/end]"
+107,"칼리론의 저주에 감염되었습니다.[/center]\n감염된 일부는 1~2주 정도면[/center]\n스스로 회복하기도 하지만, 근력,[/center]\n속도, 민첩이 감소됩니다.[/center]\n빨리 치료하는 것이 최선입니다.[/center]\n[/end]"
+108,"콜레라에 감염되었습니다.[/center]\n탐리엘에서 가장 위험한[/center]\n질병중 하나이며 치료를 받지 못하면,[/center]\n매우, 아주 빨리 죽게 됩니다.[/center]\n[/end]"
+109,"문둥병에 감염되었습니다.[/center]\n치료 받지 않으면,[/center]\n매일 조금씩 몸이 뭉그러집니다.[/center]\n[/end]"
+110,"상처 부패병에 감염되었습니다.[/center]\n근력, 체력, 생명력이 아주 느리게[/center]\n치료하기 전까지 약화됩니다.[/center]\n[/center]\n[/end]"
+111,"적사병에 감염되었습니다.[/center]\n감염자의 체력과 매력을 매우 빨리[/center]\n무력하게 만드는 매우 심각한 병이며,[/center]\n치료받지 않으면 죽게 됩니다.[/center]\n[/center]\n[/center]\n[/end]"
+112,"혈액 부패병에 감염되었습니다.[/center]\n체력, 매력, 의지력에 몇일 혹은 몇주에[/center]\n걸쳐 치료되기 전까지 부정적인 영향을 줍니다.[/center]\n치료를 받지 못하면 사망할 수도 있습니다.[/center]\n[/center]\n[/center]\n[/center]\n[/end]"
+113,"장티푸스에 감염되었습니다.[/center]\n위험한 질병으로 감염되면[/center]\n지능, 체력, 생명력에 영향을 주며[/center]\n치료를 받거나 죽기전까지[/center]\n증상이 계속 유지 됩니다.[/center]\n[/end]"
+114,"치매병에 감염되었습니다.[/center]\n감염자의 지능, 의지, 매력까지[/center]\n좀먹는 무서운 질병으로,[/center]\n치료되거나 죽기 전까지 낫지 않습니다.[/center]\n[/center]\n[/center]\n[/end]"
+115,"시간 질병에 감염되었습니다.[/center]\n마법적인 질병으로[/center]\n지능과 매지카 보유량이 매일 감소하게 됩니다.[/center]\n치료를 받지 않으면 죽게됩니다.[/center]\n[/center]\n[/end]"
+116,"마법사열에 감염되었습니다.[/center]\n약간 아픈 정도일때도 있지만,[/center]\n극히 위험한 마법적인 질병이 되는 경우도[/center]\n있습니다. 감염된 일부는 걸린 줄 도 모르고[/center]\n지나가는 경우도 있지만 일부는 백치가 되는[/center]\n경우도 있습니다.[/center]\n내재 매지카량과 지능이 매일 흘러나가듯[/center]\n감소하며, 이는 3주 가량 지속됩니다.[/center]\n[/center]\n[/end]"
+117,"중독되었습니다.[/center]\n[/end]"
 200,"Why did the %ra put the letters 'T.G.I.F.' on his boots? To remind himself - Toes Go In First![/record]
 Most %ra family trees don't fork![/record]
 What do a %ra and a bottle of port have in common? They're both empty from the neck up![/record]
@@ -487,116 +315,15 @@ The %sub by %an[/record]
 [/left]
 %pp1 %adj %sub %pp2 by %an[/end]"
 255,From where dost thou hail?[/end]
-256,"Someone calls out, ""Come in.""[/record]
-You hear, ""Welcome!""[/record]
-An irritated voice hollers, ""It's open.""[/record]
-Someone says, ""Come on in.""[/record]
-A jolly voice says, ""Welcome to my home.""[/record]
-A voice calls out, ""You may enter.""[/end]"
-260,"""Your presence honors my humble shop[/center]
-%pcn. Although I need twice as[/center]
-much to feed my starving family, l[/center]
-will give it away for %a gold pieces.""[/center]
-[/record]
-""You are a most formidable bargainer,[/center]
-%pct. The usual asking is far[/center]
-more, but I can make a deal with you,[/center]
-and you only. %a gold pieces and[/center]
-it's yours.""[/center]
-[/record]
-""My dear %pcf, for no one, not my[/center]
-closest family or best of friends would[/center]
-I consider selling that for %a[/center]
-gold pieces. For no one that is,[/center]
-except you.""[/center]
-[/record]
-""This is far below a fair price -- I[/center]
-know the market. On the other hand, in[/center]
-certain, very rare cases, it is[/center]
-less important to make a profit. I can[/center]
-take a loss in your case. %a gold[/center]
-pieces, good %pcf, and it's yours.""[/center]
-[/end]"
-261,"""%cpn prides itself on having the[/center]
-lowest prices in %cn. Though you[/center]
-have bargained with me until the sun is[/center]
-low in the sky, I can sell for no less[/center]
-than %a gold pieces.""[/center]
-[/record]
-""You have bargained me long and hard[/center]
-%pcn. Let us be done. I would[/center]
-normally charge more, but for you I[/center]
-only ask %a gold. Truly it is but a[/center]
-pittance.""[/center]
-[/end]"
-262,"""Enough bargaining. My price is[/center]
-%a gold pieces. Take it or leave it.""[/record]
-""That'll be %a gold pieces. You've[/center]
-bartered down to that.""[/center]
-[/record]
-After a long session of haggling...[/center]
-""%a gold pieces is my final offer.""[/center]
-[/end]"
-263,"""Enough of this endless dickering. You are[/center]
-obviously in great need. Normally I would[/center]
-pay far less, but for you I will[/center]
-offer %a gold.""[/center]
-[/record]
-""Listen, I will offer you the absolute[/center]
-maximum I can without losing my shirt.[/center]
-Here is %a gold. Take it and tell all[/center]
-your friends you cheated me.""[/center]
-[/record]
-""I'll give the price I only offer to my[/center]
-closest friends and family. The market[/center]
-value of that is much less, but[/center]
-I think I can give you %a gold.""[/record]
-""Not bad, not bad. I'd give most people[/center]
-less, but for you, %a gold. That's my[/center]
-absolute best offer.[/center]
-[/end]"
-264,"""Maybe you can get more than %a gold[/center]
-for that somewhere, but it's a fair price.[/center]
-And it's my only offer.""[/center]
-[/record]
-""I can give you %a gold pieces. If[/center]
-someone else is offering more, I'd advise[/center]
-you go to him. %a gold is all it's worth[/center]
-to me.""[/center]
-[/record]
-""There's not a big market for those, but[/center]
-I can sell it. I'll give you %a gold[/center]
-pieces, a perfectly fair price.""[/center]
-[/record]
-""Yeah, you're right. Good quality all[/center]
-around. I'll offer a little more than[/center]
-the standard price -- %a gold pieces""[/center]
-[/end]"
-265,"""I have no time for such as you. I will[/center]
-only pay %a for such trash.""[/record]
-""%a gold, kid. Take it or leave it.""[/center]
-[/record]
-""No more clumsy bartering, kid. I'll[/center]
-give you %a gold, and that's the highest[/center]
-I'll go. Period.""[/center]
-[/record]
-""Listen, %ra. You and me both know that[/center]
-ain't worth a piece more than %a gold,[/center]
-right? So let's not pretend. You don't[/center]
-haveta agree to it, but that's what I'll[/center]
-pay for it.""[/center]
-[/end]"
-266,"Incense and soft music soothe your nerves[/center]
-as you cross the threshold. Each item in[/center]
-this shop is carefully mounted and[/center]
-displayed. Not the slightest defect can be[/center]
-detected in any item within.[/center]
-[/end]"
-267,"The shop is better appointed than many.[/center]
-Its wares lie neatly on the shelves.[/center]
-Although not fit for a king, all are[/center]
-skillfully crafted.[/center]
-[/end]"
+256,"누군가 외쳤다, ""들어오십시오.""[/record]\n""어서오세요""[/record]\n짜증이 난 목소리로 외치는 소리가 들렸다, ""장사 합니다!""[/record]\n누군가 ""들어오세요"" 하는 소리를 들었다.[/record]\n기쁜 목소리로 ""제 집에 오신걸 환영합니다."" 라는 소리를 들었다.[/record]\n외치는 목소리로 ""들어와도 됩니다""라는 소리를 들었다.[/end]"
+260,"이 누추한 가게에 와주셔서 감사합니다.[/center]\n%pcn. 제 굶주린 가족을 먹여 살리려면[/center]\n이 두배는 받아야 하지만서도, 그래도[/center]\n%a 골드에 넘겨드리도록 하겠습니다.""[/center]\n[/record]\n""정말 흥정실력이 흉악하십니다, %pct.[/center]\n원래 이 것보다 더 받아야 하지만, 손님[/center]\n한테만 이 가격으로 거래하도록 하겠습니다.[/center]\n%a 골드면 넘겨 드리겠습니다.""[/center]\n[/center]\n[/record]\n""%pcf 분, 저는 누구한테도, 제 가까운 가족[/center]\n혹은 제일 친한 친구한테도 이런[/center]\n%a 골드 같은 가격은 주지 않습니다.[/center]\n손님 한테만 이 가격에 드리지요.""[/center]\n[/center]\n[/record]\n""제가 시장가를 잘 아는데 이건 정상 가격보다[/center]\n정말 싼겁니다. 어떻게 생각해보면 가끔은,[/center]\n이득을 보는게 중요하지 않을때가 있지요.[/center]\n손님께는 제가 손해를 감수하도록 하겠습니다.[/center]\n%a 골드, %pcf 분, 이것만 내시면 됩니다.""[/center]\n[/center]\n[/end]"
+261,"이곳 %cpn 은, %cn 에서 가장 저렴한[/center]\n가격을 자랑합니다.[/center]\n흥정 하시려는게 끝이 안보이지만[/center]\n최대한 깎아서 %a 골드에 드리겠습니다.""[/center]\n[/center]\n[/record]\n""%pcn 분, 정말 끈질기게 흥정하시려는 군요.[/center]\n이제 끝을 냅시다. 원래 이보다는 더 받지만,[/center]\n손님께는 특별히 %a 골드에 모시겠습니다.[/center]\n정말 이정도면 푼돈 이죠.""[/center]\n[/center]\n[/end]"
+262,"흥정은 이제 그만합시다. %a 골드.[/center]\n사던지 말던지 마음대로 하시오.""[/record]\n""%a 골드.[/center]\n맞춰준 값이요.""[/center]\n[/record]\n긴 흥정의 시간후...[/center]\n""%a 골드로 합시다 더이상 안되오.""[/center]\n[/end]"
+263,"이 끝없는 흥정은 이정도로 합시다.[/center]\n정말 급하신가 봅니다.[/center]\n내가 보통 이보다는 적게 주는데,[/center]\n특별히 %a 골드로 합시다.""[/center]\n[/record]\n""자, 내가 손해 안보는 선에서[/center]\n최대한 많이 주려고 하는 겁니다.[/center]\n%a 골드 어떻습니까. 이 정도면 댁 친구들한테[/center]\n가게 털어먹었다고 떠들어도 될거요.""[/center]\n[/record]\n""내 가족과 가장 친한 친구들한테만 주는 가격인데[/center]\n시장가격이야 이것보다는 훨신 낮지만,[/center]\n이 정도면 될 것 같은데[/center]\n%a 골드요.""[/center]\n[/record]\n""물건 괜찮군, 괜찮아. 보통 이것보다는[/center]\n적게 주지만, 댁한텐 특별히 %a 골드로 하십시다.[/center]\n더이상 흥정할 수 없는 최선의 가격이요.[/center]\n[/end]"
+264,"어디 다른 가게에서 %a 골드[/center]\n이상 받을 수 있을지 모르겠습니다만,[/center]\n이정도도 좋은 가격이고, 더이상 깍아 드릴 수 없습니다.""[/center]\n[/record]\n""%a 골드 드릴 수 있겠습니다.[/center]\n누구 다른 사람이 더 줄 수 있다고 하면,[/center]\n거기로 가시는게 좋겠군요.[/center]\n%a 골드가 제쪽에선 최선입니다.""[/center]\n[/record]\n""이런 물건은 그닥 잘 팔리진 않지만,[/center]\n팔 수 는 있습니다. %a 골드 드리지요.[/center]\n이정도면 완전히 공정한 가격입니다.""[/center]\n[/record]\n""예, 맞습니다. 아무리 봐도 좋은 물건 입니다.[/center]\n정상 가격에서 약간 더 드릴 수 있겠습니다.[/center]\n%a 골드""[/center]\n[/end]"
+265,"댁한테 볼 시간 없습니다. 이런 쓰레기는[/center]\n%a 밖에 못줍니다.""[/record]\n""%a 골드다 애송이. 팔던지 말던지.""[/center]\n[/record]\n""어줍잖은 흥정할 생각 마라, 아가야.[/center]\n%a 골드 주마, 이게 최고가니까[/center]\n더이상 흥정할 생각 하지마.""[/center]\n[/record]\n""자, %ra. 그쪽이나 나나 이게 %a 골드 이상은[/center]\n못 받는다는거 알고 있잖습니까?[/center]\n더이상 아닌 척은 하지 맙시다. 물론[/center]\n동의 안해도 상관은 없지만, 난 이렇게 밖에 못줍니다.""[/center]\n[/end]"
+266,"문 안으로 들어서자 좋은 향 냄새와 부드러운[/center]\n음악에 몸의 긴장이 풀립니다. 가게 안의 물품들은[/center]\n세심하게 배치되어 있으며,[/center]\n그 어떤 물건에서도 흠잡을 곳이 없어 보입니다.[/center]\n[/center]\n[/end]"
+267,"이 상점은 다른 곳 보다 물건이 잘 갖춰져 있습니다.[/center]\n상품들이 매대에 가지런히 놓여있습니다.[/center]\n왕실에 진상될 정도는 아니지만,[/center]\n모두 잘만들어진 물건입니다.[/center]\n[/end]"
 268,"The shop is laid out in a practical and[/center]
 straightforward manner. All the items[/center]
 seem to be of adequate construction.[/center]
@@ -612,114 +339,42 @@ chips of shoddy workmanship. A mouse[/center]
 scampers over your feet before burrowing[/center]
 into a nearby sack.[/center]
 [/end]"
-282,"Congratulations! You have purchased a lovely[/center]
-home here in %cn.[/center]
-[/end]"
-283,"Congratulations! You have purchased a[/center]
-sturdy vessel capable of ferrying you[/center]
-anywhere within the Iliac Bay.[/end]"
-284,"You already own a ship. You must sell it[/center]
-before you can buy another.[/center]
-[/end]"
-285,"This is not a port town, %pcn.[/center]
-We have no ships to sell you here.[/center]
-[/end]"
-286,"You already own a house. You must sell it[/center]
-before we can sell you another.[/center]
-[/end]"
+282,"축하합니다 %cn 에 위치한[/center]\n아름다운 집을 구매 했습니다.[/center]\n[/end]"
+283,"축하합니다 일리악 만의 어디로든[/center]\n타고 갈 수 있는 튼튼한 배를 구매 했습니다.[/center]\n[/end]"
+284,"이미 배를 소유하고 있습니다.[/center]\n다른 배를 구매하려면 먼저 기존의 배를 팔아야 합니다.[/center]\n[/end]"
+285,"여긴 항구 도시가 아닙니다, %pcn.[/center]\n여기엔 팔 수 있는 배가 없습니다.[/center]\n[/end]"
+286,"이미 집을 소유하고 있습니다.[/center]\n다른 집을 구매하려면 먼저 기존의 집을 팔아야 합니다.[/center]\n[/end]"
 287,"It is a seller's market for houses. There[/center]
 are none available at this time.[/center]
 [/end]"
-288,"%pcn, you have defaulted[/center]
-on a prior loan with this bank. We will[/center]
-not lend you money under any circumstances.[/center]
-Perhaps you could go to a bank in some[/center]
-place other than %reg and[/center]
-attempt to swindle them.[/center]
-[/end]"
-289,"You already have a loan with this bank.[/center]
-It must be paid off in full before we will[/center]
-grant you another loan.[/center]
-[/end]"
-290,"My sincere apologies, but you do not have[/center]
-that much in your account.[/center]
-[/end]"
-291,"Am I to understand that you would like to[/left]
-deposit all of your letters of credit?[/end]"
-292,"You do not have that much in your account[/center]
-I need to have the full amount of the[/center]
-letter of credit, plus a one per cent fee.[/center]
-[/end]"
-293,"We do not sign letters of credit for less[/center]
-than one hundred gold pieces.[/center]
-[/end]"
-294,"That is very gracious of you, but we do[/center]
-not accept overpayments. Here is your[/center]
-change back. Your loan is now repaid in full.[/center]
-[/end]"
-295,"I am afraid that we cannot loan that much[/center]
-gold to a person of your standing. For you,[/center]
-our limit is %ml gold pieces.[/center]
-[/end]"
-296,"We do not make loans for less than one[/center]
-hundred gold pieces.[/center]
-[/end]"
-297,"I claim bounty for the bank of[/center]
-%reg! You have defaulted on your loan and[/center]
-must now pay the penalty![/center]
-[/end]"
-298,"We would gladly purchase your house for the[/center]
-generous sum of %a gold[/center]
-pieces. All items within the house become[/center]
-property of the bank. Are you prepared to sign[/center]
-over the house now?[/center]
-[/end]"
-299,"Your ship is worth %a gold[/center]
-pieces to us. Be advised that all items on[/center]
-board the ship become property of the bank.[/center]
-Do you want to sell your ship now?[/center]
-[/end]"
-300,"Three primary, three major, and six minor skills[/center]
-must be selected before exiting.[/center]
-[/end]"
-301,"Name your character class before exiting.[/center]
-[/end]"
-302,"Attribute arrow must equal zero before exiting.[/center]
-[/end]"
-303,"Reputation balance must equal zero before exiting.[/center]
-[/end]"
-304,"You cannot select any more advantages.[/center]
-[/end]"
-305,"You cannot select any more disadvantages.[/center]
-[/end]"
-306,"The difficulty of advancing dagger cannot be[/center]
-in the red. Select more advantages to move it[/center]
-up, or more disadvantages to move it down.[/center]
-[/end]"
-307,"Player reflexes determine the overall speed[/center]
-of the game. If you pick VERY HIGH reflexes,[/center]
-the monsters will move and attack quickly,[/center]
-forcing you to be quick with the controls.[/center]
-VERY LOW reflexes means the monsters will[/center]
-move and attack slowly, allowing you to adopt[/center]
-a more cautious, thoughtful play style. Your[/center]
-character will advance a little slower with[/center]
-a lower reflex setting, and will advance a[/center]
-little faster with a higher reflex setting.[/center]
-[/end]"
-349,"You have finished loitering.[/center]
-[/end]"
-350,You are healed.[/end]
-351,You do not need to rest.[/end]
-352,Rest how many hours?[/end]
-353,You wake up.[/end]
-354,There are enemies nearby.[/end]
-355,You cannot sleep now.[/end]
-360,"We were warned about you %pcn.[/center]
-You defaulted on a loan to one of our[/center]
-sister banks. This money will be used[/center]
-to repay that bad debt.[/center]
-[/end]"
+288,"%pcn, 본점의 기존 대출을[/center]\n부도처리 하신 상태입니다. 본점에서는[/center]\n이제 어떠한 상황에서도 대출을 받을 수 없습니다.[/center]\n아니면 %reg 지역이 아닌 다른 지역의 은행으로 가서[/center]\n사기 대출을 해보시던지요.[/center]\n[/center]\n[/end]"
+289,"이미 본점에 기존 대출이 있는 상태입니다.[/center]\n다른 대출을 받으려면 대출을 완전히 상환 해야합니다.[/center]\n[/center]\n[/end]"
+290,"정중히 사과 드립니다만, 고객께선[/center]\n계좌에 그만한 금액이 없으십니다.[/center]\n[/end]"
+291,"현재 보유하신 모든 수표를[/left]\n입금 하시려는 것이 맞습니까?[/end]"
+292,"계좌에 잔액이 부족합니다.[/center]\n수표 인출을 하려면 액면 금액에 추가로[/center]\n1 퍼센트의 수수료가 더 있어야 합니다.[/center]\n[/end]"
+293,"본점에선 100 골드 미만의 금액에 대해선[/center]\n수표 발행을 하고 있지 않습니다.[/center]\n[/end]"
+294,"정말 감사하지만, 초과 상환은[/center]\n받지 않습니다. 여기 남은 잔액 입니다.[/center]\n대출은 완전히 상환되었습니다.[/center]\n[/end]"
+295,"죄송하지만, 고객님의 평판으로는[/center]\n그정도의 골드는 대출해 드릴 수 없습니다.[/center]\n%ml 골드가 대출 한도입니다.[/center]\n[/end]"
+296,"100 골드 미만의 대출은 해드릴 수 없습니다.[/center]\n[/center]\n[/end]"
+297,"%reg 은행의 수배 현상금을 보고 왔다[/center]\n[/center]\n[/end]"
+298,"본 은행에서 귀하의 주택을 넉넉한 금액인[/center]\n%a 골드에 매입하겠습니다.[/center]\n주택 안에 있는 모든 물품은 은행에 귀속됩니다.[/center]\n소유권 이전에 서명하실 준비가 되셨는지요?[/center]\n[/center]\n[/end]"
+299,"고객님의 배는 %a 골드의 가치가 있습니다.[/center]\n거래 후 배 안의 모든 물건이 은행의 소유가[/center]\n되는 점을 주의해 주십시오.[/center]\n배를 판매 하시겠습니까?[/center]\n[/end]"
+300,"주 기술 셋, 부 기술 셋, 보조 기술 여섯[/center]\n을 선택해야만 진행 할 수 있습니다.[/center]\n[/end]"
+301,"직업의 이름을 정해야 진행 할 수 있습니다.[/center]\n[/end]"
+302,"능력치 보너스 포인트가 0이 되어야 진행 할 수 있습니다.[/center]\n[/end]"
+303,"평판 총합이 0이 되어야 진행 할 수 있습니다.[/center]\n[/end]"
+304,"더이상 장점을 선택할 수 없습니다.[/center]\n[/end]"
+305,"더이상 단점을 선택할 수 없습니다.[/center]\n[/end]"
+306,"레벨업 난이도 단검이 붉은 부분에 들어가면[/center]\n안됩니다. 장점을 더 선택해서 위로 올리거나[/center]\n단점을 선택해서 아래로 내리십시오.[/center]\n[/end]"
+307,"플레이어 반응속도는 게임의 전체적인[/center]\n속도를 결정하게 됩니다. 매우 빠른-VERY HIGH,[/center]\n반응 속도를 선택하면 괴물이 더 빠르게,[/center]\n이동하고 공격하게 되며, 그에 맞춰 플레이어도[/center]\n빨리 컨트롤해야 합니다. 매우 느린-VERY LOW,[/center]\n반응 속도를 선택하면 괴물도 더 느리게,[/center]\n이동하고 공격하게 되며, 더 조심스러운,[/center]\n생각하는 플레이를 할 수 있게 됩니다.[/center]\n느린 반응속도를 선택하면 캐릭터 발전이[/center]\n느려지며 빠른 반응속도에는 빨라집니다.[/center]\n[/end]"
+349,"대기 시간이 다 끝났습니다.[/center]\n[/end]"
+350,"회복 되었습니다.[/end]"
+351,"휴식을 취할 필요가 없습니다.[/end]"
+352,"몇시간 동안 쉽니까?[/end]"
+353,"잠에서 깼습니다.[/end]"
+354,"주변에 적이 있습니다.[/end]"
+355,"더 이상 잠을 잘 수 없습니다.[/end]"
+360,"%pcn. 당신에 대해선 익히 알고 있습니다.[/center]\n본점의 자매 은행에서 빌린 대출을 부도내셨으니,[/center]\n이 돈은 악성 부채를 상환하는데 쓰도록[/center]\n하겠습니다.[/center]\n[/end]"
 361,"This demo allows you access to this guild[/center]
 function. Normally you would have to wait[/center]
 until you reached a higher rank in the[/center]
@@ -740,101 +395,29 @@ local software store.[/center]
 400,"The ChildGard feature prevents[/center]
 this quest from running at this time.[/center]
 [/end]"
-401,"Death is not always eternal. For some[/center]
-it is merely a time of waiting. Now is[/center]
-your time of waiting. Be patient and[/center]
-all will be revealed...[/center]
-[/end]"
-402,"I am the Spymaster. I know everything that[/center]
-happens on the Iliac Bay. Others might give[/center]
-you rumors, but my rumors are always true.[/center]
-[/end]"
-403,"Do you want to reset your character's[/center]
-attributes back to their original values?[/center]
-[/end]"
-454,You do not have enough gold.[/end]
-460,"You have not earned a house, %pcn.[/center]
-Only the highest ranking members of the[/center]
-guild are awarded houses.[/center]
-[/end]"
-461,"You have already received your armor for[/center]
-your current rank. When you achieve[/center]
-a higher rank in the order I will[/center]
-give another fine piece of armor.[/center]
-[/end]"
-462,"I have an excellent property for you[/center]
-%pcn! Let me mark it on your map.[/center]
-[/end]"
-463,"I have a fine piece of armor for you.[/center]
-[/end]"
-465,"I see your magicka is low. You sorcerers[/center]
-really need to be more careful.[/center]
-Here, let me recharge you.[/center]
-[/record]
-It is customary for the guild to recharge[/center]
-the magicka of sorcerers.[/center]
-[/record]
-Hmmm. This will not do. We can't have[/center]
-guild sorcerers running around with low[/center]
-magicka. I'll just recharge you.[/center]
-[/end]"
-475,Castle Daggerfall.[/end]
-476,Castle Wayrest.[/end]
-477,Castle Sentinel.[/end]
-480,"There are to be no summonings this day.[/center]
-I would suggest you do a little personal[/center]
-research and to find a day when we perform[/center]
-summonings.[/center]
-[/record]
-We're not summoning this day. It might be[/center]
-a worthwhile use of your time to check in[/center]
-the library at the guild. There are a number[/center]
-of books about Daedra summonings, including[/center]
-the dates appropriate for summoning.[/center]
-[/end]"
-481,"Today is %dat, the day of summoning[/center]
-for %dae. Do you, %pcn, wish[/center]
-to risk you life and very soul by summoning[/center]
-%dae into our mundane world?[/center]
-[/end]"
-482,"You have summoned %dae once.[/center]
-Only a fool would seek to speak with[/center]
-%dae a second time. Go away.[/center]
-[/end]"
-484,"%dae did not deign to grace our world this[/center]
-night. Come back another day if you would speak[/center]
-with a Daedra.[/center]
-[/end]"
-499,"The scrap of parchment shows the location of[/center]
-%map. You record it on your map.[/center]
-[/record]
-A finely drawn vellum reveals the secret[/center]
-location of %map, which you record.[/center]
-[/record]
-A freshly drawn map indicates the long lost[/center]
-location of %map, which you copy down.[/center]
-[/end]"
-500,"Broken potsherds crunch underfoot.[/record]
-You notice a rank odor.[/record]
-You hear a distant, unearthly moan.[/end]"
-501,"You notice orc tracks.[/record]
-Orc tracks cover the ground.[/record]
-Was that an Orcish sigil?[/end]"
-502,"This area looks inhabited.[/record]
-You cross a well-trod path.[/record]
-Horses passed this way recently.[/end]"
-503,"You trip over a broken manacle.[/record]
-Is that smoke in the distance?[/record]
-A bell tolls in the distance.[/end]"
-504,"Blocks of marble lie nearby.[/record]
-You pass a toppled column.[/record]
-A shattered statue rests here.[/end]"
-505,"Piles of dirt are everywhere.[/record]
-Deep ruts score the ground here.[/record]
-You detour around a gaping pit.[/end]"
-506,"A stream gurgles nearby.[/record]
-The air seems cooler here.[/record]
-That almost looked like a path.[/end]"
+401,"죽음이 항상 영원한 것만은 아니다. 누군가에겐[/center]\n그저 기다리는 시간일뿐. 이젠[/center]\n그대가 기다릴 시간이다. 기다린다면[/center]\n알게 될 것이다...[/center]\n[/end]"
+402,"내가 바로 첩보장이오. 일리악 만에서 일어나는[/center]\n모든 일을 알고 있지. 다른 자들은 소문을[/center]\n알려 줄 수 있을지 모르나, 내가 말해주는 소문은 소문이 아니오.[/center]\n[/end]"
+403,"캐릭터의 능력치를 원래 수치로[/center]\n리셋 하시겠습니까?[/center]\n[/end]"
+454,"골드가 충분하지 않습니다.[/end]"
+460,"%pcn, 주택을 지급받을 수 없습니다.[/center]\n길드 최고위 인원만이 집을 지급 받습니다.[/center]\n[/center]\n[/end]"
+461,"이미 현재 직위에 따라 갑옷을[/center]\n이미 지급 받았습니다. 조직내에서[/center]\n더 높은 지위를 얻으면 갑옷의[/center]\n다른 부위를 드리겠습니다.[/center]\n[/end]"
+462,"%pcn 내가 꽤 괜찮은 물건을 봐뒀지[/center]\n위치는 지도에 표시해두겠네.[/center]\n[/end]"
+463,"갑옷 한 부위를 드리겠습니다.[/center]\n[/end]"
+465,"매지카가 낮은 상태군요. 소서러들은[/center]\n이런 상태를 정말 조심해야 합니다.[/center]\n자, 다시 충전시켜 드리겠습니다.[/center]\n[/record]\n소서러들의 매지카를 재충전해주는건[/center]\n길드의 오랜 관습입니다.[/center]\n[/record]\n흐으음. 이러면 안되지요.[/center]\n길드 소서러가 매지카가 적은 상태로 돌아다니다니.[/center]\n바로 재충전 시켜 드리도록 하겠습니다.[/center]\n[/end]"
+475,"대거폴 성채.[/end]"
+476,"웨이레스트 성채.[/end]"
+477,"센티넬 성채.[/end]"
+480,"오늘은 소환이 없을 것이오.[/center]\n어떤 날짜에 소환이 가능한지 개인적으로[/center]\n어느정도 연구를 해볼 것을 추천하오.[/center]\n[/center]\n[/record]\n오늘은 소환을 할 수 없소.[/center]\n길드 도서관을 확인해 보는 것이 좋을 것이오.[/center]\n그곳에 데이드라 소환에 관한 책이 몇권 있고,[/center]\n소환에 적합한 일자가 적힌 책도 있소.[/center]\n[/center]\n[/end]"
+481,"오늘은 %dat 이며,[/center]\n%dae 의 소환이 가능한 날이오.[/center]\n%pcn, 생명과 그 영혼의 위험을 감수 하고[/center]\n이곳 넌으로 %dae 의 소환을 행하겠소?[/center]\n[/end]"
+482,"그대는 이미 %dae 소환을 행했지.[/center]\n오직 어리석은 자 만이 %dae 의 재회를 원하지.[/center]\n돌아가시오.[/center]\n[/end]"
+484,"%dae 께서 오늘밤 우리 세계로의 강림을 거부하셨소.[/center]\n데이드라와의 대화를 원한다면 다른 날 돌아오시오.[/center]\n[/center]\n[/end]"
+499,"양피지 조각에 %map 의[/center]\n위치가 적혀 있습니다. 지도에 옮겨 적었습니다.[/center]\n[/record]\n고급 양피지에 %map 의[/center]\n비밀에 싸였던 위치가 자세히 그려져 있습니다. 위치를 기록했습니다.[/center]\n[/record]\n갓 그려진 지도에 %map 의[/center]\n오랜기간 잊혀졌던 위치가 표기되어 있습니다. 배껴 적었습니다.[/center]\n[/end]"
+500,"발에 조각난 사기조각이 밟힙니다.[/record]\n악취가 납니다.[/record]\n먼 곳에서 이세상 것이 아닌 듯한 고통의 신음이 들립니다.[/end]"
+501,"오크의 흔적을 찾았습니다.[/record]\n오크 흔적이 땅을 뒤덮고 있습니다.[/record]\n오크 문자 처럼 생긴 글자가 보입니다.[/end]"
+502,"이곳은 사람이 살지 않는 것 같습니다.[/record]\n많은 발자국이 있는 길을 마주쳤습니다.[/record]\n최근에 말이 이 길을 지나간 적이 있습니다.[/end]"
+503,"부서진 수갑이 발에 걸렸습니다.[/record]\n멀리서 연기가 나는 것 같습니다.[/record]\n벨소리가 멀리서 들립니다.[/end]"
+504,"대리석 벽돌이 널려 있습니다.[/record]\n석조 원형 기둥을 지나쳤습니다.[/record]\n조각난 석상이 바닥에 있습니다.[/end]"
+505,"사방에 흙더미가 있습니다.[/record]\n바닥에 깊게 파인 바퀴 자국이 있습니다.[/record]\n큰 구덩이를 돌아서 지나쳤습니다.[/end]"
 507,"A rune is scratched in the dirt.[/record]
 You feel a vague sense of unease.[/record]
 You see movement in the underbrush.[/end]"
@@ -928,211 +511,31 @@ A loud rustling startles you.[/end]"
 538,"You smell freshly buried dead.[/record]
 Wagon ruts lead off a ways.[/record]
 White flowers litter the path.[/end]"
-550,"The Thieves Guild bribes the judge,[/center]
-and you are found not guilty.[/center]
-[/end]"
-551,"The Dark Brotherhood bribes the judge,[/center]
-and you are found not guilty.[/center]
-[/end]"
-600,"Well, I had work, but I hired[/center]
-the Fighters Guild to do it.[/record]
-That lousy...someone has been[/center]
-spreading rumors that I need help.[/center]
-I don't need any help in anything.[/record]
-You're too late. I gave the job[/center]
-to some spellsword.[/center]
-[/record]
-Yah, I had work. But the situation[/center]
-has resolved itself. Thanks anyway.[/center]
-[/end]"
-606,"Yes, you are worthy to join the Mages Guild.[/center]
-As an apprentice, you can use the spellmaker,[/center]
-and get training in any of the guild skills.[/center]
-Later, you will become eligible use the library,[/center]
-buy magical items, and even make your own.[/center]
-Are you interested in joining?[/center]
-[/end]"
-611,"I am sad to say that you are ineligible[/center]
-to join the guild.[/center]
-[/center]
-We can only accept members with a certain extant[/center]
-skill in at least one of the magical sciences.[/center]
-[/record]
-I am sad to say that you are ineligible[/center]
-to join the guild.[/center]
-[/center]
-We do not take neophyte magicians. Only scholars[/center]
-who have devoted themselves to at least one of[/center]
-the magical sciences are permitted.[/center]
-[/record]
-I am sad to say that you are ineligible[/center]
-to join the guild.[/center]
-[/center]
-Perhaps if you were to devote some time and effort[/center]
-into bettering yourself in at least one of the[/center]
-six magical sciences, we may reconsider.[/center]
-[/end]"
-612,"I am sad to say that you are ineligible[/center]
-to join the guild.[/center]
-[/center]
-You do not, to be blunt, have the finest[/center]
-reputation amongst members of the intelligentsia.[/center]
-[/record]
-I am sad to say that you are ineligible[/center]
-to join the guild.[/center]
-[/center]
-Your name is familiar to us, and not in a very favorable light, to be quite honest.[/center]
-[/record]
-I am sad to say that you are ineligible[/center]
-to join the guild.[/center]
-[/center]
-Unfortunately, you arrive with a less than[/center]
-sterling reputation, young %ra. You might[/center]
-consider improving that and returning.[/center]
-[/end]"
-666,"Congratulations, %pcn. You have been promoted[/center]
-to the rank of %lev, with all the rights and[/center]
-honors that accompany it. Remember, we do not[/center]
-rest on previous accomplishments in the[/center]
-Brotherhood.[/center]
-[/end]"
-667,"It is my duty to inform you that you have been[/center]
-officially demoted to the rank of %lev.[/center]
-I would remind you, %pcf, that we require[/center]
-our members to work ever harder, not to rest[/center]
-on past accomplishments.[/center]
-[/record]
-I'm sorry to be the one to tell you[/center]
-that you've been demoted, %pcn.[/center]
-[/record]
-The elders are not pleased with[/center]
-you, %pcn. You've been demoted.[/center]
-[/record]
-You have been demoted, %pcn.[/center]
-I'm sorry to be the first one to tell you.[/center]
-[/record]
-Your inadequacy has been noted by the elders,[/center]
-%pcn. They have demoted you.[/center]
-[/record]
-The elders have decided that your incompetence[/center]
-merits a demotion, %pcn.[/center]
-[/record]
-You should not be surprised to hear that the[/center]
-elders have rewarded your inadequacy[/center]
-with a demotion.[/center]
-[/end]"
-668,"%pcn, you have been a disappointment to us[/center]
-lately. You are hereby ineligible to[/center]
-receive any benefits available as a member.[/center]
-Perhaps you will come within the fold again,[/center]
-but for now, you are anathema.[/center]
-[/record]
-You no longer have rights here, %pcn.[/center]
-The elders have decided to expel you.[/center]
-[/record]
-I'm afraid you have not made enough[/center]
-connections to save your reputation.[/center]
-You are henceforth expelled, %pcn[/center]
-[/record]
-All honors and rights are forfeit,[/center]
-%pcn. You have been expelled.[/center]
-[/end]"
-679,"The Fighters Guild provides strong arms and[/center]
-sharp blades for any willing to pay the price.[/center]
-If you want constant action and a steady flow[/center]
-of gold coin, it's the guild for you. It's far[/center]
-better than some Knightly order. Did you you[/center]
-know that they don't even get paid?[/center]
-[/record]
-The Fighters Guild has a reputation for not[/center]
-being very picky about its members. Nothing[/center]
-could be further from the truth. You are the[/center]
-unsavory sort that gives our guild a black[/center]
-eye. Work on that reputation and then we can[/center]
-talk about a guild membership.[/center]
-[/end]"
-680,"Sorry, %ra. We're looking for real[/center]
-warriors at the Fighters Guild. Come back[/center]
-when you've learned something about weaponry, alright?[/center]
-[/end]"
-681,"Yes, you look like the sort of warrior we could[/center]
-use in the Fighters Guild. We offer skills[/center]
-training, special discounts on armor and[/center]
-weapon repairs, and very profitable work[/center]
-assignments. In addition, you always have[/center]
-a place to rest in any Fighters Guild.[/center]
-Are you interested?[/center]
-[/end]"
-684,"Excellent. Welcome to the Fighters Guild,[/center]
-%pcf. Your rank currently is %lev.[/center]
-[/end]"
-686,"Congratulations, %pcf. Because of your[/center]
-outstanding weaponry prowess, we have promoted[/center]
-you to the rank of %lev in the guild.[/center]
-Among other benefits, this increase means[/center]
-cheaper weapon repair and more profitable work[/center]
-assignments.[/center]
-[/end]"
-702,"Your heart is larger than your pocket.[/center]
-You only have %gii gold on you.[/center]
-[/record]
-Sadly, you only have %gii gold on you.[/center]
-[/record]
-You cannot, alas, give more than %gii gold.[/center]
-That is all you have on you right now.[/center]
-[/end]"
-703,"Thank you for your donation. Perhaps %god[/center]
-will look more kindly on your transgressions[/center]
-in the future.[/center]
-[/record]
-Certainly %gdd accepts all donations,[/center]
-but do not expect miracles. That takes more[/center]
-than a pile of gold.[/center]
-[/record]
-I thank you for your donation, but I caution[/center]
-you against thinking that %god is for hire[/center]
-for any sort of transgressor.[/center]
-[/end]"
-705,"You will find that for the next few days[/center]
-Zen has blessed your mercantile skill.[/center]
-[/end]"
-707,"You will find that for the next few days[/center]
-Mara has strengthened your natural wit and charm.[/end]"
-709,"You will find that for the next few days[/center]
-Akatosh has blessed your time for traveling.[/center]
-[/end]"
-710,"You will find that for the next few days[/center]
-Julianos has blessed your intelligence.[/center]
-[/end]"
-712,"You will find that for the next few days[/center]
-Dibella has blessed your luck.[/center]
-[/end]"
-716,"You will find that for the next few days[/center]
-Stendarr has blessed your reputation[/center]
-with the law.[/center]
-[/end]"
-717,"You will find that for the next few days[/center]
-Kynareth has blessed your endurance.[/center]
-[/end]"
-740,"Yes, you are worthy to join the Temple.[/center]
-%fon will embrace you as a member.[/center]
-Are you interested in joining?[/center]
-[/end]"
-744,"Sorry, you are ineligible to join the order.[/center]
-We can only accept members with a certain extant[/center]
-skill in at least one of the skills honored[/center]
-by %god.[/center]
-[/record]
-Sorry, you are ineligible to join the order.[/center]
-Only persons who have devoted themselves to at[/center]
-least one of the skills sacred to %god.[/center]
-[/record]
-Sorry, you are ineligible to join the order.[/center]
-Perhaps if you were to devote some time and effort[/center]
-into bettering yourself in at least one of the[/center]
-skills important to %god,[/center]
-we may reconsider.[/center]
-[/end]"
+550,"도둑 길드에서 재판관에 뇌물을 줬고,[/center]\n무죄가 판결 되었습니다.[/center]\n[/end]"
+551,"다크브라더후드에서 재판관에게 뒷돈을 건넸고,[/center]\n판결은 무죄가 되었습니다.[/center]\n[/end]"
+600,"음, 일이 있긴 했습니다만,[/center]\n파이터 길드에 맡겼습니다.[/record]\n그 입 가벼운... 그 누구가[/center]\n제가 도움이 필요하다고 떠벌렸나 봅니다.[/center]\n아무 도움도 필요 없습니다.[/record]\n너무 늦었습니다. 일은 다른[/center]\n마검사에게 맡겼습니다.[/center]\n[/record]\n아, 일이 있었긴 했습니다만.[/center]\n일이 알아서 풀렸습니다. 어쨌든 고맙군요.[/center]\n[/end]"
+606,"좋습니다, 메이지 길드에 걸맞는 인재이군요.[/center]\n이곳에서 수습생으로 활동하면서, 주문제작을 활용할 수 있고,[/center]\n길드에서 가르치는 기술 교육을 받을 수 있습니다.[/center]\n나중에는, 도서관을 사용할 수 있게되고,[/center]\n마법 물품을 사거나, 직접 만들 수 있게 됩니다.[/center]\n가입에 관심 있습니까?[/center]\n[/end]"
+611,"정말 안타깝지만 길드에 가입할 수 있는[/center]\n조건이 되지 않은 것 같습니다.[/center]\n[/center]\n이곳에선 적어도 하나의 마법 분야 기술에 대해[/center]\n어느 정도 능숙해야만 인원으로 받고 있습니다.[/center]\n[/record]\n정말 안타깝지만 길드에 가입할 수 있는[/center]\n조건이 되지 않은 것 같습니다.[/center]\n[/center]\n우린 마법 초심자는 받지 않습니다.[/center]\n적어도 하나의 마법 분야의 기술에[/center]\n어느 정도 노력을 한 인재만 받습니다.[/center]\n[/record]\n정말 안타깝지만 길드에 가입할 수 있는[/center]\n조건이 되지 않은 것 같습니다.[/center]\n[/center]\n여섯 마법 분야 기술중 적어도 하나에[/center]\n시간과 노력을 바쳐 갈고 닦는다면[/center]\n가입을 다시 고려해 보도록 하겠습니다.[/center]\n[/end]"
+612,"정말 안타깝지만 길드에 가입할 수 있는[/center]\n조건이 되지 않은 것 같습니다.[/center]\n[/center]\n직설적으로 말해서, 학식을 갖춘 자들 사이에[/center]\n댁의 평판이 훌륭한 편이 아닙니다.[/center]\n[/record]\n정말 안타깝지만 길드에 가입할 수 있는[/center]\n조건이 되지 않은 것 같습니다.[/center]\n[/center]\n솔직히 말해 댁의 이름은 잘 알고 있으나, 좋은 이름으로 알려진게 아닙니다.[/center]\n[/record]\n정말 안타깝지만 길드에 가입할 수 있는[/center]\n조건이 되지 않은 것 같습니다.[/center]\n[/center]\n안타깝지만, 댁의 평판이 훌륭한 편이 못됩니다.[/center]\n젊은 %ra 친구.[/center]\n그 점을 개선해서 다시 찾아 주십시오.[/center]\n[/end]"
+666,"축하합니다, %pcn.[/center]\n%lev 진급이 결정되었습니다.[/center]\n그에 걸맞는 특전과 명예가 따르게 됩니다.[/center]\n기억해두십시오, 브라더후드에선[/center]\n과거의 업적에 안주하지 않는다는 것을.[/center]\n[/end]"
+667,"%lev 의 직위로 격하됨을 공식 통보하는 것이[/center]\n제 의무가 되겠습니다.[/center]\n%pcf, 다시 한번 상기시켜 드리자면[/center]\n과거의 성취에 만족하지 않고 더욱 노력하는 것이[/center]\n우리 조직원으로서 요구되는 바임을 알려드리겠습니다.[/center]\n[/record]\n강등을 알려드리게 되어 안타깝습니다.[/center]\n%pcn.[/center]\n[/record]\n원로들께서 실망하셨습니다. %pcn.[/center]\n강등 되었습니다.[/center]\n[/record]\n강등 되었습니다. %pcn.[/center]\n알려드리게 되어 안타깝습니다.[/center]\n[/record]\n당신의 일처리를 원로들께서 아셨습니다.[/center]\n%pcn. 그분들께서 강등을 명하셨습니다.[/center]\n[/record]\n원로들께서 무능력한 공헌에는 강등이 있음을[/center]\n명하셨습니다, %pcn.[/center]\n[/record]\n원로들께서 무능함에 직위의 격하로서 답하셨습니다.[/center]\n이를 마땅히 받아들여야 할 것입니다.[/center]\n[/center]\n[/end]"
+668,"%pcn, 최근 조직에 실망을 주어왔는바.[/center]\n이제부터 조직원으로서 주어지는 혜택에[/center]\n걸맞지 않게 되엇습니다.[/center]\n다시 들어오게 될지도 모르나,[/center]\n지금 당신은, 파문이오.[/center]\n[/record]\n이곳에서 아무것도 할 수 없습니다, %pcn.[/center]\n원로들께서 추방을 결정하셨습니다.[/center]\n[/record]\n평판을 지킬 수 있을 정도의 연줄이[/center]\n없었던 모양입니다.[/center]\n%pcn, 그대는 추방이오.[/center]\n[/record]\n그간 쌓아온 모든 명예와 혜택은 박탈[/center]\n되었습니다, %pcn. 추방임을 아시오.[/center]\n[/end]"
+679,"파이터 길드는 값을 지불한다면 누구에게든[/center]\n잘 무장된 강인한 전사를 파견할 준비가 되어 있지.[/center]\n꾸준히 일을 받아 금화를 벌고 싶다면, 파이터 길드지.[/center]\n기사단 것들 보다 훨씬 낫고 말고. 그거 압니까[/center]\n거기는 일해주고도 돈도 안받는다고 하더군.[/center]\n[/center]\n[/record]\n파이터 길드는 구인하는데 까다롭지 않다는 평판이[/center]\n있지. 실제로도 다르지 않지만. 댁은 파이터 길드조차[/center]\n좋지 않는 눈으로 보는 상태요. 그쪽의 이름값이[/center]\n상태가 좋지 않으니 어떻게 해보고 그 후에야[/center]\n길드 가입을 이야기 해볼 수 있을 것 같소.[/center]\n[/center]\n[/end]"
+680,"%ra, 미안하지만. 파이터 길드에선 진짜 전사를[/center]\n찾고 있는데. 무기에 대해 좀 배우고 난 후에 다시[/center]\n서 봅시다, 알겠소?[/center]\n[/end]"
+681,"좋아, 파이터 길드에서 쓸만한 전사인 것 같군.[/center]\n여기선 기술 훈련과 특별히 할인된 갑옷과 무기 수리,[/center]\n그리고 아주 짭잘한 일거리 알선을 제공하지.[/center]\n추가로 어느 파이터 길드에서든지 무료로[/center]\n잠자리가 제공된다네.[/center]\n관심 있나?[/center]\n[/center]\n[/end]"
+684,"훌륭하군. 파이터 길드에 들어온 걸 환영하네,[/center]\n%pcf. %lev 등급으로 시작하게 되네.[/center]\n[/end]"
+686,"축하하지, %pcf. 뛰어난 무기 기량으로[/center]\n길드에서 %lev 등급으로 승격되었어.[/center]\n기존 혜택에, 추가로 무기 수리가 더 저렴하게[/center]\n제공되고, 더 짭잘한 일거리를 제안 받을 수[/center]\n있을거야.[/center]\n[/center]\n[/end]"
+702,"마음씨가 돈주머니보다 크십니다.[/center]\n%gii 골드 밖에 없으십니다.[/center]\n[/record]\n안타깝지만 가진게 %gii 골드 밖에 없으십니다.[/center]\n[/record]\n%gii 골드 밖에 주실 수 없습니다.[/center]\n그게 그쪽이 가지고 계신 전부입니다.[/center]\n[/end]"
+703,"기부 감사합니다. %god 께서[/center]\n미래의 일탈 행위를 더 관대히 봐주실지도 모르겠습니다.[/center]\n[/center]\n[/record]\n물론 %gdd 에선 기부는 모두 받습니다만,[/center]\n기적을 기대하지는 마십시오. 기적은[/center]\n골드 이상의 것이 필요합니다.[/center]\n[/record]\n기부는 감사합니다만, %god 께서[/center]\n그 어떤 악행을 돈으로서 용서 하는 분이 아니라는 것을[/center]\n상기 시켜 드리고 싶습니다.[/center]\n[/end]"
+705,"젠께서 차후 몇일 간 그대의 상업 기술에[/center]\n축복을 내리실 겁니다.[/center]\n[/end]"
+707,"마라께서 차후 몇일 간 그대의 매력에[/center]\n축복을 내리실 겁니다.[/end]"
+709,"아카토쉬께서 차후 몇일 간 그대의 여행에[/center]\n축복을 내리실 겁니다.[/center]\n[/end]"
+710,"줄리아노스께서 차후 몇일 간 그대의 지능에[/center]\n축복을 내리실 겁니다.[/center]\n[/end]"
+712,"디벨라께서 차후 몇일 간 그대의 행운에[/center]\n축복을 내리실 겁니다.[/center]\n[/end]"
+716,"스텐다르께서 차후 몇일 간 그대의 평판에[/center]\n축복을 내리실 겁니다.[/center]\n[/center]\n[/end]"
+717,"키나레스께서 차후 몇일 간 그대의 체력에[/center]\n축복을 내리실 겁니다.[/center]\n[/end]"
+740,"예, 본 사원에 입당하기 충분한 분인 것 같습니다.[/center]\n%fon 에 들어오실 수 있습니다.[/center]\n가입 하시겠습니까?[/center]\n[/end]"
+744,"죄송합니다만, 기사단에 가입하기엔 부족한 것 같습니다.[/center]\n%god 께서 축복하신 기술들중 적어도 하나에 어느 정도[/center]\n수준이 되시는 분들만 받고 있습니다.[/center]\n[/center]\n[/record]\n죄송합니다만, 기사단에 가입하기엔 부족한 것 같습니다.[/center]\n%god 께서 깊이 보시는 기술들중 적어도 하나에[/center]\n시간과 노력을 쏟으신 분들만 받고 있습니다.[/center]\n[/record]\n죄송합니다만, 기사단에 가입하기엔 부족한 것 같습니다.[/center]\n%god 께서 중요하게 여기시는 기술들중 적어도 하나에[/center]\n시간과 노력을 쏟아 단련하신다면,[/center]\n그 후에 다시 보도록 하시죠.[/center]\n[/center]\n[/end]"
 745,"Sorry, you are ineligible to join the order.[/center]
 You do not, to be blunt, have the finest[/center]
 reputation amongst members of our temple.[/center]
@@ -1282,35 +685,14 @@ Old Man[/record]
 Strumpet[/record]
 Concubine[/record]
 Woodcutter[/end]"
-860,"The Thieves Guild is the official organized collection of burglars, prostitutes, and other thugs in the area. Their headquarters is always secret.[/record]
-Even though freelance whoremasters, pickpockets, catburglars, swindlers, and muggers exist, most professional criminals in Tamriel belong to the Thieves Guild. It is best for the collective whole, and the Guild exerts a certain ... pressure to join.[/record]
-In practically every borough, hamlet, and city-state in Tamriel, the professional criminals have bounded together for mutual protection. That's the Thieves Guild for you.[/record]
-The Thieves Guild is just like any other guild -- it's just that their particular industry is crime. They offer special benefits to their members, bribe officials, and punish non-members. Just like any other guild.[/end]"
-861,"The Mages Guild is the official center of magical study in Tamriel. Most major towns have a bureau of the Guild where they sell spells and magical items, in addition to their studies.[/record]
-The Mages Guild is sorta a school for studying spells. You have to already be pretty decent to get in, but even non-members can use some of their services.[/record]
-The Mages Guild is pretty much what the name suggests. It's an organization for all varieties of spellcasters to get together and teach each other. Used to be that mages were solitary types. No longer.[/record]
-It's just what you think it is. A school and a club for mages who are already pretty good to make them even better. It's been around for, oh, at least a thousand years.[/end]"
-862,"The Dark Brotherhood is a very mysterious organization, often hired as assassins by the more pragmatic rulers. They have a reputation as maniacs and Daedra worshippers, but they must be doing something right. They've been around for thousands of years.[/record]
-A bunch of assassins posing as a religious order.[/record]
-They're more or less the official Assassin's Guild of Tamriel. Most kingdoms have declared them to be an illegal organization, but it's one thing to make a declaration ...[/record]
-They're sorta a religious group, but not like a temple. Imagine a bunch of priests with knives and blood on the mind.[/end]"
-863,"Many orders have their mysteries, but everything about the Blades is shrouded in myth. They are rumored to be the finest warriors in Tamriel, trained for generation after generation, all within the same families. What their goals are is completely unknown.[/record]
-They may not even exist, but if they do, and the legends have a basis in truth, they're the finest warriors in all Tamriel.[/record]
-They're a knightly order alright, but unlike any other order, which defines itself by its allegiance, the Blades' master is unknown. They are a completely enigmatic group.[/record]
-You shouldn't be asking about the Blades so openly. Everyone knows that they're made up of the best fighters in Tamriel, but no one knows the purpose for their existence. That makes them dangerous.[/end]"
-864,"The Necromancers are the dark mirror of the Mages Guild, powerful magicka casters who are masters of the most corruptive and daedric of spells. They are said to be led by a man they call the King of Worms. According to common rumor, he is thousands of years old and not aging at all.[/record]
-It is best not to even talk about the Necromancers. Unlike the Mages Guild, they are devoted to a singular cause. But despite horror stories to the contrary, no one knows what this cause may be.[/record]
-The Necromancers are wizards, like the Mages Guild, but far, far more secretive. Their goals and their activities are whispered about, but no one but a Necromancer knows for certain what they are.[/record]
-There's an old saying that when opposing the Necromancers, you fear what comes after death more than death itself. They are dangerous wizards, and it is best that the virtuous have little to do with them.[/end]"
-865,"The Underking is the old bugbear of childhood stories, said to be the most powerful mage who ever lived. The stories go back to the earliest years of the Septim dynasty. No one, however, doubts the existence of those who call themselves his Agents. The living and the animated dead who say they answer to the Underking are perhaps in the hundreds.[/record]
-The Underking is, well, sort of like a lich. A very powerful, very mysterious ancient lich. Now, where does he live and what does he want? That I can't tell you.[/record]
-According to some stories, the Underking was once a powerful wizard who gave up his heart for some worthy enterprise. The heart disappeared, so the Underking cannot die or really live. But his minions do his bidding with fanatical devotion, supposedly still searching for his heart.[/record]
-The Underking may be nothing more than a myth, but his minions are very real. The common people of Tamriel definitely believe in the Underking, and fear him greatly.[/end]"
-866,"The Fighters Guild is a sophisticated mercenary service. They often hire out adventurers as guards, escorts, and, occasionally, on more covert missions.[/record]
-Just a bunch of guards for hire, nothing mysterious or romantic.[/record]
-The Fighters Guild is just what its name implies -- an order for lances for hire and other mercenaries.[/record]
-The Fighters Guild is where everyone with any gold goes to hire additional guards, escorts, what-have-you. They are absolutely essential for getting things done in %reg.[/end]"
-867,The Order of the Lamp is the knightly order that protects the less combative oriented members of the Mages Guild.[/end]
+860,"도둑 길드는 강도, 창부, 다른 건달들이 모인 조직입니다. 그들의 본부는 아무도 모르죠.[/record]\n길드에 속하지 않은 뚜쟁이, 소매치기, 빈집털이, 사기꾼, 강도들이 있긴 하지만, 탐리엘에서 가장 조직적인 범죄자들은 도둑 길드 소속입니다. 집단의 소속이라는게 이점이 있는데다, 도둑 길드가 가입하라고 어떤... 압박을 주기 때문이지요.[/record]\n사실상 탐리엘의 거의 모든 중소 도시, 마을, 대도시에는 이 전문적인 범죄집단이 서로 보호해주면서 뿌리를 내리고 있다는 겁니다.[/record]\n도둑 길드는 다른 길드와 똑같습니다. 그저 전문이 범죄일뿐인 겁니다. 조직원에게는 특별한 혜택과 관리들에게 뇌물을 찔러넣고, 비 조직원을 처벌하죠. 다른 길드하고 똑같습니다.[/end]"
+861,"메이지 길드는 탐리엘에 있는 마법 연구의 공식적인 중심지입니다. 대부분의 주요 도시에는 길드 지부가 있어서 주문과 마법 물품을 판매하고, 추가로 관련 훈련도 제공합니다.[/record]\n메이지 길드는 마법을 배우는 학교 비슷한 곳입니다. 가입하는 것부터 어느정도 마법을 해야하지만, 가입하지 않아도 이용할 수 있는게 몇몇 있습니다.[/record]\n메이지 길드는 이름 그대로 인 곳입니다. 모든 종류의 주문 사용자들이 모여 서로를 가르치는 조직입니다. 마법사들이 혼자서 연구하던 시절도 있었지만, 이젠 아닙니다.[/record]\n생각 하는 그대로 일겁니다. 원래 마법을 좀 하는 마법사들이 모여서 더 마법을 잘하려고 만든 학교이자 조직이죠. 대충 설립된지 2천년쯤 되었습니다.[/end]"
+862,"다크 브라더후드는 아주 비밀스런 집단으로, 효율적인 것을 좋아하는 군주들이 암살자로 자주 고용하는 집단 입니다. 광적인 데이드라 신봉자들로 유명하지만, 일은 제대로 처리합니다. 수천년 전쯤 부터 있었다고 합니다.[/record]\n종교적 집단으로 위장하고 있는 암살자 조직입니다.[/record]\n탐리엘에서 거의 공식적일 수준으로 잘 알려진 암살자 길드입니다. 거의 모든 왕국에서 불법 집단으로 규정되어 있지만, 말이 규정이지...[/record]\n대충 종교 집단이긴 하지만, 사원하곤 다릅니다. 단검을 들고 피에 대해 명상하는 성직자들을 생각해 보면 됩니다.[/record]"
+863,"대부분의 조직들이 비밀스럽지만, 블레이드는 거의 알려진게 없습니다. 가문이 유지되어 세대에 걸쳐 훈련되는 탐리엘에서 최고의 전사들이라는 소문이 있습니다. 이들의 목적은 아무도 모릅니다.[/record]\n있는지 조차 알수 없고, 만약에 존재하고 그 전설이 사실이라면, 온 탐리엘에서 최고의 전사들일 겁니다.[/record]\n기사단 같은거긴 하지만, 다른 기사단하고는 다르게 충성을 바치는 대상을 아무도 모릅니다. 완전히 수수께끼의 집단입니다.[/record]\n이렇게 대놓고 블레이드에 대해서 물어보시면 안됩니다. 모두들 탐리엘에서 최고의 전사라는건 알지만, 무슨 목적의 조직인지 아무도 모르고, 그게 무서운 점입니다.[/end]"
+864,"네크로맨서들은 메이지 길드의 어두운 정반대 같은건데, 가장 부도덕한 데이드릭 주문의 대가들인 강력한 매지카 사용자들입니다. 땅벌레의 왕으로 알려진 남자가 이끈다고 합니다. 가장 유명한 소문으로는 수천살을 먹은데다 늙지 않는다고 합니다.[/record]\n네크로맨서들에 대해선 말을 안하는게 좋습니다. 메이지 길드와는 다르게 이들은 단 하나의 목적만을 위해 행동합니다. 무서운 이야기가 많지만, 이들의 진정한 목적은 아무도 모릅니다.[/record]\n네크로맨서들은 마법사들이지만 메이지 길드와는 다르게 아주 아주 비밀스럽습니ㄷ. 이들의 목적과 활동은 잘 알려져 있지만, 네크로맨서들에 대해 제대로 아는 이는 아무도 없습니다.[/record]\n오래된 말로 네크로맨서들에게 대들면, 죽음보다 무서운 결말을 무서워해야 한다는 말이 있습니다. 무서운 마법사들이며, 고결함과는 거리가 먼 자들입니다.[/end]"
+865,"언더킹은 어린아이들에게 해주는 이야기에 나오는 괴물 같은 건데, 역사상 가장 강력한 마법사였답니다. 셉팀 왕조의 가장 초기 연대까지 이야기가 올라갈 정도죠. 물론 자칭 언더킹의 사도라는 자들은 그의 존재를 의심치 않는데, 이 언더킹에게 충성을 바친다는 살아있거나 죽어도 움직이는 자들은 수백 정도 뿐일겁니다.[/record]\n언더킹은 리치 같은 겁니다. 아주 강력하고, 아주 비밀스러운 고대 리치죠. 목적이 뭐고 얼마나 오래 된 리치인지는 아무도 모릅니다.[/record]\n들리는 이야기로는, 언더킹은 한때 강력한 마법사로 어떤 위업을 달성하기 위해 자신의 심장을 바쳤다고 합니다. 그 심장이 사라지자, 언더킹은 죽지도 못하지만 그렇다고 제대로 살아있을 수 도 없게 되었고, 광적인 충성을 바치는 부하들만이 남아 그의 심장을 찾고 있다고 합니다.[/record]\n언더킹은 이제 그저 전설속의 존재일지도 모르지만, 그 부하들은 진짜 존재합니다. 탐리엘의 백성이라면 언더킹이 있다고 믿고, 매우 무서워 합니다.[/end]"
+866,"파이터 길드는 용병 업무에 전문화된 곳 입니다. 모험가들을 경비, 경호 임무를 알선하고 그리고 종종 좀 더 비밀을 요하는 임무에도 고용합니다.[/record]\n그저 일 찾는 경비병 들입니다, 비밀도 낭만이 있는 일도 아니죠.[/record]\n파이터 길드는 이름 그대로 일을 찾는 용병 집단입니다.[/record]\n파이터 길드는 경비, 경호, 무슨 일이든간에 골드가 있는 사람이 있는 곳 어디에든 있습니다. %reg 에 뭔가 일이 터져 해결해야한다면 반드시 필요한 사람들입니다.[/end]"
+867,"램프 기사단은 메이지 길드의 구성원 중 전투가 전문이 아닌 자들을 지키기로 결의한 자들이 모인 기사단입니다.[/end]"
 868,Not much is known about the Cabal of the Mages Guild. It is generally supposed that their power comes from summoning great Daedra lords and princes.[/end]
 869,"The Order of Arkay is a religious order dedicated to the worship of Arkay, the God of the Cycle of Birth and Death.[/record]
 That's the temple devoted to Arkay, the God of Birth and Death.[/record]
@@ -1684,1280 +1066,152 @@ I can see through thy legerdemain[/record]
 I am plagued with thoughts inane[/record]
 I only hope I might entertain[/record]
 'Twere lovers and madmen e'er sane?[/end]"
-1000,"%mat %arm [/center]
-%mod to armor rating[/center]
-Condition: %qua[/center]
-Weight: %kg kilograms[/center]
-[/end]"
-1001,"%mat %wep [/center]
-%wdm points of damage[/center]
-Condition: %qua[/center]
-Weight: %kg kilograms[/center]
-[/end]"
-1002,"%mit [/center]
-Condition: %qua[/center]
-Worth: %wth gold[/center]
-Weight: %kg kilograms[/center]
-[/end]"
-1003,"%it[/center]
-Condition: %qua[/center]
-Worth: %wth gold[/center]
-Weight: %kg kilograms[/center]
-[/end]"
-1004,"%it[/center]
-Holding: %hs[/center]
-Condition: %qua[/center]
-Worth: %wth gold[/center]
-Weight: %kg kilograms[/center]
-[/end]"
-1005,"%mat %wep [/center]
-%wdm points of damage[/center]
-Condition: %qua[/center]
-Weight: %kg kilograms[/center]
-Poisoned with %wpn[/end]"
-1006,"%it[/center]
-Condition: %qua[/center]
-Worth: %wth gold[/center]
-Weight: %kg kilograms[/center]
-Containing: %wpn[/end]"
-1007,"%it[/center]
-Worth: %wth gold[/center]
-Weight: %kg kilograms[/center]
-[/end]"
-1008,"%po[/center]
-Worth: %wth gold[/center]
-Weight: %kg kilograms[/center]
-[/end]"
-1009,"%bt by %ba[/center]
-Worth: %wth gold[/center]
-Weight: %kg kilograms[/center]
-[/end]"
-1010,"You are not well and may not survive[/center]
-an extended period of travel. Do you[/center]
-still wish to continue with the fast[/center]
-travel ?[/center]
-[/end]"
-1011,"%wep[/center]
-Weight: %kg kilograms[/center]
-[/end]"
-1012,"%wep [/center]
-%wdm points of damage[/center]
-Condition: %qua[/center]
-Weight: %kg kilograms[/center]
-[/end]"
-1013,"%wep [/center]
-Condition: %qua[/center]
-Weight: %kg kilograms[/center]
-[/end]"
-1014,"%arm [/center]
-%mod to armor rating[/center]
-Condition: %qua[/center]
-Weight: %kg kilograms[/center]
-[/end]"
-1015,"Oghma Infinium[/center]
-Worth: 50000 gold[/center]
-Weight: %kg kilograms[/center]
-[/end]"
-1016,"Item powers:[/left]
-%mpw[/center]
-[/end]"
-1068,"Your class prohibits[/center]
-you from equipping this.[/center]
-[/end]"
-1069,"Are you sure you want to exit the game?[/center]
-[/end]"
-1071,"You drop to the ground, completely exhausted.[/center]
-You awaken one hour later.[/center]
-[/end]"
-1072,"You drop to the ground, completely exhausted.[/center]
-In that state you are easy prey to roaming monsters[/center]
-and never awaken.[/center]
-[/end]"
-1073,"Deed for your house in the region[/center]
-of %hrg in the town of[/center]
-%htwn.[/center]
-[/end]"
-1200,"Paralysis[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Causes target to be paralyzed.[/center]
-Base chance of success is %bch, plus %ach every %clc level(s)[/center]
-of caster's ability. If successful, target will be paralyzed[/center]
-for %bdr round(s), plus %adr[/center]
-additional round(s) every %cld level(s) of the the caster,[/center]
-unless target is cured.""[/center]
-[/end]"
-1201,"Paralysis[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Causes target to be paralyzed.[/center]
-Base chance of success is %bch, plus %ach every %clc level(s)[/center]
-of caster's ability. If successful, target will be paralyzed[/center]
-for %bdr round(s), plus %adr[/center]
-additional round(s) every %cld level(s) of the the caster,[/center]
-unless target is cured.""[/center]
-[/end]"
-1202,"Paralysis[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Causes target to be paralyzed.[/center]
-Base chance of success is %bch, plus %ach every %clc level(s)[/center]
-of caster's ability. If successful, target will be paralyzed[/center]
-for %bdr round(s), plus %adr[/center]
-additional round(s) every %cld level(s) of the the caster,[/center]
-unless target is cured.""[/center]
-[/end]"
-1203,"Continuous Damage -- Health[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Causes target's health to be damaged.[/center]
-Target will lose %1bm to %2bm points of health[/center]
-every round, plus %1am to %2am points for every %clm level(s)[/center]
-of the caster.""[/center]
-[/end]"
-1204,"Continuous Damage -- Health[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Causes target's health to be damaged.[/center]
-Target will lose %1bm to %2bm points of health[/center]
-every round, plus %1am to %2am points for every %clm level(s)[/center]
-of the caster.""[/center]
-[/end]"
-1205,"Continuous Damage -- Fatigue[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Causes target's Fatigue to be damaged.[/center]
-Target will lose %1bm to %2bm points of Fatigue every round,[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster.""[/center]
-[/end]"
-1206,"Continuous Damage -- Spell Points[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Causes target's Spell Points to be damaged.[/center]
-Target will lose %1bm to %2bm Spell Points[/center]
-every round, plus %1am to %2am points for every %clm level(s)[/center]
-of the caster.""[/center]
-[/end]"
-1207,"Create Item[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Creates one useful item of the caster's choosing.[/center]
-Item lasts for %bdr round(s), plus %adr round(s)[/center]
-for every %cld level(s) of the caster.""[/center]
-[/end]"
-1209,"Cure -- Disease[/center]
-Duration: N/A + N/A per 1 level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Cures target of disease.[/center]
-Base chance of success is %bch, plus %ach[/center]
-for every %clc level(s) of the caster.""[/center]
-[/end]"
-1210,"Cure -- Poison[/center]
-Duration: N/A + N/A per 1 level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Cures target of poison.[/center]
-Base chance of success is %bch, plus %ach[/center]
-for every %clc level(s) of the caster.""[/center]
-[/end]"
-1211,"Cure -- Paralysis[/center]
-Duration: N/A + N/A per 1 level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Cures target of paralysis.[/center]
-Base chance of success is %bch, plus %ach[/center]
-for every %clc level(s) of the caster.""[/center]
-[/end]"
-1212,"Damage -- Health[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Causes target's Health to be damaged.[/center]
-Target will lose %1bm to %2bm points of Health every round,[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster.""[/center]
-[/end]"
-1213,"Damage -- Fatigue[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Causes target's Fatigue to be damaged.[/center]
-Target will lose %1bm to %2bm points of Fatigue every round,[/center]
-plus %1am to %2am points for every %clm level(s) of the caster.""[/center]
-[/end]"
-1214,"Damage -- Spell Points[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Causes target's Spell Points to be damaged.[/center]
-Target will lose %1bm to %2bm Spell Points every round,[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster.""[/center]
-[/end]"
-1215,"Disintegrate[/center]
-Duration: N/A + N/A per 1 level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Causes target to disintegrate.[/center]
-Base chance of success is %bch, plus %ach for every %clc level(s)[/center]
-of the caster.""[/center]
-[/end]"
-1216,"Dispel -- Magic[/center]
-Duration: N/A + N/A per N/A level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Causes magic to be dispelled.[/center]
-Base chance of success is %bch,[/center]
-plus %ach for every %clc level(s) of the caster.""[/center]
-[/end]"
-1217,"Dispel -- Undead[/center]
-Duration: N/A + N/A per N/A level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Causes undead to be dispelled.[/center]
-Base chance of success is %bch,[/center]
-plus %ach for every %clc level(s) of the caster.""[/center]
-[/end]"
-1218,"Dispel -- Daedra[/center]
-Duration: N/A + N/A per N/A level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Causes Daedra to be dispelled.[/center]
-Base chance of success is %bch,[/center]
-plus %ach for every %clc level(s) of the caster.""[/center]
-[/end]"
-1219,"Drain -- Strength[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Causes target's Strength to be drained.[/center]
-Target will lose %1bm to %2bm points of Strength[/center]
-every round, plus %1am to %2am points[/center]
-for every %clm level(s) of the caster.""[/center]
-[/end]"
-1220,"Drain -- Intelligence[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Causes target's Intelligence to be drained.[/center]
-Target will lose %1bm to %2bm points of Intelligence[/center]
-every round, plus %1am to %2am points[/center]
-for every %clm level(s) of the caster.""[/center]
-[/end]"
-1221,"Drain -- Willpower[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Causes target's Willpower to be drained.[/center]
-Target will lose %1bm to %2bm points of Willpower[/center]
-every round, plus %1am to %2am points[/center]
-for every %clm level(s) of the caster.""[/center]
-[/end]"
-1222,"Drain -- Agility[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Causes target's Agility to be drained.[/center]
-Target will lose %1bm to %2bm points of Agility[/center]
-every round, plus %1am to %2am points[/center]
-for every %clm level(s) of the caster.""[/center]
-[/end]"
-1223,"Drain -- Endurance[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Causes target's Endurance to be drained.[/center]
-Target will lose %1bm to %2bm points of Endurance[/center]
-every round, plus %1am to %2am points[/center]
-for every %clm level(s) of the caster.""[/center]
-[/end]"
-1224,"Drain -- Speed[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Causes target's Speed to be drained.[/center]
-Target will lose %1bm to %2bm points of Speed[/center]
-every round, plus %1am to %2am points[/center]
-for every %clm level(s) of the caster.""[/center]
-[/end]"
-1225,"Drain -- Personality[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Causes target's Personality to be drained.[/center]
-Target will lose %1bm to %2bm points of Personality[/center]
-every round, plus %1am to %2am points[/center]
-for every %clm level(s) of the caster.""[/center]
-[/end]"
-1226,"Drain -- Luck[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Causes target's Luck to be drained.[/center]
-Target will lose %1bm to %2bm points of Luck[/center]
-every round, plus %1am to %2am points[/center]
-for every %clm level(s) of the caster.""[/center]
-[/end]"
-1227,"Elemental Resistance -- Fire[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Causes target to be resistant to fire.[/center]
-Spell lasts %bdr round(s), plus %adr round(s)[/center]
-per %cld level(s) of caster. Base chance of success[/center]
-is %bch, plus %ach for every %clc level(s) of the caster.[/center]
-Target takes half damage if spell is unsuccessful.""[/center]
-[/end]"
-1228,"Elemental Resistance -- Frost[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Causes target to be resistant to cold.[/center]
-Spell lasts %bdr round(s), plus %adr round(s)[/center]
-per %cld level(s) of caster. Base chance of success[/center]
-is %bch, plus %ach for every %clc level(s) of the caster.[/center]
-Target takes half damage if spell is unsuccessful.""[/center]
-[/end]"
-1229,"Elemental Resistance -- Poison[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Causes target to be resistant to poison.[/center]
-Spell lasts %bdr round(s), plus %adr round(s)[/center]
-per %cld level(s) of caster. Base chance of success[/center]
-is %bch, plus %ach for every %clc level(s) of the caster.[/center]
-Target takes half damage if spell is unsuccessful.""[/center]
-[/end]"
-1230,"Elemental Resistance -- Shock[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Causes target to be resistant to shock.[/center]
-Spell lasts %bdr round(s), plus %adr round(s)[/center]
-per %cld level(s) of caster. Base chance of success[/center]
-is %bch, plus %ach for every %clc level(s) of the caster.[/center]
-Target takes half damage if spell is unsuccessful.""[/center]
-[/end]"
-1231,"Elemental Resistance -- Magic[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Causes target to be resistant to magic.[/center]
-Spell lasts %bdr round(s), plus %adr round(s)[/center]
-per %cld level(s) of caster. Base chance of success[/center]
-is %bch, plus %ach for every %clc level(s) of the caster.[/center]
-Target takes half damage if spell is unsuccessful.""[/center]
-[/end]"
-1232,"Fortify Strength[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Increases target's Strength.[/center]
-Target will gain %1bm to %2bm points of Strength[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster. Increase lasts %bdr round(s), plus %adr round(s)[/center]
-for every %cld level(s) of caster.""[/center]
-[/end]"
-1233,"Fortify Intelligence[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Increases target's Intelligence.[/center]
-Target will gain %1bm to %2bm points of Intelligence[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster. Increase lasts %bdr round(s), plus %adr round(s)[/center]
-for every %cld level(s) of caster.""[/center]
-[/end]"
-1234,"Fortify Willpower[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Increases target's Willpower.[/center]
-Target will gain %1bm to %2bm points of Willpower[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster. Increase lasts %bdr round(s), plus %adr round(s)[/center]
-for every %cld level(s) of caster.""[/center]
-[/end]"
-1235,"Fortify Agility[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Increases target's Agility.[/center]
-Target will gain %1bm to %2bm points of Agility[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster. Increase lasts %bdr round(s), plus %adr round(s)[/center]
-for every %cld level(s) of caster.""[/center]
-[/end]"
-1236,"Fortify Endurance[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Increases target's Endurance.[/center]
-Target will gain %1bm to %2bm points of Endurance[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster. Increase lasts %bdr round(s), plus %adr round(s)[/center]
-for every %cld level(s) of caster.""[/center]
-[/end]"
-1237,"Fortify Personality[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Increases target's Personality.[/center]
-Target will gain %1bm to %2bm points of Personality[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster. Increase lasts %bdr round(s), plus %adr round(s)[/center]
-for every %cld level(s) of caster.""[/center]
-[/end]"
-1238,"Fortify Speed[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Increases target's Speed.[/center]
-Target will gain %1bm to %2bm points of Speed[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster. Increase lasts %bdr round(s), plus %adr round(s)[/center]
-for every %cld level(s) of caster.""[/center]
-[/end]"
-1239,"Fortify Luck[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Increases target's Luck.[/center]
-Target will gain %1bm to %2bm points of Luck[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster. Increase lasts %bdr round(s), plus %adr round(s)[/center]
-for every %cld level(s) of caster.""[/center]
-[/end]"
-1240,"Heal Strength[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Heals target's Strength.[/center]
-Target will heal %1bm to %2bm points of Strength,[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster until target's Strength[/center]
-is at its normal level.""[/center]
-[/end]"
-1241,"Heal Intelligence[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Heals target's Intelligence.[/center]
-Target will heal %1bm to %2bm points of Intelligence,[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster until target's Intelligence[/center]
-is at its normal level.""[/center]
-[/end]"
-1242,"Heal Willpower[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Heals target's Willpower.[/center]
-Target will heal %1bm to %2bm points of Willpower,[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster until target's Willpower[/center]
-is at its normal level.""[/center]
-[/end]"
-1243,"Heal Agility[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Heals target's Agility.[/center]
-Target will heal %1bm to %2bm points of Agility,[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster until target's Agility[/center]
-is at its normal level.""[/center]
-[/end]"
-1244,"Heal Endurance[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Heals target's Endurance.[/center]
-Target will heal %1bm to %2bm points of Endurance,[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster until target's Endurance[/center]
-is at its normal level.""[/center]
-[/end]"
-1245,"Heal Personality[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Heals target's Personality.[/center]
-Target will heal %1bm to %2bm points of Personality,[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster until target's Personality[/center]
-is at its normal level.""[/center]
-[/end]"
-1246,"Heal Speed[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Heals target's Speed.[/center]
-Target will heal %1bm to %2bm points of Speed,[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster until target's Speed[/center]
-is at its normal level.""[/center]
-[/end]"
-1247,"Heal Luck[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Heals target's Luck.[/center]
-Target will heal %1bm to %2bm points of Luck,[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster until target's Luck[/center]
-is at its normal level.""[/center]
-[/end]"
-1248,"Heal Health[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Heals target's Health.[/center]
-Target will heal %1bm to %2bm points of Health,[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster until target's Health[/center]
-is at its normal level.""[/center]
-[/end]"
-1249,"Heal Fatigue[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Heals target's Fatigue.[/center]
-Target will heal %1bm to %2bm points of Fatigue,[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster until target's Fatigue[/center]
-is at its normal level.""[/center]
-[/end]"
-1250,"Transfer Strength[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Transfers target's Strength to caster.[/center]
-Target will transfer %1bm to %2bm points of Strength,[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster.""[/center]
-[/end]"
-1251,"Transfer Intelligence[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Transfers target's Intelligence to caster.[/center]
-Target will transfer %1bm to %2bm points of Intelligence,[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster.""[/center]
-[/end]"
-1252,"Transfer Willpower[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Transfers target's Willpower to caster.[/center]
-Target will transfer %1bm to %2bm points of Willpower,[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster.""[/center]
-[/end]"
-1253,"Transfer Agility[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Transfers target's Agility to caster.[/center]
-Target will transfer %1bm to %2bm points of Agility,[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster.""[/center]
-[/end]"
-1254,"Transfer Endurance[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Transfers target's Endurance to caster.[/center]
-Target will transfer %1bm to %2bm points of Endurance,[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster.""[/center]
-[/end]"
-1255,"Transfer Personality[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Transfers target's Personality to caster.[/center]
-Target will transfer %1bm to %2bm points of Personality,[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster.""[/center]
-[/end]"
-1256,"Transfer Speed[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Transfers target's Speed to caster.[/center]
-Target will transfer %1bm to %2bm points of Speed,[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster.""[/center]
-[/end]"
-1257,"Transfer Luck[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Transfers target's Luck to caster.[/center]
-Target will transfer %1bm to %2bm points of Luck,[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster.""[/center]
-[/end]"
-1258,"Transfer Health[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Transfers target's Health to caster.[/center]
-Target will transfer %1bm to %2bm points of Health,[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster.""[/center]
-[/end]"
-1259,"Transfer Fatigue[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Transfers target's Fatigue to caster.[/center]
-Target will transfer %1bm to %2bm points of Fatigue,[/center]
-plus %1am to %2am points for every %clm level(s)[/center]
-of the caster.""[/center]
-[/end]"
-1260,"Invisibility (Normal)[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Turns target invisible.[/center]
-Target will remain invisible for %bdr round(s),[/center]
-plus %adr round(s) for every %cld level(s) of caster.[/center]
-If target attacks something, invisibility is dispelled.""[/center]
-[/end]"
-1261,"Invisibility (True)[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Turns target invisible. Target will remain invisible for %bdr round(s),[/center]
-plus %adr round(s) for every %cld level(s) of caster.[/center]
-If target attacks something, target will still remain invisible.""[/center]
-[/end]"
-1262,"Levitate[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Target is able to float above the ground.[/center]
-Target will levitate for %bdr round(s), plus %adr round(s)[/center]
-for every %cld level of caster.""[/center]
-[/end]"
-1263,"Light[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Bright light source created around target.[/center]
-Light will remain for %bdr round(s), plus %adr round(s)[/center]
-for every %cld level of caster.""[/center]
-[/end]"
-1264,"Lock[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Locks chest or door to a lock-level equal to the caster's level.[/center]
-Spell lasts %bdr round(s), plus %adr round(s) per %cld level(s)[/center]
-of caster. Base chance of success is %bch,[/center]
-plus %ach for every %clc level(s) of the caster.""[/center]
-[/end]"
-1265,"Open[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Opens chest or door with lock-level equal to or less than[/center]
-the caster's level. Base chance of success is %bch,[/center]
-plus %ach for every %clc level(s) of the caster.""[/center]
-[/end]"
-1266,"Regeneration[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Regenerates target's Health. Target will gain %1bm to %2bm[/center]
-points of Health plus %1am to %2am points[/center]
-for every %clm level(s) of the caster.  Increases continue[/center]
-%bdr round(s), plus %adr round(s) for every[/center]
-%cld level(s) of caster.""[/center]
-[/end]"
-1267,"Silence[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Silences target, making casting spells impossible.[/center]
-Base chance of success is %bch, plus %ach every %clc level(s)[/center]
-of the caster. Silence lasts %bdr round(s), plus[/center]
-%adr round(s) for every %cld level(s) of caster.""[/center]
-[/end]"
-1268,"Spell Absorption[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Target is able to absorb incoming spells, adding their[/center]
-energy to his or her own store. Base chance of success[/center]
-is %bch, plus %ach every %clc level(s) of the caster.[/center]
-Absorption lasts %bdr round(s), plus %adr round(s) for[/center]
-every %cld level(s) of caster.""[/center]
-[/end]"
-1269,"Spell Reflection[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Target is able to reflect incoming spells back at the caster.[/center]
-Base chance of success is %bch, plus %ach every %cld level(s)[/center]
-of the caster. Reflection lasts %bdr round(s), plus %adr round(s)[/center]
-for every %cld level(s) of caster.""[/center]
-[/end]"
-1270,"Spell Resistance[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Target is able to resist incoming spells. Base chance of[/center]
-success is %bch, plus %ach every %clc level(s) of the caster.[/center]
-Resistance lasts %bdr round(s), plus %adr round(s) for[/center]
-every %cld level(s) of caster.""[/center]
-[/end]"
-1271,"Chameleon (Normal)[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Makes target very difficult to see. Target will remain[/center]
-so for %bdr round(s), plus %adr round(s) for every %cld level[/center]
-of caster. If target attacks something,[/center]
-chameleon spell is aborted.""[/center]
-[/end]"
-1272,"Chameleon (True)[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Makes target very difficult to see. Target will remain[/center]
-so for %bdr round(s), plus %adr round(s) for every[/center]
-%cld level(s) of caster.""[/center]
-[/end]"
-1273,"Shadow (Normal)[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Causes target to meld into normal shadows. Target will[/center]
-remain so for %bdr round(s), plus %adr round(s) for every[/center]
-%cld level(s) of caster. If target attacks something,[/center]
-shadow spell is aborted.""[/center]
-[/end]"
-1274,"Shadow (True)[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Causes target to meld into normal shadows. Target will[/center]
-remain so for %bdr round(s), plus %adr round(s) for every[/center]
-%cld level(s) of caster.""[/center]
-[/end]"
-1275,"Slowfall (Normal, Trigger)[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Causes target to fall at half the natural rate,[/center]
-greatly reducing damage. After being cast, spell will[/center]
-remain active for %bdr round(s), plus %adr round(s)[/center]
-for every %cld level(s) of caster, and will trigger when[/center]
-target starts to fall.""[/center]
-[/end]"
-1276,"Free Action[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Cures the target of paralysis for %bdr round(s),[/center]
-plus %adr round(s) for every %cld level(s) of the caster.""[/center]
-[/end]"
-1277,"Jumping[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Causes target to jump at twice natural capacity.[/center]
-After being cast, spell remains active for %bdr round(s),[/center]
-plus %adr round(s) for every %cld level(s) of caster,[/center]
-and will trigger when target jumps.""[/center]
-[/end]"
-1278,"Climbing[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Causes target to climb at twice the natural rate.[/center]
-After being cast, spell remains active for %bdr round(s),[/center]
-plus %adr round(s) for every %cld level(s) of caster,[/center]
-and will trigger when target begins to climb.""[/center]
-[/end]"
-1279,"Morph Self[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Causes target to transform into a creature or object[/center]
-selected by the caster. The base chance of successfully[/center]
-polymorphing is %bch, plus %ach for every %clc level(s) of[/center]
-the caster. Transformation lasts %bdr round(s),[/center]
-plus %adr round(s) for every %cld level(s) of the caster.""[/center]
-[/end]"
-1280,"Morph Other[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Causes target to transform into a creature or object[/center]
-selected by the caster. The base chance of successfully[/center]
-polymorphing is %bch, plus %ach for every %clc level(s) of[/center]
-the caster. Transformation lasts %bdr round(s),[/center]
-plus %adr round(s) for every %cld level(s) of the caster.""[/center]
-[/end]"
-1281,"Morph Item[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Causes target to transform into a creature or object[/center]
-selected by the caster. The base chance of successfully[/center]
-polymorphing is %bch, plus %ach for every %clc level(s) of[/center]
-the caster. Transformation lasts %bdr round(s),[/center]
-plus %adr round(s) for every %cld level(s) of the caster.""[/center]
-[/end]"
-1282,"Water Breathing[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Causes target to be able to breathe normally under water.[/center]
-The base chance of successfully casting is %bch,[/center]
-plus %ach for every %clc level(s) of the caster.[/center]
-Water breathing lasts %bdr round(s), plus %adr round(s)[/center]
-for every %cld level(s) of the caster.""[/center]
-[/end]"
-1283,"Water Walking[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Allows target to walk on water. After being cast,[/center]
-spell will remain active for %bdr round(s), plus %adr round(s)[/center]
-for every %cld level(s) of caster.""[/center]
-[/end]"
-1284,"Diminution[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Causes target to shrink to half its normal size.[/center]
-Base chance for success is %bch, plus an additional[/center]
-%ach for every %clc level(s) of the caster.[/center]
-Dimunization will last for %bdr round(s),[/center]
-plus %adr round(s) for every %cld level(s) of caster.""[/center]
-[/end]"
-1285,"Pacify Animal[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Pacifies any living beast of subhumanoid intelligence.[/center]
-Base chance for success is %bch, plus an additional[/center]
-%ach for every %clc level(s) of the caster.[/center]
-Pacification will last for %bdr round(s), plus %adr round(s)[/center]
-for every %cld level(s) of caster.""[/center]
-[/end]"
-1286,"Pacify Undead[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Pacifies undead creatures. Base chance for success[/center]
-is %bch, plus an additional %ach for every %clc[/center]
-level(s) of the caster. Pacification will last[/center]
-for %bdr round(s), plus %adr round(s)[/center]
-for every %cld level(s) of caster.""[/center]
-[/end]"
-1287,"Pacify Humanoid[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Pacifies humanoid creatures. Base chance for success[/center]
-is %bch, plus an additional %ach for every %clc[/center]
-level(s) of the caster. Pacification will last[/center]
-for %bdr round(s), plus %adr round(s)[/center]
-for every %cld level(s) of caster.""[/center]
-[/end]"
-1288,"Pacify Daedra[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Pacifies Daedra. Base chance for success[/center]
-is %bch, plus an additional %ach for every %clc[/center]
-level(s) of the caster. Pacification will last[/center]
-for %bdr round(s), plus %adr round(s)[/center]
-for every %cld level(s) of caster.""[/center]
-[/end]"
-1289,"Charm[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Raises caster's charm with target, thereby improving[/center]
-caster's reputation. Base chance for success is %bch,[/center]
-plus an additional %ach for every %clc level(s) of the caster.[/center]
-Charm will last for %bdr round(s), plus %adr round(s)[/center]
-for every %cld level(s) of caster.""[/center]
-[/end]"
-1290,"Shield[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: N/A + N/A per N/A level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Creates shield around caster that absorbs the  equivalent[/center]
-of %1bm - %2bm Health Points, plus %1am - %2am Health[/center]
-Points every %clm level(s) of the caster. When shield[/center]
-has taken its maximum damage, or %bdr plus %adr for every[/center]
-%cld level(s) of caster rounds has elapsed,[/center]
-shield will be dispelled.""[/center]
-[/end]"
-1291,"Shield[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: N/A + N/A per N/A level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Creates shield around caster that absorbs the  equivalent[/center]
-of %1bm - %2bm Health Points, plus %1am - %2am Health[/center]
-Points every %clm level(s) of the caster. When shield[/center]
-has taken its maximum damage, or %bdr plus %adr for every[/center]
-%cld level(s) of caster rounds has elapsed,[/center]
-shield will be dispelled.""[/center]
-[/end]"
-1292,"Shield[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: N/A + N/A per N/A level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Creates shield around caster that absorbs the  equivalent[/center]
-of %1bm - %2bm Health Points, plus %1am - %2am Health[/center]
-Points every %clm level(s) of the caster. When shield[/center]
-has taken its maximum damage, or %bdr plus %adr for every[/center]
-%cld level(s) of caster rounds has elapsed,[/center]
-shield will be dispelled.""[/center]
-[/end]"
-1293,"Shield[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: N/A + N/A per N/A level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Creates shield around caster that absorbs the  equivalent[/center]
-of %1bm - %2bm Health Points, plus %1am - %2am Health[/center]
-Points every %clm level(s) of the caster. When shield[/center]
-has taken its maximum damage, or %bdr plus %adr for every[/center]
-%cld level(s) of caster rounds has elapsed,[/center]
-shield will be dispelled.""[/center]
-[/end]"
-1294,"Astral Travel[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Sends caster to the Astral Plane. Chance of success[/center]
-is %bch, plus %ach every %clc level(s) of the caster.[/center]
-Caster will remain in the Astral Plane for %bdr round(s),[/center]
-plus %adr round(s) for every %cld level(s) of caster.""[/center]
-[/end]"
-1295,"Etherealness[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Turns caster ethereal, thus able to walk through[/center]
-walls. Chance of success is %bch, plus %ach every[/center]
-%clc level(s) of the caster. Caster will remain[/center]
-ethereal for %bdr round(s), plus %adr round(s) for[/center]
-every %cld level(s) of caster.""[/center]
-[/end]"
-1296,"Detect Magic[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Caster is able to detect all magic in a 30' cone[/center]
-projected from caster. Chance of success is %bch,[/center]
-plus %ach every %cld level(s) of the caster. Spell[/center]
-will remain active for %bdr round(s), plus %adr round(s)[/center]
-for every %cld level(s) of caster.""[/center]
-[/end]"
-1297,"Detect Enemy[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Caster is able to detect all enemies in a 30' cone[/center]
-projected from caster. Chance of success is %bch,[/center]
-plus %ach every %cld level(s) of the caster. Spell[/center]
-will remain active for %bdr round(s), plus %adr round(s)[/center]
-for every %cld level(s) of caster.""[/center]
-[/end]"
-1298,"Detect Treasure[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Caster is able to detect all treasure in a 30' cone[/center]
-projected from caster. Chance of success is %bch,[/center]
-plus %ach every %cld level(s) of the caster. Spell[/center]
-will remain active for %bdr round(s), plus %adr round(s)[/center]
-for every %cld level(s) of caster.""[/center]
-[/end]"
-1299,"Identify[/center]
-Duration: N/A + N/A per N/A level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Identifies the target of the spell. Chance of[/center]
-success is %bch, plus %ach every %clc level(s)[/center]
-of the caster.""[/center]
-[/end]"
-1300,"Wizard Sight[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Allows caster's vision to travel separately from[/center]
-his or her body. Chance of success is %bch, plus[/center]
-%ach every %clc level(s) of the caster. Spell will[/center]
-last for %bdr round(s), plus %adr round(s) for[/center]
-every %cld level(s) of caster.""[/center]
-[/end]"
-1301,"Darkness[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Darkness created around target. Spell will remain[/center]
-for %bdr round(s), plus %adr round(s) for every[/center]
-%cld level(s) of caster.""[/center]
-[/end]"
-1302,"Teleport[/center]
-Duration: N/A + N/A per N/A level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Teleports caster to a chosen location. The caster[/center]
-must cast the spell in the designated location initially,[/center]
-then will be able to teleport there later. Each casting[/center]
-will allow the caster to change the target location of[/center]
-the spell. Chance of success is %bch, plus %ach every[/center]
-%cld level(s) of the caster.""[/center]
-[/end]"
-1303,"Soul Trap[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""After death, target's spell becomes trapped in any[/center]
-receptacle of the caster indefinitely. Target's body must[/center]
-die within %bdr round(s), plus %adr round(s)[/center]
-per %cld level(s)[/center]
-of the caster after being ensorcelled.[/center]
-The chance of successfully trapping a soul is %bch, plus[/center]
-%ach every %cld level(s) of the caster""[/center]
-[/end]"
-1304,"Telekinesis[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: N/A + N/A per N/A level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Telekinesis allows the caster to move objects at[/center]
-a distance, by mental exertion. The weight of objects[/center]
-that can be moved is %1bm - %2bm kg plus %1am - %2am[/center]
-kilos per %clm level(s) of the caster.""[/center]
-[/end]"
-1305,"Comprehend Languages[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: %bch + %ach per %clc level(s)[/center]
-Magnitude: N/A + N/A per N/A level(s)[/center]
-""Caster can comprehend any written or spoken tongue[/center]
-so long as the spell is active. The spell lasts for[/center]
-%bdr round(s), plus %adr round(s) per %cld[/center]
-level(s) of the caster.""[/center]
-[/end]"
-1306,"Intensify Fire[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: N/A + N/A per N/A level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Caster may intensify the light of a normal fire.[/center]
-Light may be intensified up to %1bm to %2bm candle(s)[/center]
-plus %1am to %2am candle(s) per %clm level(s) of the[/center]
-caster. Spell lasts %bdr round(s), plus %adr round(s)[/center]
-per %cld level(s) of the caster.""[/center]
-[/end]"
-1307,"Diminish Fire[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: N/A + N/A per N/A level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Caster may dim the light of a normal fire.[/center]
-Light may be diminished by %1bm to %2bm candle(s)[/center]
-plus %1am to %2am candle(s) per %clm level(s) of the[/center]
-caster. Spell lasts %bdr round(s), plus %adr round(s)[/center]
-per %cld level(s) of the caster.""[/center]
-[/end]"
-1308,"Wall of Stone[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: N/A + N/A per N/A level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Caster creates a wall of stone, %1bm to %2bm square meters[/center]
-for every %clm level(s) of the caster. Wall lasts %bdr[/center]
-round(s) plus %adr additional round(s) for every %cld[/center]
-level(s) of the caster.""[/center]
-[/end]"
-1309,"Wall of Fire[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: N/A + N/A per N/A level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Caster creates a wall of fire, %1bm to %2bm square meters[/center]
-for every %clm level(s) of the caster. Wall lasts %bdr[/center]
-round(s) plus %adr additional round(s) for every %cld[/center]
-level(s) of the caster.""[/center]
-[/end]"
-1310,"Wall of Frost[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: N/A + N/A per N/A level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Caster creates a wall of ice, %1bm to %2bm square meters[/center]
-for every %clm level(s) of the caster. Wall lasts %bdr[/center]
-round(s) plus %adr additional round(s) for every %cld[/center]
-level(s) of the caster.""[/center]
-[/end]"
-1311,"Wall of Poison[/center]
-Duration: %bdr + %adr per %cld level(s)[/center]
-Chance: N/A + N/A per N/A level(s)[/center]
-Magnitude: %1bm - %2bm + %1am - %2am[/center]
-per %clm level(s)[/center]
-""Caster creates a wall of poison gas, %1bm to %2bm square[/center]
-meters for every %clm level(s) of the caster. Wall lasts[/center]
-%bdr round(s) plus %adr additional round(s) for every[/center]
-%cld level(s) of the caster.""[/center]
-[/end]"
-1350,"You have already picked an[/center]
-advantage or disadvantage[/center]
-than conflicts with this one.[/center]
-[/end]"
-1360,"Alteration refers to the School of Alteration,[/center]
-one of the six avenues of magical study. This[/center]
-school is concerned with magicka's ability to[/center]
-change the very structure and composition of[/center]
-objects. Slowfalling and Shield are two classic[/center]
-Alteration spells.[/center]
-[/end]"
-1361,"Archery is the skill governing one's ability[/center]
-to hit targets and cause damage using a bow[/center]
-and arrow.[/center]
-[/end]"
-1362,"Axe is the skill automatically checked whenever[/center]
-one uses a battleaxe or a waraxe on a target.[/center]
-[/end]"
-1363,"Backstabbing is a skill checked whenever a[/center]
-target is struck from behind. It is easier[/center]
-for a person proficient at this skill to hit[/center]
-a target from behind. It is also probable[/center]
-that more damage will be dealt with a[/center]
-well-delivered backstab.[/center]
-[/end]"
-1364,"Blunt Weapon is a skill checked whenever one[/center]
-strikes a target with a heavy, blunt weapon[/center]
-such as a mace or a staff. Proficient Blunt[/center]
-Weapon specialists have a greater chance of[/center]
-hitting and cause more damage with each blow.[/center]
-[/end]"
-1365,"Centaurian is a language skill checked[/center]
-whenever one tries to talk with a Centaur.[/center]
-[/end]"
-1366,"Climbing is a skill checked whenever one[/center]
-attempts to scale a wall or a steep incline.[/center]
-It is continually checked until one is on[/center]
-level ground again.[/center]
-[/end]"
-1367,"Critical Striking is a skill checked whenever[/center]
-one has successfully struck a target. A target[/center]
-that receives a successful Critical Strike[/center]
-suffers withering, often fatal, additional[/center]
-damage.[/center]
-[/end]"
-1368,"Daedric is a language skill checked whenever[/center]
-one attempts to speak with a Daedra, such as[/center]
-a Fire Daedra or a Daedra Lord.[/center]
-[/end]"
-1369,"Destruction refers to the School of[/center]
-Destruction, one of the six formal avenues[/center]
-of magical study. Destruction spells are[/center]
-those with a primary purpose of causing[/center]
-damage to a target, such as Fireball or[/center]
-Toxic Cloud.[/center]
-[/end]"
-1370,"Disguise is a skill automatically checked[/center]
-whenever one attempts either to infiltrate a[/center]
-hostile environment or to secrete items away[/center]
-from prying eyes.[/center]
-[/end]"
-1371,"Dodging is a skill checked before one[/center]
-is struck by an enemy's weapon or spell.[/center]
-[/end]"
+1000,"%mat %arm [/center]\n방어: %mod[/center]\n상태: %qua[/center]\n무게: %kg 킬로그램[/center]\n[/end]"
+1001,"%mat %wep [/center]\n피해: %wdm[/center]\n상태: %qua[/center]\n무게: %kg 킬로그램[/center]\n[/end]"
+1002,"%mit [/center]\n상태: %qua[/center]\n가치: %wth 골드[/center]\n무게: %kg 킬로그램[/center]\n[/end]"
+1003,"%it[/center]\n상태: %qua[/center]\n가치: %wth 골드[/center]\n무게: %kg 킬로그램[/center]\n[/end]"
+1004,"%it[/center]\n속박: %hs[/center]\n상태: %qua[/center]\n가치: %wth 골드[/center]\n무게: %kg 킬로그램[/center]\n[/end]"
+1005,"%mat %wep [/center]\n피해: %wdm[/center]\n상태: %qua[/center]\n무게: %kg kilograms[/center]\n독: %wpn[/end]"
+1006,"%it[/center]\n상태: %qua[/center]\n가치: %wth 골드[/center]\n무게: %kg 킬로그램[/center]\n내용물: %wpn[/end]"
+1007,"%it[/center]\n가치: %wth 골드[/center]\n무게: %kg 킬로그램[/center]\n[/end]"
+1008,"%po[/center]\n가치: %wth 무게[/center]\n무게: %kg 킬로그램[/center]\n[/end]"
+1009,"%ba의 %bt[/center]\n가치: %wth 골드[/center]\n무게: %kg 킬로그램[/center]\n[/end]"
+1010,"몸 상태가 좋지 않기 때문에 장기간[/center]\n여행시 생존하지 못할 수도 있습니다.[/center]\n그래도 빠른 이동을 하시겠습니까?[/center]\n[/center]\n[/end]"
+1011,"%wep[/center]\n무게: %kg 킬로그램[/center]\n[/end]"
+1012,"%wep [/center]\n피해: %wdm[/center]\n상태: %qua[/center]\n무게: %kg 킬로그램[/center]\n[/end]"
+1013,"%wep [/center]\n상태: %qua[/center]\n무게: %kg 킬로그램[/center]\n[/end]"
+1014,"%arm [/center]\n방어: %mod[/center]\n상태: %qua[/center]\n무게: %kg 킬로그램[/center]\n[/end]"
+1015,"오그마 인피니움[/center]\n가치: 50000 골드[/center]\n무게: %kg 킬로그램[/center]\n[/end]"
+1016,"물품 마법:[/left]\n%mpw[/center]\n[/end]"
+1068,"직업 제한 때문에[/center]\n장비 할 수 없습니다.[/center]\n[/end]"
+1069,"정말 게임을 종료합니까?[/center]\n[/end]"
+1071,"완전히 지쳐서, 바닥에 쓰러졌습니다.[/center]\n한 시간 후 깨어납니다.[/center]\n[/end]"
+1072,"완전히 지쳐서, 바닥에 쓰러졌습니다.[/center]\n이 상태에선 배회하는 괴물의 손쉬운[/center]\n먹이감이 되어 당신은 일어나지 못합니다.[/center]\n[/end]"
+1073,"당신의 집 문서[/center]\n%hrg 지역[/center]\n%htwn 마을[/center]\n[/end]"
+1200,"마비[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %cld 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표를 마비시킵니다.[/center]\n기본 확률 %bch, 시전자 %clc 레벨 마다 %ach 추가[/center]\n성공시 목표가 %bdr 라운드,[/center]\n시전자 %cld 레벨 마다[/center]\n%adr 라운드 동안[/center]\n치료 되지 않는 한 마비 됩니다.""[/center]\n[/center]\n[/end]"
+1201,"마비[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %cld 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표를 마비시킵니다.[/center]\n기본 확률 %bch, 시전자 %clc 레벨 마다 %ach 추가[/center]\n성공시 목표가 %bdr 라운드,[/center]\n시전자 %cld 레벨 마다[/center]\n%adr 라운드 동안[/center]\n치료 되지 않는 한 마비 됩니다.""[/center]\n[/center]\n[/end]"
+1202,"마비[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %cld 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표를 마비시킵니다.[/center]\n기본 확률 %bch, 시전자 %clc 레벨 마다 %ach 추가[/center]\n성공시 목표가 %bdr 라운드,[/center]\n시전자 %cld 레벨 마다[/center]\n%adr 라운드 동안[/center]\n치료 되지 않는 한 마비 됩니다.""[/center]\n[/center]\n[/end]"
+1203,"지속 피해 -- 생명력[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 생명력에 피해를 줍니다.[/center]\n대상은 %1bm 에서 %2bm 의 생명력을[/center]\n라운드 마다 잃으며,[/center]\n추가로 시전자 %clm 레벨 마다[/center]\n%1am to %2am 의 생명력을 더 잃습니다.[/center]\n[/end]"
+1204,"지속 피해 -- 생명력[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 생명력에 피해를 줍니다.[/center]\n대상은 %1bm 에서 %2bm 의 생명력을[/center]\n라운드 마다 잃으며,[/center]\n추가로 시전자 %clm 레벨 마다[/center]\n%1am to %2am 의 생명력을 더 잃습니다.[/center]\n[/end]"
+1205,"지속 피해 -- 지구력[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 지구력에 피해를 줍니다.[/center]\n대상은 %1bm 에서 %2bm 의 지구력을[/center]\n라운드 마다 잃으며,[/center]\n추가로 시전자 %clm 레벨 마다[/center]\n%1am to %2am 의 지구력을 더 잃습니다.[/center]\n[/end]"
+1206,"지속 피해 -- 주문 점수[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 주문 점수에 피해를 줍니다.[/center]\n대상은 %1bm 에서 %2bm 의 주문 점수를[/center]\n라운드 마다 잃으며,[/center]\n추가로 시전자 %clm 레벨 마다[/center]\n%1am to %2am 의 주문 점수를 더 잃습니다.[/center]\n[/end]"
+1207,"물품 생성[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""시전자가 선택한 유용한 물품을 만들어 냅니다.[/center]\n물건은 %bdr 라운드 동안 유지되며, 추가로[/center]\n시전자 %cld 레벨 마다 %adr 더 유지됩니다.""[/center]\n[/end]"
+1209,"치유 -- 질병[/center]\n시간: 해당 없음[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""목표의 질병을 치료 합니다.[/center]\n기본 확률 %bch, 시전자 %clc 레벨 마다[/center]\n%ach 확률이 추가됩니다.""[/center]\n[/end]"
+1210,"치유 -- 독[/center]\n시간: 해당 없음[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""목표의 중독을 치료 합니다.[/center]\n기본 확률 %bch, 시전자 %clc 레벨 마다[/center]\n%ach 확률이 추가됩니다.""[/center]\n[/end]"
+1211,"치유 -- 마비[/center]\n시간: 해당 없음[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""목표의 마비를 치료 합니다.[/center]\n기본 확률 %bch, 시전자 %clc 레벨 마다[/center]\n%ach 확률이 추가됩니다.""[/center]\n[/end]"
+1212,"피해 -- 생명력[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 생명력에 피해를 줍니다.[/center]\n대상이 라운드 마다 %1bm 에서 %2bm 의[/center]\n생명력을 잃으며, 추가로 시전자 %clm 레벨 당[/center]\n%1am 에서 %2am 의[/center]\n생명력을 매 라운드 마다 잃습니다.""[/center]\n[/end]"
+1213,"피해 -- 지구력[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 지구력에 피해를 줍니다.[/center]\n대상이 라운드 마다 %1bm 에서 %2bm 의[/center]\n지구력을 잃으며, 추가로 시전자 %clm 레벨 당[/center]\n%1am 에서 %2am 의[/center]\n지구력을 매 라운드 마다 잃습니다.""[/center]\n[/end]"
+1214,"피해 -- 주문 점수[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 주문 점수에 피해를 줍니다.[/center]\n대상이 라운드 마다 %1bm 에서 %2bm 의[/center]\n주문 점수를 잃으며, 추가로 시전자 %clm 레벨 당[/center]\n%1am 에서 %2am 의[/center]\n주문 점수를 매 라운드 마다 잃습니다.""[/center]\n[/end]"
+1215,"분해[/center]\n시간: 해당 없음[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""목표를 분해합니다.[/center]\n기본 성공 확률 %bch,[/center]\n시전자 %clc 레벨 마다 %ach 추가""[/center]\n[/end]"
+1216,"디스펠 -- 마법[/center]\n시간: 해당 없음[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""마법을 해제합니다.[/center]\n기본 확률은 %bch,[/center]\n시전자 %clc 레벨 마다 %ach 추가.""[/center]\n[/end]"
+1217,"디스펠 -- 언데드[/center]\n시간: 해당 없음[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""언데드를 디스펠합니다.[/center]\n기본 확률은 %bch,[/center]\n시전자 %clc 레벨 마다 %ach 추가.""[/center]\n[/end]"
+1218,"디스펠 -- 데이드라[/center]\n시간: 해당 없음[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""데이드라를 디스펠 합니다.[/center]\n기본 확률은 %bch,[/center]\n시전자 %clc 레벨 마다 %ach 추가.""[/center]\n[/end]"
+1219,"감쇄 -- 근력[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 근력을 줄입니다.[/center]\n대상이 라운드 당 %1bm 에서 %2bm 의 근력을[/center]\n감쇄 당하며, 추가로 시전자 %clm 레벨 마다[/center]\n%1am 에서 %2am 의 근력을 더 잃습니다.""[/center]\n[/center]\n[/end]"
+1220,"감쇄 -- 지능[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 지능을 줄입니다.[/center]\n대상이 라운드 당 %1bm 에서 %2bm 의 지능을[/center]\n감쇄 당하며, 추가로 시전자 %clm 레벨 마다[/center]\n%1am 에서 %2am 의 지능을 더 잃습니다.""[/center]\n[/center]\n[/end]"
+1221,"감쇄 -- 의지[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 의지력을 줄입니다.[/center]\n대상이 라운드 당 %1bm 에서 %2bm 의 의지력을[/center]\n감쇄 당하며, 추가로 시전자 %clm 레벨 마다[/center]\n%1am 에서 %2am 의 의지력을 더 잃습니다.""[/center]\n[/center]\n[/end]"
+1222,"감쇄 -- 민첩[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 민첩성을 줄입니다.[/center]\n대상이 라운드 당 %1bm 에서 %2bm 의 민첩성을[/center]\n감쇄 당하며, 추가로 시전자 %clm 레벨 마다[/center]\n%1am 에서 %2am 의 민첩성을 더 잃습니다.""[/center]\n[/center]\n[/end]"
+1223,"감쇄 -- 체력[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 체력을 줄입니다.[/center]\n대상이 라운드 당 %1bm 에서 %2bm 의 체력을[/center]\n감쇄 당하며, 추가로 시전자 %clm 레벨 마다[/center]\n%1am 에서 %2am 의 체력을 더 잃습니다.""[/center]\n[/center]\n[/end]"
+1224,"감쇄 -- 속도[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 속도를 줄입니다.[/center]\n대상이 라운드 당 %1bm 에서 %2bm 의 속도를[/center]\n감쇄 당하며, 추가로 시전자 %clm 레벨 마다[/center]\n%1am 에서 %2am 의 속도를 더 잃습니다.""[/center]\n[/center]\n[/end]"
+1225,"감쇄 -- 매력[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 매력을 줄입니다.[/center]\n대상이 라운드 당 %1bm 에서 %2bm 의 매력을[/center]\n감쇄 당하며, 추가로 시전자 %clm 레벨 마다[/center]\n%1am 에서 %2am 의 매력을 더 잃습니다.""[/center]\n[/center]\n[/end]"
+1226,"감쇄 -- 행운[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 행운을 줄입니다.[/center]\n대상이 라운드 당 %1bm 에서 %2bm 의 행운을[/center]\n감쇄 당하며, 추가로 시전자 %clm 레벨 마다[/center]\n%1am 에서 %2am 의 행운을 더 잃습니다.""[/center]\n[/center]\n[/end]"
+1227,"원소 저항 -- 화염[/center]\n기간: %bdr + %clc 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""대상에 불에 대한 저향력을 줍니다.[/center]\n주문이 %bdr 라운드 동안 지속되며,[/center]\n시전자 %cld 레벨 당 %adr 라운드가 추가로 지속됩니다.[/center]\n기본 성공 확률은 %bch, 시전자 %clc 레벨 마다[/center]\n%ach 가 추가됩니다. 체크 실패시 절반의 피해를 받습니다.""[/center]\n[/end]"
+1228,"원소 저항 -- 냉기[/center]\n기간: %bdr + %clc 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""대상에 냉기에 대한 저향력을 줍니다.[/center]\n주문이 %bdr 라운드 동안 지속되며,[/center]\n시전자 %cld 레벨 당 %adr 라운드가 추가로 지속됩니다.[/center]\n기본 성공 확률은 %bch, 시전자 %clc 레벨 마다[/center]\n%ach 가 추가됩니다. 체크 실패시 절반의 피해를 받습니다.""[/center]\n[/end]"
+1229,"원소 저항 -- 독[/center]\n기간: %bdr + %clc 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""대상에 독에 대한 저항력을 줍니다.[/center]\n주문이 %bdr 라운드 동안 지속되며,[/center]\n시전자 %cld 레벨 당 %adr 라운드가 추가로 지속됩니다.[/center]\n기본 성공 확률은 %bch, 시전자 %clc 레벨 마다[/center]\n%ach 가 추가됩니다. 체크 실패시 절반의 피해를 받습니다.""[/center]\n[/end]"
+1230,"원소 저항 -- 전기[/center]\n기간: %bdr + %clc 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""대상에 전기에 대한 저향력을 줍니다.[/center]\n주문이 %bdr 라운드 동안 지속되며,[/center]\n시전자 %cld 레벨 당 %adr 라운드가 추가로 지속됩니다.[/center]\n기본 성공 확률은 %bch, 시전자 %clc 레벨 마다[/center]\n%ach 가 추가됩니다. 체크 실패시 절반의 피해를 받습니다.""[/center]\n[/end]"
+1231,"원소 저항 -- 마법[/center]\n기간: %bdr + %clc 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""대상에 마법에 대한 저향력을 줍니다.[/center]\n주문이 %bdr 라운드 동안 지속되며,[/center]\n시전자 %cld 레벨 당 %adr 라운드가 추가로 지속됩니다.[/center]\n기본 성공 확률은 %bch, 시전자 %clc 레벨 마다[/center]\n%ach 가 추가됩니다. 체크 실패시 절반의 피해를 받습니다.""[/center]\n[/end]"
+1232,"근력 강화[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 근력을 증가 시킵니다.[/center]\n대상이 %1bm 에서 %2bm, 추가로[/center]\n%clm 레벨 마다 %1am 에서 %2am 의[/center]\n근력을 얻습니다.[/center]\n기본 %bdr 라운드, 추가로[/center]\n시전자 %cld 레벨 당 %adr 라운드 지속 됩니다""[/center]\n[/end]"
+1233,"지능 강화[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 지능을 증가 시킵니다.[/center]\n대상이 %1bm 에서 %2bm, 추가로[/center]\n%clm 레벨 마다 %1am 에서 %2am 의[/center]\n지능을 얻습니다.[/center]\n기본 %bdr 라운드, 추가로[/center]\n시전자 %cld 레벨 당 %adr 라운드 지속 됩니다""[/center]\n[/end]"
+1234,"의지 강화[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 의지력을 증가 시킵니다.[/center]\n대상이 %1bm 에서 %2bm, 추가로[/center]\n%clm 레벨 마다 %1am 에서 %2am 의[/center]\n의지를 얻습니다.[/center]\n기본 %bdr 라운드, 추가로[/center]\n시전자 %cld 레벨 당 %adr 라운드 지속 됩니다""[/center]\n[/end]"
+1235,"민첩 강화[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 민첩성을 증가 시킵니다.[/center]\n대상이 %1bm 에서 %2bm, 추가로[/center]\n%clm 레벨 마다 %1am 에서 %2am 의[/center]\n민첩을 얻습니다.[/center]\n기본 %bdr 라운드, 추가로[/center]\n시전자 %cld 레벨 당 %adr 라운드 지속 됩니다""[/center]\n[/end]"
+1236,"체력 강화[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 체력을 증가 시킵니다.[/center]\n대상이 %1bm 에서 %2bm, 추가로[/center]\n%clm 레벨 마다 %1am 에서 %2am 의[/center]\n체력을 얻습니다.[/center]\n기본 %bdr 라운드, 추가로[/center]\n시전자 %cld 레벨 당 %adr 라운드 지속 됩니다""[/center]\n[/end]"
+1237,"매력 강화[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 매력을 증가 시킵니다.[/center]\n대상이 %1bm 에서 %2bm, 추가로[/center]\n%clm 레벨 마다 %1am 에서 %2am 의[/center]\n매력을 얻습니다.[/center]\n기본 %bdr 라운드, 추가로[/center]\n시전자 %cld 레벨 당 %adr 라운드 지속 됩니다""[/center]\n[/end]"
+1238,"속도 강화[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 속도를 증가 시킵니다.[/center]\n대상이 %1bm 에서 %2bm, 추가로[/center]\n%clm 레벨 마다 %1am 에서 %2am 의[/center]\n속도를 얻습니다.[/center]\n기본 %bdr 라운드, 추가로[/center]\n시전자 %cld 레벨 당 %adr 라운드 지속 됩니다""[/center]\n[/end]"
+1239,"행운 강화[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 행운을 증가 시킵니다.[/center]\n대상이 %1bm 에서 %2bm, 추가로[/center]\n%clm 레벨 마다 %1am 에서 %2am 의[/center]\n행운을 얻습니다.[/center]\n기본 %bdr 라운드, 추가로[/center]\n시전자 %cld 레벨 당 %adr 라운드 지속 됩니다""[/center]\n[/end]"
+1240,"근력 회복[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""대상의 근력을 회복합니다.[/center]\n대상의 근력을 %1bm 에서 %2bm 회복시키고[/center]\n추가로 시전자 %clm 레벨 당,[/center]\n%1am 에서 %2am 의 근력을,[/center]\n추가로 회복시킵니다.[/center]\n근력 최대치를 넘을 수는 없습니다.[/center]\n[/end]"
+1241,"지능 회복[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""대상의 지능을 회복합니다.[/center]\n대상의 지능을 %1bm 에서 %2bm 회복시키고[/center]\n추가로 시전자 %clm 레벨 당,[/center]\n%1am 에서 %2am 의 지능을,[/center]\n추가로 회복시킵니다.[/center]\n지능 최대치를 넘을 수는 없습니다.[/center]\n[/end]"
+1242,"의지 회복[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""대상의 의지력을 회복합니다.[/center]\n대상의 의지력을 %1bm 에서 %2bm 회복시키고[/center]\n추가로 시전자 %clm 레벨 당,[/center]\n%1am 에서 %2am 의 의지력을,[/center]\n추가로 회복시킵니다.[/center]\n의지력 최대치를 넘을 수는 없습니다.[/center]\n[/end]"
+1243,"민첩 회복[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""대상의 민첩성을 회복합니다.[/center]\n대상의 민첩성을 %1bm 에서 %2bm 회복시키고[/center]\n추가로 시전자 %clm 레벨 당,[/center]\n%1am 에서 %2am 의 민첩성을,[/center]\n추가로 회복시킵니다.[/center]\n민첩성 최대치를 넘을 수는 없습니다.[/center]\n[/end]"
+1244,"체력 회복[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""대상의 체력을 회복합니다.[/center]\n대상의 체력을 %1bm 에서 %2bm 회복시키고[/center]\n추가로 시전자 %clm 레벨 당,[/center]\n%1am 에서 %2am 의 체력을,[/center]\n추가로 회복시킵니다.[/center]\n체력 최대치를 넘을 수는 없습니다.[/center]\n[/end]"
+1245,"매력 회복[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""대상의 매력을 회복합니다.[/center]\n대상의 매력을 %1bm 에서 %2bm 회복시키고[/center]\n추가로 시전자 %clm 레벨 당,[/center]\n%1am 에서 %2am 의 매력을,[/center]\n추가로 회복시킵니다.[/center]\n매력 최대치를 넘을 수는 없습니다.[/center]\n[/end]"
+1246,"속도 회복[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""대상의 속도를 회복합니다.[/center]\n대상의 속도를 %1bm 에서 %2bm 회복시키고[/center]\n추가로 시전자 %clm 레벨 당,[/center]\n%1am 에서 %2am 의 속도를,[/center]\n추가로 회복시킵니다.[/center]\n속도 최대치를 넘을 수는 없습니다.[/center]\n[/end]"
+1247,"행운 회복[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""대상의 행운을 회복합니다.[/center]\n대상의 행운을 %1bm 에서 %2bm 회복시키고[/center]\n추가로 시전자 %clm 레벨 당,[/center]\n%1am 에서 %2am 의 행운을,[/center]\n추가로 회복시킵니다.[/center]\n행운 최대치를 넘을 수는 없습니다.[/center]\n[/end]"
+1248,"생명력 회복[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""대상의 생명력을 회복합니다.[/center]\n대상의 생명력을 %1bm 에서 %2bm 회복시키고[/center]\n추가로 시전자 %clm 레벨 당,[/center]\n%1am 에서 %2am 의 생명력을,[/center]\n추가로 회복시킵니다.[/center]\n생명력 최대치를 넘을 수는 없습니다.[/center]\n[/end]"
+1249,"지구력 회복[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""대상의 지구력을 회복합니다.[/center]\n대상의 지구력을 %1bm 에서 %2bm 회복시키고[/center]\n추가로 시전자 %clm 레벨 당,[/center]\n%1am 에서 %2am 의 지구력을,[/center]\n추가로 회복시킵니다.[/center]\n지구력 최대치를 넘을 수는 없습니다.[/center]\n[/end]"
+1250,"근력 흡수[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 근력을 시전자로 이동시킵니다.[/center]\n대상이 %1bm 에서 %2bm 근력을,[/center]\n추가로 시전자 %clm 레벨 마다[/center]\n%1am 에서 %2am 의[/center]\n근력을 더 잃습니다.[/center]\n[/end]"
+1251,"지능 흡수[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 지능을 시전자로 이동시킵니다.[/center]\n대상이 %1bm 에서 %2bm 지능을,[/center]\n추가로 시전자 %clm 레벨 마다[/center]\n%1am 에서 %2am 의[/center]\n지능을 더 잃습니다.[/center]\n[/end]"
+1252,"의지 흡수[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 의지력을 시전자로 이동시킵니다.[/center]\n대상이 %1bm 에서 %2bm 의지력을,[/center]\n추가로 시전자 %clm 레벨 마다[/center]\n%1am 에서 %2am 의[/center]\n의지력을 더 잃습니다.[/center]\n[/end]"
+1253,"민첩 흡수[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 민첩성을 시전자로 이동시킵니다.[/center]\n대상이 %1bm 에서 %2bm 민첩성을,[/center]\n추가로 시전자 %clm 레벨 마다[/center]\n%1am 에서 %2am 의[/center]\n민첩성을 더 잃습니다.[/center]\n[/end]"
+1254,"체력 흡수[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 체력을 시전자로 이동시킵니다.[/center]\n대상이 %1bm 에서 %2bm 체력을,[/center]\n추가로 시전자 %clm 레벨 마다[/center]\n%1am 에서 %2am 의[/center]\n체력을 더 잃습니다.[/center]\n[/end]"
+1255,"매력 흡수[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 매력을 시전자로 이동시킵니다.[/center]\n대상이 %1bm 에서 %2bm 매력을,[/center]\n추가로 시전자 %clm 레벨 마다[/center]\n%1am 에서 %2am 의[/center]\n매력을 더 잃습니다.[/center]\n[/end]"
+1256,"속도 흡수[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 속도를 시전자로 이동시킵니다.[/center]\n대상이 %1bm 에서 %2bm 속도를,[/center]\n추가로 시전자 %clm 레벨 마다[/center]\n%1am 에서 %2am 의[/center]\n속도를 더 잃습니다.[/center]\n[/end]"
+1257,"행운 흡수[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 행운을 시전자로 이동시킵니다.[/center]\n대상이 %1bm 에서 %2bm 행운을,[/center]\n추가로 시전자 %clm 레벨 마다[/center]\n%1am 에서 %2am 의[/center]\n행운을 더 잃습니다.[/center]\n[/end]"
+1258,"생명력 흡수[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 생명력을 시전자로 이동시킵니다.[/center]\n대상이 %1bm 에서 %2bm 생명력을,[/center]\n추가로 시전자 %clm 레벨 마다[/center]\n%1am 에서 %2am 의[/center]\n생명력을 더 잃습니다.[/center]\n[/end]"
+1259,"지구력 흡수[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 지구력을 시전자로 이동시킵니다.[/center]\n대상이 %1bm 에서 %2bm 지구력을,[/center]\n추가로 시전자 %clm 레벨 마다[/center]\n%1am 에서 %2am 의[/center]\n지구력을 더 잃습니다.[/center]\n[/end]"
+1260,"투명화 (보통)[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""대상을 투명하게 합니다.[/center]\n%bdr 라운드에 추가로 시전자 %clm 레벨 당,[/center]\n%a 라운드 동안 유지됩니다.[/center]\n[/center]\n투명화 중에 공격을 시도하면, 투명화가 해제됩니다.[/center]\n[/center]\n[/end]"
+1261,"투명화 (유지)[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""대상을 투명하게 합니다.[/center]\n%bdr 라운드에 추가로 시전자 %clm 레벨 당,[/center]\n%adr 라운드 동안 유지됩니다.[/center]\n[/center]\n투명화 중에 공격을 시도해도, 투명화가 유지됩니다.[/center]\n[/center]\n[/end]"
+1262,"공중부양[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""대상이 지면 위로 떠오를 수 있게 됩니다.[/center]\n공중부양이 %bdr 라운드 동안 유지되며, 추가로 시전자[/center]\n%cld 레벨 마다 %adr 라운드 더 유지됩니다.""[/center]\n[/center]\n[/end]"
+1263,"조명[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표 주위에 밝은 광원을 만들어 냅니다.[/center]\n빛은 %bdr 라운드 동안 유지되며, 추가로 시전자[/center]\n%cld 레벨 마다 %adr 라운드 더 유지됩니다.""[/center]\n[/end]"
+1264,"잠금[/center]\n기간: %bdr + %clc 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""시전자의 레벨과 같은 난이도로 상자나 문을 잠급니다.[/center]\n지속 시간 %bdr 라운드,[/center]\n시전자 %cld 레벨 마다 %adr 라운드 추가,[/center]\n기본 확률 %bch,시전자 %clc 레벨 마다 %ach 추가.""[/center]\n[/end]"
+1265,"잠금해제[/center]\n기간: %bdr + %clc 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""시전자 레벨과 같거나 낮은 난이도의[/center]\n잠금장치가 걸린 상자나 문을 개방합니다.[/center]\n기본 확률 %bch,[/center]\n시전자 레벨 %clc 마다 %ach 추가""[/center]\n[/end]"
+1266,"재생[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""목표의 생명력을 재생합니다.[/center]\n대상이 %1bm 에서 %2bm 에, 추가로[/center]\n%clm 레벨 마다 %1am 에서 %2am 의[/center]\n생명력을 재생하며,[/center]\n기본 %bdr 라운드, 추가로[/center]\n시전자 %cld 레벨 당 %adr 라운드 지속 됩니다""[/center]\n[/end]"
+1267,"침묵[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %cld 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %cld 레벨 당[/center]\n%1am - %2am[/center]\n""목표를 침묵시켜, 주문 사용을 불가능하게 합니다.[/center]\n기본 성공 확률 %bch, 시전자 %cld 레벨 당 %ach 추가[/center]\n침묵이 %bdr 라운드 동안 유지되며, 시전자 %cld 레벨 당[/center]\n%adr 라운드 추가로 유지됩니다.""[/center]\n[/end]"
+1268,"주문 흡수[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %cld 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %cld 레벨 당[/center]\n%1am - %2am[/center]\n""대상이 공격 당하는 주문을 흡수해, 자신의 주문 점수로[/center]\n변환 할 수 있게 됩니다.[/center]\n기본 성공 확률 %bch, 시전자 %cld 레벨 당 %ach 추가[/center]\n흡수가 %bdr 라운드 동안 유지되며, 시전자 %cld 레벨 당[/center]\n%adr 라운드 추가로 유지됩니다.""[/center]\n[/end]"
+1269,"주문 반사[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %cld 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %cld 레벨 당[/center]\n%1am - %2am[/center]\n""목표가 공격 받는 주문을 시전자에게 되돌릴 수 있게 됩니다.[/center]\n기본 성공 확률 %bch, 시전자 %cld 레벨 당 %ach 추가[/center]\n반사가 %bdr 라운드 동안 유지되며, 시전자 %cld 레벨 당[/center]\n%adr 라운드 추가""[/center]\n[/end]"
+1270,"주문 저항[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %cld 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %cld 레벨 당[/center]\n%1am - %2am[/center]\n""대상이 공격 받는 주문을 저항할 수 있게 됩니다.[/center]\n기본 성공 확률 %bch, 시전자 %cld 레벨 당 %ach 추가[/center]\n저항이 %bdr 라운드 동안 유지되며, 시전자 %cld 레벨 당[/center]\n%adr 라운드 추가로 유지됩니다.""[/center]\n[/end]"
+1271,"카멜레온 (보통)[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""대상을 눈으로 보기 매우 힘들게 만듭니다.[/center]\n%bdr 라운드에 추가로 시전자 %clm 레벨 당,[/center]\n%adr 라운드 동안 유지됩니다.[/center]\n[/center]\n투명화 중에 공격을 시도하면, 주문 효과가 해제됩니다.[/center]\n[/center]\n[/end]"
+1272,"카멜레온 (유지)[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""대상을 눈으로 보기 매우 힘들게 만듭니다.[/center]\n%bdr 라운드에 추가로 시전자 %clm 레벨 당,[/center]\n%adr 라운드 동안 유지됩니다.[/center]\n[/end]"
+1273,"쉐도우 (보통)[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""대상을 보통의 그림자에 녹아들어가게 해줍니다.[/center]\n%bdr 라운드에 추가로 시전자 %clm 레벨 당,[/center]\n%adr 라운드 동안 유지됩니다.[/center]\n[/center]\n투명화 중에 공격을 시도하면, 주문 효과가 해제됩니다.[/center]\n[/end]"
+1274,"쉐도우 (유지)[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""대상을 보통의 그림자에 녹아들어가게 해줍니다.[/center]\n%bdr 라운드에 추가로 시전자 %clm 레벨 당,[/center]\n%adr 라운드 동안 유지됩니다.[/center]\n[/end]"
+1275,"낙하 감속[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""대상의 추락속도를 절반으로 낮춰 추락시 피해를 대량으로 줄입니다.[/center]\n주문 시전 후 %bdr 라운드에 추가로 시전자 %clm 레벨 당,[/center]\n%adr 라운드 동안 유지됩니다.[/center]\n대상이 추락하기 시작하면 주문이 발동합니다.""[/center]\n[/end]"
+1276,"프리 액션[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""대상의 마비 효과를 %bdr 라운드 동안 무시하며, 추가로[/center]\n시전자 %cld 레벨 마다 %adr 더 유지됩니다.""[/center]\n[/end]"
+1277,"도약[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""대상의 점프력을 보통의 2배로 올립니다.[/center]\n주문 시전 후 %bdr 라운드에 추가로 시전자 %clm 레벨 당,[/center]\n%adr 라운드 동안 유지됩니다.[/center]\n대상이 점프하면 주문이 발동합니다.""[/center]\n[/end]"
+1278,"등반[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""대상의 등반력을 보통의 2배로 올립니다.[/center]\n주문 시전 후 %bdr 라운드에 추가로 시전자 %clm 레벨 당,[/center]\n%adr 라운드 동안 유지됩니다.[/center]\n대상이 등반을 시작하면 주문이 발동합니다.""[/center]\n[/end]"
+1279,"Morph Self[/center]\nDuration: %bdr + %adr per %cld level(s)[/center]\nChance: %bch + %ach per %clc level(s)[/center]\nMagnitude: %1bm - %2bm + %1am - %2am[/center]\nper %clm level(s)[/center]\n""Causes target to transform into a creature or object[/center]\nselected by the caster. The base chance of successfully[/center]\npolymorphing is %bch, plus %ach for every %clc level(s) of[/center]\nthe caster. Transformation lasts %bdr round(s),[/center]\nplus %adr round(s) for every %cld level(s) of the caster.""[/center]\n[/end]"
+1280,"Morph Other[/center]\nDuration: %bdr + %adr per %cld level(s)[/center]\nChance: %bch + %ach per %clc level(s)[/center]\nMagnitude: %1bm - %2bm + %1am - %2am[/center]\nper %clm level(s)[/center]\n""Causes target to transform into a creature or object[/center]\nselected by the caster. The base chance of successfully[/center]\npolymorphing is %bch, plus %ach for every %clc level(s) of[/center]\nthe caster. Transformation lasts %bdr round(s),[/center]\nplus %adr round(s) for every %cld level(s) of the caster.""[/center]\n[/end]"
+1281,"Morph Item[/center]\nDuration: %bdr + %adr per %cld level(s)[/center]\nChance: %bch + %ach per %clc level(s)[/center]\nMagnitude: %1bm - %2bm + %1am - %2am[/center]\nper %clm level(s)[/center]\n""Causes target to transform into a creature or object[/center]\nselected by the caster. The base chance of successfully[/center]\npolymorphing is %bch, plus %ach for every %clc level(s) of[/center]\nthe caster. Transformation lasts %bdr round(s),[/center]\nplus %adr round(s) for every %cld level(s) of the caster.""[/center]\n[/end]"
+1282,"수중 호흡[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %cld 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""목표가 수중에서도 정상적으로 숨을 쉴 수 있게 됩니다.[/center]\n[/center]\n기본 성공 확률 %bch, 시전자 %cld 레벨 당 %ach 추가[/center]\n주문이 %bdr 라운드 동안 유지되며, 시전자 %cld 레벨 당[/center]\n%adr 라운드 추가""[/center]\n[/end]"
+1283,"수면 보행[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %cld 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""대상이 물 위를 걸을 수 있게 됩니다.[/center]\n[/center]\n주문이 %bdr 라운드 동안 유지되며,[/center]\n시전자 %cld 레벨 당 %adr 라운드가 추가됩니다.""[/center]\n[/end]"
+1284,"Diminution[/center]\nDuration: %bdr + %adr per %cld level(s)[/center]\nChance: %bch + %ach per %clc level(s)[/center]\nMagnitude: 해당 없음[/center]\n""Causes target to shrink to half its normal size.[/center]\nBase chance for success is %bch, plus an additional[/center]\n%ach for every %clc level(s) of the caster.[/center]\nDimunization will last for %bdr round(s),[/center]\nplus %adr round(s) for every %cld level(s) of caster.""[/center]\n[/end]"
+1285,"동물 진정화[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""인간류 미만의 지능을 가진 동물을 공격성을 일시적으로 막습니다.[/center]\n기본 성공률은 %bch 이며, 시전자 %clc 레벨 마다 %ach 추가 적용됩니다.[/center]\n진정화가 %bdr 라운드 동안 유지되며, 시전자 %cld 레벨 마다 %adr 라운드가 추가됩니다.""[/center]\n[/end]"
+1286,"동물 진정화[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""언데드의 공격성을 일시적으로 막습니다.[/center]\n기본 성공률은 %bch 이며, 시전자 %clc 레벨 마다 %ach 추가 적용됩니다.[/center]\n진정화가 %bdr 라운드 동안 유지되며, 시전자 %cld 레벨 마다 %adr 라운드가 추가됩니다.""[/center]\n[/end]"
+1287,"인간류 진정화[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""인간류 생물의 공격성을 일시적으로 막습니다.[/center]\n기본 성공률은 %bch 이며, 시전자 %clc 레벨 마다 %ach 추가 적용됩니다.[/center]\n진정화가 %bdr 라운드 동안 유지되며, 시전자 %cld 레벨 마다 %adr 라운드가 추가됩니다.""[/center]\n[/end]"
+1288,"데이드라 진정화[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""데이드라의 공격성을 일시적으로 막습니다.[/center]\n기본 성공률은 %bch 이며, 시전자 %clc 레벨 마다 %ach 추가 적용됩니다.[/center]\n진정화가 %bdr 라운드 동안 유지되며, 시전자 %cld 레벨 마다 %adr 라운드가 추가됩니다.""[/center]\n[/end]"
+1289,"매료[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""대상이 시전자에 갖는 호감도를 올려서, 명성 수준을 개선합니다.[/center]\n기본 성공률은 %bch 이며, 시전자 %clc 레벨 마다 %ach 추가 적용됩니다.[/center]\n매료가 %bdr 라운드 동안 유지되며, 시전자 %cld 레벨 마다 %adr 라운드가 추가됩니다.""[/center]\n[/end]"
+1290,"쉴드[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: 해당 없음[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""대상의 주변에 방어막을 둘러 %1bm - %2bm, 추가로[/center]\n%clm 레벨 마다 %1am -%2am 의 생명력 피해를 흡수합니다.[/center]\n주문이 최대 피해량을 흡수하거나, %bdr 라운드, 추가로[/center]\n시전자 %cld 레벨 당 %adr 라운드를 넘기면 주문이 끝납니다.""[/center]\n[/end]"
+1291,"쉴드[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: 해당 없음[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""대상의 주변에 방어막을 둘러 %1bm - %2bm, 추가로[/center]\n%clm 레벨 마다 %1am -%2am 의 생명력 피해를 흡수합니다.[/center]\n주문이 최대 피해량을 흡수하거나, %bdr 라운드, 추가로[/center]\n시전자 %cld 레벨 당 %adr 라운드를 넘기면 주문이 끝납니다.""[/center]\n[/end]"
+1292,"쉴드[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: 해당 없음[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""대상의 주변에 방어막을 둘러 %1bm - %2bm, 추가로[/center]\n%clm 레벨 마다 %1am -%2am 의 생명력 피해를 흡수합니다.[/center]\n주문이 최대 피해량을 흡수하거나, %bdr 라운드, 추가로[/center]\n시전자 %cld 레벨 당 %adr 라운드를 넘기면 주문이 끝납니다.""[/center]\n[/end]"
+1293,"쉴드[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: 해당 없음[/center]\n세기: %1bm - %2bm + %clm 레벨 당 %1am - %2am[/center]\n""대상의 주변에 방어막을 둘러 %1bm - %2bm, 추가로[/center]\n%clm 레벨 마다 %1am -%2am 의 생명력 피해를 흡수합니다.[/center]\n주문이 최대 피해량을 흡수하거나, %bdr 라운드, 추가로[/center]\n시전자 %cld 레벨 당 %adr 라운드를 넘기면 주문이 끝납니다.""[/center]\n[/end]"
+1294,"Astral Travel[/center]\nDuration: %bdr + %adr per %cld level(s)[/center]\nChance: %bch + %ach per %clc level(s)[/center]\nMagnitude: N/A + N/A per N/A level(s)[/center]\n""Sends caster to the Astral Plane. Chance of success[/center]\nis %bch, plus %ach every %clc level(s) of the caster.[/center]\nCaster will remain in the Astral Plane for %bdr round(s),[/center]\nplus %adr round(s) for every %cld level(s) of caster.""[/center]\n[/end]"
+1295,"Etherealness[/center]\nDuration: %bdr + %adr per %cld level(s)[/center]\nChance: %bch + %ach per %clc level(s)[/center]\nMagnitude: 해당 없음[/center]\n""Turns caster ethereal, thus able to walk through[/center]\nwalls. Chance of success is %bch, plus %ach every[/center]\n%clc level(s) of the caster. Caster will remain[/center]\nethereal for %bdr round(s), plus %adr round(s) for[/center]\nevery %cld level(s) of caster.""[/center]\n[/end]"
+1296,"마법 탐지[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""대상이 바라보는 방향 좌우 60도 범위의 모든 마법을 탐지합니다.[/center]\n기본 성공률은 %bch 이며, 시전자 %clc 레벨 마다 %ach 추가 적용됩니다.[/center]\n주문이 %bdr 라운드 동안 유지되며, 시전자 %cld 레벨 마다 %adr 라운드가 추가됩니다.""[/center]\n[/end]"
+1297,"적 탐지[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""대상이 바라보는 방향 좌우 60도 범위의 모든 적을 탐지합니다.[/center]\n기본 성공률은 %bch 이며, 시전자 %clc 레벨 마다 %ach 추가 적용됩니다.[/center]\n주문이 %bdr 라운드 동안 유지되며, 시전자 %cld 레벨 마다 %adr 라운드가 추가됩니다.""[/center]\n[/end]"
+1298,"보물 탐지[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""대상이 바라보는 방향 좌우 60도 범위의 모든 보물을 탐지합니다.[/center]\n기본 성공률은 %bch 이며, 시전자 %clc 레벨 마다 %ach 추가 적용됩니다.[/center]\n주문이 %bdr 라운드 동안 유지되며, 시전자 %cld 레벨 마다 %adr 라운드가 추가됩니다.""[/center]\n[/end]"
+1299,"식별[/center]\n시간: 해당 없음[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""목표 물품을 식별 합니다.[/center]\n기본 성공 확률 %bch,[/center]\n시전자 %clc 레벨 마다 %ach 추가""[/center]\n[/end]"
+1300,"Wizard Sight[/center]\nDuration: %bdr + %adr per %cld level(s)[/center]\nChance: %bch + %ach per %clc level(s)[/center]\nMagnitude: N/A + N/A per N/A level(s)[/center]\n""Allows caster's vision to travel separately from[/center]\nhis or her body. Chance of success is %bch, plus[/center]\n%ach every %clc level(s) of the caster. Spell will[/center]\nlast for %bdr round(s), plus %adr round(s) for[/center]\nevery %cld level(s) of caster.""[/center]\n[/end]"
+1301,"Darkness[/center]\nDuration: %bdr + %adr per %cld level(s)[/center]\nChance: %bch + %ach per %clc level(s)[/center]\nMagnitude: N/A + N/A per N/A level(s)[/center]\n""Darkness created around target. Spell will remain[/center]\nfor %bdr round(s), plus %adr round(s) for every[/center]\n%cld level(s) of caster.""[/center]\n[/end]"
+1302,"텔레포트[/center]\n시간: 해당 없음[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""시전자가 지정된 위치로 순간이동 합니다.[/center]\n시전자는 반드시 목적지에서 주문을 시전해[/center]\n등록해야 합니다 그 이후 텔레포트를 할 수 있습니다.[/center]\n시전 할때마다 지정 위치를 변경할 수 있습니다.[/center]\n성공 확률은 %bch,[/center]\n추가로 시전자 %cld 레벨 마다 %ach 확률이 추가 됩니다.[/center]\n[/end]"
+1303,"소울 트랩[/center]\n기간: %bdr + %clc 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""목표가 죽은 후 시전자가 가진 영혼석에 영구적으로 갇힙니다.[/center]\n목표의 육체가 %bdr 라운드, 추가로 시전자 %cld 레벨 마다 %adr 라운드 안에 죽어야 하며,[/center]\n성공적으로 영혼을 포획할 확률은 %bch, 시전자 %clc 레벨 마다 %ach 가 추가 됩니다.""[/center]\n[/end]"
+1304,"Telekinesis[/center]\nDuration: %bdr + %adr per %cld level(s)[/center]\nChance: N/A + N/A per N/A level(s)[/center]\nMagnitude: %1bm - %2bm + %1am - %2am[/center]\nper %clm level(s)[/center]\n""Telekinesis allows the caster to move objects at[/center]\na distance, by mental exertion. The weight of objects[/center]\nthat can be moved is %1bm - %2bm kg plus %1am - %2am[/center]\nkilos per %clm level(s) of the caster.""[/center]\n[/end]"
+1305,"언어 이해[/center]\n시간: %bdr + %cld 레벨 당 %adr[/center]\n확률: %bch + %clc 레벨 당 %ach[/center]\n세기: 해당 없음[/center]\n""시전자가 주문 유지 되는 동안 어떤 언어, 문자던지 이해할 수 있게 됩니다.[/center]\n주문은 %bdr 라운드 동안 유지되며, 추가로[/center]\n시전자 %cld 레벨 마다 %adr 더 유지됩니다.""[/center]\n[/end]"
+1306,"Intensify Fire[/center]\nDuration: %bdr + %adr per %cld level(s)[/center]\nChance: N/A + N/A per N/A level(s)[/center]\nMagnitude: %1bm - %2bm + %1am - %2am[/center]\nper %clm level(s)[/center]\n""Caster may intensify the light of a normal fire.[/center]\nLight may be intensified up to %1bm to %2bm candle(s)[/center]\nplus %1am to %2am candle(s) per %clm level(s) of the[/center]\ncaster. Spell lasts %bdr round(s), plus %adr round(s)[/center]\nper %cld level(s) of the caster.""[/center]\n[/end]"
+1307,"Diminish Fire[/center]\nDuration: %bdr + %adr per %cld level(s)[/center]\nChance: N/A + N/A per N/A level(s)[/center]\nMagnitude: %1bm - %2bm + %1am - %2am[/center]\nper %clm level(s)[/center]\n""Caster may dim the light of a normal fire.[/center]\nLight may be diminished by %1bm to %2bm candle(s)[/center]\nplus %1am to %2am candle(s) per %clm level(s) of the[/center]\ncaster. Spell lasts %bdr round(s), plus %adr round(s)[/center]\nper %cld level(s) of the caster.""[/center]\n[/end]"
+1308,"Wall of Stone[/center]\nDuration: %bdr + %adr per %cld level(s)[/center]\nChance: N/A + N/A per N/A level(s)[/center]\nMagnitude: %1bm - %2bm + %1am - %2am[/center]\nper %clm level(s)[/center]\n""Caster creates a wall of stone, %1bm to %2bm square meters[/center]\nfor every %clm level(s) of the caster. Wall lasts %bdr[/center]\nround(s) plus %adr additional round(s) for every %cld[/center]\nlevel(s) of the caster.""[/center]\n[/end]"
+1309,"Wall of Fire[/center]\nDuration: %bdr + %adr per %cld level(s)[/center]\nChance: N/A + N/A per N/A level(s)[/center]\nMagnitude: %1bm - %2bm + %1am - %2am[/center]\nper %clm level(s)[/center]\n""Caster creates a wall of fire, %1bm to %2bm square meters[/center]\nfor every %clm level(s) of the caster. Wall lasts %bdr[/center]\nround(s) plus %adr additional round(s) for every %cld[/center]\nlevel(s) of the caster.""[/center]\n[/end]"
+1310,"Wall of Frost[/center]\nDuration: %bdr + %adr per %cld level(s)[/center]\nChance: N/A + N/A per N/A level(s)[/center]\nMagnitude: %1bm - %2bm + %1am - %2am[/center]\nper %clm level(s)[/center]\n""Caster creates a wall of ice, %1bm to %2bm square meters[/center]\nfor every %clm level(s) of the caster. Wall lasts %bdr[/center]\nround(s) plus %adr additional round(s) for every %cld[/center]\nlevel(s) of the caster.""[/center]\n[/end]"
+1311,"Wall of Poison[/center]\nDuration: %bdr + %adr per %cld level(s)[/center]\nChance: N/A + N/A per N/A level(s)[/center]\nMagnitude: %1bm - %2bm + %1am - %2am[/center]\nper %clm level(s)[/center]\n""Caster creates a wall of poison gas, %1bm to %2bm square[/center]\nmeters for every %clm level(s) of the caster. Wall lasts[/center]\n%bdr round(s) plus %adr additional round(s) for every[/center]\n%cld level(s) of the caster.""[/center]\n[/end]"
+1350,"이미 충돌하는[/center]\n이점 혹은 단점을[/center]\n선택한 상태입니다.[/center]\n[/end]"
+1360,"변화마법은 변화마법 학파를 의미하며,[/center]\n여섯개의 큰 학파들 중 하나입니다.[/center]\n이 마법 학파는 그 요점을 한 물체의[/center]\n그 근본적인 구조와 구성을 매지카로[/center]\n변화 시키는데 두고 있습니다. 저속하강,[/center]\n방어막 마법이 대표적인 변화마법 입니다.[/center]\n[/end]"
+1361,"궁술은 활과 화살을 사용해서 목표에[/center]\n피해를 주는 능력에 관한 기술 입니다.[/center]\n[/center]\n[/end]"
+1362,"도끼술은 전쟁도끼 혹은 전투도끼를[/center]\n목표에 사용할때 자동으로 사용되는 기술 입니다.[/center]\n[/end]"
+1363,"배후공격은 목표의 후방에서 공격시[/center]\n사용되는 기술입니다.[/center]\n이 기술에 능숙하면 적의 후방을 공격시[/center]\n적중 확률이 올라갑니다.[/center]\n추가로 배후공격이 제대로 들어갔을때[/center]\n더 많은 피해를 줄 수 있습니다.[/center]\n[/end]"
+1364,"둔기 무기는 목표를 무겁고, 날이 없는[/center]\n메이스나 스태프로 공격시 사용되는 기술입니다.[/center]\n능숙한 둔기 무기 전문가는 매 공격시[/center]\n더 높은 명중률과 피해를 줄 수 있습니다.[/center]\n[/center]\n[/end]"
+1365,"센타우리어는 반은 인간이고 반은 말인 센타우르와[/center]\n대화를 시도할때 사용되는 언어 기술 입니다.[/center]\n[/end]"
+1366,"등반은 벽이나 절벽 경사면을 기어오를때[/center]\n사용되는 기술입니다.[/center]\n지면에 닿기 전까지 계속 사용됩니다.[/center]\n[/center]\n[/end]"
+1367,"치명 공격은 성공적으로 목표를 공격[/center]\n할때 마다 사용되는 기술입니다.[/center]\n대상에 치명 공격을 성공하면 압도적이며,[/center]\n치명적인 추가 피해를 줍니다.[/center]\n[/center]\n[/end]"
+1368,"데이드릭어는 파이어 데이드라, 데이드라 로드[/center]\n같은 데이드라와 대화할때 사용되는 기술입니다.[/center]\n[/end]"
+1369,"파괴마법은 마법 분야의 6개 정규 분야 중[/center]\n하나인 파괴 학파를 말합니다.[/center]\n파괴 마법은 적에게 피해를 주는 것이[/center]\n주 목적이며, 파이어볼, 독성 구름 같은[/center]\n주문이 있습니다.\n[/end]"
+1370,"Disguise is a skill automatically checked[/center]\nwhenever one attempts either to infiltrate a[/center]\nhostile environment or to secrete items away[/center]\nfrom prying eyes.[/center]\n[/end]"
+1371,"회피는 적의 무기 혹은 주문으로[/center]\n공격 받을 때 사용되는 기술 입니다.[/center]\n[/end]"
 1372,"Dragon is a language skill checked[/center]
 whenever one attempts to speak with[/center]
 a dragon.[/center]
@@ -2975,14 +1229,8 @@ and charming in conversation.[/center]
 whenever one attempts to speak with[/center]
 a Faerie.[/center]
 [/end]"
-1376,"Giantish is a language skill checked[/center]
-whenever one attempts to speak with[/center]
-a Giant.[/center]
-[/end]"
-1377,"Hand-to-Hand is a skill checked whenever[/center]
-one attempts to strike a target with a[/center]
-punch or a kick.[/center]
-[/end]"
+1376,"자이언트어는 자이언트와 대화를[/center]\n시도할때 사용되는 언어 기술 입니다.[/center]\n[/end]"
+1377,"맨손격투는 주먹 혹은 발차기를[/center]\n다루는 기술 입니다.[/center]\n[/end]"
 1378,"Harpy is a language skill checked[/center]
 whenever one attempts to speak with[/center]
 a Harpy.[/center]
@@ -3949,98 +2197,47 @@ Caster creates a wall of poison gas[/center]
 Duration: How long wall lasts[/center]
 Chance: N/A Magnitude: How large wall is in square meters[/center]
 [/end]"
-1650,You do not have the gold to properly pay the enchanter.[/end]
-1651,You cannot enchant this item beyond its limit.[/end]
-1652,The item has been enchanted.[/end]
-1653,An item must be selected to be enchanted.[/end]
-1654,No enchantments have been placed on the item.[/end]
-1655,You may only pick one item at a time to enchant.[/end]
-1656,You have already picked an item to enchant.[/end]
-1657,You cannot enchant this item with any more powers.[/end]
-1658,No further side-effects may be enchanted in this item.[/end]
-1659,This item cannot be enchanted.[/end]
-1660,This item has already been enchanted.[/end]
-1700,"This page is full.[/center]
-Start a new scroll.[/center]
-[/end]"
-1701,"The word you seek does[/center]
-not appear in your notes.[/center]
-[/end]"
-1702,"You do not have enough gold[/center]
-to purchase this spell.[/center]
-[/end]"
-1703,"You do not have a spellbook[/center]
-with which to inscribe this spell.[/center]
-[/end]"
-1704,"You must choose a name to call[/center]
-this spell in your grimoire.[/center]
-[/end]"
-1705,"The spell has been inscribed[/center]
-in your grimoire.[/center]
-[/end]"
-1706,"The spell has been inscribed to[/center]
-the general list and Ted is cool.[/center]
-[/end]"
-1707,"You can choose no more than three[/center]
-effects for any spell.[/center]
-[/end]"
-1708,"How would you like to alter the spell?[/center]
-[/end]"
-1709,"There is no room left in your spellbook.[/center]
-[/end]"
-1800,"Changes the spell's icon[/record]
-"
-1801,Save versus fire[/end]
-1802,Save versus frost[/end]
-1803,Save versus poison[/end]
-1804,Save versus shock[/end]
-1805,Save versus magicka[/end]
-1806,Spell affects caster only[/end]
-1807,Spell affects target by touch[/end]
-1808,Spell casts at a distance[/end]
-1809,Spell affects area around caster[/end]
-1810,Spell affects area at a distance[/end]
-1811,Add effect to spell[/end]
-1812,Buy spell[/end]
-1813,"Erase current spell, begin new one[/end]"
-1814,Exit from SpellMaker[/end]
-1850,You do not have enough magicka[/end]
-2000,"Nords hail from the province of Skyrim. You are[/center]
-part of a tall and fair-skinned people, strong,[/center]
-willful, and hardy. Owing to the climate of Skyrim,[/center]
-Nords are resistant to the coldest of temperatures, and[/center]
-take little damage even from ice-based magical[/center]
-attacks. Nords are historically well-suited[/center]
-to all the arts of the warrior.[/center]
-Is your character to be a Nord?[/center]
-[/end]"
-2001,"Khajiit hail from the province of Elsweyr.[/center]
-You are part of a tawny-skinned people, extremely[/center]
-hardy, intelligent, and agile. Many Khajiit[/center]
-have taken to painting their faces to more resemble their[/center]
-legendary feline cousins, the predatory cats[/center]
-that hunt the great desert. Khajiit are on the[/center]
-whole excellent climbers, and adept in[/center]
-all the arts of the thief.[/center]
-Is your character to be a Khajiiti?[/center]
-[/end]"
-2002,"Redguards hail from the province of Hammerfell.[/center]
-You are part of a dark-skinned people, extremely[/center]
-hardy and quick. Legend has it that the Redguard[/center]
-are innately more proficient with weaponry than any[/center]
-other race. In general, Redguards[/center]
-make excellent warriors.[/center]
-Is your character to be a Redguard?[/center]
-[/end]"
-2003,"Bretons hail from the province of High Rock.[/center]
-You are part of a tall, fair-skinned people,[/center]
-highly intelligent and willful. Magic seems to[/center]
-infuse the very being of the Breton people.[/center]
-As a race, they are more resistant to the effects[/center]
-of hostile magic than any other group, and[/center]
-thus are excellent in all arcane arts.[/center]
-Is your character to be a Breton?[/center]
-[/end]"
+1650,"인챈터에게 지불할 골드가 부족합니다.[/end]"
+1651,"인챈트를 한계 이상 할 수 없습니다.[/end]"
+1652,"인챈트가 완료 되었습니다.[/end]"
+1653,"인챈트 할 물품을 선택하세요.[/end]"
+1654,"선택한 인챈트가 없습니다.[/end]"
+1655,"인챈트는 한번에 하나의 물품만 가능합니다.[/end]"
+1656,"인챈트할 물품을 이미 선택했습니다.[/end]"
+1657,"이 물품엔 추가 인챈트가 불가능합니다.[/end]"
+1658,"이 물품에 인챈트는 더이상 할 수 없습니다.[/end]"
+1659,"이 물품은 인챈트 할 수 없습니다.[/end]"
+1660,"이 물품은 이미 인챈트 되었습니다.[/end]"
+1700,"더이상 적을 수 없습니다.[/center]\n새로운 스크롤에 적으십시오.[/center]\n[/end]"
+1701,"찾으려는 단어가[/center]\n노트에 없습니다.[/center]\n[/end]"
+1702,"이 주문을 구입하기엔[/center]\n골드가 부족합니다.[/center]\n[/end]"
+1703,"이 주문을 적기 위해 필요한[/center]\n주문책이 없습니다.[/center]\n[/end]"
+1704,"주문서에 주문을 적으려면[/center]\n주문 이름을 반드시 적어야 합니다.[/center]\n[/end]"
+1705,"주문서에[/center]\n주문을 적었습니다.[/center]\n[/end]"
+1706,"주문이 일반 목록에[/center]\n추가되었고 테드는 쿨합니다.[/center]\n[/end]"
+1707,"주문에는 세가지를 초과하는[/center]\n효과 추가를 할 수 없습니다.[/center]\n[/end]"
+1708,"주문을 어떻게 변경하고 싶습니까?[/center]\n[/end]"
+1709,"주문책에 더이상 자리가 없습니다.[/center]\n[/end]"
+1800,"주문 아이콘 변경[/record]"
+1801,"화염 저항[/end]"
+1802,"냉기 저항[/end]"
+1803,"독기 저항[/end]"
+1804,"전격 저항[/end]"
+1805,"매지카 저항[/end]"
+1806,"시전자만 영향받는 주문[/end]"
+1807,"접촉대상에 효과를 주는 주문[/end]"
+1808,"원거리에서 효과를 주는 주문[/end]"
+1809,"시전자 주위에 효과를 주는 주문[/end]"
+1810,"원거리 일정 영역에 효과를 주는 주문[/end]"
+1811,"주문에 효과 추가[/end]"
+1812,"주문 구입[/end]"
+1813,"현재 주문을 지우고, 새로 시작[/end]"
+1814,"주문 제작 나가기[/end]"
+1850,"매지카가 충분하지 않습니다[/end]"
+2000,"노드는 스카이림 지역의 원주민입니다.[/center]\n키가 크고 흰 피부를 가졌으며, 강하고,[/center]\n끈질기며, 강인합니다. 스카이림의 기후 때문에[/center]\n노드는 극한의 추위에도 견뎌내며,[/center]\n냉기기반의 마법 공격에도 적은 피해를 받습니다.[/center]\n노드는 역사적으로 전사로서의 무예에[/center]\n두각을 나타냈습니다.[/center]\n당신의 캐릭터를 노드로 하시겠습니까?[/center]\n[/end]"
+2001,"카짓은 엘스웨어 지역의 원주민입니다.[/center]\n카짓은 황갈색의 털을 가졌고, 극히 강인하며,[/center]\n지능이 높고, 민첩합니다. 많은 카짓이[/center]\n그들의 전설적인 고양이과 친척이며 대사막에서[/center]\n사냥을 한다는 사냥 고양이처럼 칠하고 다닙니다.[/center]\n카짓은 뛰어난 등반 능력을 가지고 있으며,[/center]\n도둑으로서의 능력에 적합합니다.[/center]\n당신의 캐릭터를 카짓으로 하시겠습니까?[/center]\n[/end]"
+2002,"레드가드는 해머펠 지역의 원주민입니다.[/center]\n레드가드는 어두운 피부를 가졌고, 극히 강인하며[/center]\n몸놀림이 빠릅니다. 전설에 따르면 레드가드는[/center]\n다른 어떤 종족들 보다 무기를 잘 다루는 능력이[/center]\n선천적으로 뛰어나다고 합니다.[/center]\n레드가드는 보통 매우 뛰어난 전사들 입니다.[/center]\n당신의 캐릭터를 레드가드로 하시겠습니까?[/center]\n[/end]"
+2003,"브레튼은 하이락 지역의 원주민입니다.[/center]\n키가 크고, 흰 피부를 가졌으며, 매우 지능이 높고[/center]\n의지력이 강합니다. 브레튼은 마법과 아주 깊은[/center]\n유대를 가지고 있는 것 같습니다.[/center]\n브레튼은 다른 어떤 종족 보다 적대적인 효과를[/center]\n가진 마법에 대한 저항력이 높으며,[/center]\n마법을 다루는 기술 모두에 매우 뛰어납니다.[/center]\n당신의 캐릭터를 브레튼으로 하시겠습니까?[/center]\n[/end]"
 2004,"Argonians hail from the province of Black Marsh.[/center]
 You are part of a highly-evolved race[/center]
 of reptiles, known for their intelligence,[/center]
@@ -4505,75 +2702,15 @@ the Kynaran Order are chosen on the[/center]
 basis of their combat skills and their[/center]
 reputation with the Temple.[/center]
 [/end]"
-2100,"Mages are those that devote their lives to[/center]
-the study and practice of the arcane magical arts. An[/center]
-experienced mage can be a deadly force to reckon with. The skills[/center]
-most important to a Mage are: All Schools  of Magicka --[/center]
-Mysticism, Alteration, Thaumaturgy,[/center]
-Illusion, Destruction, and Restoration.[/center]
-Do you wish your character to be a Mage?[/center]
-[/end]"
-2101,"Spellswords are warriors who are also highly[/center]
-skilled in the use of magic. This dual specialization[/center]
-makes the Spellsword a formidable opponent indeed.[/center]
-The most important skills to a Spellsword are:[/center]
-Axe, Long Blade, Blunt Weapon, Destruction,[/center]
-Illusion, and Alteration.[/center]
-Do you wish your character to be a Spellsword?[/center]
-[/end]"
-2102,"Battle Mages use their mastery of magic[/center]
-for combat purposes. They are naturally adept at casting[/center]
-offensive magic spells. The skills most important to a[/center]
-Battle Mage are: Destruction, Long Blade, Axe,[/center]
-Thaumaturgy, Alteration, and Hand-to-Hand.[/center]
-Do you wish your character to be a Battle Mage?[/center]
-[/end]"
-2103,"Sorcerers are quite adept at the manipulation[/center]
-of magic, although they do not generate their own[/center]
-magical energy. Rather, they absorb the energy of spells[/center]
-cast at them, and use this energy to power their own spells.[/center]
-The main Sorcerer skills are: All Schools of Magicka --[/center]
-Mysticism, Alteration, Thaumaturgy,[/center]
-Destruction, Restoration, and Illusion.[/center]
-Do you wish your character to be a Sorcerer?[/center]
-[/end]"
-2104,"Healers use their magic to treat injuries[/center]
-and cure illnesses. Their function is primarily[/center]
-defensive in nature. The most important skills to a Healer[/center]
-are: Restoration, Medical, Dodging, Thaumaturgy,[/center]
-Mysticism, and Alteration.[/center]
-Do you wish your character to be a Healer?[/center]
-[/end]"
-2105,"Nightblades use their magic abilities as[/center]
-an aid to subterfuge. The Nightblade is often like a thief[/center]
-with the capability to use magic. The skills most important[/center]
-to a Nightblade are: Illusion, Stealth, Dodging,[/center]
-Thaumaturgy, Short Blade, and Lockpicking.[/center]
-Do you wish your character to be a Nightblade?[/center]
-[/end]"
-2106,"Bards are the most versatile class, learned in[/center]
-many different arts. They are familiar with weaponry, magic,[/center]
-and the thiefly talents. The skills most often employed[/center]
-by Bards are: Streetwise, Etiquette,[/center]
-Pickpocketing, Stealth, Short Blade, and[/center]
-Hand-to-Hand.[/center]
-Do you wish your character to be a Bard?[/center]
-[/end]"
-2107,"Burglars are well versed in the arts of picking locks.[/center]
-They can sneak undetected into even the most[/center]
-secure of noble houses and escape detection.[/center]
-The most important Burglar skills are: Lockpicking,[/center]
-Stealth, Climbing, Mercantile,[/center]
-Dodging, and Short Blade.[/center]
-Do you wish your character to be a Burglar?[/center]
-[/end]"
-2108,"Rogues are trained in both the shadowy arts of the[/center]
-thief, and the combat arts of the warrior. The Rogue[/center]
-relies on these skills most heavily: Long Blade,[/center]
-Stealth, Dodging, Pickpocketing, Backstabbing,[/center]
-and Streetwise.[/center]
-Do you wish your character to be a Rogue?[/center]
-[/end]"
+2100,"메이지는 마법 기술의 학습과 사용에 일생을 바치는[/center]\n자들 입니다.[/center]\n숙련된 메이지는 상대하기 매우 위협적인 상대가 될 수 있습니다.[/center]\n메이지에게 가장 중요한 기술: 모든 마법 학파--[/center]\n신비마법, 변화마법, 역동마법,[/center]\n환영마법, 파괴마법, 회복마법.[/center]\n캐릭터를 메이지로 하시겠습니까?[/center]\n[/end]"
+2101,"마검사는 전사이지만 마법의 사용에도 상당한[/center]\n조예를 가지고 있는 자들입니다.[/center]\n이때문에 마검사들은 상대하기 만만치 않은 적입니다.[/center]\n마검사에게 가장 중요한 기술:[/center]\n도끼, 장검, 둔기, 파괴마법,[/center]\n환영마법, 변화마법.[/center]\n캐릭터를 마검사로 하시겠습니까?[/center]\n[/end]"
+2102,"배틀 메이지는 마법 기술을 전투용도로 사용하며[/center]\n공격 마법 주문을 자유자재로 사용합니다.[/center]\n배틀 메이지에 가장 중요한 기술:[/center]\n파괴마법, 장검, 도끼,[/center]\n역동마법, 변화마법, 격투.[/center]\n캐릭터를 배틀 메이지로 하시겠습니까?[/center]\n[/end]"
+2103,"소서러는 마법을 다루는데 아주 능숙합니다.[/center]\n사용하는 마법적 에너지를 스스로 만들지는 못하지만[/center]\n자신이 받는 마법 주문에서 에너지를 흡수하여[/center]\n주문 영창에 사용합니다.[/center]\n소서러에 가장 중요한 기술: 모든 마법 학파--[/center]\n신비마법, 변화마법, 역동마법,[/center]\n파괴마법, 회복마법, and 환영마법.[/center]\n캐릭터를 소서러로 하시겠습니까?[/center]\n[/end]"
+2104,"힐러는 마법을 상처와 질병을 회복하는데 사용합니다.[/center]\n때문에 보통 방어적인 역활을 수행합니다.[/center]\n힐러에게 가장 중요한 기술:[/center]\n회복마법, 의료, 회피, 역동마법,[/center]\n신비마법, 변화마법.[/center]\n캐릭터를 힐러로 하시겠습니까?[/center]\n[/end]"
+2105,"나이트블레이드는 은신 능력을 보충하는데 마법을 사용합니다.[/center]\n마법을 쓸 줄 아는 도둑과 유사합니다.[/center]\n나이트블레이드에 가장 중요한 기술:[/center]\n환영마법, 은신, 회피,[/center]\n역동마법, 소검, 자물쇠.[/center]\n캐릭터를 나이트블레이드로 하시겠습니까?[/center]\n[/end]"
+2106,"바드는 가장 다재다능한 직업으로, 여러 기술을 가졌습니다.[/center]\n무기, 마법, 도둑 관련 기술에 능숙합니다.[/center]\n바드가 자주 사용하는 기술:[/center]\n거리예절, 궁중예절,[/center]\n자물쇠, 은신, 소검, 격투.[/center]\n캐릭터를 바드로 하시겠습니까?[/center]\n[/end]"
+2107,"버글러는 자물쇠 기술에 뛰어납니다.[/center]\n가장 잘 경비된 귀족의 집에 들키지 않고[/center]\n숨어 들어 갈 수 있습니다.[/center]\n바드의 중요 기술: 자물쇠, 은신,[/center]\n등반, 거래, 회피, 소검[/center]\n캐릭터를 버글러로 하시겠습니까?[/center]\n[/end]"
+2108,"로그는 도둑으로서의 은신기술과 전사로서의 전투기술을[/center]\n같이 훈련한 직업입니다.[/center]\n로그의 중요 기술: 장검, 은신, 회피, 자물쇠, 배후공격,[/center]\n거리예절.[/center]\n캐릭터를 로그로 하시겠습니까?[/center]\n[/end]"
 2109,"Acrobats practice the thieving arts, and use their[/center]
 remarkable physical skills to aid them.[/center]
 They are very quick, agile, and nimble. The most[/center]
@@ -4624,13 +2761,7 @@ Blunt Weapon, Long Blade, Axe,[/center]
 Jumping, Running, and Swimming.[/center]
 Do you wish your character to be a Barbarian?[/center]
 [/end]"
-2116,"Warriors are those most heavily trained in the arts[/center]
-of combat and warfare. They are adept in the use of many[/center]
-weapons and are often heavily armored. The skills most[/center]
-important to a Warrior are: Axe, Long Blade,[/center]
-Blunt Weapon, Hand-to-Hand, Archery, and Short Blade.[/center]
-Do you wish your character to be a Warrior?[/center]
-[/end]"
+2116,"워리어는 전투 기술에 가장 강도 높은 훈련을 받았습니다.[/center]\n여러 무기의 사용에 익숙하며 갑옷으로 중무장 합니다.[/center]\n워리어에 가장 중요한 기술:도끼, 장검, 둔기 무기,[/center]\n격투, 궁술, 소검[/center]\n캐릭터를 워리어로 하시겠습니까?[/center]\n[/end]"
 2117,"Knights are trained as warriors. They hail from noble[/center]
 stock, and adhere to the code of chivalry.[/center]
 The most important skills to a Knight are:[/center]
@@ -4638,7 +2769,7 @@ Long Blade, Etiquette, Blunt Weapon, Axe,[/center]
 Archery and Short Blade.[/center]
 Do you wish your character to be a Knight?[/center]
 [/end]"
-2200,"Select thy character's gender.[/center]
+2200,"캐릭터의 성별을 선택하세요.[/center]\n[/end]"
 [/end]"
 2400,"Help - General[/center]
 [/record]
@@ -4800,54 +2931,18 @@ you wish, you can return later tonight,[/center]
 but tomorrow will be a day too late to[/center]
 summon the Daedra %dts.[/center]
 [/end]"
-3508,"The summoning seems to have failed.[/center]
-[/record]
-Tonight %dts was not[/center]
-to be summoned. Accept my apologies.[/center]
-[/end]"
-3509,"Tonight the portents are not kind for[/center]
-a safe summoning, %pcf. If[/center]
-you would like to be present for the[/center]
-summoning of %dts, return[/center]
-on %dfs.[/center]
-[/record]
-We are not summoning %dts[/center]
-this evening. Return on %dfs[/center]
-if you want to be present for the[/center]
-summoning.[/center]
-[/end]"
-4000,"Do you want to Teleport or Set an Anchor?[/center]
-[/end]"
-4001,"An Anchor must be set before you can Teleport.[/center]
-[/end]"
+3508,"소환은 실패 했소.[/center]\n[/record]\n오늘밤은 %dts 의 응답이 없었소[/center]\n내 사과를 받아주시오.[/center]\n[/end]"
+3509,"Tonight the portents are not kind for[/center]\na safe summoning, %pcf. If[/center]\nyou would like to be present for the[/center]\nsummoning of %dts, return[/center]\non %dfs.[/center]\n[/record]\nWe are not summoning %dts[/center]\nthis evening. Return on %dfs[/center]\nif you want to be present for the[/center]\nsummoning.[/center]\n[/end]"
+4000,"텔레포트 와 위치지정 중 어느 것을 합니까?[/center]\n[/end]"
+4001,"텔레포트를 하기전에 위치지정을 해야합니다.[/center]\n[/end]"
 4020,"Congratulations, %pcn,[/center]
 You are now a Master of %ski[/center]
 One of the Finest Practitioners[/center]
 Of %ski in Tamriel.[/center]
 [/end]"
 4021,Master of %ski[/end]
-4022,"Me train you? You could teach the[/center]
-old trainer a few things in that,[/center]
-%pct.[/center]
-[/record]
-I'm sorry, %pct. There's[/center]
-nothing I could show you that you[/center]
-wouldn't already know.[/center]
-[/record]
-You've picked one skill in which[/center]
-your ability certainly supersedes[/center]
-mine, %pct.[/center]
-[/record]
-You're already far more skilled[/center]
-in that than I, %pct.[/center]
-[/end]"
-4023,"You must give yourself time to[/center]
-reflect on what you've trained in[/center]
-so far today.[/center]
-[/record]
-You cannot train in one than one[/center]
-skill in a single day.[/center]
-[/end]"
+4022,"가르쳐 달란 말입니까? 오히려 그쪽에서 그걸[/center]\n몇가지 가르쳐 줄 수 있을것 같습니다,[/center]\n%pct.[/center]\n[/record]\n미안합니다만, %pct.[/center]\n가르쳐 줄 수 있는 게 더 이상[/center]\n없는것 같습니다.[/center]\n[/record]\n그 기술에 관해서는[/center]\n%pct 의 실력이 이쪽보다 크게 웃도는 것[/center]\n같습니다.[/center]\n[/record]\n%pct, 제가 가르칠 수 있는 실력을[/center]\n넘어섰습니다.[/center]\n[/end]"
+4023,"오늘 훈련한 것을 되돌아볼 시간이 필요합니다.[/center]\n[/record]\n하루에 훈련은 기술 하나만 가능합니다.[/center]\n[/end]"
 4050,"Reliquary of Raen[/record]
 Shrine of Bandi[/record]
 Shrine of Mai[/record]
@@ -6508,135 +4603,20 @@ handed you a mace[/end]"
 4904,took your bow from you.[/end]
 4905,"handed you a sword[/record]
 gave you a blade[/end]"
-5100,"Your room is still rented for %dwr hours yet.[/center]
-For how many additional days will you[/center]
-require the room?[/center]
-[/input] [/center]
-[/end]"
-5101,"Happy Heart's Day, %ra. As traditional, you[/center]
-have a free room for the day. If you want to rent[/center]
-it for a longer time, please stop by tomorrow.[/center]
-[/end]"
-5102,"Good day, %ra. For how many days[/center]
-will you require the room?[/center]
-[/input] [/center]
-[/end]"
-5221,"You and the trainer practice for 3 hours. The trainer[/center]
-tells you to reflect on what you've learned,[/center]
-and see if you can put it to good use.[/center]
-[/end]"
-5225,"Awright, kid, now lissen, I ain't gonna[/center]
-repeat myself. Since you're one of us now,[/center]
-just a %lev, but still,[/center]
-I'll tell you where a local dungeon is you[/center]
-might wanna use to supplement yer stash.[/center]
-Lemme mark it on your map. There it is,[/center]
-%dng. Now don't say[/center]
-I ain't never done anything for ya.[/center]
-[/record]
-"
-5226,"Congratulations, kid, you can call call[/center]
-yerself a %lev in the Thieves[/center]
-Guild now. We'll be yer official fence now[/center]
-if ya want. We got ourselves a rat here[/center]
-who'll buy yer hot merchandise offa ya and[/center]
-sell ya stuff at a real discount that other[/center]
-blokes picked up. Makes life a little[/center]
-easier, I says.[/center]
-[/end]"
-5227,"Good going, hotshot. We think yer ready to[/center]
-be a full-fledged %lev in[/center]
-the Thieves Guild. From now on, if you wanna[/center]
-know the newest scoop, talk to our spymaster.[/center]
-We got ears all over the place, and now that[/center]
-yer a %lev, so do you.[/center]
-[/end]"
-5228,"Listen, %pcf, I thought you'd[/center]
-be innerested in hearin' about a little pit[/center]
-here in %reg called %dng.[/center]
-Virgin treasure trove, all ready ta be picked[/center]
-apart. Let me mark it in yer map for ya. After[/center]
-all, as the newest %lev[/center]
-in the Thieves Guild, ya gotta keep yer income[/center]
-up, eh, %pcf?[/center]
-[/end]"
-5229,"The Thieves Guild ranked ya again,[/center]
-%pcf, whattya think about that?[/center]
-Now that yer a %lev,[/center]
-it's time I showed ya my own favorite,[/center]
-secret treasure pit. Here it is on yer map.[/center]
-They call in %dng.[/center]
-Cheers on yer promotion, kid,[/center]
-and enjoy the plunder.[/center]
-[/end]"
-5230,"Allow me to be the first to offer my[/center]
-unreserved congratulations on your glorious[/center]
-ascension up the slippery hierarchy that is[/center]
-the Mages Guild. Now that you have achieved[/center]
-the rank of %lev, you[/center]
-have access to the Guild library. I can[/center]
-remember when I was first deemed worthy[/center]
-of such an honor. My eyes did not leave[/center]
-printed page for three whole days. My[/center]
-advice is to take advantage of this[/center]
-as soon as possible. Once again,[/center]
-jolly good show, %pcf.[/center]
-[/end]"
-5231,"Without hesitation, the Mages Guild has[/center]
-elected to elevate your status and rank within[/center]
-the Guild to that of %lev. You[/center]
-now shall be honored with access to the Guild's[/center]
-archives -- the largest selection of magical[/center]
-esoteria in %reg. Most all items[/center]
-are available for purchase, and our keeper is[/center]
-forever looking for new articles and offers[/center]
-generous rewards for such. I hope you will[/center]
-find this honor useful. Once again, I do[/center]
-respectively offer my congratulations.[/center]
-[/end]"
-5232,"%pcn, the Archmagister has[/center]
-approved your promotion to the rank and station[/center]
-of %lev in the Mages Guild. As[/center]
-a %lev, you are hereby granted the right to use[/center]
-the Guild's enchantments as you see fit. Our[/center]
-magesmith will be honored to assist you in[/center]
-enchanting any items you desire. If I may[/center]
-be so bold, I offer you my personal[/center]
-congratulations to you,[/center]
-%lev %pcn.[/center]
-[/end]"
-5233,"On this day, by near unanimous vote of[/center]
-Archmagister and Council, your title within[/center]
-the guild is %lev. As[/center]
-%lev, you are considered to be[/center]
-responsible and trustworthy enough to have[/center]
-rights to the Daedra summoning chamber. I[/center]
-don't need to tell you that summoning a Daedra[/center]
-is an act to be performed only after serious[/center]
-consideration. If the need, in your opinion,[/center]
-merits a summoning, the Guild Summoner will[/center]
-aid you. Naturally, Daedra lords may only be[/center]
-summoned on certain particular days for the[/center]
-safety of the Guild as a whole. It is a grave[/center]
-privilege, %pcn, of which[/center]
-the Guild finds you worthy.[/center]
-[/end]"
-5234,"%pcn, it honors me to bestow[/center]
-upon you the rank of %lev. By[/center]
-deed and word, you have proven yourself to be[/center]
-an exceptional guildmember worthy of the[/center]
-penultimate position that the Mages Guild[/center]
-recognizes. As a full %lev,[/center]
-you may call upon the services of the Travellers[/center]
-League, who guard the Guild's most treasured and[/center]
-secret room -- the Teleportation Chamber.[/center]
-From there, you may travel to any other [/center]
-settlement in the Bay in but a twinkling.[/center]
-As your time is most valuable, the[/center]
-Chamber should aid you. Once again,[/center]
-permit me to congratulate you on[/center]
-this great honor, %lev.[/center]
-[/end]"
+5100,"숙박 기간은 아직 %dwr 시간이 남아있습니다.[/center]\n추가로 며칠이나 더[/center]\n필요하신가요?[/center]\n[/input] [/center]\n[/end]"
+5101,"즐거운 발렌타인 데이입니다, %ra. 전통에 따라,[/center]\n오늘은 방을 무료로 이용하실 수 있습니다.[/center]\n더 오래 머무르시려면 내일 다시 들려주세요.[/center]\n[/end]"
+5102,"안녕하세요, %ra. 얼마나 오래[/center]\n머무르실 예정이신가요?[/center]\n[/input] [/center]\n[/end]"
+5221,"교습자와 3시간 동안 훈련 했습니다.[/center]\n배운 것을 어떻게 받아들여야 하는지,[/center]\n또한 배운 것을 어떻게 잘 사용해야 할지에 대해 교육 받았습니다.[/center]\n[/end]"
+5225,"좋아, 애송아, 잘 들어라, 한 번만[/center]\n말 해줄거니까. 이제 너도 우리 소속이 되었으니까,[/center]\n%lev밖에 안되긴 해도, 어쨌든,[/center]\n던전이 어디있는지 알려주지.[/center]\n상자에서 보급품을 챙겨가는게 좋을거다.[/center]\n지도에 표시해주지. 자, 됐다,[/center]\n%dng. 이제 어디 가서[/center]\n내가 해준게 없다고 하면 안된다.[/center]\n[/record]"
+5226,"축하한다, 애송이, 너도 이제 자신을[/center]\n도둑 길드의 %lev라고 할 수 있겠어[/center]\n원한다면 네 물건은[/center]\n우리가 거래해주지[/center]\n우리가 너의 물건을 구매해주거나[/center]\n다른 녀석들이 주워온 물건을[/center]\n아주 할인된 가격에 팔아줄 수 있다[/center]\n상부상조하는 거지[/center]\n[/end]"
+5227,"잘 하고 있군. 이젠 너도[/center]\n도둑 길드의 %lev로서 자격을 갖췄다.[/center]\n앞으로는, 최신 정보를 알고 싶다면[/center]\n스파이 마스터를 찾아봐라.[/center]\n우리는 이곳저곳에 귀를 대고 있다. 이젠 너도[/center]\n%lev가 되었으니, 너도 그렇게 해야지.[/center]\n[/end]"
+5228,"들어봐, %pcf, 네가 흥미를[/center]\n가질만한 곳이 있는데 말이야[/center]\n이 %reg에 있는 %dng라는 구덩이야.[/center]\n아직 아무도 손 데지 않은 보물이[/center]\n거기에 뭍혀있지. 자, 지도에 표시해줄게.[/center]\n어쨌든, 너도 도둑 길드의 신입 %lev로서[/center]\n수입을 올리긴 해야되니까[/center]\n안그래, %pcf?[/center]\n[/end]"
+5229,"길드에서 너를 또 승진시켜줬어,[/center]\n%pcf, 어떻게 생각해?[/center]\n너도 %lev가 되었으니까, 내가 가장[/center]\n좋아하는 비밀 장소를 보여줘야겠군,[/center]\n자, 네 지도에 표시해뒀어.[/center]\n사람들은 %dng라고 부르는 곳이지.[/center]\n승진 축하한다, 애송아,[/center]\n가서 즐기라고.[/center]\n[/end]"
+5230,"귀하께 존경을 표하오니,[/center]\n이 마법사 길드의 험난한 계급 체계에서[/center]\n영예로운 승격에 진심으로 경의를 표합니다.[/center]\n이제 귀하께서는 %lev의 계급을 이루셨으니[/center]\n길드 도서관에 접근하실 수 있습니다.[/center]\n제가 처음으로 그런 명예를[/center]\n허가 받았던 때가 기억나는군요.[/center]\n저는 사흘 간 책에서 눈을 떼지 못했지요.[/center]\n저는 귀하께서 이 기회를 최대한 이용하실 것을[/center]\n조언 드립니다.[/center]\n다시 한 번, 탁월한 성과를 이루신 것에[/center]\n축하 드립니다, %pcf.[/center]\n[/end]"
+5231,"마법사 길드에서는 귀하의 길드 내[/center]\n지위와 계급을 %lev로 승격 시키기로[/center]\n결정했습니다. 이제 귀하께서는 %reg[/center]\n에소테리아에서 가장 다양한 마법 지식이[/center]\n보관되어 있는 길드 기록 보관소에 접근할 수[/center]\n있는 명예를 얻으셨습니다. 대부분의 품목은[/center]\n구매가 가능하며, 저희 관리인은 언제나[/center]\n새로운 물건들을 찾고 있으며 후한 보상을[/center]\n제공할 겁니다. 귀하께서 이 영예를[/center]\n유용하게 이용하길 바랍니다. 다시 한 번,[/center]\n진심으로 축하의 말씀을 드립니다.[/center]\n[/end]"
+5232,"%pcn, 대마법사께서 귀하의 %lev로의[/center]\n승급을 허가하셨습니다.[/center]\n%lev로서, 귀하께는 길드의[/center]\n길드의 마법 부여를 이용할 권리가[/center]\n부여됩니다. 길드의 마법 제련사는[/center]\n기꺼이 귀하가 원하는 물건에 마법 부여를[/center]\n도와드릴 것 입니다.[/center]\n귀하께서 허락하신다면,[/center]\n제 개인적인 축하 말씀을 드립니다,[/center]\n%lev %pcn.[/center]\n[/end]"
+5233,"오늘, 대마법사와 의회가 거의 만장일치로[/center]\n귀하의 지위를 %lev로 승격 결정했습니다.[/center]\n%lev로서, 귀하께서는 충분히 책임감이 있고[/center]\n신뢰할 수 있다 판단되어[/center]\n데이드라 소환실에 대한 권한이 부여됩니다.[/center]\n제가 말씀드릴 필요도 없겠지만,[/center]\n데이드라의 소환은 심각한 재고 후에만[/center]\n행해야 합니다. [/center]\n소환에 도움이 필요하다면,[/center]\n길드 소환 마법사가 귀하를 도울 것입니다.[/center]\n당연히, 데이드라 군주들은[/center]\n길드의 안전을 위해 특정한 날에만[/center]\n소환할 수 있습니다.[/center]\n이것은 매우 중대한 권리입니다, %pcn, 길드에서는[/center]\n귀하께 그만한 가치가 있다고 생각합니다.[/center]\n[/end]"
+5234,"%pcn, 귀하께 %lev 직위를 수여하는 것은[/center]\n저에게 영광입니다. 행동과 말로,[/center]\n귀하께서는 마법사 길드가 인정하는[/center]\n가장 뛰어난 길드원임을 입증하셨습니다.[/center]\n완전한 %lev로서, 귀하께서는[/center]\n길드에서 가장 귀중하고 비밀스러운 방인[/center]\n공간이동실을 지키는.[/center]\n여행자 연합에게 서비스를[/center]\n요청하실 수 있습니다.[/center]\n그곳에서, 눈 깜빡할 사이에[/center]\n다른 마을로 이동할 수 있습니다.[/center]\n귀하의 시간은 가장 귀한 자산이므로,[/center]\n그들은 귀하를 도울 것입니다.[/center]\n다시 한 번, 귀하의 큰 명예에[/center]\n축하 드리도록 허락해 주십시오, %lev.[/center]\n[/end]"
 5235,"For what it's worth, ya can call yerself[/center]
 %lev, now, %pcf. Change of[/center]
 rank due to meritous blah blah blah.[/center]
@@ -7754,7 +5734,7 @@ What'd you say to %a gold?[/end]"
 7203,"I ain't no charity, honey.[/record]
 No money, no fun, sweetie.[/end]"
 7204,You cannot talk to that.[/end]
-7205,You get no response.[/end]
+7205,"대답이 없습니다.[/end]"
 7206,"What do you want now, %pcf?[/record]
 This better be good. I'm busy.[/record]
 All right, %pcf. You have one minute of my time.[/record]
@@ -8326,44 +6306,16 @@ the door send chills down your spine.[/left]
 7770,"The clatter of pots and pans and the smell[/left]
 of fresh baked bread waft through this door.[/left]
 [/end]"
-8050,"You, %pcn, are accused of the crime of[/center]
-%cri. If you plead not guilty[/center]
-and are found guilty, you will face[/center]
-%pen. A guilty plea will[/center]
-invoke the mercy of the court and your[/center]
-penalty will be far less. How plea you?[/center]
-[/end]"
-8052,"You do not have enough gold, %pcn. You will spend[/center]
-an additional %pdg days in prison.[/center]
-[/end]"
-8053,"Do you wish to wait the %dip days[/center]
-until the day you are to be released?[/center]
-[/end]"
-8055,"You have been found guilty, and are sentenced to[/center]
-%dip days in prison. Starting today.[/center]
-[/end]"
-8057,"You have been found guilty, and are sentenced to[/center]
-pay a fine of %gtp gold pieces immediately.[/center]
-[/end]"
-8058,"You have been found guilty, and are to pay a fine[/center]
-of %gtp gold pieces. In addition, you are to[/center]
-serve %dip days in prison. That is all.[/center]
-[/end]"
-8060,"%pcn, you are to be executed for your crimes[/center]
-against the people of %cn. You are sentenced[/center]
-to be sealed into the %prn,[/center]
-to face the demons within, never to be released.[/center]
-[/end]"
-8062,"%pcn, you have been found not guilty[/center]
-by this court. You are free to go.[/center]
-[/end]"
-8063,"%pcn, this court finds you guilty,[/center]
-and for your crimes you are to be banished[/center]
-from %cn, never to return.[/center]
-[/end]"
-8064,"How will you attempt to convince[/center]
-the court of your innocence?[/center]
-[/end]"
+8050,"%pcn, 너는 %cri 의 죄로 기소 되었다.[/center]\n만약 네가 무죄를 항변하고 유죄 판결을 받으면,[/center]\n%pen 의 처벌을 받게 될 것이다.[/center]\n그러나 네 죄를 인정하고 이 법정의 자비를[/center]\n구한다면 처벌은 훨씬 가벼울것 이다.[/center]\n무엇을 탄원하겠는가?[/center]\n[/end]"
+8052,"골드가 모자라군, %pcn.[/center]\n형기가 %pdg 일 더 늘어날 것이다.[/center]\n[/end]"
+8053,"석방될 때까지 %dip 일을 기다리시겠습니까?[/center]\n[/end]"
+8055,"유죄를 선고한다, 지하 감옥형 %dip 일에 처한다.[/center]\n오늘부터 시작하도록 한다.[/center]\n[/end]"
+8057,"유죄를 선고한다, 벌금으로 %gtp 골드를 즉시 지불하라.[/center]\n[/end]"
+8058,"유죄를 선고한다, 벌금으로 %gtp 골드,[/center]\n추가로 지하감옥형 %dip 일에 처한다. 이상.[/center]\n[/end]"
+8060,"%pcn, %cn 의 시민에게 저지른 죄로 처형한다.[/center]\n%prn 에서 무기징역에 처한다.[/center]\n[/end]"
+8062,"%pcn, 무죄를 선고한다.[/center]\n가도 좋다.[/center]\n[/end]"
+8063,"%pcn, 유죄를 선고한다,[/center]\n%cn 에서 추방하며, 돌아오지 말 것을 명령한다.[/center]\n[/end]"
+8064,"법정에 어떻게 무죄를 설득하시겠습니까?[/center]\n[/end]"
 8075,"I can't think of any work available for a %ra like you.[/record]
 Why in Tamriel would I offer a %ra like you a job?[/record]
 Maybe you ought to learn a trade like cobbling.[/record]
