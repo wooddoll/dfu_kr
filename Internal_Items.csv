@@ -1,12 +1,12 @@
 ﻿Key,Value
-0,Ruby
-1,Emerald
-2,Sapphire
-3,Diamond
-4,Jade
-5,Turquoise
-6,Malachite
-7,Amber
+0,루비
+1,에메랄드
+2,사파이어
+3,다이아몬드
+4,옥
+5,터키옥
+6,공작석
+7,호박
 8,Twigs
 9,Green Leaves
 10,Red Flowers
@@ -101,40 +101,40 @@
 99,Deed to Townhouse
 100,Deed to House
 101,Deed to Manor
-102,Cuirass
-103,Gauntlets
-104,Greaves
-105,Left Pauldron
-106,Right Pauldron
-107,Helm
-108,Boots
-109,Buckler
-110,Round Shield
-111,Kite Shield
-112,Tower Shield
-113,Dagger
-114,Tanto
-115,Staff
-116,Shortsword
-117,Wakazashi
-118,Broadsword
-119,Saber
-120,Longsword
-121,Katana
-122,Claymore
-123,Dai-katana
-124,Mace
-125,Flail
-126,Warhammer
-127,Battle Axe
-128,War Axe
-129,Short Bow
-130,Long Bow
-131,Arrow
-132,Spellbook
-133,Amulet
-134,Bracer
-135,Ring
+102,상체 갑옷
+103,건틀릿
+104,다리 갑옷
+105,좌측 견갑
+106,우측 견갑
+107,투구
+108,부츠
+109,버클릿
+110,라운드 쉴드
+111,카이트 쉴드
+112,타워 쉴드
+113,대거
+114,탄토
+115,스태프
+116,소검
+117,와카자시
+118,브로드소드
+119,세이버
+120,롱소드
+121,카타나
+122,클레이모어
+123,다이-카타나
+124,메이스
+125,플레일
+126,워해머
+127,배틀액스
+128,워액스
+129,숏보우
+130,롱보우
+131,화살
+132,주문책
+133,아뮬렛
+134,브레이서
+135,반지
 136,Bracelet
 137,Mark
 138,Torc
