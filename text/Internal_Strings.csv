@@ -31,7 +31,7 @@ potionRecipeFor,%po 포션 제작법
 potionOf,%po 포션
 letterPrefix,편지:
 multipleAssignments,여러 임무 수행중...
-youAreEntering,%s 입장
+youAreEntering,%s 도착
 storeClosed,상점이 문을 닫음. 개점 시간 %d1:00 에서 %d2:00.
 guildClosed,길드가 문을 닫음. 개방 시간 %d1:00 에서 %d2:00.
 any,어떤 %s
