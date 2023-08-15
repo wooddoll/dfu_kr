@@ -1,4 +1,4 @@
-﻿Key,Value
+Key,Value
 about_internal_strings,This string table collection stores text that was hard-coded in FALL.EXE and text unique to Daggerfall Unity.
 pleaseSelectYourHomeProvince,출신 지역을 선택하십시오...
 saveGame,게임 저장
@@ -185,14 +185,14 @@ aCriminal,a criminal
 aScoundrel,a scoundrel
 undependable,undependable
 unknown,unknown
-Broken,Broken
-Useless,Useless
-Battered,Battered
-Worn,Worn
-Used,Used
-SlightlyUsed,Slightly Used
-AlmostNew,Almost New
-New,New
+Broken,부서짐
+Useless,쓸모없음
+Battered,닳아빠진
+Worn,낡은
+Used,꽤 사용한
+SlightlyUsed,약간 사용한
+AlmostNew,거의 새것
+New,새것
 Nothing,Nothing
 local,local
 tavern,tavern
