@@ -31,7 +31,7 @@ potionRecipeFor,%po 포션 제작법
 potionOf,%po 포션
 letterPrefix,편지:
 multipleAssignments,여러 임무 수행중...
-youAreEntering,%s 도착
+youAreEntering,%s 입장
 storeClosed,상점이 문을 닫음. 개점 시간 %d1:00 에서 %d2:00.
 guildClosed,길드가 문을 닫음. 개방 시간 %d1:00 에서 %d2:00.
 any,어떤 %s
@@ -364,31 +364,31 @@ tavernFowl,Fowl (3 gold)
 tavernGruel,Gruel (2 gold)
 tavernPie,Pie (2 gold)
 tavernStew,Stew (3 gold)
-pressButtonToFireSpell,Press button to fire spell.
-climbingMode,Climbing mode.
-rappelMode,Rappel mode.
+pressButtonToFireSpell,사용 버튼을 눌러 주문 사용.
+climbingMode,등반 모드.
+rappelMode,레펠 모드.
 hangingMode,Hanging Mode
 acuteHearing,Acute Hearing
-adrenalineRush,Adrenaline Rush
-athleticism,Athleticism
+adrenalineRush,아드레날린 러시
+athleticism,운동능력
 bonusToHit,Bonus to hit
 expertiseIn,Expertise in
 immunity,Immunity
-increasedMagery,Increased Magery
-rapidHealing,Rapid Healing
-regenerateHealth,Regenerate Health
-resistance,Resistance
-spellAbsorption,Spell Absorption
-animals,Animals
-daedra,Daedra
-humanoid,Humanoid
-undead,Undead
-axe,Axe
-bluntWeapon,Blunt Weapon
+increasedMagery,주문점수 증가
+rapidHealing,고속 회복
+regenerateHealth,생명력 재생
+resistance,저항
+spellAbsorption,주문 흡수
+animals,동물
+daedra,데이드라
+humanoid,인간형
+undead,언데드
+axe,도끼
+bluntWeapon,둔기
 handToHand,Hand-to-Hand
-longBlade,Long Blade
+longBlade,장검
 missileWeapon,Missile Weapon
-shortBlade,Short Blade
+shortBlade,소검
 toDisease,To Disease
 toFire,To Fire
 toFrost,To Frost
@@ -396,15 +396,15 @@ toMagic,To Magic
 toParalysis,To Paralysis
 toPoison,To Poison
 toShock,To Shock
-intInSpellPoints15,1.5X INT In Spell Points
-intInSpellPoints175,1.75X INT In Spell Points
-intInSpellPoints2,2X INT In Spell Points
-intInSpellPoints3,3X INT In Spell Points
-intInSpellPoints,INT In Spell Points
-general,General
-inDarkness,In Darkness
-inLight,In Light
-whileImmersed,While Immersed In Water
+intInSpellPoints15,주문 점수=1.5X지능
+intInSpellPoints175,주문 점수=1.75X지능
+intInSpellPoints2,주문 점수=2X지능
+intInSpellPoints3,주문 점수=3X지능
+intInSpellPoints,주문 점수=지능
+general,일반
+inDarkness,어두운 곳에서
+inLight,밝은 곳에서
+whileImmersed,수면 아래서
 criticalWeakness,Critical Weakness
 damage,Damage
 darknessPoweredMagery,Darkness-Powered Magery
@@ -420,19 +420,19 @@ fromHolyPlaces,From Holy Places
 fromSunlight,From Sunlight
 lowerMagicAbilityDaylight,Lower Magic Ability In Daylight
 unableToUseMagicInDaylight,Unable To Use Magic In Daylight
-chain,Chain
-leather,Leather
+chain,체인
+leather,가죽
 plate,Plate
-adamantium,Adamantium
-daedric,Daedric
-dwarven,Dwarven
-ebony,Ebony
-elven,Elven
-iron,Iron
-mithril,Mithril
-orcish,Orcish
-silver,Silver
-steel,Steel
+adamantium,아다만티움
+daedric,데이드릭
+dwarven,드워븐
+ebony,에보니
+elven,엘븐
+iron,철
+mithril,미스릴
+orcish,오키쉬
+silver,실버
+steel,강철
 buckler,Buckler
 kiteShield,Kite Shield
 roundShield,Round Shield
@@ -912,12 +912,12 @@ exteriorAutomapToolTipRotateRightButton,left click: rotate map to the right (hot
 exteriorAutomapToolTipUpstairsButton,left click: zoom in (hotkey: {0})\rright click: apply maximum zoom)
 exteriorAutomapToolTipDownstairsButton,left click: zoom out (hotkey: {0}\rright click: apply minimum zoom)
 exteriorAutomapToolTipPanelCompass,left click: focus player position (hotkey: {0})\rright click: reset view (hotkey: {1})
-loading,Please wait...
-classicSave,Classic
-cancel,Cancel
-renameSave,Rename
-deleteSave,Delete
-switchChar,Switch Char
+loading,기다려 주십시오...
+classicSave,클래식
+cancel,취소
+renameSave,이름변경
+deleteSave,삭제
+switchChar,캐릭터 변경
 savePrompt,게임 저장
 loadPrompt,게임 로드
 saveButton,저장
@@ -1459,4 +1459,4 @@ lucRatings,"저주받은
 운이 꽤 좋은
 운에 강한
 운에는 따라올 자가 없는
-신이 마음에 들어하는"
+신이 편애하는"
