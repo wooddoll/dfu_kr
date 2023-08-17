@@ -44,7 +44,7 @@ weaponAttackThresholdInfo,                          무기로 공격하기 위�
 soundFont,                                          사운드폰트
 soundFontInfo,                                      사운드폰트를 활성화합니다
 alternateMusic,                                     대체 음악
-alternateMusicInfo,                                 OPL3-최적화된 버전의 사운드트랙을 사용합니다.(MIDI 기기 차이에 따른 약간의 음색 변화)
+alternateMusicInfo,                                 OPL3-최적화된 버전의 사운드트랙을 사용합니다(MIDI 기종차이에 따른 약간의 음색 변화)
 soundVolume,                                        사운드 볼륨
 soundVolumeInfo,                                    사운드 볼륨
 musicVolume,                                        음악 볼륨
