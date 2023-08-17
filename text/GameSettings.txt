@@ -44,7 +44,7 @@ weaponAttackThresholdInfo,                          무기로 공격하기 위�
 soundFont,                                          사운드폰트
 soundFontInfo,                                      사운드폰트를 활성화합니다
 alternateMusic,                                     대체 음악
-alternateMusicInfo,                                 OPL3-최적화된 버전의 사운드트랙을 사용합니다(MIDI 기종차이에 따른 약간의 음색 변화)
+alternateMusicInfo,                                 OPL3-최적화된 버전의 사운드트랙을 사용합니다\r(MIDI 기종 차이에 따른 약간의 음색 변화)
 soundVolume,                                        사운드 볼륨
 soundVolumeInfo,                                    사운드 볼륨
 musicVolume,                                        음악 볼륨
@@ -97,7 +97,7 @@ travelMapLocationsOutlineInfo,                      지역 지도에 위치 표�
 guildQuestListBox,                                  길드 퀘스트 플레이어 선택
 guildQuestListBoxInfo,                              현재 접근 가능한 길드 퀘스트를 리스트 형식의 박스창으로 표시합니다
 bowLeftHandWithSwitching,                           활 장비시 왼손만 가능
-bowLeftHandWithSwitchingInfo,                       활을 왼손으로만 장비 가능하게 해서 한손 무기 변경을 가능하게 합니다 - 변경은 약간 시간이 걸립니다
+bowLeftHandWithSwitchingInfo,                       활을 왼손으로만 장비 가능하게 해서 한손 무기 변경을 가능하게 합니다\r무기 변경에 약간 시간이 걸립니다
 loiterLimitInHours,                                 최대 대기시간
 loiterLimitInHoursInfo,                             기본 대기 시간 제한을 변경
 automapTempleColor,                                 길드홀 색상
