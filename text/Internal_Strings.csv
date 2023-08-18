@@ -81,7 +81,7 @@ buildingNames,"아카토쉬의 사원
 매 기사단
 메이지 길드
 파이터 길드
-주점
+선술집
 도서관
 무기 대장장이
 갑옷 대장장이
@@ -367,13 +367,13 @@ tavernStew,Stew (3 gold)
 pressButtonToFireSpell,사용 버튼을 눌러 주문 사용.
 climbingMode,등반 모드.
 rappelMode,레펠 모드.
-hangingMode,Hanging Mode
-acuteHearing,Acute Hearing
+hangingMode,고정 모드
+acuteHearing,청력 민감
 adrenalineRush,아드레날린 러시
-athleticism,운동능력
-bonusToHit,Bonus to hit
-expertiseIn,Expertise in
-immunity,Immunity
+athleticism,높은 운동능력
+bonusToHit,명중률 추가
+expertiseIn,무기 숙련됨
+immunity,면역
 increasedMagery,주문점수 증가
 rapidHealing,고속 회복
 regenerateHealth,생명력 재생
@@ -385,44 +385,44 @@ humanoid,인간형
 undead,언데드
 axe,도끼
 bluntWeapon,둔기
-handToHand,Hand-to-Hand
+handToHand,격투
 longBlade,장검
-missileWeapon,Missile Weapon
+missileWeapon,원거리 무기
 shortBlade,소검
-toDisease,To Disease
-toFire,To Fire
-toFrost,To Frost
-toMagic,To Magic
-toParalysis,To Paralysis
-toPoison,To Poison
-toShock,To Shock
-intInSpellPoints15,주문 점수=1.5X지능
-intInSpellPoints175,주문 점수=1.75X지능
-intInSpellPoints2,주문 점수=2X지능
-intInSpellPoints3,주문 점수=3X지능
-intInSpellPoints,주문 점수=지능
+toDisease,질병
+toFire,화염
+toFrost,냉기
+toMagic,마법
+toParalysis,마비
+toPoison,독기
+toShock,전기
+intInSpellPoints15,주문 점수 1.5X지능
+intInSpellPoints175,주문 점수 1.75X지능
+intInSpellPoints2,주문 점수 2X지능
+intInSpellPoints3,주문 점수 3X지능
+intInSpellPoints,주문 점수 지능
 general,일반
 inDarkness,어두운 곳에서
 inLight,밝은 곳에서
 whileImmersed,수면 아래서
-criticalWeakness,Critical Weakness
-damage,Damage
-darknessPoweredMagery,Darkness-Powered Magery
-forbiddenArmorType,Forbidden Armor Type
-forbiddenMaterial,Forbidden Material
-forbiddenShieldTypes,Forbidden Shield Types
-forbiddenWeaponry,Forbidden Weaponry
-inabilityToRegen,Inability To Regen Spell Points
-lightPoweredMagery,Light-Powered Magery
-lowTolerance,Low Tolerance
-phobia,Phobia
-fromHolyPlaces,From Holy Places
-fromSunlight,From Sunlight
-lowerMagicAbilityDaylight,Lower Magic Ability In Daylight
-unableToUseMagicInDaylight,Unable To Use Magic In Daylight
+criticalWeakness,심각한 약점
+damage,피해입음
+darknessPoweredMagery,어둠 기반 마법능력
+forbiddenArmorType,금지 방어구 종류
+forbiddenMaterial,금지 재질
+forbiddenShieldTypes,금지 방패 종류
+forbiddenWeaponry,금지 무기 종류
+inabilityToRegen,주문점수 재생 불가
+lightPoweredMagery,태양 기반 마법능력
+lowTolerance,저항력 약함
+phobia,공포증
+fromHolyPlaces,성스러운 장소
+fromSunlight,태양빛
+lowerMagicAbilityDaylight,태양빛을 받으면 마법능력 감소
+unableToUseMagicInDaylight,태양빛을 받으면 마법영창 불가
 chain,체인
 leather,가죽
-plate,Plate
+plate,중갑
 adamantium,아다만티움
 daedric,데이드릭
 dwarven,드워븐
@@ -433,92 +433,92 @@ mithril,미스릴
 orcish,오키쉬
 silver,실버
 steel,강철
-buckler,Buckler
-kiteShield,Kite Shield
-roundShield,Round Shield
-towerShield,Tower Shield
-lowerMagicAbilityDarkness,Lower Magic Ability In Darkness
-unableToUseMagicInDarkness,Unable To Use Magic In Darkness
-helpAttributes,Attributes
-helpClassName,Class Name
-helpGeneral,General
-helpReputations,Reputations
-helpSkillAdvancement,Skill Advancement
-helpSkills,Skills
-helpSpecialAdvantages,Special Advantages
-helpSpecialDisadvantages,Special Disadvantages
-lower,Lower
-higher,Higher
-unchanged,Unchanged
-elsweyr,Elsweyr
-blackMarsh,Black Marsh
-hammerfell,Hammerfell
-highRock,High Rock
-morrowind,Morrowind
-skyrim,Skyrim
-sumurset,Sumurset
-valenwood,Valenwood
+buckler,버클러
+kiteShield,카이트 쉴드
+roundShield,라운드 쉴드
+towerShield,타워 쉴드
+lowerMagicAbilityDarkness,어두운 곳에서 마법능력 감소
+unableToUseMagicInDarkness,어두운 곳에서 마법영창 불가
+helpAttributes,능력치
+helpClassName,직업 이름
+helpGeneral,일반
+helpReputations,명성치
+helpSkillAdvancement,기술 연마
+helpSkills,기술
+helpSpecialAdvantages,특수 장점
+helpSpecialDisadvantages,특수 단점
+lower,감소
+higher,증가
+unchanged,변동없음
+elsweyr,엘스웨어
+blackMarsh,블랙 마쉬
+hammerfell,해머펠
+highRock,하이 락
+morrowind,모로윈드
+skyrim,스카이림
+sumurset,서머셋
+valenwood,발렌우드
 rollingHills,rolling hills
 desertLand,desertland
 mountains,mountains
 swamps,swamps
 forests,forests
 shores,shores
-medical,Medical
+medical,의료
 etiquette,Etiquette
 streetwise,Streetwise
-jumping,Jumping
-harpy,Harpy
-giantish,Giantish
-dragonish,Dragonish
-nymph,Nymph
-aedric,Daedric
-spriggan,Spriggan
-centaurian,Centaurian
-impish,Impish
-lockpicking,Lockpicking
-mercantile,Mercantile
-pickpocket,Pickpocket
-stealth,Stealth
-swimming,Swimming
-climbing,Climbing
-backstabbing,Backstabbing
-dodging,Dodging
-running,Running
-destruction,Destruction
-restoration,Restoration
-illusion,Illusion
-alteration,Alteration
-thaumaturgy,Thaumaturgy
-mysticism,Mysticism
-archery,Archery
-criticalStrike,Critical Strike
-strength,Strength
-intelligence,Intelligence
-willpower,Willpower
-agility,Agility
-endurance,Endurance
-personality,Personality
-speed,Speed
-luck,Luck
-STR,STR
-INT,INT
-WIL,WIL
-AGI,AGI
-END,END
-PER,PER
-SPD,SPD
-LUC,LUC
-breton,Breton
-redguard,Redguard
-darkElf,Dark Elf
-highElf,High Elf
-woodElf,Wood Elf
-khajiit,Khajiit
-argonian,Argonian
-vampire,Vampire
-werewolf,Werewolf
-wereboar,Wereboar
+jumping,도약
+harpy,하피어
+giantish,자이언트어
+dragonish,용언
+nymph,님프어
+aedric,데이드릭어
+spriggan,스프리건어
+centaurian,센타우리어
+impish,임프어
+lockpicking,잠금해제
+mercantile,상술
+pickpocket,소매치기
+stealth,은신
+swimming,수영
+climbing,등반
+backstabbing,후방공격
+dodging,회피
+running,달리기
+destruction,파괴마법
+restoration,회복마법
+illusion,환영마법
+alteration,변화마법
+thaumaturgy,역동마법
+mysticism,신비마법
+archery,궁술
+criticalStrike,치명 공격
+strength,근력
+intelligence,지능
+willpower,의지
+agility,민첩
+endurance,체력
+personality,매력
+speed,속도
+luck,행운
+STR,근력
+INT,지능
+WIL,의지
+AGI,민첩
+END,체력
+PER,매력
+SPD,속도
+LUC,행운
+breton,브레튼
+redguard,레드가드
+darkElf,다크 엘프
+highElf,하이 엘프
+woodElf,우드 엘프
+khajiit,카짓
+argonian,아르고니안
+vampire,뱀파이어
+werewolf,웨어울프
+wereboar,웨어보어
 vraseth,Vraseth
 haarvenu,Haarvenu
 thrafey,Thrafey
@@ -528,43 +528,43 @@ khulari,Khulari
 garlythi,Garlythi
 anthotis,Anthotis
 selenu,Selenu
-lockedExteriorDoor,Locked.
-canOnlyCastOncePerDay,Can only be cast once per day...
-youNeedToHuntTheInnocent,You feel the need to hunt the innocent...
-youDreamOfTheMoon,"You dream, once again, of the moon..."
-inventoryWhileShapechanged,You cannot access the inventory while shapechanged...
-youGetNoResponse,You get no response.
+lockedExteriorDoor,잠김.
+canOnlyCastOncePerDay,하루에 한번만 쓸 수 있습니다...
+youNeedToHuntTheInnocent,먹이감을 사냥하고 싶은 욕구가 생깁니다...
+youDreamOfTheMoon,"꿈을, 꿨다, 달의 꿈을..."
+inventoryWhileShapechanged,변형중에는 소지품을 볼 수 없습니다...
+youGetNoResponse,대답이 없습니다.
 copyLogbookInfo,Left-click: toggle copy of selected text. Right-click: copy whole current conversation.
-east,east
-northeast,northeast
-north,north
-northwest,northwest
-west,west
-southwest,southwest
-south,south
-southeast,southeast
-thisPlace,this place
-AnyNews,Any news?
-WhereAmI,Where am I?
-AnswerTextWhereAmI,You are in {0} in {1}.
-YouAreInSameBuilding,You have found {0}. You are in it.
-NpcInSameBuilding,{0} is around here in {1}.
-PreviousList,Previous List
-General,General
+east,동
+northeast,북동
+north,북
+northwest,북서
+west,서
+southwest,남서
+south,남
+southeast,남동
+thisPlace,이 장소
+AnyNews,새로운 소식?
+WhereAmI,이곳은 어디?
+AnswerTextWhereAmI,{1}의 {0} 입니다.
+YouAreInSameBuilding,여기가 {0} 입니다. 지금 있는 곳입니다.
+NpcInSameBuilding,{0}? {1} 주변에 있을겁니다.
+PreviousList,이전 목록
+General,일반
 Regional,Regional
-Alchemists,Alchemists
-Armorers,Armorers
-Banks,Banks
-Bookstores,Bookstores
-Clothingstores,Clothing stores
-Gemstores,Gem stores
-Generalstores,General stores
-Guilds,Guilds
-Libraries,Libraries
-Pawnshops,Pawn shops
-Taverns,Taverns
-Weaponsmiths,Weapon smiths
-Localtemples,Local temples
+Alchemists,연금술사
+Armorers,갑옷 대장장이
+Banks,은행
+Bookstores,서점
+Clothingstores,의류점
+Gemstores,보석상
+Generalstores,일반 상점
+Guilds,길드
+Libraries,도서관
+Pawnshops,전당포
+Taverns,선술집
+Weaponsmiths,무기 대장장이
+Localtemples,지역 사원
 Sir,Sir
 Ma'am,Ma'am
 oldLeaderFate0,심장 마비로 사망했습니다.
@@ -572,7 +572,7 @@ oldLeaderFate1,떨어져서 머리를 부딪혔습니다.
 oldLeaderFate2,질병으로 사망했습니다.
 oldLeaderFate3,압력으로 사임했습니다.
 oldLeaderFate4,강판되었습니다.
-oldLeaderFate5,침대에서 암살당한채로 발견되었습니다.
+oldLeaderFate5,침대에서 암살당한 채로 발견되었습니다.
 toBeReplacedStringRegional,Any
 replacementStringRegional,any
 comma,",  "
@@ -615,7 +615,7 @@ waterWalking,수면 보행
 fire,화염
 frost,냉기
 magicka,매지카
-poison,독기
+poison,독
 shock,전기
 enemy,적
 magic,마법
@@ -801,9 +801,9 @@ completedQuest,완료
 endedQuest,실패
 finishQuestHeader,{0} {1} 시간 {2}:
 quest,Quest
-noteHeader,{0} 장소:{1}:
+noteHeader,시간:{0} 장소:{1}
 houseDeed,You obtained the deeds and now own a house in %town of %region.
-levelProgress,Progress made to the next level: {0}%
+levelProgress,다음 레벨 까지 누적된 진행도: {0}%
 readMap,Discovered the location of %map after studying a map.
 readMapTG,The Thieves Guild have revealed the closely guarded where-abouts of a treasure trove called %map.
 readMapDB,The Dark Brotherhood revealed the secret of some treasure-laden crypts located at somewhere called %map.
@@ -813,11 +813,11 @@ wagonFullGold,Your wagon could only hold {0} gold pieces.
 itemsIdentified,Items identified.
 repairDone,완료
 repairDays,%d 일
-interruptRepair,Take back that item before it's repaired?
+interruptRepair,수리가 완료되기 전입니다. 회수합니까?
 repairNote,Left my {0} for repair at {1}.
 doesntNeedIdentify,This does not need to be identified.
-goldAmount,{0} gold pieces
-goldWeight,Weight: {0} kg
+goldAmount,{0} 골드
+goldWeight,무게: {0} 킬로그램
 letterOfCredit,어음으로 대금을 받았습니다.
 stealSuccess,성공했습니다.
 stealFailure,실패했습니다...
@@ -825,7 +825,7 @@ cannotRemoveItem,You cannot remove this item.
 cannotCarryAnymore,You cannot carry anymore stuff.
 cannotHoldAnymore,Your cart cannot hold anymore stuff.
 cannotUseThis,You cannot use this.
-equippingWeapon,Equipping %s
+equippingWeapon,%s 장비중
 lightDouse,You douse the %it.
 lightLight,You light the %it.
 lightDies,Your %it flickers and dies.
