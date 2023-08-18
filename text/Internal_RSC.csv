@@ -7,7 +7,7 @@ Key,Value
 5,"매력[/center]매력은 매력 관련 기술의 습득량에 영향을 줍니다.[/left][/left]%per 의 매력은, %ark 수준입니다.[/left][/end]"
 6,"속도[/center]속도는 이동 속도, 활 재장전 속도,[/left]모든 속도 관련 기술 습득에 영향을 줍니다.[/left][/left]%spd 의 속도는, %ark 수준입니다.[/left][/end]"
 7,"행운[/center]행운은 모든 행동에 있어서 강력한 변수입니다.[/left]행운이 주요 능력치인 기술은 없지만,[/left]모든 기술의 성공 확률에 영향을 줍니다.[/left][/left]%luc 의 행운은, %ark 수준입니다.[/left][/end]"
-8,"훈련에 %a 가 필요합니다.[/center]훈련을 받으시겠습니까?[/end]"
+8,"훈련에 %a 골드가 필요합니다.[/center]훈련을 받으시겠습니까?[/end]"
 10,"%fcn 에 하나 있다고 들었습니다.[/end]"
 11,"모르겠습니다.[/record]솔직히 말할게 없습니다.[/record]아는게 정말 없습니다...[/record]다른 사람한테 물어보시죠.[/record]모릅니다.[/end]"
 12,"주문책에 아무 주문도 없습니다.[/end]"
@@ -33,7 +33,7 @@ Key,Value
 32,"속박된 영혼이 해방되었습니다.[/center][/end]"
 33,"마법 물품을 수리할 수 없습니다.[/center][/end]"
 34,"가지고 있는 포션 재료가 없습니다.[/center][/end]"
-35,"평판이 다음과 같이 변경 되었습니다:[/left][/left]평민: [/pos:x=70,y=0]%r1[/left]상인: [/pos:x=70,y=0]%r2[/left]학자: [/pos:x=70,y=0]%r3[/left]귀족: [/pos:x=70,y=0]%r4[/left]무법자: [/pos:x=70,y=0]%r5[/left][/end]"
+35,"평판이 변경 되었습니다:[/left][/left]평민: [/pos:x=70,y=0]%r1[/left]상인: [/pos:x=70,y=0]%r2[/left]학자: [/pos:x=70,y=0]%r3[/left]귀족: [/pos:x=70,y=0]%r4[/left]무법자: [/pos:x=70,y=0]%r5[/left][/end]"
 36,"흡혈귀로서 살해를 통해 욕구를 충족해야 할 시간이 오래 지나버렸습니다.[/center]이제 힘을 회복할 수 없습니다.[/center][/end]"
 37,"사유재산 같습니다.[/center]정말로 열어보시겠습니까?[/center][/end]"
 38,"마차만 확인하고,[/center]%cn 안에 남아있습니까?[/center][/end]"
@@ -584,8 +584,7 @@ A Resolution is the fancy name the priests of Zenithar give to their temples.[/r
 Zenithar is the God of Work and Commerce. A no-nonsense kind of deity, and His temples are so headstrong, they're called Resolutions.[/end]"
 871,"Temples devoted to the Mother-Goddess Mara are customarily called Benevolences because she is also the Goddess of Love.[/record]
 A Benevolence is any temple devoted to the Mother-Goddess, Mara.[/record]
-Mara's temples are called Benevolences, just like the God of Work and Commerce calls His temples Resolutions. She's the Mother-Goddess and the Goddess of Love, so it makes sense in a way.[/record]
-"
+Mara's temples are called Benevolences, just like the God of Work and Commerce calls His temples Resolutions. She's the Mother-Goddess and the Goddess of Love, so it makes sense in a way.[/record]"
 872,"The Akatosh Chantry is one of the temples dedicated to the Dragon, the God of Time, Akatosh.[/record]
 The priests of Akatosh always call their temples chantries. I suppose it's because they do a lot of singing there.[/record]
 Akatosh is a Dragon God of Time, and the temples devoted to Him are always called Chantries.[/end]"
@@ -957,7 +956,7 @@ I only hope I might entertain[/record]
 1006,"%it[/center]상태: %qua[/center]가치: %wth 골드[/center]무게: %kg 킬로그램[/center]내용물: %wpn[/end]"
 1007,"%it[/center]가치: %wth 골드[/center]무게: %kg 킬로그램[/center][/end]"
 1008,"%po[/center]가치: %wth 무게[/center]무게: %kg 킬로그램[/center][/end]"
-1009,"%bt 저자 %ba[/center]가치: %wth 골드[/center]무게: %kg 킬로그램[/center][/end]"
+1009,"%bt 저자%ba[/center]가치: %wth 골드[/center]무게: %kg 킬로그램[/center][/end]"
 1010,"몸 상태가 좋지 않기 때문에 장기간[/center]여행시 생존하지 못할 수도 있습니다.[/center]그래도 빠른 이동을 하시겠습니까?[/center][/center][/end]"
 1011,"%wep[/center]무게: %kg 킬로그램[/center][/end]"
 1012,"%wep [/center]피해: %wdm[/center]상태: %qua[/center]무게: %kg 킬로그램[/center][/end]"
@@ -1086,7 +1085,7 @@ I only hope I might entertain[/record]
 1361,"궁술은 활과 화살을 사용해서 목표에[/center]피해를 주는 능력에 관한 기술 입니다.[/center][/center][/end]"
 1362,"도끼술은 전쟁도끼 혹은 전투도끼를[/center]목표에 사용할때 자동으로 사용되는 기술 입니다.[/center][/end]"
 1363,"배후공격은 목표의 후방에서 공격시[/center]사용되는 기술입니다.[/center]이 기술에 능숙하면 적의 후방을 공격시[/center]적중 확률이 올라갑니다.[/center]추가로 배후공격이 제대로 들어갔을때[/center]더 많은 피해를 줄 수 있습니다.[/center][/end]"
-1364,"둔기 무기는 목표를 무겁고, 날이 없는[/center]메이스나 스태프로 공격시 사용되는 기술입니다.[/center]능숙한 둔기 무기 전문가는 매 공격시[/center]더 높은 명중률과 피해를 줄 수 있습니다.[/center][/center][/end]"
+1364,"둔기 무기는 목표를 무겁고, 날이 없는[/center]메이스나 스태프로 공격시 사용되는 기술입니다.[/center]능숙한 둔기 무기 전문가는 공격시[/center]더 높은 명중률과 피해를 줄 수 있습니다.[/center][/center][/end]"
 1365,"센타우리어는 반은 인간이고 반은 말인 센타우르와[/center]대화를 시도할때 사용되는 언어 기술 입니다.[/center][/end]"
 1366,"등반은 벽이나 절벽 경사면을 기어오를때[/center]사용되는 기술입니다.[/center]지면에 닿기 전까지 계속 사용됩니다.[/center][/center][/end]"
 1367,"치명 공격은 성공적으로 목표를 공격[/center]할때 마다 사용되는 기술입니다.[/center]대상에 치명 공격을 성공하면 압도적이며,[/center]치명적인 추가 피해를 줍니다.[/center][/center][/end]"
@@ -4100,36 +4099,34 @@ studying economics[/end]"
 creating disguises[/record]
 make-up, costumes[/end]"
 4228,swimming[/end]
-4229,"sparring[/record]
-boxing[/end]"
+4229,"sparring[/record]boxing[/end]"
 4230,blowing things up[/end]
 4231,healing the ill[/end]
 4232,creating illusions[/end]
-4233,"transforming objects[/record]
-transubstantiation[/end]"
+4233,"transforming objects[/record]transubstantiation[/end]"
 4234,"performing miracles[/record]
 seeing beyond this reality[/end]"
 4235,exploring the unknown[/end]
-4236,"dagger[/record]
-tanto[/record]
-shortsword[/end]"
+4236,"대거[/record]
+탄토[/record]
+숏소드[/end]"
 4237,"boxing[/record]
 sparring[/record]
 fighting[/end]"
 4238,"battleaxe[/record]
 waraxe[/record]
 axe[/end]"
-4239,"flail[/record]
-mace[/record]
-warhammer[/record]
-staff[/end]"
+4239,"플레일[/record]
+메이스[/record]
+워해머[/record]
+스태프[/end]"
 4240,"archery[/record]
 longbow[/record]
 shortbow[/end]"
-4241,"broadsword[/record]
-saber[/record]
-katana[/record]
-claymore[/end]"
+4241,"브로드소드[/record]
+세이버[/record]
+카타나[/record]
+클레이모어[/end]"
 4242,Spark spell[/end]
 4243,Magicka Sponge spell[/end]
 4244,Light spell[/end]
@@ -4457,8 +4454,8 @@ gave you a blade[/end]"
 5100,"숙박 기간은 아직 %dwr 시간이 남아있습니다.[/center]추가로 며칠이나 더[/center]필요하신가요?[/center][/input] [/center][/end]"
 5101,"즐거운 발렌타인 데이입니다, %ra. 전통에 따라,[/center]오늘은 방을 무료로 이용하실 수 있습니다.[/center]더 오래 머무르시려면 내일 다시 들려주세요.[/center][/end]"
 5102,"안녕하세요, %ra. 얼마나 오래[/center]머무르실 예정이신가요?[/center][/input] [/center][/end]"
-5221,"교습자와 3시간 동안 훈련 했습니다.[/center]배운 것을 어떻게 받아들여야 하는지,[/center]또한 배운 것을 어떻게 잘 사용해야 할지에 대해 교육 받았습니다.[/center][/end]"
-5225,"좋아, 애송아, 잘 들어라, 한 번만[/center]말 해줄거니까. 이제 너도 우리 소속이 되었으니까,[/center]%lev밖에 안되긴 해도, 어쨌든,[/center]던전이 어디있는지 알려주지.[/center]상자에서 보급품을 챙겨가는게 좋을거다.[/center]지도에 표시해주지. 자, 됐다,[/center]%dng. 이제 어디 가서[/center]내가 해준게 없다고 하면 안된다.[/center][/record]"
+5221,"교습자와 3시간 동안 훈련 했습니다.[/center]배운 것을 어떻게 받아들여야 하는지,[/center]또한 배운 것을 어떻게 잘 사용해야 할지 교육 받았습니다.[/center][/end]"
+5225,"좋아, 애송아, 잘 들어라, 한 번만[/center]말 해줄거니까. 이제 너도 우리 소속이 되었으니까,[/center]%lev밖에 안되긴 해도, 어쨌든,[/center]던전이 어디있는지 알려주지.[/center]상자에서 보급품을 챙겨가는게 좋을거다.[/center]지도에 표시해주지. 자, 됐다,[/center]%dng. 이제 어디 가서[/center]내가 챙겨준게 없다고 하면 안된다.[/center][/record]"
 5226,"축하한다, 애송이, 너도 이제 자신을[/center]도둑 길드의 %lev라고 할 수 있겠어[/center]원한다면 네 물건은[/center]우리가 거래해주지[/center]우리가 너의 물건을 구매해주거나[/center]다른 녀석들이 주워온 물건을[/center]아주 할인된 가격에 팔아줄 수 있다[/center]상부상조하는 거지[/center][/end]"
 5227,"잘 하고 있군. 이젠 너도[/center]도둑 길드의 %lev로서 자격을 갖췄다.[/center]앞으로는, 최신 정보를 알고 싶다면[/center]스파이 마스터를 찾아봐라.[/center]우리는 이곳저곳에 귀를 대고 있다. 이젠 너도[/center]%lev가 되었으니, 너도 그렇게 해야지.[/center][/end]"
 5228,"들어봐, %pcf, 네가 흥미를[/center]가질만한 곳이 있는데 말이야[/center]이 %reg에 있는 %dng라는 구덩이야.[/center]아직 아무도 손 데지 않은 보물이[/center]거기에 뭍혀있지. 자, 지도에 표시해줄게.[/center]어쨌든, 너도 도둑 길드의 신입 %lev로서[/center]수입을 올리긴 해야되니까[/center]안그래, %pcf?[/center][/end]"
