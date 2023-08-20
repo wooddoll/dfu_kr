@@ -92,8 +92,8 @@ Key,Value
 90,Small Chest
 91,Wine Rack
 92,Large Chest
-93,Small Cart
-94,Horse
+93,작은 마차
+94,말
 95,Rowboat
 96,Large Boat
 97,Small Ship
@@ -108,7 +108,7 @@ Key,Value
 106,우측 견갑
 107,투구
 108,부츠
-109,버클릿
+109,버클러
 110,라운드 쉴드
 111,카이트 쉴드
 112,타워 쉴드
@@ -135,87 +135,87 @@ Key,Value
 133,아뮬렛
 134,브레이서
 135,반지
-136,Bracelet
-137,Mark
-138,Torc
-139,Cloth Amulet
-140,Wand
-141,Straps
-142,Armbands
-143,Kimono
-144,Fancy Armbands
-145,Sash
-146,Eodoric
-147,Shoes
+136,브레이슬렛
+137,표식
+138,토크
+139,천 목띠
+140,마법봉
+141,상체 띠
+142,팔띠
+143,기모노
+144,고급 팔띠
+145,두름천
+146,이오도릭
+147,신발
 148,긴부츠
-149,Boots
-150,Sandals
-151,Casual Pants
-152,Breeches
-153,Short Skirt
-154,Casual Cloak
-155,Formal Cloak
-156,Khajiit Suit
-157,Dwynnen Surcoat
-158,Short Tunic
-159,Formal Tunic
-160,Toga
-161,Reversible Tunic
-162,Loincloth
-163,Plain Robes
-164,Priest Robes
-165,Short Shirt
-166,Short Shirt
-167,Long Shirt
-168,Long Shirt
-169,Short Shirt
-170,Short Shirt
-171,Long Shirt
-172,Long Shirt
-173,Open Tunic
-174,Wrap
-175,Long Skirt
-176,Anticlere Surcoat
-177,Challenger Straps
-178,Short Shirt
-179,Long Shirt
-180,Vest
-181,Champion Straps
-182,Brassiere
-183,Formal Brassiere
-184,Peasant Blouse
-185,Eodoric
-186,Shoes
-187,Tall Boots
-188,Boots
-189,Sandals
-190,Casual Pants
-191,Casual Cloak
-192,Formal Cloak
-193,Khajiit Suit
-194,Formal Eodoric
-195,Evening Gown
-196,Day Gown
-197,Casual Dress
-198,Strapless Dress
-199,Loincloth
-200,Plain Robes
-201,Priestess Robes
-202,Short Shirt
-203,Short Shirt
-204,Long Shirt
-205,Long Shirt
-206,Short Shirt
-207,Short Shirt
-208,Long Shirt
-209,Long Shirt
-210,Open Tunic
-211,Wrap
-212,Long Skirt
-213,Tights
-214,Short Shirt
-215,Long Shirt
-216,Vest
+149,부츠
+150,샌들
+151,일상복 바지
+152,반바지
+153,짧은 치마
+154,일상복 망토
+155,고급 망토
+156,카짓 슈트
+157,두와이넨 서코트
+158,짧은 튜닉
+159,고급 튜닉
+160,토가
+161,양면 튜닉
+162,샅바
+163,일반 로브
+164,성직자 로브
+165,짧은 셔츠
+166,짧은 셔츠
+167,긴 셔츠
+168,긴 셔츠
+169,짧은 셔츠
+170,짧은 셔츠
+171,긴 셔츠
+172,긴 셔츠
+173,오픈 튜닉
+174,천 하의
+175,긴 셔츠
+176,안티크레리 셔코트
+177,도전자 상체 띠
+178,짧은 셔츠
+179,긴 셔츠
+180,조끼
+181,챔피언 상체 띠
+182,브래지어
+183,고급 브래지어
+184,평민 블라우스
+185,이오도릭
+186,신발
+187,긴 부츠
+188,부츠
+189,샌들
+190,일상복 바지
+191,일상복 망토
+192,고급 망토
+193,카짓 슈트
+194,고급 이오도릭
+195,저녁 드레스
+196,주간 드레스
+197,일상복 드레스
+198,끈없는 드레스
+199,샅바
+200,일반 로브
+201,성직자 로브
+202,짧은 셔츠
+203,짧은 셔츠
+204,긴 셔츠
+205,긴 셔츠
+206,짧은 셔츠
+207,짧은 셔츠
+208,긴 셔츠
+209,긴 셔츠
+210,오픈 튜닉
+211,두름천
+212,긴 치마
+213,타이즈
+214,짧은 셔츠
+215,긴 셔츠
+216,조끼
 217,Plain Single Bed
 218,Fancy Single Bed
 219,Plain Double Bed
@@ -246,44 +246,44 @@ Key,Value
 244,Large Skins
 245,Small Skins
 246,Candelabra
-247,Torch
-248,Lantern
-249,Bandage
+247,횃불
+248,랜턴
+249,붕대
 250,Shubbery
 251,Flowers
-252,Oil
-253,Candle
-254,Telescope
-255,Scales
+252,기름
+253,양초
+254,망원경
+255,천칭
 256,Globe
 257,Skeleton
-258,Prayer Beads
+258,염주
 259,Rare Symbol
 260,Common Symbol
-261,Bell
-262,Holy Water
-263,Talisman
-264,Religious Item
-265,Small Statue
-266,Large Statue
+261,종
+262,성수
+263,탈리스만
+264,성물
+265,작은 조각
+266,큰 조각
 267,Icon
 268,Scarab
-269,Holy Candle
-270,Holy Dagger
-271,Holy Tome
+269,성례용 촛불
+270,성례용 단검
+271,신성한 책
 272,Altar
 273,Font
 274,Soul Trap
-275,Letter of Credit
-276,Gold Pieces
-277,Book
-278,Potion Recipe
-279,Parchment
+275,어음
+276,금화
+277,책
+278,포션 제작법
+279,양피지
 280,Totem
 281,Dead Body
-282,Mantella
-283,Finger
-284,Painting
-285,House Deed
-286,Ship Deed
-287,Map
+282,만텔라
+283,손가락
+284,그림
+285,집 문서
+286,배 문서
+287,지도
