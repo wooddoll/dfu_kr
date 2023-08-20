@@ -267,7 +267,7 @@ are none available at this time.[/center]
 352,"몇시간 동안 쉽니까?[/end]"
 353,"잠에서 깼습니다.[/end]"
 354,"주변에 적이 있습니다.[/end]"
-355,"더 이상 잠을 잘 수 없습니다.[/end]"
+355,"지금은 잠을 잘 수 없습니다.[/end]"
 360,"%pcn. 당신에 대해선 익히 알고 있습니다.[/center]본점의 자매 은행에서 빌린 대출을 부도내셨으니,[/center]이 돈은 악성 부채를 상환하는데 쓰도록[/center]하겠습니다.[/center][/end]"
 361,"This demo allows you access to this guild[/center]
 function. Normally you would have to wait[/center]
@@ -289,7 +289,7 @@ local software store.[/center]
 400,"The ChildGard feature prevents[/center]
 this quest from running at this time.[/center]
 [/end]"
-401,"죽음이 항상 영원한 것만은 아니다. 누군가에겐[/center]그저 기다리는 시간일뿐. 이젠[/center]그대가 기다릴 시간이다. 기다린다면[/center]알게 될 것이다...[/center][/end]"
+401,"죽음이 항상 영원한 것만은 아니다. 누군가에겐 그저 기다리는 시간일뿐.[/center]이제는 그대가 기다릴 시간이다.[/center]기다린다면 다 알게 될 것이다...[/center][/end]"
 402,"내가 바로 첩보장이오. 일리악 만에서 일어나는[/center]모든 일을 알고 있지. 다른 자들은 소문을[/center]알려 줄 수 있을지 모르나, 내가 말해주는 소문은 소문이 아니오.[/center][/end]"
 403,"캐릭터의 능력치를 원래 수치로[/center]리셋 하시겠습니까?[/center][/end]"
 454,"골드가 충분하지 않습니다.[/end]"
@@ -1391,132 +1391,39 @@ must report to the Captain's tower.[/center]
 Sightings of this criminal are[/center]
 to be reported to the watch.[/center]
 [/end]"
-1500,"Paralyzation[/center]
-Causes target to be paralyzed.[/center]
-Duration: How many rounds paralysis lasts.[/center]
-Chance of paralyzing target.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1501,"Paralyzation[/center]
-Causes target to be paralyzed.[/center]
-Duration: How many rounds paralysis lasts.[/center]
-Chance of paralyzing target.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1502,"Paralyzation[/center]
-Causes target to be paralyzed.[/center]
-Duration: How many rounds paralysis lasts.[/center]
-Chance of paralyzing target.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1503,"Continuous Damage -- Health[/center]
-Lowers target's Health each round.[/center]
-Duration: How many rounds target takes damage.[/center]
-Chance: N/A[/center]
-Magnitude: How much damage target takes per round.[/center]
-[/end]"
-1504,"Continuous Damage -- Health[/center]
-Lowers target's Health each round.[/center]
-Duration: How many rounds target takes damage.[/center]
-Chance: N/A[/center]
-Magnitude: How much damage target takes per round.[/center]
-[/end]"
-1505,"Continuous Damage -- Fatigue[/center]
-Lowers target's Fatigue each round.[/center]
-Duration: How many rounds target is affected.[/center]
-Chance: N/A[/center]
-Magnitude: Amount of Fatigue loss to target per round.[/center]
-[/end]"
-1506,"Continuous Damage -- Spell Points[/center]
-Reduces target's Spell Points each round.[/center]
-Duration: How many rounds target is affected.[/center]
-Chance: N/A[/center]
-Magnitude: Amount of Spell Points target loses per round.[/center]
-[/end]"
-1507,"Create Item[/center]
-Creates one useful item of the caster's choosing.[/center]
-Duration: How long created item exists.[/center]
-Chance: N/A[/center]
-Magnitude: N/A[/center]
-[/end]"
-1509,"Cure -- Disease[/center]
-Cures target of disease.[/center]
-Duration: Instantaneous[/center]
-Chance: Chance of curing disease.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1510,"Cure -- Poison[/center]
-Cures target of poison.[/center]
-Duration: Instantaneous.[/center]
-Chance: Chance of curing poison.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1511,"Cure -- Paralysis[/center]
-Cures a target of paralysis.[/center]
-Duration: Instantaneous.[/center]
-Chance: Chance of curing paralysis.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1512,"Damage -- Health[/center]
-Causes target's Health to be damaged.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Number of Health Points target loses.[/center]
-[/end]"
-1513,"Damage -- Fatigue[/center]
-Causes target's Fatigue to be damaged.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Number of Fatigue Points target loses.[/center]
-[/end]"
-1514,"Damage -- Spell Points[/center]
-Reduces target's Spell Points.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Number of Spell Points target loses.[/center]
-[/end]"
-1515,"Disintegrate[/center]
-Causes target to disintegrate.[/center]
-Duration: Instantaneous.[/center]
-Chance: Chance to disintegrate target.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1516,"Dispel -- Magic[/center]
-Negates magic effects.[/center]
-Duration: Instantaneous.[/center]
-Chance: Chance of dispelling magic.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1517,"Dispel -- Undead[/center]
-Causes undead to be dispelled.[/center]
-Duration: Instantaneous.[/center]
-Chance: Chance of dispelling undead.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1518,"Dispel -- Daedra[/center]
-Causes Daedra to be dispelled.[/center]
-Duration: Instantaneous.[/center]
-Chance: Chance of dispelling Daedra.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1519,"Drain -- Strength[/center]
-Reduces target's Strength Points.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Number of points drained.[/center]
-[/end]"
-1520,"Drain -- Intelligence[/center]
-Reduces target's Intelligence Points.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Number of points drained.[/center]
-[/end]"
-1521,"Drain -- Willpower[/center]
-Reduces target's Willpower Points.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Number of points drained.[/center]
-[/end]"
+1500,"마비[/center]
+대상을 마비시킵니다.[/center]
+시간: 마비가 지속되는 시간.[/center]
+확률: 대상이 마비될 확률.[/center]
+세기: 해당없음[/center][/end]"
+1501,"마비[/center]
+대상을 마비시킵니다.[/center]
+시간: 마비가 지속되는 시간.[/center]
+확률: 대상이 마비될 확률.[/center]
+세기: 해당없음[/center][/end]"
+1502,"마비[/center]
+대상을 마비시킵니다.[/center]
+시간: 마비가 지속되는 시간.[/center]
+확률: 대상이 마비될 확률.[/center]
+세기: 해당없음[/center][/end]"
+1503,"지속 피해 -- 생명력[/center]대상의 생명력을 매 라운드 마다 줄입니다.[/center]시간: 지속 피해가 유지되는 시간.[/center]확률: 해당없음[/center]세기: 매 라운드 마다 입는 피해량[/center][/end]"
+1504,"지속 피해 -- 생명력[/center]대상의 생명력을 매 라운드 마다 줄입니다.[/center]시간: 지속 피해가 유지되는 시간.[/center]확률: 해당없음[/center]세기: 매 라운드 마다 입는 피해량[/center][/end]"
+1505,"지속 피해 -- 지구력[/center]대상의 지구력을 매 라운드 마다 줄입니다.[/center]시간: 지속 피해가 유지되는 시간.[/center]확률: 해당없음[/center] 세기: 매 라운드 마다 입는 지구력 피해량[/center][/end]"
+1506,"지속 피해 -- 주문점수[/center]대상의 주문점수를 매 라운드 마다 줄입니다.[/center]시간: 지속 피해가 유지되는 시간.[/center]확률: 해당없음[/center] 세기: 매 라운드 마다 입는 주문점수 피해량[/center][/end]"
+1507,"Create Item[/center] Creates one useful item of the caster's choosing.[/center] Duration: How long created item exists.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
+1509,"치료 -- 질병[/center]대상의 질병을 치료합니다.[/center]시간: 즉시[/center]확률: 질병이 치료될 확률[/center]세기: 해당없음[/center][/end]"
+1510,"치료 -- 독[/center]대상의 독을 치료합니다.[/center]시간: 즉시[/center]확률: 독이 치료될 확률[/center]세기: 해당없음[/center][/end]"
+1511,"치료 -- 마비[/center]대상의 마비를 치료합니다.[/center]시간: 즉시[/center]확률: 마비가 치료될 확률[/center]세기: 해당없음[/center][/end]"
+1512,"피해 -- 생명력[/center]대상의 생명력을 줄입니다.[/center]시간: 즉시[/center]확률: 해당없음[/center]세기: 대상이 입는 피해량[/center] [/end]"
+1513,"피해 -- 지구력[/center]대상의 지구력을 줄입니다.[/center]시간: 즉시[/center]확률: 해당없음[/center]세기: 대상이 입는 지구력 피해량[/center] [/end]"
+1514,"피해 -- 주문점수[/center]대상의 주문점수를 줄입니다.[/center]시간: 즉시[/center]확률: 해당없음[/center]세기: 대상이 입는 주문점수 피해량[/center] [/end]"
+1515,"분해[/center]대상을 분해합니다.[/center]시간: 즉시.[/center]확률: 대상이 분해될 확률.[/center]세기: 해당없음[/center] [/end]"
+1516,"Dispel -- Magic[/center] Negates magic effects.[/center] Duration: Instantaneous.[/center] Chance: Chance of dispelling magic.[/center] Magnitude: N/A[/center] [/end]"
+1517,"Dispel -- Undead[/center] Causes undead to be dispelled.[/center] Duration: Instantaneous.[/center] Chance: Chance of dispelling undead.[/center] Magnitude: N/A[/center] [/end]"
+1518,"Dispel -- Daedra[/center] Causes Daedra to be dispelled.[/center] Duration: Instantaneous.[/center] Chance: Chance of dispelling Daedra.[/center] Magnitude: N/A[/center] [/end]"
+1519,"Drain -- Strength[/center] Reduces target's Strength Points.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Number of points drained.[/center] [/end]"
+1520,"Drain -- Intelligence[/center] Reduces target's Intelligence Points.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Number of points drained.[/center] [/end]"
+1521,"Drain -- Willpower[/center] Reduces target's Willpower Points.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Number of points drained.[/center] [/end]"
 1522,"Drain -- Agility[/center]
 Reduces target's Agility Points.[/center]
 Duration: Instantaneous.[/center]
@@ -2097,7 +2004,7 @@ Chance: N/A Magnitude: How large wall is in square meters[/center]
 1705,"주문서에[/center]주문을 적었습니다.[/center][/end]"
 1706,"주문이 일반 목록에[/center]추가되었고 테드는 쿨합니다.[/center][/end]"
 1707,"주문에 세가지를[/center]초과하는 효과를 추가할 수 없습니다.[/center][/end]"
-1708,"주문을 어떻게 변경하고 싶습니까?[/center][/end]"
+1708,"주문을 어떻게 변경합니까?[/center][/end]"
 1709,"주문책에 더이상 자리가 없습니다.[/center][/end]"
 1800,"주문 아이콘 변경[/record]"
 1801,"화염 저항[/end]"
