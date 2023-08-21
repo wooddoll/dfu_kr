@@ -1418,573 +1418,102 @@ to be reported to the watch.[/center]
 1513,"피해 -- 지구력[/center]대상의 지구력을 줄입니다.[/center]시간: 즉시[/center]확률: 해당없음[/center]세기: 대상이 입는 지구력 피해량[/center] [/end]"
 1514,"피해 -- 주문점수[/center]대상의 주문점수를 줄입니다.[/center]시간: 즉시[/center]확률: 해당없음[/center]세기: 대상이 입는 주문점수 피해량[/center] [/end]"
 1515,"분해[/center]대상을 분해합니다.[/center]시간: 즉시.[/center]확률: 대상이 분해될 확률.[/center]세기: 해당없음[/center] [/end]"
-1516,"Dispel -- Magic[/center] Negates magic effects.[/center] Duration: Instantaneous.[/center] Chance: Chance of dispelling magic.[/center] Magnitude: N/A[/center] [/end]"
-1517,"Dispel -- Undead[/center] Causes undead to be dispelled.[/center] Duration: Instantaneous.[/center] Chance: Chance of dispelling undead.[/center] Magnitude: N/A[/center] [/end]"
-1518,"Dispel -- Daedra[/center] Causes Daedra to be dispelled.[/center] Duration: Instantaneous.[/center] Chance: Chance of dispelling Daedra.[/center] Magnitude: N/A[/center] [/end]"
-1519,"Drain -- Strength[/center] Reduces target's Strength Points.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Number of points drained.[/center] [/end]"
-1520,"Drain -- Intelligence[/center] Reduces target's Intelligence Points.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Number of points drained.[/center] [/end]"
-1521,"Drain -- Willpower[/center] Reduces target's Willpower Points.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Number of points drained.[/center] [/end]"
-1522,"Drain -- Agility[/center]
-Reduces target's Agility Points.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Number of points drained.[/center]
-[/end]"
-1523,"Drain -- Endurance[/center]
-Reduces target's Endurance Points.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Number of points drained.[/center]
-[/end]"
-1524,"Drain -- Personality[/center]
-Reduces target's Personality Points.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Number of points drained.[/center]
-[/end]"
-1525,"Drain -- Speed[/center]
-Reduces target's Speed Points.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Number of points drained.[/center]
-[/end]"
-1526,"Drain -- Luck[/center]
-Reduces target's Luck Points.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Number of points drained.[/center]
-[/end]"
-1527,"Elemental Resistance -- Fire[/center]
-Target becomes immune to fire damage.[/center]
-Duration: Rounds resistance lasts.[/center]
-Chance: Chance of successfully casting spell.[/center]
-Magnitude: N/A[/center]
-Target takes half damage from fire if spell fails.[/center]
-[/end]"
-1528,"Elemental Resistance -- Frost[/center]
-Target becomes immune to cold damage.[/center]
-Duration: Rounds resistance lasts.[/center]
-Chance: Chance of successfully casting spell.[/center]
-Magnitude: N/A[/center]
-Target takes half damage from cold if spell fails.[/center]
-[/end]"
-1529,"Elemental Resistance -- Poison[/center]
-Target becomes immune to poison damage.[/center]
-Duration: Rounds resistance lasts.[/center]
-Chance: Chance of successfully casting spell.[/center]
-Magnitude: N/A[/center]
-Target takes half damage from poison if spell fails.[/center]
-[/end]"
-1530,"Elemental Resistance -- Shock[/center]
-Target becomes immune to shock damage.[/center]
-Duration: Rounds resistance lasts.[/center]
-Chance: Chance of successfully casting spell.[/center]
-Magnitude: N/A[/center]
-Target takes half damage from electricity if spell fails.[/center]
-[/end]"
-1531,"Elemental Resistance -- Magic[/center]
-Target becomes immune to magic damage.[/center]
-Duration: Rounds resistance lasts.[/center]
-Chance: Chance of successfully casting spell.[/center]
-Magnitude: N/A[/center]
-Target takes half damage from magic if spell fails.[/center]
-[/end]"
-1532,"Fortify Strength[/center]
-Increases target's Strength.[/center]
-Duration: Rounds Attribute increase lasts.[/center]
-Chance: N/A[/center]
-Magnitude: Amount of Attribute increase.[/center]
-[/end]"
-1533,"Fortify Intelligence[/center]
-Increases target's Intelligence.[/center]
-Duration: Rounds Attribute increase lasts.[/center]
-Chance: N/A[/center]
-Magnitude: Amount of Attribute increase.[/center]
-[/end]"
-1534,"Fortify Willpower[/center]
-Increases target's Willpower.[/center]
-Duration: Rounds Attribute increase lasts.[/center]
-Chance: N/A[/center]
-Magnitude: Amount of Attribute increase.[/center]
-[/end]"
-1535,"Fortify Agility[/center]
-Increases target's Agility.[/center]
-Duration: Rounds Attribute increase lasts.[/center]
-Chance: N/A[/center]
-Magnitude: Amount of Attribute increase.[/center]
-[/end]"
-1536,"Fortify Endurance[/center]
-Increases target's Endurance.[/center]
-Duration: Rounds Attribute increase lasts.[/center]
-Chance: N/A[/center]
-Magnitude: Amount of Attribute increase.[/center]
-[/end]"
-1537,"Fortify Personality[/center]
-Increases target's Personality.[/center]
-Duration: Rounds Attribute increase lasts.[/center]
-Chance: N/A[/center]
-Magnitude: Amount of Attribute increase.[/center]
-[/end]"
-1538,"Fortify Speed[/center]
-Increases target's Speed.[/center]
-Duration: Rounds Attribute increase lasts.[/center]
-Chance: N/A[/center]
-Magnitude: Amount of Attribute increase.[/center]
-[/end]"
-1539,"Fortify Luck[/center]
-Increases target's Luck.[/center]
-Duration: Rounds Attribute increase lasts.[/center]
-Chance: N/A[/center]
-Magnitude: Amount of Attribute increase.[/center]
-[/end]"
-1540,"Heal Strength[/center]
-Restores target's Strength, up to normal level.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Number of points restored.[/center]
-[/end]"
-1541,"Heal Intelligence[/center]
-Restores target's Intelligence, up to normal level.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Number of points restored.[/center]
-[/end]"
-1542,"Heal Willpower[/center]
-Restores target's Willpower, up to normal level.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Number of points restored.[/center]
-[/end]"
-1543,"Heal Agility[/center]
-Restores target's Agility, up to normal level.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Number of points restored.[/center]
-[/end]"
-1544,"Heal Endurance[/center]
-Restores target's Endurance, up to normal level.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Number of points restored.[/center]
-[/end]"
-1545,"Heal Personality[/center]
-Restores target's Personality, up to normal level.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Number of points restored.[/center]
-[/end]"
-1546,"Heal Speed[/center]
-Restores target's Speed, up to normal level.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Number of points restored.[/center]
-[/end]"
-1547,"Heal Luck[/center]
-Restores target's Luck, up to normal level.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Number of points restored.[/center]
-[/end]"
-1548,"Heal Health[/center]
-Restores target's Health, up to normal level.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Number of points restored.[/center]
-[/end]"
-1549,"Heal Fatigue[/center]
-Restores target's Fatigue, up to normal level.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Number of points restored.[/center]
-[/end]"
-1550,"Transfer Strength[/center]
-Transfers target Strength Points to caster.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Amount of points transferred.[/center]
-[/end]"
-1551,"Transfer Intelligence[/center]
-Transfers target Intelligence Points to caster.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Amount of points transferred.[/center]
-[/end]"
-1552,"Transfer Willpower[/center]
-Transfers target Willpower Points to caster.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Amount of points transferred.[/center]
-[/end]"
-1553,"Transfer Agility[/center]
-Transfers target Agility Points to caster.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Amount of points transferred.[/center]
-[/end]"
-1554,"Transfer Endurance[/center]
-Transfers target Endurance Points to caster.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Amount of points transferred.[/center]
-[/end]"
-1555,"Transfer Personality[/center]
-Transfers target Personality Points to caster.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Amount of points transferred.[/center]
-[/end]"
-1556,"Transfer Speed[/center]
-Transfers target Speed Points to caster.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Amount of points transferred.[/center]
-[/end]"
-1557,"Transfer Luck[/center]
-Transfers target Luck Points to caster.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Amount of points transferred.[/center]
-[/end]"
-1558,"Transfer Health[/center]
-Transfers target Health Points to caster.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Amount of points transferred.[/center]
-[/end]"
-1559,"Transfer Fatigue[/center]
-Transfers target Fatigue Points to caster.[/center]
-Duration: Instantaneous.[/center]
-Chance: N/A[/center]
-Magnitude: Amount of points transferred.[/center]
-[/end]"
-1560,"Invisibility (Normal)[/center]
-Target becomes invisible. Dispelled if target[/center]
-attacks anything.[/center]
-Duration: Rounds target remains invisible.[/center]
-Chance: N/A[/center]
-Magnitude: N/A[/center]
-[/end]"
-1561,"Invisibility (True)[/center]
-Target becomes invisible.[/center]
-Duration: Rounds target remains invisible.[/center]
-Chance: N/A[/center]
-Magnitude: N/A[/center]
-[/end]"
-1562,"Levitate[/center]
-Target floats above the ground.[/center]
-Duration: Rounds target levitates.[/center]
-Chance: N/A[/center]
-Magnitude: N/A[/center]
-[/end]"
-1563,"Light[/center]
-Creates a light source centered on target.[/center]
-Duration: Rounds target remains illuminated.[/center]
-Chance: N/A[/center]
-Magnitude: N/A[/center]
-[/end]"
-1564,"Lock[/center]
-Locks chest or door to lock-level of caster.[/center]
-Duration: Rounds spell remains in effect.[/center]
-Chance: Chance of success.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1565,"Open[/center]
-Unlocks chest or door to lock-level of caster.[/center]
-Duration: Instantaneous.[/center]
-Chance: Chance of success.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1566,"Regenerate[/center]
-Target regenerates Health Points each round.[/center]
-Duration: Rounds target regenerates.[/center]
-Chance: N/A[/center]
-Magnitude: Number of points regenerated each round.[/center]
-[/end]"
-1567,"Silence[/center]
-Target is silenced, unable to cast spells.[/center]
-Duration: Rounds silence lasts.[/center]
-Chance: Chance of success.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1568,"Spell Absorption[/center]
-Target absorbs incoming spell energy, adding spell[/center]
-energy points to his or her own store.[/center]
-Duration: Rounds target will absorb spells.[/center]
-Chance: Chance of success.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1569,"Spell Reflection[/center]
-Target reflects incoming spells back at caster.[/center]
-Duration: Rounds target will reflect spells.[/center]
-Chance: Chance of success.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1570,"Spell Resistance[/center]
-Target resists incoming spells.[/center]
-Duration: Rounds target will resist spells.[/center]
-Chance: Chance of success.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1571,"Chameleon (Normal)[/center]
-Target becomes difficult to see. Spell broken if[/center]
-chameleon attacks anything.[/center]
-Duration: Rounds target remains obscured.[/center]
-Chance:N/A[/center]
-Magnitude: N/A[/center]
-[/end]"
-1572,"Chameleon (True)[/center]
-Target becomes difficult to see.[/center]
-Duration: Rounds target remains obscured.[/center]
-Chance:N/A[/center]
-Magnitude: N/A[/center]
-[/end]"
-1573,"Shadow (Normal)[/center]
-Target blends into shadows. Spell broken if[/center]
-hider in shadows attacks anything.[/center]
-Duration: Rounds target remains hidden.[/center]
-Chance: N/A[/center]
-Magnitude: N/A[/center]
-[/end]"
-1574,"Shadow (True)[/center]
-Target blends into shadows.[/center]
-Duration: Rounds target remains hidden.[/center]
-Chance: N/A[/center]
-Magnitude: N/A[/center]
-[/end]"
-1575,"Slowfall (Normal, Trigger)[/center]
-Target falls at half normal rate, reducing falling damage.[/center]
-Triggered when target falls.[/center]
-Duration: Rounds spell remains in effect.[/center]
-Chance: N/A[/center]
-Magnitude: N/A[/center]
-[/end]"
-1576,"Free Action[/center]
-Target is immune to paralyzation.[/center]
-Duration: Rounds immunity lasts.[/center]
-Chance: N/A[/center]
-Magnitude: N/A[/center]
-[/end]"
-1577,"Jumping[/center]
-Target can jump twice as well.[/center]
-Duration: Rounds spell remains active.[/center]
-Chance: N/A[/center]
-Magnitude: N/A[/center]
-[/end]"
-1578,"Climbing[/center]
-Target can climb twice as well.[/center]
-Duration: Rounds spell remains active.[/center]
-Chance: N/A[/center]
-Magnitude: N/A[/center]
-[/end]"
-1579,"Morph Self[/center]
-Caster transforms into a creature or object[/center]
-selected by the caster.[/center]
-Duration: Rounds transformation lasts.[/center]
-Chance: Chance of success.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1580,"Morph Other[/center]
-Target transforms into a creature or object[/center]
-selected by the caster.[/center]
-Duration: Rounds transformation lasts.[/center]
-Chance: Chance of success.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1581,"Morph Item[/center]
-Item transforms into a creature or object[/center]
-selected by the caster.[/center]
-Duration: Rounds transformation lasts.[/center]
-Chance: Chance of success.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1582,"Water Breathing[/center]
-Target is able to breathe normally under water.[/center]
-Duration: Rounds target can breathe under water.[/center]
-Chance: Chance of success.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1583,"Water Walking[/center]
-Target is able to walk on top of water.[/center]
-Duration: Rounds target can walk on water.[/center]
-Chance: Chance of success.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1584,"Diminution[/center]
-Target shrinks to half normal size.[/center]
-Duration: Rounds target is shrunk.[/center]
-Chance: Chance of success.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1585,"Pacify Animal[/center]
-Pacifies any beast of subhuman intelligence.[/center]
-Duration: Rounds animal remains docile.[/center]
-Chance: Chance of pacification.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1586,"Pacify Undead[/center]
-Pacifies undead creatures.[/center]
-Duration: Rounds creature remains docile.[/center]
-Chance: Chance of pacification.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1587,"Pacify Humanoid[/center]
-Pacifies humanoid creatures.[/center]
-Duration: Rounds humanoid remains docile.[/center]
-Chance: Chance of pacification.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1588,"Pacify Daedra[/center]
-Pacifies Daedra.[/center]
-Duration: Rounds Daedra remains docile.[/center]
-Chance: Chance of pacification.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1589,"Charm[/center]
-Raises caster's charm with target, improving[/center]
-caster's reputation.[/center]
-Duration: Rounds caster is charming.[/center]
-Chance: Chance of success.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1590,"Shield[/center]
-Target is surrounded by a magical shield.[/center]
-Shield absorbs Health Point damage. Shield lasts[/center]
-until its damage is overcome, or spell wears off.[/center]
-Duration: Rounds shield can last.[/center]
-Chance: N/A[/center]
-Magnitude: Health Point damage Shield can absorb.[/center]
-[/end]"
-1591,"Shield[/center]
-Target is surrounded by a magical shield.[/center]
-Shield absorbs Health Point damage. Shield lasts[/center]
-until its damage is overcome, or spell wears off.[/center]
-Duration: Rounds shield can last.[/center]
-Chance: N/A[/center]
-Magnitude: Health Point damage Shield can absorb.[/center]
-[/end]"
-1592,"Shield[/center]
-Target is surrounded by a magical shield.[/center]
-Shield absorbs Health Point damage. Shield lasts[/center]
-until its damage is overcome, or spell wears off.[/center]
-Duration: Rounds shield can last.[/center]
-Chance: N/A[/center]
-Magnitude: Health Point damage Shield can absorb.[/center]
-[/end]"
-1593,"Shield[/center]
-Target is surrounded by a magical shield.[/center]
-Shield absorbs Health Point damage. Shield lasts[/center]
-until its damage is overcome, or spell wears off.[/center]
-Duration: Rounds shield can last.[/center]
-Chance: N/A[/center]
-Magnitude: Health Point damage Shield can absorb.[/center]
-[/end]"
-1594,"Astral Travel[/center]
-Sends caster to Astral Plane.[/center]
-Duration: Rounds caster remains in Astral Plane.[/center]
-Chance: N/A[/center]
-Magnitude: N/A[/center]
-[/end]"
-1595,"Etherealness[/center]
-Turns caster ethereal, thus able to walk through walls.[/center]
-Duration: Rounds caster remains ethereal.[/center]
-Chance: Chance of success.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1596,"Detect Magic[/center]
-Caster can detect all magic in front of him or her.[/center]
-Duration: Rounds caster can detect magic.[/center]
-Chance: N/A[/center]
-Magnitude: N/A[/center]
-[/end]"
-1597,"Detect Enemy[/center]
-Caster can detect all enemies in front of him or her.[/center]
-Duration: Rounds caster can detect enemies.[/center]
-Chance: N/A[/center]
-Magnitude: N/A[/center]
-[/end]"
-1598,"Detect Treasure[/center]
-Caster can detect all treasure in front of him or her.[/center]
-Duration: Rounds caster can detect treasure.[/center]
-Chance: N/A[/center]
-Magnitude: N/A[/center]
-[/end]"
-1599,"Identify[/center]
-Caster can identify a target object.[/center]
-Duration: Instantaneous.[/center]
-Chance: Chance of correct identification.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1600,"Wizard Sight[/center]
-Caster's vision is projected out from his or her body.[/center]
-Duration: Rounds caster can see through projected vision.[/center]
-Chance: N/A[/center]
-Magnitude: N/A[/center]
-[/end]"
-1601,"Darkness[/center]
-Target is surrounded with darkness.[/center]
-Duration: Rounds target darkened.[/center]
-Chance: Chance of success.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1602,"Teleport[/center]
-Caster chooses a location, then is able to teleport[/center]
-to location instantly. Spell must be cast at least[/center]
-twice to use (once to choose location).[/center]
-Duration: Instantaneous.[/center]
-Chance: Chance to teleport to correct location.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1603,"Soul Trap[/center]
-After death, target's soul will be deposited[/center]
-into any available receptacle.[/center]
-Duration: How long spell dooms living target[/center]
-Chance: Chance of Imprisoning target.[/center]
-Magnitude: N/A[/center]
-[/end]"
-1604,"Telekenesis[/center]
-Allows caster to move objects with mental powers.[/center]
-Duration: How long caster can use Telekenesis.[/center]
-Chance: N/A[/center]
-Magnitude: Weight of object caster can manipulate.[/center]
-[/end]"
-1605,"Comprehend Languages[/center]
-Caster can comprehend any written or spoken tongue[/center]
-Duration: How long the caster comprehends languages[/center]
-Chance: Chance of comprehending all of a language[/center]
-Magnitude: N/A[/center]
-[/end]"
-1606,"Intensify Fire[/center]
-Caster may intensify the light of a normal fire.[/center]
-Duration: How long intensified fire will last[/center]
-Chance: N/A[/center]
-Magnitude: Intensification possible in candlepower.[/center]
-[/end]"
-1607,"Diminish Fire[/center]
-Caster may dim the light of a normal fire.[/center]
-Duration: How long diminished fire will last[/center]
-Chance: N/A[/center]
-Magnitude: Diminishment possible in candlepower.[/center]
-[/end]"
-1608,"Wall of Stone[/center]
-Caster creates a wall of stone[/center]
-Duration: How long wall lasts[/center]
-Chance: N/A Magnitude: How large wall is in square meters[/center]
-[/end]"
-1609,"Wall of Fire[/center]
-Caster creates a wall of fire[/center]
-Duration: How long wall lasts[/center]
-Chance: N/A Magnitude: How large wall is in square meters[/center]
-[/end]"
-1610,"Wall of Frost[/center]
-Caster creates a wall of ice[/center]
-Duration: How long wall lasts[/center]
-Chance: N/A Magnitude: How large wall is in square meters[/center]
-[/end]"
-1611,"Wall of Poison[/center]
-Caster creates a wall of poison gas[/center]
-Duration: How long wall lasts[/center]
-Chance: N/A Magnitude: How large wall is in square meters[/center]
-[/end]"
+1516,"디스펠 -- 마법[/center]마법 효과를 해제합니다.[/center]시간: 즉시.[/center]확률: 마법을 디스펠할 확률.[/center]세기: 해당없음[/center][/end]"
+1517,"디스펠 -- 언데드[/center]언데드를 디스펠합니다.[/center]시간: 즉시.[/center]확률: 언데드를 디스펠할 확률.[/center]세기: 해당없음[/center][/end]"
+1518,"디스펠 -- 데이드라[/center]데이드라를 디스펠합니다[/center]시간: 즉시.[/center]확률: 데이드라를 디스펠할 확률.[/center]세기: 해당없음[/center][/end]"
+1519,"감쇄 -- 근력[/center]대상의 근력을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 근력 점수량.[/center] [/end]"
+1520,"감쇄 -- 지능[/center]대상의 지능을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 지능 점수량.[/center] [/end]"
+1521,"감쇄 -- 의지[/center]대상의 의지를 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 의지 점수량.[/center] [/end]"
+1522,"감쇄 -- 민첩[/center]대상의 민첩을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 민첩 점수량.[/center] [/end]"
+1523,"감쇄 -- 체력[/center]대상의 체력을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 체력 점수량.[/center] [/end]"
+1524,"감쇄 -- 매력[/center]대상의 매력을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 매력 점수량.[/center] [/end]"
+1525,"감쇄 -- 속도[/center]대상의 속도를 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 속도 점수량.[/center] [/end]"
+1526,"감쇄 -- 행운[/center]대상의 행운을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 행운 점수량.[/center] [/end]"
+1527,"Elemental Resistance -- Fire[/center] Target becomes immune to fire damage.[/center] Duration: Rounds resistance lasts.[/center] Chance: Chance of successfully casting spell.[/center] Magnitude: N/A[/center] Target takes half damage from fire if spell fails.[/center] [/end]"
+1528,"Elemental Resistance -- Frost[/center] Target becomes immune to cold damage.[/center] Duration: Rounds resistance lasts.[/center] Chance: Chance of successfully casting spell.[/center] Magnitude: N/A[/center] Target takes half damage from cold if spell fails.[/center] [/end]"
+1529,"Elemental Resistance -- Poison[/center] Target becomes immune to poison damage.[/center] Duration: Rounds resistance lasts.[/center] Chance: Chance of successfully casting spell.[/center] Magnitude: N/A[/center] Target takes half damage from poison if spell fails.[/center] [/end]"
+1530,"Elemental Resistance -- Shock[/center] Target becomes immune to shock damage.[/center] Duration: Rounds resistance lasts.[/center] Chance: Chance of successfully casting spell.[/center] Magnitude: N/A[/center] Target takes half damage from electricity if spell fails.[/center] [/end]"
+1531,"Elemental Resistance -- Magic[/center] Target becomes immune to magic damage.[/center] Duration: Rounds resistance lasts.[/center] Chance: Chance of successfully casting spell.[/center] Magnitude: N/A[/center] Target takes half damage from magic if spell fails.[/center] [/end]"
+1532,"Fortify Strength[/center] Increases target's Strength.[/center] Duration: Rounds Attribute increase lasts.[/center] Chance: N/A[/center] Magnitude: Amount of Attribute increase.[/center] [/end]"
+1533,"Fortify Intelligence[/center] Increases target's Intelligence.[/center] Duration: Rounds Attribute increase lasts.[/center] Chance: N/A[/center] Magnitude: Amount of Attribute increase.[/center] [/end]"
+1534,"Fortify Willpower[/center] Increases target's Willpower.[/center] Duration: Rounds Attribute increase lasts.[/center] Chance: N/A[/center] Magnitude: Amount of Attribute increase.[/center] [/end]"
+1535,"Fortify Agility[/center] Increases target's Agility.[/center] Duration: Rounds Attribute increase lasts.[/center] Chance: N/A[/center] Magnitude: Amount of Attribute increase.[/center] [/end]"
+1536,"Fortify Endurance[/center] Increases target's Endurance.[/center] Duration: Rounds Attribute increase lasts.[/center] Chance: N/A[/center] Magnitude: Amount of Attribute increase.[/center] [/end]"
+1537,"Fortify Personality[/center] Increases target's Personality.[/center] Duration: Rounds Attribute increase lasts.[/center] Chance: N/A[/center] Magnitude: Amount of Attribute increase.[/center] [/end]"
+1538,"Fortify Speed[/center] Increases target's Speed.[/center] Duration: Rounds Attribute increase lasts.[/center] Chance: N/A[/center] Magnitude: Amount of Attribute increase.[/center] [/end]"
+1539,"Fortify Luck[/center] Increases target's Luck.[/center] Duration: Rounds Attribute increase lasts.[/center] Chance: N/A[/center] Magnitude: Amount of Attribute increase.[/center] [/end]"
+1540,"Heal Strength[/center] Restores target's Strength, up to normal level.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Number of points restored.[/center] [/end]"
+1541,"Heal Intelligence[/center] Restores target's Intelligence, up to normal level.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Number of points restored.[/center] [/end]"
+1542,"Heal Willpower[/center] Restores target's Willpower, up to normal level.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Number of points restored.[/center] [/end]"
+1543,"Heal Agility[/center] Restores target's Agility, up to normal level.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Number of points restored.[/center] [/end]"
+1544,"Heal Endurance[/center] Restores target's Endurance, up to normal level.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Number of points restored.[/center] [/end]"
+1545,"Heal Personality[/center] Restores target's Personality, up to normal level.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Number of points restored.[/center] [/end]"
+1546,"Heal Speed[/center] Restores target's Speed, up to normal level.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Number of points restored.[/center] [/end]"
+1547,"Heal Luck[/center] Restores target's Luck, up to normal level.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Number of points restored.[/center] [/end]"
+1548,"Heal Health[/center] Restores target's Health, up to normal level.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Number of points restored.[/center] [/end]"
+1549,"Heal Fatigue[/center] Restores target's Fatigue, up to normal level.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Number of points restored.[/center] [/end]"
+1550,"Transfer Strength[/center] Transfers target Strength Points to caster.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Amount of points transferred.[/center] [/end]"
+1551,"Transfer Intelligence[/center] Transfers target Intelligence Points to caster.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Amount of points transferred.[/center] [/end]"
+1552,"Transfer Willpower[/center] Transfers target Willpower Points to caster.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Amount of points transferred.[/center] [/end]"
+1553,"Transfer Agility[/center] Transfers target Agility Points to caster.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Amount of points transferred.[/center] [/end]"
+1554,"Transfer Endurance[/center] Transfers target Endurance Points to caster.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Amount of points transferred.[/center] [/end]"
+1555,"Transfer Personality[/center] Transfers target Personality Points to caster.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Amount of points transferred.[/center] [/end]"
+1556,"Transfer Speed[/center] Transfers target Speed Points to caster.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Amount of points transferred.[/center] [/end]"
+1557,"Transfer Luck[/center] Transfers target Luck Points to caster.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Amount of points transferred.[/center] [/end]"
+1558,"Transfer Health[/center] Transfers target Health Points to caster.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Amount of points transferred.[/center] [/end]"
+1559,"Transfer Fatigue[/center] Transfers target Fatigue Points to caster.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Amount of points transferred.[/center] [/end]"
+1560,"Invisibility (Normal)[/center] Target becomes invisible. Dispelled if target[/center] attacks anything.[/center] Duration: Rounds target remains invisible.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
+1561,"Invisibility (True)[/center] Target becomes invisible.[/center] Duration: Rounds target remains invisible.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
+1562,"Levitate[/center] Target floats above the ground.[/center] Duration: Rounds target levitates.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
+1563,"Light[/center] Creates a light source centered on target.[/center] Duration: Rounds target remains illuminated.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
+1564,"Lock[/center] Locks chest or door to lock-level of caster.[/center] Duration: Rounds spell remains in effect.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
+1565,"Open[/center] Unlocks chest or door to lock-level of caster.[/center] Duration: Instantaneous.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
+1566,"Regenerate[/center] Target regenerates Health Points each round.[/center] Duration: Rounds target regenerates.[/center] Chance: N/A[/center] Magnitude: Number of points regenerated each round.[/center] [/end]"
+1567,"Silence[/center] Target is silenced, unable to cast spells.[/center] Duration: Rounds silence lasts.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
+1568,"Spell Absorption[/center] Target absorbs incoming spell energy, adding spell[/center] energy points to his or her own store.[/center] Duration: Rounds target will absorb spells.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
+1569,"Spell Reflection[/center] Target reflects incoming spells back at caster.[/center] Duration: Rounds target will reflect spells.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
+1570,"Spell Resistance[/center] Target resists incoming spells.[/center] Duration: Rounds target will resist spells.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
+1571,"Chameleon (Normal)[/center] Target becomes difficult to see. Spell broken if[/center] chameleon attacks anything.[/center] Duration: Rounds target remains obscured.[/center] Chance:N/A[/center] Magnitude: N/A[/center] [/end]"
+1572,"Chameleon (True)[/center] Target becomes difficult to see.[/center] Duration: Rounds target remains obscured.[/center] Chance:N/A[/center] Magnitude: N/A[/center] [/end]"
+1573,"Shadow (Normal)[/center] Target blends into shadows. Spell broken if[/center] hider in shadows attacks anything.[/center] Duration: Rounds target remains hidden.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
+1574,"Shadow (True)[/center] Target blends into shadows.[/center] Duration: Rounds target remains hidden.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
+1575,"Slowfall (Normal, Trigger)[/center] Target falls at half normal rate, reducing falling damage.[/center] Triggered when target falls.[/center] Duration: Rounds spell remains in effect.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
+1576,"Free Action[/center] Target is immune to paralyzation.[/center] Duration: Rounds immunity lasts.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
+1577,"Jumping[/center] Target can jump twice as well.[/center] Duration: Rounds spell remains active.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
+1578,"Climbing[/center] Target can climb twice as well.[/center] Duration: Rounds spell remains active.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
+1579,"Morph Self[/center] Caster transforms into a creature or object[/center] selected by the caster.[/center] Duration: Rounds transformation lasts.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
+1580,"Morph Other[/center] Target transforms into a creature or object[/center] selected by the caster.[/center] Duration: Rounds transformation lasts.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
+1581,"Morph Item[/center] Item transforms into a creature or object[/center] selected by the caster.[/center] Duration: Rounds transformation lasts.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
+1582,"Water Breathing[/center] Target is able to breathe normally under water.[/center] Duration: Rounds target can breathe under water.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
+1583,"Water Walking[/center] Target is able to walk on top of water.[/center] Duration: Rounds target can walk on water.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
+1584,"Diminution[/center] Target shrinks to half normal size.[/center] Duration: Rounds target is shrunk.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
+1585,"Pacify Animal[/center] Pacifies any beast of subhuman intelligence.[/center] Duration: Rounds animal remains docile.[/center] Chance: Chance of pacification.[/center] Magnitude: N/A[/center] [/end]"
+1586,"Pacify Undead[/center] Pacifies undead creatures.[/center] Duration: Rounds creature remains docile.[/center] Chance: Chance of pacification.[/center] Magnitude: N/A[/center] [/end]"
+1587,"Pacify Humanoid[/center] Pacifies humanoid creatures.[/center] Duration: Rounds humanoid remains docile.[/center] Chance: Chance of pacification.[/center] Magnitude: N/A[/center] [/end]"
+1588,"Pacify Daedra[/center] Pacifies Daedra.[/center] Duration: Rounds Daedra remains docile.[/center] Chance: Chance of pacification.[/center] Magnitude: N/A[/center] [/end]"
+1589,"Charm[/center] Raises caster's charm with target, improving[/center] caster's reputation.[/center] Duration: Rounds caster is charming.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
+1590,"Shield[/center] Target is surrounded by a magical shield.[/center] Shield absorbs Health Point damage. Shield lasts[/center] until its damage is overcome, or spell wears off.[/center] Duration: Rounds shield can last.[/center] Chance: N/A[/center] Magnitude: Health Point damage Shield can absorb.[/center] [/end]"
+1591,"Shield[/center] Target is surrounded by a magical shield.[/center] Shield absorbs Health Point damage. Shield lasts[/center] until its damage is overcome, or spell wears off.[/center] Duration: Rounds shield can last.[/center] Chance: N/A[/center] Magnitude: Health Point damage Shield can absorb.[/center] [/end]"
+1592,"Shield[/center] Target is surrounded by a magical shield.[/center] Shield absorbs Health Point damage. Shield lasts[/center] until its damage is overcome, or spell wears off.[/center] Duration: Rounds shield can last.[/center] Chance: N/A[/center] Magnitude: Health Point damage Shield can absorb.[/center] [/end]"
+1593,"Shield[/center] Target is surrounded by a magical shield.[/center] Shield absorbs Health Point damage. Shield lasts[/center] until its damage is overcome, or spell wears off.[/center] Duration: Rounds shield can last.[/center] Chance: N/A[/center] Magnitude: Health Point damage Shield can absorb.[/center] [/end]"
+1594,"Astral Travel[/center] Sends caster to Astral Plane.[/center] Duration: Rounds caster remains in Astral Plane.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
+1595,"Etherealness[/center] Turns caster ethereal, thus able to walk through walls.[/center] Duration: Rounds caster remains ethereal.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
+1596,"Detect Magic[/center] Caster can detect all magic in front of him or her.[/center] Duration: Rounds caster can detect magic.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
+1597,"Detect Enemy[/center] Caster can detect all enemies in front of him or her.[/center] Duration: Rounds caster can detect enemies.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
+1598,"Detect Treasure[/center] Caster can detect all treasure in front of him or her.[/center] Duration: Rounds caster can detect treasure.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
+1599,"Identify[/center] Caster can identify a target object.[/center] Duration: Instantaneous.[/center] Chance: Chance of correct identification.[/center] Magnitude: N/A[/center] [/end]"
+1600,"Wizard Sight[/center] Caster's vision is projected out from his or her body.[/center] Duration: Rounds caster can see through projected vision.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
+1601,"Darkness[/center] Target is surrounded with darkness.[/center] Duration: Rounds target darkened.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
+1602,"Teleport[/center] Caster chooses a location, then is able to teleport[/center] to location instantly. Spell must be cast at least[/center] twice to use (once to choose location).[/center] Duration: Instantaneous.[/center] Chance: Chance to teleport to correct location.[/center] Magnitude: N/A[/center] [/end]"
+1603,"Soul Trap[/center] After death, target's soul will be deposited[/center] into any available receptacle.[/center] Duration: How long spell dooms living target[/center] Chance: Chance of Imprisoning target.[/center] Magnitude: N/A[/center] [/end]"
+1604,"Telekenesis[/center] Allows caster to move objects with mental powers.[/center] Duration: How long caster can use Telekenesis.[/center] Chance: N/A[/center] Magnitude: Weight of object caster can manipulate.[/center] [/end]"
+1605,"Comprehend Languages[/center] Caster can comprehend any written or spoken tongue[/center] Duration: How long the caster comprehends languages[/center] Chance: Chance of comprehending all of a language[/center] Magnitude: N/A[/center] [/end]"
+1606,"Intensify Fire[/center] Caster may intensify the light of a normal fire.[/center] Duration: How long intensified fire will last[/center] Chance: N/A[/center] Magnitude: Intensification possible in candlepower.[/center] [/end]"
+1607,"Diminish Fire[/center] Caster may dim the light of a normal fire.[/center] Duration: How long diminished fire will last[/center] Chance: N/A[/center] Magnitude: Diminishment possible in candlepower.[/center] [/end]"
+1608,"Wall of Stone[/center] Caster creates a wall of stone[/center] Duration: How long wall lasts[/center] Chance: N/A Magnitude: How large wall is in square meters[/center] [/end]"
+1609,"Wall of Fire[/center] Caster creates a wall of fire[/center] Duration: How long wall lasts[/center] Chance: N/A Magnitude: How large wall is in square meters[/center] [/end]"
+1610,"Wall of Frost[/center] Caster creates a wall of ice[/center] Duration: How long wall lasts[/center] Chance: N/A Magnitude: How large wall is in square meters[/center] [/end]"
+1611,"Wall of Poison[/center] Caster creates a wall of poison gas[/center] Duration: How long wall lasts[/center] Chance: N/A Magnitude: How large wall is in square meters[/center] [/end]"
 1650,"인챈터에게 지불할 골드가 부족합니다.[/end]"
 1651,"인챈트를 한계 이상 할 수 없습니다.[/end]"
 1652,"인챈트가 완료 되었습니다.[/end]"
@@ -2030,435 +1559,34 @@ Chance: N/A Magnitude: How large wall is in square meters[/center]
 2005,"우드엘프는 바인우드 지역의 원주민입니다.[/center]키가 크고 밝은색 피부를 가졌으며, 극히 민첩하고 빠르기로 매우 유명합니다.[/center]우드 엘프는 활과 화살을 다루는데 선천적인 재능이 있습니다.[/center]거의 모든 직종에 재능이 있지만 매우 뛰어난 궁술이 특출납니다.[/center]캐릭터를 우드엘프로 하시겠습니까?[/center][/end]"
 2006,"하이엘프는 서머셋 지역의 원주민입니다.[/center]키가 크고 금빛 피부를 가졌으며, 극히 뛰어난 지능, 민첩성, 의지력으로 유명합니다.[/center]서머셋 섬의 마법적인 특징 덕분에 하이엘프는 주문 사용 능력을 타고나며,[/center]몸을 마비시키는 독과 마법에 대한 면역 능력을 선천적으로 가지고 있습니다.[/center]캐릭터를 하이엘프로 하시겠습니까?[/center][/end]"
 2007,"다크엘프는 모로윈드 지역의 원주민입니다.[/center]키가 크고 어두운 피부를 가졌으며, 극히 강하고, 뛰어난 지능, 속도로 유명합니다.[/center]모든 분야에서 매우 뛰어난 능력을 발휘할 수 있으며,[/center]전사와 마법사로 잘 알려져 있습니다.[/center]캐릭터를 다크엘프로 하시겠습니까?[/center][/end]"
-2050,"The Mages Guild is an inter-provincial organization[/center]
-under a council of five archmagisters, dedicated to[/center]
-the study and application of magicka. Our students[/center]
-have concocted a number of the more popular potions[/center]
-and magical items which we offer at reasonable[/center]
-prices. We also have a variety of standard spells[/center]
-and potion ingredients, also for sale. In addition,[/center]
-our study is available for all serious students of[/center]
-magicka wishing to create their own spells.[/center]
-[/center]
-Of course, the Mages Guild is no mere curiosity[/center]
-shop. Persons judged worthy to join the Mages Guild[/center]
-are given access to libraries and laboratories of[/center]
-every description. Not all at once, of course, but[/center]
-gradually. One has to be careful about whom one[/center]
-trusts with great power.[/center]
-[/center]
-After all, the Mages Guild is all about[/center]
-responsibility.[/center]
-[/center]
-Are you perhaps interested in joining?[/center]
-[/end]"
-2051,"The Akatosh Chantry is devoted to the worship[/center]
-of Akatosh, the Great Dragon. Akatosh is the most[/center]
-constant of gods, for his sphere is time itself.[/center]
-[/center]
-Perhaps, if you are in need of a blessing of time[/center]
-and are willing to make an appreciable donation,[/center]
-Akatosh might smile upon you and grant you time:[/center]
-time to heal your injuries, perhaps, or time to[/center]
-shorten your voyages.[/center]
-[/center]
-Our priests and priestess here have a variety of[/center]
-other skills and services available for members[/center]
-of the Akatosh Chantry. Naturally, one has to be[/center]
-judged worthy before one is sheltered under the[/center]
-Great Wings of Akatosh.[/center]
-[/center]
-Are you perhaps interested in joining?[/center]
-[/end]"
-2052,"We are the Order of Arkay, the God of Birth and[/center]
-Death. Arkay is the great spirit who brings every[/center]
-man and woman, Human, Elf, Khajiit, and Argonian[/center]
-into this world, and when the time is true, ends[/center]
-their circle. Arkay is fertility and blight, joy[/center]
-and sorrow. At the Order, we celebrate the Blessed[/center]
-Neutrality that Arkay stands for.[/center]
-[/center]
-While we do not offer strangers blessings, for to[/center]
-give favor or curse would be to upset the eternal[/center]
-balance, the Order offers much to its members.[/center]
-Our libraries and sages are some of the finest in[/center]
-Tamriel. Of course, few are worthy to be initiated[/center]
-into the mysteries of Birth and Death.[/center]
-[/center]
-Are you perhaps interested in joining?[/center]
-[/end]"
-2053,"At the House of Dibella, we seek truth through[/center]
-beauty and the worship of the embodiment of beauty,[/center]
-the Goddess Dibella.[/center]
-[/center]
-Dibella smiles on those who give generously to our[/center]
-House. She grants charm and grace to donors. In[/center]
-proportion to their generosity, of course.[/center]
-[/center]
-We are always interested in new initiates to the[/center]
-House of Dibella, though only those possessing[/center]
-skills in the promotion of harmony. To be honest,[/center]
-very few qualify.[/center]
-[/center]
-Are you perhaps interested in joining?[/center]
-[/end]"
-2054,"Temples devoted to the Mother Goddess of Tamriel[/center]
-are called Benevolences, for we are devoted to the[/center]
-charge of uniting all creatures as brethren,[/center]
-childer of Mara. We are intolerant only of those[/center]
-who show intolerance; we hate only those who hate.[/center]
-[/center]
-Mara is our Mother Goddess, and thus she blesses[/center]
-all with the gift of love. Particularly, she favors[/center]
-those who help her followers in Tamriel. For a[/center]
-reasonable donation to our Benevolence, you will[/center]
-be blessed and be forever beloved by he or she who[/center]
-loves you best.[/center]
-[/center]
-Those who devote themselves further to the Mother[/center]
-Goddess are even more blessed. Our priests and[/center]
-priestesses study the greatness of Mara's Tamriel[/center]
-and have learned much. So there is much to share[/center]
-with our initiates who are judged to be true[/center]
-to Mara's calling.[/center]
-[/center]
-Are you perhaps interested in joining?[/center]
-[/end]"
-2055,"The School of Julianos is no mere temple, dedicated[/center]
-to mindless obeisance to a distant and hazy God[/center]
-figure. Julianos is a God, to be sure, but foremost[/center]
-he is a symbol of learning, logic, philosophy, and[/center]
-wisdom. We espouse no moral philosophy other than[/center]
-the goodness of knowledge. As the great Psijic[/center]
-once said, the power of ignorance can truly shatter[/center]
-mithril like glass. That is our enemy.[/center]
-[/center]
-Scholarship is a long and difficult journey, and[/center]
-Julianos does not tolerate those who wish to shorten[/center]
-it. However, He does bless those who generously[/center]
-donate to His School with a temporary increase in[/center]
-their magical skills.[/center]
-[/center]
-While we advocate literacy and education for all[/center]
-Tamrielans, our policy for those who wish to join[/center]
-the School itself is very stringent. We have little[/center]
-time to waste training the slow and the lazy.[/center]
-[/center]
-Are you perhaps interested in joining?[/center]
-[/end]"
-2056,"Our Lady is the Goddess Kynareth whose sphere is[/center]
-the Heavens itself. She is sometimes called the[/center]
-Goddess of Air, the Pure One. It was She who gave[/center]
-the Lords Mail to the Warrior Lord Morihaus to[/center]
-combat the unclean Daedric spirits.[/center]
-[/center]
-By the glory of our Lady, we have become the[/center]
-greatest physicians in Tamriel -- our ability[/center]
-to cure magical and mundane diseases is truly[/center]
-unrivalled. Other temples cure only their own[/center]
-priests, but we are philanthropists.[/center]
-[/center]
-Of course, the Goddess shows special favor on Her[/center]
-own. We do take in new initiates, provided they[/center]
-show devotion to the Goddess and have the skill[/center]
-to make their devotion worthwhile.[/center]
-[/center]
-Are you perhaps interested in joining?[/center]
-[/end]"
-2057,"Our God is the God of Mercy, Stendarr. Some mock[/center]
-our compassion, calling us sentimental fools and[/center]
-tenderhearts. But the truth is that everyone, no[/center]
-matter their strength, crawls to us when Sai, the[/center]
-God of Luck deserts them as he is prone to do.[/center]
-[/center]
-Our gift to the traveller is a simple one -- we[/center]
-heal those who are in pain. For more complicated[/center]
-ailments, diseases and poisonings, we direct you[/center]
-to the Temple of Kynareth. With due respect, for[/center]
-they are the finest apothecaries and we, the[/center]
-finest chirurgeons.[/center]
-[/center]
-If one possesses the desire and aptitude, one may[/center]
-join the Temple. Though we desire to help all[/center]
-Tamrielans, we only possess the means to train[/center]
-and assist a small handful. Sometimes, it is best[/center]
-to begin one's compassion with oneself.[/center]
-[/center]
-Are you perhaps interested in joining?[/center]
-[/end]"
-2058,"We are a temple devoted to Zenithar, the God of[/center]
-Commerce and Patron of Merchants and Mercenaries.[/center]
-Long ago, in our movement's birth, our forefathers[/center]
-made us a temple like no other: one meant to be[/center]
-adaptable, but resilient to the storm of time. We[/center]
-are thus called Resolutions, a far more[/center]
-descriptive term than temples.[/center]
-[/center]
-The Resolution of Zenithar favors those who favor[/center]
-us -- we do not choose to hide behind words like[/center]
-donations, gifts, indulgences. In proportion to[/center]
-your payment to the Resolution, your skill in[/center]
-haggling with other merchants will increase, but[/center]
-temporarily. If you wish to increase your skill[/center]
-permanently, you may wish to join the Resolution[/center]
-and meet with our trainers.[/center]
-[/center]
-The invitation to join the Resolution of Zenithar[/center]
-is not open. Only those already possessing a[/center]
-few minimum skills will even be considered. It[/center]
-does not reward us to waste our time with[/center]
-neophytes. If nothing else, we are professionals.[/center]
-[/center]
-Are you perhaps interested in joining?[/center]
-[/end]"
-2059,"We of the Order of the Lamp are the protectors of[/center]
-the Mages Guild. We follow the Palantinus, under[/center]
-direct orders from the Archmagister.[/center]
-[/center]
-We are given appropriate rights to certain services[/center]
-at the Mages Guild. One's rank within the Order[/center]
-approximates ones rank within the Guild, in terms[/center]
-of rights and privileges.[/center]
-[/center]
-The Order is only open to those who have already[/center]
-demonstrated fighting skills and are in good[/center]
-standing with the Mages Guild.[/center]
-[/end]"
-2060,"The Knights of the Dragon have the official duty[/center]
-of protecting the city and royal family of[/center]
-Daggerfall. We are led by the honorable Lord[/center]
-Bridwell, the greatest hero of the War of[/center]
-Betony.[/center]
-[/center]
-To be considered for admission into our fighting[/center]
-order, one must demonstrate exceptional combat[/center]
-skills and a reputation for honor and loyalty to[/center]
-Daggerfall. In return, our knights are[/center]
-treated with unparalleled respect in Daggerfall.[/center]
-[/center]
-Are you perhaps interested in joining?[/center]
-[/end]"
-2061,"The Order of the Candle have replaced the defunct[/center]
-Knights of the Moon as the official protectors and[/center]
-warriors of the kingdom of Sentinel. The lords[/center]
-Vhosek of the Moon and K'avar are our commanders[/center]
-and we follow their order implicitly.[/center]
-[/center]
-In Sentinel, no order, guild, or organization is[/center]
-treated with more respect than we. Only men and[/center]
-women of exceptional fighting skills and[/center]
-demonstrated loyalty to the royal family of[/center]
-Sentinel will be considered for[/center]
-admission.[/center]
-[/center]
-Are you perhaps interested in joining?[/center]
-[/end]"
-2062,"We of the Knights of the Rose have the honor of[/center]
-being the guard and strong arm of his majesty,[/center]
-King Eadwyre of Wayrest. The greatest knights[/center]
-in his court are members of our order and we[/center]
-have demonstrated our worth in internal and[/center]
-interprovincial struggles throughout the Bay[/center]
-and Tamriel.[/center]
-[/center]
-For those few whose combat abilities and true[/center]
-loyalty to the King are judged acceptable, we[/center]
-offer membership in the most respected order[/center]
-in Wayrest.[/center]
-[/center]
-Are you perhaps interested in joining?[/center]
-[/end]"
-2063,"The Knights of the Flame are the noble warriors[/center]
-of the Lorddom of Anticlere. Our allegiance is[/center]
-unswerving to Lord and Lady Flyte, who rescued[/center]
-us from the chaos following the War of Betony.[/center]
-[/center]
-Only those known for their loyalty to Anticlere[/center]
-and our blessed patrons are judged worthy to[/center]
-join our order. In return for their allegiance,[/center]
-our knights are treated as veritable gods in[/center]
-Anticlere.[/center]
-[/center]
-Are you perhaps interested in joining?[/center]
-[/end]"
-2064,"The Host of the Horn have the honor of serving[/center]
-his most terrible Grace, the Baron Shrike. Our[/center]
-duties consist of all important activities from[/center]
-straight warfare to espionage and tax collection.[/center]
-[/center]
-It may be worth dispelling this confusion: the[/center]
-Baron's weak brother Lord Kain has his own order[/center]
-devoted to the illegal acquisition of the throne[/center]
-of Lainlyn, and he idiotically calls his[/center]
-piteous group, the Host of the True Horn.[/center]
-[/center]
-If one has demonstrated loyalty to Baron Shrike[/center]
-and prowess in battle, one may be considered for[/center]
-admission in our proud Host. We have not earned[/center]
-the fear and respect of all in Lainlyn by[/center]
-wasting time with the hopeless.[/center]
-[/center]
-Are you perhaps interested in joining?[/center]
-[/end]"
-2065,"We of the Knights of the Owl are responsible[/center]
-for protecting and fighting for the royal family[/center]
-of Glenpoint. Only those of the most refined[/center]
-fighting skills and dedicated to the welfare[/center]
-of Glenpoint are considered for inclusion in[/center]
-our knightly order.[/center]
-[/center]
-Our knights are the royal escorts of the[/center]
-Baron and treated with unparalleled respect[/center]
-in all of Glenpoint.[/center]
-[/center]
-Are you perhaps interested in joining?[/center]
-[/end]"
-2066,"In all modesty, the Order of the Raven is a[/center]
-legendary fighting order. We have the honor of[/center]
-having led the battle against the Camoran[/center]
-Usurper and freed half of Tamriel from his tyranny.[/center]
-[/center]
-We remain the vanguards of the Barony of Dwynnen,[/center]
-protecting the entire region. Given our[/center]
-reputation, we cannot admit any but the greatest[/center]
-warriors, the most loyal servants of the Baron,[/center]
-into our order.[/center]
-[/center]
-Are you perhaps interested in joining?[/center]
-[/end]"
-2067,"The Knights of the Wheel represent the royal[/center]
-family and the city of Abibon-Gora in all[/center]
-military situations.[/center]
-[/center]
-We are not currently soliciting new recruits[/center]
-into our order. A suitably talented warrior[/center]
-known for his or her loyalty to Abibon-Gora[/center]
-might, however, still merit consideration.[/center]
-[/center]
-Are you perhaps interested in joining?[/center]
-[/end]"
-2068,"We of the Order of the Scarab have the[/center]
-honor of being the official guard for the[/center]
-royal family of Totambu. Our duties are many,[/center]
-our favor is great. Only the most refined[/center]
-and loyal warriors are considered for[/center]
-initiation. It is a very great honor indeed.[/center]
-[/center]
-Are you perhaps interested in joining?[/center]
-[/end]"
-2069,"The Knights of the Hawk act as the noble[/center]
-warriors and protectors of the town and[/center]
-royal family of Antiphyllos. Many have trained[/center]
-since childhood to join our knightly order,[/center]
-for the honor and prestige.[/center]
-[/center]
-Are you perhaps interested in joining?[/center]
-[/end]"
-2070,"The Knights of the Circle are the military[/center]
-arm of the Order of Arkay. It is our solemn[/center]
-duty to protect the Order and to fight[/center]
-their battles. Our devotion to the God[/center]
-Arkay and the Order are complete.[/center]
-[/center]
-Only those of exceptional fighting prowess[/center]
-and unswerving loyalty to the Order and[/center]
-the God Arkay are considered for inclusion[/center]
-in the Knights of the Circle.[/center]
-[/end]"
-2071,"We of the Knights of Iron are in charge of[/center]
-the military excursions of the Resolution[/center]
-of Zenithar. Zenithar is not merely the[/center]
-God of Merchants and Commerce, He is also[/center]
-a warrior god. We represent that side of[/center]
-Him.[/center]
-[/center]
-Obviously, it does not behoove us to take[/center]
-any new initiates who are less than[/center]
-excellent fighters and completely[/center]
-devoted to our cause.[/center]
-[/end]"
-2072,"Mara represents love and peace. She and Her[/center]
-Benevolence recognize that, as hypocritical[/center]
-as it sounds, military strength is often[/center]
-needed to beget this peace. The Maran[/center]
-Knights represent this military strength.[/center]
-[/center]
-We are admittedly a controversial knightly[/center]
-order. Some misguided clerics within the[/center]
-Temple would prefer that we disband, but[/center]
-they are in the minority, and all respect[/center]
-our skill and loyalty.[/center]
-[/end]"
-2073,"We are the military arm of the Akatosh[/center]
-Chantry, the Order of the Hour, charged[/center]
-with the protection of the Chantry. Our[/center]
-knights are devoted to the Great Dragon,[/center]
-and dedicated to the promise of stability[/center]
-and permanence He represents.[/center]
-[/center]
-Our duties are varied indeed, and our[/center]
-honors bountiful. An initiate in our Order[/center]
-have the same rights and honors of an[/center]
-initiate in the Chantry.[/center]
-[/end]"
-2074,"The Knights Mentor are brothers and sisters[/center]
-to the School of Julianos. While they do[/center]
-research and expand the libraries of the[/center]
-School, we protect them. And, in turn,[/center]
-they share their expanded knowledge with[/center]
-us. It is a perfect relationship and[/center]
-benefits us each equally.[/center]
-[/center]
-Naturally, only those of exceptional[/center]
-military skill and demonstrated loyalty[/center]
-to the School and God Julianos are[/center]
-considered for membership into the[/center]
-Knights Mentor.[/center]
-[/end]"
-2075,"The House of Dibella is the noblest[/center]
-institution in Tamriel, we of the Order[/center]
-of the Lily firmly are devoted to its[/center]
-cause. Its only fault is that the priests[/center]
-and priestesses within are often too[/center]
-consumed with the propagation of beauty[/center]
-to protect themselves adequately.[/center]
-[/center]
-That is the sacred cause of the Order[/center]
-of the Lily. We protect the House and[/center]
-receive the training and blessings of[/center]
-clerics of equal rank. I can think of[/center]
-no better reason to fight than the[/center]
-cause of beauty.[/center]
-[/end]"
-2076,"We, the Knights of Stendarr the Merciful[/center]
-call ourselves the Crusaders, for it is[/center]
-our sacred duty to protect the Temple[/center]
-and fights its battles. While we firmly[/center]
-espouse the Temple's philosophy of[/center]
-compassion and charity, we recognize[/center]
-that if the Temple is weak, it cannot[/center]
-realistically survive.[/center]
-[/center]
-Only those of great combat ability and[/center]
-proven devotion to the Temple and the[/center]
-God Stendarr are eligible for possible[/center]
-membership in the Crusaders.[/center]
-[/end]"
-2077,"We are the strong arm of the Goddess[/center]
-Kynareth, an off-shoot of her temple[/center]
-devoted to fighting her causes all over[/center]
-Tamriel. Members of the Kynaran Order[/center]
-are honored for our skill and loyalty[/center]
-by the Temple, and given full access[/center]
-to the blessings and services within.[/center]
-According to individual rank in the[/center]
-Order, of course.[/center]
-[/center]
-Possible candidates for inclusion in[/center]
-the Kynaran Order are chosen on the[/center]
-basis of their combat skills and their[/center]
-reputation with the Temple.[/center]
-[/end]"
+2050,"The Mages Guild is an inter-provincial organization[/center] under a council of five archmagisters, dedicated to[/center] the study and application of magicka. Our students[/center] have concocted a number of the more popular potions[/center] and magical items which we offer at reasonable[/center] prices. We also have a variety of standard spells[/center] and potion ingredients, also for sale. In addition,[/center] our study is available for all serious students of[/center] magicka wishing to create their own spells.[/center] [/center] Of course, the Mages Guild is no mere curiosity[/center] shop. Persons judged worthy to join the Mages Guild[/center] are given access to libraries and laboratories of[/center] every description. Not all at once, of course, but[/center] gradually. One has to be careful about whom one[/center] trusts with great power.[/center] [/center] After all, the Mages Guild is all about[/center] responsibility.[/center] [/center] Are you perhaps interested in joining?[/center] [/end]"
+2051,"The Akatosh Chantry is devoted to the worship[/center] of Akatosh, the Great Dragon. Akatosh is the most[/center] constant of gods, for his sphere is time itself.[/center] [/center] Perhaps, if you are in need of a blessing of time[/center] and are willing to make an appreciable donation,[/center] Akatosh might smile upon you and grant you time:[/center] time to heal your injuries, perhaps, or time to[/center] shorten your voyages.[/center] [/center] Our priests and priestess here have a variety of[/center] other skills and services available for members[/center] of the Akatosh Chantry. Naturally, one has to be[/center] judged worthy before one is sheltered under the[/center] Great Wings of Akatosh.[/center] [/center] Are you perhaps interested in joining?[/center] [/end]"
+2052,"We are the Order of Arkay, the God of Birth and[/center] Death. Arkay is the great spirit who brings every[/center] man and woman, Human, Elf, Khajiit, and Argonian[/center] into this world, and when the time is true, ends[/center] their circle. Arkay is fertility and blight, joy[/center] and sorrow. At the Order, we celebrate the Blessed[/center] Neutrality that Arkay stands for.[/center] [/center] While we do not offer strangers blessings, for to[/center] give favor or curse would be to upset the eternal[/center] balance, the Order offers much to its members.[/center] Our libraries and sages are some of the finest in[/center] Tamriel. Of course, few are worthy to be initiated[/center] into the mysteries of Birth and Death.[/center] [/center] Are you perhaps interested in joining?[/center] [/end]"
+2053,"At the House of Dibella, we seek truth through[/center] beauty and the worship of the embodiment of beauty,[/center] the Goddess Dibella.[/center] [/center] Dibella smiles on those who give generously to our[/center] House. She grants charm and grace to donors. In[/center] proportion to their generosity, of course.[/center] [/center] We are always interested in new initiates to the[/center] House of Dibella, though only those possessing[/center] skills in the promotion of harmony. To be honest,[/center] very few qualify.[/center] [/center] Are you perhaps interested in joining?[/center] [/end]"
+2054,"Temples devoted to the Mother Goddess of Tamriel[/center] are called Benevolences, for we are devoted to the[/center] charge of uniting all creatures as brethren,[/center] childer of Mara. We are intolerant only of those[/center] who show intolerance; we hate only those who hate.[/center] [/center] Mara is our Mother Goddess, and thus she blesses[/center] all with the gift of love. Particularly, she favors[/center] those who help her followers in Tamriel. For a[/center] reasonable donation to our Benevolence, you will[/center] be blessed and be forever beloved by he or she who[/center] loves you best.[/center] [/center] Those who devote themselves further to the Mother[/center] Goddess are even more blessed. Our priests and[/center] priestesses study the greatness of Mara's Tamriel[/center] and have learned much. So there is much to share[/center] with our initiates who are judged to be true[/center] to Mara's calling.[/center] [/center] Are you perhaps interested in joining?[/center] [/end]"
+2055,"The School of Julianos is no mere temple, dedicated[/center] to mindless obeisance to a distant and hazy God[/center] figure. Julianos is a God, to be sure, but foremost[/center] he is a symbol of learning, logic, philosophy, and[/center] wisdom. We espouse no moral philosophy other than[/center] the goodness of knowledge. As the great Psijic[/center] once said, the power of ignorance can truly shatter[/center] mithril like glass. That is our enemy.[/center] [/center] Scholarship is a long and difficult journey, and[/center] Julianos does not tolerate those who wish to shorten[/center] it. However, He does bless those who generously[/center] donate to His School with a temporary increase in[/center] their magical skills.[/center] [/center] While we advocate literacy and education for all[/center] Tamrielans, our policy for those who wish to join[/center] the School itself is very stringent. We have little[/center] time to waste training the slow and the lazy.[/center] [/center] Are you perhaps interested in joining?[/center] [/end]"
+2056,"Our Lady is the Goddess Kynareth whose sphere is[/center] the Heavens itself. She is sometimes called the[/center] Goddess of Air, the Pure One. It was She who gave[/center] the Lords Mail to the Warrior Lord Morihaus to[/center] combat the unclean Daedric spirits.[/center] [/center] By the glory of our Lady, we have become the[/center] greatest physicians in Tamriel -- our ability[/center] to cure magical and mundane diseases is truly[/center] unrivalled. Other temples cure only their own[/center] priests, but we are philanthropists.[/center] [/center] Of course, the Goddess shows special favor on Her[/center] own. We do take in new initiates, provided they[/center] show devotion to the Goddess and have the skill[/center] to make their devotion worthwhile.[/center] [/center] Are you perhaps interested in joining?[/center] [/end]"
+2057,"Our God is the God of Mercy, Stendarr. Some mock[/center] our compassion, calling us sentimental fools and[/center] tenderhearts. But the truth is that everyone, no[/center] matter their strength, crawls to us when Sai, the[/center] God of Luck deserts them as he is prone to do.[/center] [/center] Our gift to the traveller is a simple one -- we[/center] heal those who are in pain. For more complicated[/center] ailments, diseases and poisonings, we direct you[/center] to the Temple of Kynareth. With due respect, for[/center] they are the finest apothecaries and we, the[/center] finest chirurgeons.[/center] [/center] If one possesses the desire and aptitude, one may[/center] join the Temple. Though we desire to help all[/center] Tamrielans, we only possess the means to train[/center] and assist a small handful. Sometimes, it is best[/center] to begin one's compassion with oneself.[/center] [/center] Are you perhaps interested in joining?[/center] [/end]"
+2058,"We are a temple devoted to Zenithar, the God of[/center] Commerce and Patron of Merchants and Mercenaries.[/center] Long ago, in our movement's birth, our forefathers[/center] made us a temple like no other: one meant to be[/center] adaptable, but resilient to the storm of time. We[/center] are thus called Resolutions, a far more[/center] descriptive term than temples.[/center] [/center] The Resolution of Zenithar favors those who favor[/center] us -- we do not choose to hide behind words like[/center] donations, gifts, indulgences. In proportion to[/center] your payment to the Resolution, your skill in[/center] haggling with other merchants will increase, but[/center] temporarily. If you wish to increase your skill[/center] permanently, you may wish to join the Resolution[/center] and meet with our trainers.[/center] [/center] The invitation to join the Resolution of Zenithar[/center] is not open. Only those already possessing a[/center] few minimum skills will even be considered. It[/center] does not reward us to waste our time with[/center] neophytes. If nothing else, we are professionals.[/center] [/center] Are you perhaps interested in joining?[/center] [/end]"
+2059,"We of the Order of the Lamp are the protectors of[/center] the Mages Guild. We follow the Palantinus, under[/center] direct orders from the Archmagister.[/center] [/center] We are given appropriate rights to certain services[/center] at the Mages Guild. One's rank within the Order[/center] approximates ones rank within the Guild, in terms[/center] of rights and privileges.[/center] [/center] The Order is only open to those who have already[/center] demonstrated fighting skills and are in good[/center] standing with the Mages Guild.[/center] [/end]"
+2060,"The Knights of the Dragon have the official duty[/center] of protecting the city and royal family of[/center] Daggerfall. We are led by the honorable Lord[/center] Bridwell, the greatest hero of the War of[/center] Betony.[/center] [/center] To be considered for admission into our fighting[/center] order, one must demonstrate exceptional combat[/center] skills and a reputation for honor and loyalty to[/center] Daggerfall. In return, our knights are[/center] treated with unparalleled respect in Daggerfall.[/center] [/center] Are you perhaps interested in joining?[/center] [/end]"
+2061,"The Order of the Candle have replaced the defunct[/center] Knights of the Moon as the official protectors and[/center] warriors of the kingdom of Sentinel. The lords[/center] Vhosek of the Moon and K'avar are our commanders[/center] and we follow their order implicitly.[/center] [/center] In Sentinel, no order, guild, or organization is[/center] treated with more respect than we. Only men and[/center] women of exceptional fighting skills and[/center] demonstrated loyalty to the royal family of[/center] Sentinel will be considered for[/center] admission.[/center] [/center] Are you perhaps interested in joining?[/center] [/end]"
+2062,"We of the Knights of the Rose have the honor of[/center] being the guard and strong arm of his majesty,[/center] King Eadwyre of Wayrest. The greatest knights[/center] in his court are members of our order and we[/center] have demonstrated our worth in internal and[/center] interprovincial struggles throughout the Bay[/center] and Tamriel.[/center] [/center] For those few whose combat abilities and true[/center] loyalty to the King are judged acceptable, we[/center] offer membership in the most respected order[/center] in Wayrest.[/center] [/center] Are you perhaps interested in joining?[/center] [/end]"
+2063,"The Knights of the Flame are the noble warriors[/center] of the Lorddom of Anticlere. Our allegiance is[/center] unswerving to Lord and Lady Flyte, who rescued[/center] us from the chaos following the War of Betony.[/center] [/center] Only those known for their loyalty to Anticlere[/center] and our blessed patrons are judged worthy to[/center] join our order. In return for their allegiance,[/center] our knights are treated as veritable gods in[/center] Anticlere.[/center] [/center] Are you perhaps interested in joining?[/center] [/end]"
+2064,"The Host of the Horn have the honor of serving[/center] his most terrible Grace, the Baron Shrike. Our[/center] duties consist of all important activities from[/center] straight warfare to espionage and tax collection.[/center] [/center] It may be worth dispelling this confusion: the[/center] Baron's weak brother Lord Kain has his own order[/center] devoted to the illegal acquisition of the throne[/center] of Lainlyn, and he idiotically calls his[/center] piteous group, the Host of the True Horn.[/center] [/center] If one has demonstrated loyalty to Baron Shrike[/center] and prowess in battle, one may be considered for[/center] admission in our proud Host. We have not earned[/center] the fear and respect of all in Lainlyn by[/center] wasting time with the hopeless.[/center] [/center] Are you perhaps interested in joining?[/center] [/end]"
+2065,"We of the Knights of the Owl are responsible[/center] for protecting and fighting for the royal family[/center] of Glenpoint. Only those of the most refined[/center] fighting skills and dedicated to the welfare[/center] of Glenpoint are considered for inclusion in[/center] our knightly order.[/center] [/center] Our knights are the royal escorts of the[/center] Baron and treated with unparalleled respect[/center] in all of Glenpoint.[/center] [/center] Are you perhaps interested in joining?[/center] [/end]"
+2066,"In all modesty, the Order of the Raven is a[/center] legendary fighting order. We have the honor of[/center] having led the battle against the Camoran[/center] Usurper and freed half of Tamriel from his tyranny.[/center] [/center] We remain the vanguards of the Barony of Dwynnen,[/center] protecting the entire region. Given our[/center] reputation, we cannot admit any but the greatest[/center] warriors, the most loyal servants of the Baron,[/center] into our order.[/center] [/center] Are you perhaps interested in joining?[/center] [/end]"
+2067,"The Knights of the Wheel represent the royal[/center] family and the city of Abibon-Gora in all[/center] military situations.[/center] [/center] We are not currently soliciting new recruits[/center] into our order. A suitably talented warrior[/center] known for his or her loyalty to Abibon-Gora[/center] might, however, still merit consideration.[/center] [/center] Are you perhaps interested in joining?[/center] [/end]"
+2068,"We of the Order of the Scarab have the[/center] honor of being the official guard for the[/center] royal family of Totambu. Our duties are many,[/center] our favor is great. Only the most refined[/center] and loyal warriors are considered for[/center] initiation. It is a very great honor indeed.[/center] [/center] Are you perhaps interested in joining?[/center] [/end]"
+2069,"The Knights of the Hawk act as the noble[/center] warriors and protectors of the town and[/center] royal family of Antiphyllos. Many have trained[/center] since childhood to join our knightly order,[/center] for the honor and prestige.[/center] [/center] Are you perhaps interested in joining?[/center] [/end]"
+2070,"The Knights of the Circle are the military[/center] arm of the Order of Arkay. It is our solemn[/center] duty to protect the Order and to fight[/center] their battles. Our devotion to the God[/center] Arkay and the Order are complete.[/center] [/center] Only those of exceptional fighting prowess[/center] and unswerving loyalty to the Order and[/center] the God Arkay are considered for inclusion[/center] in the Knights of the Circle.[/center] [/end]"
+2071,"We of the Knights of Iron are in charge of[/center] the military excursions of the Resolution[/center] of Zenithar. Zenithar is not merely the[/center] God of Merchants and Commerce, He is also[/center] a warrior god. We represent that side of[/center] Him.[/center] [/center] Obviously, it does not behoove us to take[/center] any new initiates who are less than[/center] excellent fighters and completely[/center] devoted to our cause.[/center] [/end]"
+2072,"Mara represents love and peace. She and Her[/center] Benevolence recognize that, as hypocritical[/center] as it sounds, military strength is often[/center] needed to beget this peace. The Maran[/center] Knights represent this military strength.[/center] [/center] We are admittedly a controversial knightly[/center] order. Some misguided clerics within the[/center] Temple would prefer that we disband, but[/center] they are in the minority, and all respect[/center] our skill and loyalty.[/center] [/end]"
+2073,"We are the military arm of the Akatosh[/center] Chantry, the Order of the Hour, charged[/center] with the protection of the Chantry. Our[/center] knights are devoted to the Great Dragon,[/center] and dedicated to the promise of stability[/center] and permanence He represents.[/center] [/center] Our duties are varied indeed, and our[/center] honors bountiful. An initiate in our Order[/center] have the same rights and honors of an[/center] initiate in the Chantry.[/center] [/end]"
+2074,"The Knights Mentor are brothers and sisters[/center] to the School of Julianos. While they do[/center] research and expand the libraries of the[/center] School, we protect them. And, in turn,[/center] they share their expanded knowledge with[/center] us. It is a perfect relationship and[/center] benefits us each equally.[/center] [/center] Naturally, only those of exceptional[/center] military skill and demonstrated loyalty[/center] to the School and God Julianos are[/center] considered for membership into the[/center] Knights Mentor.[/center] [/end]"
+2075,"The House of Dibella is the noblest[/center] institution in Tamriel, we of the Order[/center] of the Lily firmly are devoted to its[/center] cause. Its only fault is that the priests[/center] and priestesses within are often too[/center] consumed with the propagation of beauty[/center] to protect themselves adequately.[/center] [/center] That is the sacred cause of the Order[/center] of the Lily. We protect the House and[/center] receive the training and blessings of[/center] clerics of equal rank. I can think of[/center] no better reason to fight than the[/center] cause of beauty.[/center] [/end]"
+2076,"We, the Knights of Stendarr the Merciful[/center] call ourselves the Crusaders, for it is[/center] our sacred duty to protect the Temple[/center] and fights its battles. While we firmly[/center] espouse the Temple's philosophy of[/center] compassion and charity, we recognize[/center] that if the Temple is weak, it cannot[/center] realistically survive.[/center] [/center] Only those of great combat ability and[/center] proven devotion to the Temple and the[/center] God Stendarr are eligible for possible[/center] membership in the Crusaders.[/center] [/end]"
+2077,"We are the strong arm of the Goddess[/center] Kynareth, an off-shoot of her temple[/center] devoted to fighting her causes all over[/center] Tamriel. Members of the Kynaran Order[/center] are honored for our skill and loyalty[/center] by the Temple, and given full access[/center] to the blessings and services within.[/center] According to individual rank in the[/center] Order, of course.[/center] [/center] Possible candidates for inclusion in[/center] the Kynaran Order are chosen on the[/center] basis of their combat skills and their[/center] reputation with the Temple.[/center] [/end]"
 2100,"메이지는 마법 기술의 학습과 사용에 일생을 바치는 자들 입니다.[/center]숙련된 메이지는 상대하기 매우 위협적인 상대가 될 수 있습니다.[/center]메이지 주요 기술: 모든 마법 학파--[/center]신비마법, 변화마법, 역동마법, 환영마법, 파괴마법, 회복마법.[/center]캐릭터를 메이지로 하시겠습니까?[/center][/end]"
 2101,"마검사는 전사이지만 마법의 사용에도 상당한[/center]조예를 가지고 있는 자들입니다.[/center]이때문에 마검사들은 상대하기 만만치 않은 적입니다.[/center]마검사 주요 기술:[/center]도끼, 장검, 둔기, 파괴마법, 환영마법, 변화마법.[/center]캐릭터를 마검사로 하시겠습니까?[/center][/end]"
 2102,"배틀 메이지는 마법 기술을 전투용도로 사용하며[/center]공격 마법 주문을 자유자재로 사용합니다.[/center]배틀 메이지 주요 기술:[/center]파괴마법, 장검, 도끼, 역동마법, 변화마법, 격투.[/center]캐릭터를 배틀 메이지로 하시겠습니까?[/center][/end]"
@@ -2468,66 +1596,16 @@ reputation with the Temple.[/center]
 2106,"바드는 가장 다재다능한 직업으로, 여러 기술을 가졌습니다.[/center]무기, 마법, 도둑 관련 기술에 능숙합니다.[/center]바드 주요 기술:[/center]거리예절, 궁중예절, 자물쇠, 은신, 소검, 격투.[/center]캐릭터를 바드로 하시겠습니까?[/center][/end]"
 2107,"버글러는 자물쇠 기술에 뛰어납니다.[/center]가장 잘 경비된 귀족의 집에도 들키지 않고 숨어 들어 갈 수 있습니다.[/center]버글러 주요 기술:[/center]자물쇠, 은신, 등반, 거래, 회피, 소검.[/center]캐릭터를 버글러로 하시겠습니까?[/center][/end]"
 2108,"로그는 도둑으로서의 은신기술과 전사로서의 전투기술을[/center]같이 훈련한 직업입니다.[/center]로그 주요 기술:[/center]장검, 은신, 회피, 자물쇠, 배후공격, 거리예절.[/center]캐릭터를 로그로 하시겠습니까?[/center][/end]"
-2109,"Acrobats practice the thieving arts, and use their[/center]
-remarkable physical skills to aid them.[/center]
-They are very quick, agile, and nimble. The most[/center]
-important skills to an Acrobat are: Jumping, Dodging,[/center]
-Running, Climbing, Hand-to-Hand, and Stealth.[/center]
-Do you wish your character to be an Acrobat?[/center]
-[/end]"
-2110,"Thieves are well known for their adeptness in using[/center]
-stealth, speed, and cunning to steal for a[/center]
-living. The six most important skills to[/center]
-a Thief are: Pickpocketing, Stealth, Short Blade,[/center]
-Backstabbing, Climbing, and Lockpicking.[/center]
-Do you wish your character to be a Thief?[/center]
-[/end]"
-2111,"Assassins are much feared and respected, for they[/center]
-use the night for concealment, and their cunning to[/center]
-strike deadly blows. Even secure locks cannot[/center]
-stay the Assassin's blade. The most important Assassin[/center]
-skills are: Critical Striking, Backstabbing, Stealth,[/center]
-Short Blade, Long Blade, and Blunt Weapon.[/center]
-Do you wish your character to be an Assassin?[/center]
-[/end]"
-2112,"Monks are specially trained in mental disciplines. This[/center]
-intense mental awareness includes the ability to[/center]
-turn the body into a lethal machine. The skills most[/center]
-important to a Monk are: Hand-to-Hand, Critical Striking,[/center]
-Dodging, Swimming, Medical, and Blunt Weapon.[/center]
-Do you wish your character to be a Monk?[/center]
-[/end]"
-2113,"Archers are warriors specially trained in the[/center]
-use of the bow. The most important skills to an Archer are:[/center]
-Archery, Hand-to-Hand, Dodging[/center]
-Axe, Blunt Weapon, and Critical Striking.[/center]
-Do you wish your character to be an Archer?[/center]
-[/end]"
-2114,"Rangers are at home in the wilderness, and are[/center]
-excellent hunters. They are very skilled at survival and[/center]
-tracking. The skills most important to a Ranger are:[/center]
-Long Blade, Axe, Climbing, Swimming,[/center]
-Archery, and Critical Striking.[/center]
-Do you wish your character to be a Ranger?[/center]
-[/end]"
-2115,"Barbarians are warriors that hail from the harsh[/center]
-lands that fringe more civilized areas. They make excellent[/center]
-fighters, well-suited to survival under the worst conditions.[/center]
-The skills Barbarians use most are:[/center]
-Blunt Weapon, Long Blade, Axe,[/center]
-Jumping, Running, and Swimming.[/center]
-Do you wish your character to be a Barbarian?[/center]
-[/end]"
+2109,"Acrobats practice the thieving arts, and use their[/center] remarkable physical skills to aid them.[/center] They are very quick, agile, and nimble. The most[/center] important skills to an Acrobat are: Jumping, Dodging,[/center] Running, Climbing, Hand-to-Hand, and Stealth.[/center] Do you wish your character to be an Acrobat?[/center] [/end]"
+2110,"Thieves are well known for their adeptness in using[/center] stealth, speed, and cunning to steal for a[/center] living. The six most important skills to[/center] a Thief are: Pickpocketing, Stealth, Short Blade,[/center] Backstabbing, Climbing, and Lockpicking.[/center] Do you wish your character to be a Thief?[/center] [/end]"
+2111,"Assassins are much feared and respected, for they[/center] use the night for concealment, and their cunning to[/center] strike deadly blows. Even secure locks cannot[/center] stay the Assassin's blade. The most important Assassin[/center] skills are: Critical Striking, Backstabbing, Stealth,[/center] Short Blade, Long Blade, and Blunt Weapon.[/center] Do you wish your character to be an Assassin?[/center] [/end]"
+2112,"Monks are specially trained in mental disciplines. This[/center] intense mental awareness includes the ability to[/center] turn the body into a lethal machine. The skills most[/center] important to a Monk are: Hand-to-Hand, Critical Striking,[/center] Dodging, Swimming, Medical, and Blunt Weapon.[/center] Do you wish your character to be a Monk?[/center] [/end]"
+2113,"Archers are warriors specially trained in the[/center] use of the bow. The most important skills to an Archer are:[/center] Archery, Hand-to-Hand, Dodging[/center] Axe, Blunt Weapon, and Critical Striking.[/center] Do you wish your character to be an Archer?[/center] [/end]"
+2114,"Rangers are at home in the wilderness, and are[/center] excellent hunters. They are very skilled at survival and[/center] tracking. The skills most important to a Ranger are:[/center] Long Blade, Axe, Climbing, Swimming,[/center] Archery, and Critical Striking.[/center] Do you wish your character to be a Ranger?[/center] [/end]"
+2115,"Barbarians are warriors that hail from the harsh[/center] lands that fringe more civilized areas. They make excellent[/center] fighters, well-suited to survival under the worst conditions.[/center] The skills Barbarians use most are:[/center] Blunt Weapon, Long Blade, Axe,[/center] Jumping, Running, and Swimming.[/center] Do you wish your character to be a Barbarian?[/center] [/end]"
 2116,"워리어는 전투와 전쟁 기술을 가장 강도 높게 훈련 받는 자들입니다.[/center]여러 무기의 사용에 익숙하며 갑옷으로 중무장 합니다.[/center]워리어 주요기술:[/center]도끼, 장검, 둔기 무기, 격투, 궁술, 소검[/center]캐릭터를 워리어로 하시겠습니까?[/center][/end]"
-2117,"Knights are trained as warriors. They hail from noble[/center]
-stock, and adhere to the code of chivalry.[/center]
-The most important skills to a Knight are:[/center]
-Long Blade, Etiquette, Blunt Weapon, Axe,[/center]
-Archery and Short Blade.[/center]
-Do you wish your character to be a Knight?[/center]
-[/end]"
+2117,"Knights are trained as warriors. They hail from noble[/center] stock, and adhere to the code of chivalry.[/center] The most important skills to a Knight are:[/center] Long Blade, Etiquette, Blunt Weapon, Axe,[/center] Archery and Short Blade.[/center] Do you wish your character to be a Knight?[/center] [/end]"
 2200,"캐릭터의 성별을 선택하세요.[/center][/end]"
-[/end]"
 2400,"Help - General[/center]
 [/record]
 The ClassMaker allows you to create your own class.[/left]
@@ -2692,13 +1770,9 @@ summon the Daedra %dts.[/center]
 3509,"Tonight the portents are not kind for[/center]a safe summoning, %pcf. If[/center]you would like to be present for the[/center]summoning of %dts, return[/center]on %dfs.[/center][/record]We are not summoning %dts[/center]this evening. Return on %dfs[/center]if you want to be present for the[/center]summoning.[/center][/end]"
 4000,"텔레포트 와 위치지정 중 어느 것을 합니까?[/center][/end]"
 4001,"텔레포트를 하기전에 위치지정을 해야합니다.[/center][/end]"
-4020,"Congratulations, %pcn,[/center]
-You are now a Master of %ski[/center]
-One of the Finest Practitioners[/center]
-Of %ski in Tamriel.[/center]
-[/end]"
+4020,"Congratulations, %pcn,[/center] You are now a Master of %ski[/center] One of the Finest Practitioners[/center] Of %ski in Tamriel.[/center] [/end]"
 4021,Master of %ski[/end]
-4022,"가르쳐 달란 말입니까? 오히려 그쪽에서 그걸[/center]몇가지 가르쳐 줄 수 있을것 같습니다,[/center]%pct.[/center][/record]미안합니다만, %pct.[/center]가르쳐 줄 수 있는 게 더 이상[/center]없는것 같습니다.[/center][/record]그 기술에 관해서는[/center]%pct 의 실력이 이쪽보다 크게 웃도는 것[/center]같습니다.[/center][/record]%pct, 제가 가르칠 수 있는 실력을[/center]넘어섰습니다.[/center][/end]"
+4022,"가르쳐 달란 말입니까? 오히려 그쪽에서 그걸[/center]몇가지 가르쳐 줄 수 있을것 같습니다,[/center]%pct.[/center][/record]미안합니다만, %pct.[/center]가르쳐 줄 수 있는 게 더 이상[/center]없는것 같습니다.[/center][/record]그 기술에 관해서는 %pct 의 실력이[/center]이쪽보다 크게 웃도는 것 같습니다.[/center][/record]%pct, 제가 가르칠 수 있는 실력을 넘어섰습니다.[/center][/end]"
 4023,"오늘 훈련한 것을 되돌아볼 시간이 필요합니다.[/center][/record]하루에 훈련은 기술 하나만 가능합니다.[/center][/end]"
 4050,"Reliquary of Raen[/record]
 Shrine of Bandi[/record]
@@ -6061,7 +5135,7 @@ the door send chills down your spine.[/left]
 7770,"The clatter of pots and pans and the smell[/left]
 of fresh baked bread waft through this door.[/left]
 [/end]"
-8050,"%pcn, 너는 %cri 의 죄로 기소 되었다.[/center]만약 네가 무죄를 항변하고 유죄 판결을 받으면,[/center]%pen 의 처벌을 받게 될 것이다.[/center]그러나 네 죄를 인정하고 이 법정의 자비를[/center]구한다면 처벌은 훨씬 가벼울것 이다.[/center]무엇을 탄원하겠는가?[/center][/end]"
+8050,"%pcn, 너는 %cri 의 죄로 기소 되었다.[/center]만약 네가 무죄를 항변하고 유죄 판결을 받으면,[/center]%pen 의 처벌을 받게 될 것이다.[/center]그러나 네 죄를 인정하고 이 법정의 자비를[/center]구한다면 처벌은 훨씬 가벼울 것이다.[/center]무엇을 탄원하겠는가?[/center][/end]"
 8052,"골드가 모자라군, %pcn.[/center]형기가 %pdg 일 더 늘어날 것이다.[/center][/end]"
 8053,"석방될 때까지 %dip 일을 기다리시겠습니까?[/center][/end]"
 8055,"유죄를 선고한다, 지하 감옥형 %dip 일에 처한다.[/center]오늘부터 시작하도록 한다.[/center][/end]"
