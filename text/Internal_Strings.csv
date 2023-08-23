@@ -133,14 +133,14 @@ serviceReceiveArmor,Receive Armor
 serviceReceiveHouse,Receive House
 serviceReceiveHouseAlready,You have already received your house.
 accessMembersOnly,You need to be a member of sufficient rank to access this.
-serviceCured,You are cured.
-serviceSummonCost1,"%pcn, the cost for me to attempt a"
-serviceSummonCost2,summoning of %dae is 
-serviceSummonCost3, gold.
-roomFreeForKnightSuchAsYou,The room is free for a knight such as you.
+serviceCured,치료되었습니다.
+serviceSummonCost1,"%pcn,"
+serviceSummonCost2,"%dae 소환에 필요한 금화는"
+serviceSummonCost3," 닢입니다."
+roomFreeForKnightSuchAsYou,기사이기 때문에 숙박은 무료입니다.
 roomFreeDueToHeartsDay,Room is free due to Heart's Day.
-youAreNotHungry,You are not hungry.
-exhaustedInWater,Fatigue overcomes you and sends you to a watery grave....
+youAreNotHungry,배가 고프지 않습니다.
+exhaustedInWater,피로에 몸을 덮치고, 물속 깊은곳으로 끌고 갑니다....
 youFeelSomewhatBad,뭔가 좋지 않은 기분이 듭니다.
 avoidDeath,"스텐다르의 자비로, 죽을 상황에서 살아남았습니다!"
 pronounHe,he
@@ -171,20 +171,20 @@ Baron,Baron
 Baroness,Baroness
 Lord,Lord
 Lady,Lady
-revered,revered
-esteemed,esteemed
-honored,honored
-admired,admired
-respected,respected
-dependable,dependable
-aCommonCitizen,a common citizen
-hated,hated
-pondScum,pond scum
-aVillain,a villain
-aCriminal,a criminal
-aScoundrel,a scoundrel
-undependable,undependable
-unknown,unknown
+revered,숭배받는
+esteemed,존경받는
+honored,명예로운
+admired,칭찬받는
+respected,존중받는
+dependable,믿을만한
+aCommonCitizen,일반 시민
+hated,증오의 대상
+pondScum,하급 쓰레기
+aVillain,악당
+aCriminal,범죄자
+aScoundrel,불량배
+undependable,의심받는
+unknown,누구인지 모르는
 Broken,부서짐
 Useless,쓸모없음
 Battered,닳아빠진
@@ -244,68 +244,68 @@ itemPowers,"사용할때 마법:
 물품 무게 증가
 방어력 약화
 상대에 나쁜평판"
-enemyNames,"Rat
-Imp
-Spriggan
-Giant Bat
-Grizzly Bear
-Sabretooth Tiger
-Spider
-Orc
-Centaur
-Werewolf
-Nymph
-Slaughterfish
-Orc Sergeant
-Harpy
-Wereboar
-Skeletal Warrior
-Giant
-Zombie
-Ghost
-Mummy
-Giant Scorpion
-Orc Shaman
-Gargoyle
-Wraith
-Orc Warlord
-Frost Daedra
-Fire Daedra
-Daedroth
-Vampire
-Daedra Seducer
-Ancient Vampire
-Daedra Lord
-Lich
-Ancient Lich
-Dragonling
-Fire Atronach
-Iron Atronach
-Flesh Atronach
-Ice Atronach
-Horse
-Dragonling
+enemyNames,"쥐
+임프
+스프리건
+대형 박쥐
+회색 곰
+검치 호랑이
+거미
+오크
+센타우로스
+늑대인간
+님프
+슬로터피쉬
+오크 하사
+하피
+맷돼지인간
+해골 전사
+거인
+좀비
+유령
+미라
+거대 전갈
+오크 주술사
+가고일
+망령
+오크 전쟁군주
+냉기 데이드라
+화염 데이드라
+데이드로스
+뱀파이어
+데이드라 세듀서
+고대 뱀파이어
+데이드라 군주
+리치
+고대 리치
+드래곤 새끼
+화염 아크로나크
+철 아크로나크
+살점 아크로나크
+얼음 아크로나크
+말
+드래곤 새끼
 Dreugh
-Lamia
-Mage
-Spellsword
-Battlemage
-Sorcerer
-Healer
-Nightblade
-Bard
-Burglar
-Rogue
-Acrobat
-Thief
-Assassin
-Monk
-Archer
-Ranger
-Barbarian
-Warrior
-Knight
-City Watch"
+라미아
+마법사
+마검사
+배틀메이지
+소서러
+치료사
+나이트블레이드
+바드
+버글러
+로그
+아크로뱃
+도둑
+암살자
+수도승
+궁수
+레인저
+야만인
+전사
+기사
+도시 경비병"
 extraSpellPtsTimes,"겨울동안
 봄동안
 여름동안
@@ -825,7 +825,7 @@ cannotRemoveItem,You cannot remove this item.
 cannotCarryAnymore,You cannot carry anymore stuff.
 cannotHoldAnymore,Your cart cannot hold anymore stuff.
 cannotUseThis,You cannot use this.
-equippingWeapon,%s 손에 들었습니다.
+equippingWeapon,%s-손에 들었습니다.
 lightDouse,%it 을 껐습니다.
 lightLight,%it 에 불을 붙였습니다.
 lightDies,%it 이 깜빡거리더니 꺼졌습니다.
