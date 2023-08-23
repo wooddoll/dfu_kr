@@ -17,7 +17,7 @@ itemHasBrokenPlural,%s-부서졌습니다.
 cannotCarryGold,금화를 더 이상 들 수 없습니다.
 cannotFloat,소지무게가 너무 무거워 수영을 할 수 없습니다.
 youHaveNoArrows,화살이 없습니다.
-oldSaveNoTrade,구버전 실내 저장파일 로드됨, 실내에서 나간 후 재입장 전까지 거래 메뉴 사용불가.
+oldSaveNoTrade,"구버전 실내 저장파일 로드됨, 실내에서 나간 후 재입장 전까지 거래 메뉴 사용불가."
 theBodyHasNoTreasure,이 시체엔 아무 보물도 없습니다.
 youAreTooFarAway,너무 멉니다...
 youSeeAn,%s 입니다.
