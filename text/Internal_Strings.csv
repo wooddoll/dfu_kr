@@ -3,7 +3,7 @@ about_internal_strings,This string table collection stores text that was hard-co
 pleaseSelectYourHomeProvince,출신 지역을 선택하십시오...
 saveGame,게임 저장
 loadGame,게임 로드
-thingJustDied,죽음-%s
+thingJustDied,%s-죽었습니다.
 gameSaved,게임 저장됨.
 gameLoaded,게임 로드됨.
 thisHouseHasNothingOfValue,이 집은 아무 가치도 없습니다.
@@ -12,8 +12,8 @@ rightHandEquipped,오른손 장비됨.
 leftHandEquipped,왼손 장비됨.
 usingRightHand,오른손의 무기 사용.
 usingLeftHand,왼손의 무기 사용.
-itemHasBroken,%s - 부러졌습니다.
-itemHasBrokenPlural,%s - 부서졌습니다.
+itemHasBroken,%s-부서졌습니다.
+itemHasBrokenPlural,%s-부서졌습니다.
 cannotCarryGold,금화를 더 이상 들 수 없습니다.
 cannotFloat,소지무게가 너무 무거워 수영을 할 수 없습니다.
 youHaveNoArrows,화살이 없습니다.
@@ -22,7 +22,7 @@ theBodyHasNoTreasure,이 시체엔 아무 보물도 없습니다.
 youAreTooFarAway,너무 멉니다...
 youSeeAn,%s 입니다.
 youSeeA,%s 입니다.
-youSeeADeadPerson,죽은 사람을 봤다.
+youSeeADeadPerson,죽은 사람입니다.
 youSeeADead,죽은 %s 입니다.
 youCollectArrows,시체에서 화살을 뽑아냈습니다.
 loiterHowManyHours,대기 시간:
