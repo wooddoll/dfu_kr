@@ -1525,7 +1525,7 @@ to be reported to the watch.[/center]
 1658,"이 물품에 인챈트는 더이상 할 수 없습니다.[/end]"
 1659,"이 물품은 인챈트 할 수 없습니다.[/end]"
 1660,"이 물품은 이미 인챈트 되었습니다.[/end]"
-1700,"더이상 적을 수 없습니다.[/center]새로운 스크롤에 적으십시오.[/center][/end]"
+1700,"적을 수 없습니다.[/center]새로운 스크롤에 적으십시오.[/center][/end]"
 1701,"찾으려는 단어가[/center]노트에 없습니다.[/center][/end]"
 1702,"이 주문을 구입하기엔[/center]골드가 부족합니다.[/center][/end]"
 1703,"이 주문을 적기 위해 필요한[/center]주문책이 없습니다.[/center][/end]"
@@ -1557,7 +1557,7 @@ to be reported to the watch.[/center]
 2003,"브레튼은 하이락 지역의 원주민입니다.[/center]키가 크고, 밝은색 피부를 가졌으며, 매우 지능이 높고, 의지력이 강합니다.[/center]브레튼은 선천적인 마법적 연관성을 가졌습니다.[/center]브레튼은 다른 어떤 종족 보다 적대적인 효과의 마법에 대한 저항력이 높으며,[/center]마법을 다루는 기술 또한 매우 뛰어납니다.[/center]캐릭터를 브레튼으로 하시겠습니까?[/center][/end]"
 2004,"아르고니안은 블랙 마쉬 지역의 원주민입니다.[/center]고도로 진화한 파충류 종족으로 높은 지능, 민첩성, 속도를 지녔습니다.[/center]종족 특징으로 수영해도 잘 지치지 않으며, 많은 아르고니안이[/center]도둑 기술과 주문 구사에 두각을 보이고, 전사로서도 잘 알려졌습니다.[/center]캐릭터를 아르고니안으로 하시겠습니까?[/center][/end]"
 2005,"우드엘프는 바인우드 지역의 원주민입니다.[/center]키가 크고 밝은색 피부를 가졌으며, 극히 민첩하고 빠르기로 매우 유명합니다.[/center]우드 엘프는 활과 화살을 다루는데 선천적인 재능이 있습니다.[/center]거의 모든 직종에 재능이 있지만 매우 뛰어난 궁술이 특출납니다.[/center]캐릭터를 우드엘프로 하시겠습니까?[/center][/end]"
-2006,"하이엘프는 서머셋 지역의 원주민입니다.[/center]키가 크고 금빛 피부를 가졌으며, 극히 뛰어난 지능, 민첩성, 의지력으로 유명합니다.[/center]서머셋 섬의 마법적인 특징 덕분에 하이엘프는 주문 사용 능력을 타고나며,[/center]몸을 마비시키는 독과 마법에 대한 면역 능력을 선천적으로 가지고 있습니다.[/center]캐릭터를 하이엘프로 하시겠습니까?[/center][/end]"
+2006,"하이엘프는 서머셋 지역의 원주민입니다.[/center]키가 크고 금빛 피부를 가졌으며, 극히 뛰어난 지능, 민첩성, 의지력으로 유명합니다.[/center]서머셋 섬의 마법적인 특징 덕분에 하이엘프는 주문 사용 능력을 타고나며,[/center]몸을 마비시키는 독과 마비 마법에 대한 면역 능력을 선천적으로 가지고 있습니다.[/center]캐릭터를 하이엘프로 하시겠습니까?[/center][/end]"
 2007,"다크엘프는 모로윈드 지역의 원주민입니다.[/center]키가 크고 어두운 피부를 가졌으며, 극히 강하고, 뛰어난 지능, 속도로 유명합니다.[/center]모든 분야에서 매우 뛰어난 능력을 발휘할 수 있으며,[/center]전사와 마법사로 잘 알려져 있습니다.[/center]캐릭터를 다크엘프로 하시겠습니까?[/center][/end]"
 2050,"The Mages Guild is an inter-provincial organization[/center] under a council of five archmagisters, dedicated to[/center] the study and application of magicka. Our students[/center] have concocted a number of the more popular potions[/center] and magical items which we offer at reasonable[/center] prices. We also have a variety of standard spells[/center] and potion ingredients, also for sale. In addition,[/center] our study is available for all serious students of[/center] magicka wishing to create their own spells.[/center] [/center] Of course, the Mages Guild is no mere curiosity[/center] shop. Persons judged worthy to join the Mages Guild[/center] are given access to libraries and laboratories of[/center] every description. Not all at once, of course, but[/center] gradually. One has to be careful about whom one[/center] trusts with great power.[/center] [/center] After all, the Mages Guild is all about[/center] responsibility.[/center] [/center] Are you perhaps interested in joining?[/center] [/end]"
 2051,"The Akatosh Chantry is devoted to the worship[/center] of Akatosh, the Great Dragon. Akatosh is the most[/center] constant of gods, for his sphere is time itself.[/center] [/center] Perhaps, if you are in need of a blessing of time[/center] and are willing to make an appreciable donation,[/center] Akatosh might smile upon you and grant you time:[/center] time to heal your injuries, perhaps, or time to[/center] shorten your voyages.[/center] [/center] Our priests and priestess here have a variety of[/center] other skills and services available for members[/center] of the Akatosh Chantry. Naturally, one has to be[/center] judged worthy before one is sheltered under the[/center] Great Wings of Akatosh.[/center] [/center] Are you perhaps interested in joining?[/center] [/end]"
@@ -1596,17 +1596,16 @@ to be reported to the watch.[/center]
 2106,"바드는 가장 다재다능한 직업으로, 여러 기술을 가졌습니다.[/center]무기, 마법, 도둑 관련 기술에 능숙합니다.[/center]바드 주요 기술:[/center]거리예절, 궁중예절, 자물쇠, 은신, 소검, 격투.[/center]캐릭터를 바드로 하시겠습니까?[/center][/end]"
 2107,"버글러는 자물쇠 기술에 뛰어납니다.[/center]가장 잘 경비된 귀족의 집에도 들키지 않고 숨어 들어 갈 수 있습니다.[/center]버글러 주요 기술:[/center]자물쇠, 은신, 등반, 거래, 회피, 소검.[/center]캐릭터를 버글러로 하시겠습니까?[/center][/end]"
 2108,"로그는 도둑으로서의 은신기술과 전사로서의 전투기술을[/center]같이 훈련한 직업입니다.[/center]로그 주요 기술:[/center]장검, 은신, 회피, 자물쇠, 배후공격, 거리예절.[/center]캐릭터를 로그로 하시겠습니까?[/center][/end]"
-2109,"Acrobats practice the thieving arts, and use their[/center] remarkable physical skills to aid them.[/center] They are very quick, agile, and nimble. The most[/center] important skills to an Acrobat are: Jumping, Dodging,[/center] Running, Climbing, Hand-to-Hand, and Stealth.[/center] Do you wish your character to be an Acrobat?[/center] [/end]"
-2110,"Thieves are well known for their adeptness in using[/center] stealth, speed, and cunning to steal for a[/center] living. The six most important skills to[/center] a Thief are: Pickpocketing, Stealth, Short Blade,[/center] Backstabbing, Climbing, and Lockpicking.[/center] Do you wish your character to be a Thief?[/center] [/end]"
-2111,"Assassins are much feared and respected, for they[/center] use the night for concealment, and their cunning to[/center] strike deadly blows. Even secure locks cannot[/center] stay the Assassin's blade. The most important Assassin[/center] skills are: Critical Striking, Backstabbing, Stealth,[/center] Short Blade, Long Blade, and Blunt Weapon.[/center] Do you wish your character to be an Assassin?[/center] [/end]"
-2112,"Monks are specially trained in mental disciplines. This[/center] intense mental awareness includes the ability to[/center] turn the body into a lethal machine. The skills most[/center] important to a Monk are: Hand-to-Hand, Critical Striking,[/center] Dodging, Swimming, Medical, and Blunt Weapon.[/center] Do you wish your character to be a Monk?[/center] [/end]"
-2113,"Archers are warriors specially trained in the[/center] use of the bow. The most important skills to an Archer are:[/center] Archery, Hand-to-Hand, Dodging[/center] Axe, Blunt Weapon, and Critical Striking.[/center] Do you wish your character to be an Archer?[/center] [/end]"
-2114,"Rangers are at home in the wilderness, and are[/center] excellent hunters. They are very skilled at survival and[/center] tracking. The skills most important to a Ranger are:[/center] Long Blade, Axe, Climbing, Swimming,[/center] Archery, and Critical Striking.[/center] Do you wish your character to be a Ranger?[/center] [/end]"
-2115,"Barbarians are warriors that hail from the harsh[/center] lands that fringe more civilized areas. They make excellent[/center] fighters, well-suited to survival under the worst conditions.[/center] The skills Barbarians use most are:[/center] Blunt Weapon, Long Blade, Axe,[/center] Jumping, Running, and Swimming.[/center] Do you wish your character to be a Barbarian?[/center] [/end]"
+2109,"아크로뱃은 도둑질 기술을 연마하고,[/center]뛰어난 신체 기술로 그를 보완합니다.[/center]매우 빠르고 민첩하며 날렵합니다.[/center]아크로뱃 주요 기술:도약, 회피, 질주, 등반, 격투, 은신.[/center]캐릭터를 아크로뱃으로 하시겠습니까?[/center][/end]"
+2110,"도둑은 은신 기술, 빠른 몸놀림, 교활함을 살려[/center]어떤 상황에도 적응해 도둑질로 먹고 사는 것으로 유명합니다.[/center]도둑 주요 기술: 소매치기, 은신, 소검, 후방공격, 등반, 잠금해제.[/center]캐릭터를 도둑으로 하시겠습니까?[/center][/end]"
+2111,"암살자는 많은 이가 두려워하면서도 인정하는 자들로,[/center]밤을 이용해 몸을 숨기고, 교묘히 목숨을 빼앗는 일격을 가하며,[/center]견고한 잠금장치도 암살자의 손엔 버틸수 없기 때문입니다.[/center]암살자 주요 기술: 치명 공격, 후방공격, 은신, 소검, 장검, 둔기.[/center]캐릭터를 암살자로 하시겠습니까?[/center][/end]"
+2112,"몽크는 특수한 정신적 수양을 통해 훈련된 자들입니다.[/center]정신적 깨달음으로 몸을 위협적인 무기로 바꾸었습니다.[/center]몽크 주요 기술: 격투, 치명 공격, 회피, 수영, 의료, 둔기.[/center]캐릭터를 몽크로 하시겠습니까?[/center][/end]"
+2114,"레인저는 자연의 야생을 집처럼 편히 여기는 자들로,[/center]뛰어난 사냥꾼입니다. 생존과 추적에 능숙합니다.[/center]레인저 주요 기술: 장검, 도끼, 등반, 수영, 궁술, 치명 공격.[/center]캐릭터를 레인저로 하시겠습니까?[/center][/end]"
+2115,"바바리안은 문명에서 떨어진 거친 땅에서 온 전사들입니다.[/center]뛰어난 싸움꾼들로, 최악의 상황에서도 생존할 수 있습니다.[/center]바바리안 주요 기술: 둔기, 장검, 도끼, 도약, 질주, 수영.[/center]캐릭터를 바바리안으로 하시겠습니까?[/center][/end]"
 2116,"워리어는 전투와 전쟁 기술을 가장 강도 높게 훈련 받는 자들입니다.[/center]여러 무기의 사용에 익숙하며 갑옷으로 중무장 합니다.[/center]워리어 주요기술:[/center]도끼, 장검, 둔기 무기, 격투, 궁술, 소검[/center]캐릭터를 워리어로 하시겠습니까?[/center][/end]"
-2117,"Knights are trained as warriors. They hail from noble[/center] stock, and adhere to the code of chivalry.[/center] The most important skills to a Knight are:[/center] Long Blade, Etiquette, Blunt Weapon, Axe,[/center] Archery and Short Blade.[/center] Do you wish your character to be a Knight?[/center] [/end]"
+2117,"기사는 귀족 혈통을 타고났으며, 전사로서 훈련받고, 기사도를 따르기로 한 자들입니다.[/center]기사 주요 기술: 장검, 예법, 둔기, 도끼, 궁술, 소검.[/center]캐릭터를 기사로 하시겠습니까?
 2200,"캐릭터의 성별을 선택하세요.[/center][/end]"
-2400,"Help - General[/center]
+2400,"도움말 - 일반[/center]
 [/record]
 The ClassMaker allows you to create your own class.[/left]
 Your new class must include:[/left]
