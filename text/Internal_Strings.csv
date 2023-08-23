@@ -3,7 +3,7 @@ about_internal_strings,This string table collection stores text that was hard-co
 pleaseSelectYourHomeProvince,출신 지역을 선택하십시오...
 saveGame,게임 저장
 loadGame,게임 로드
-thingJustDied,%s - 죽었습니다.
+thingJustDied,죽음-%s
 gameSaved,게임 저장됨.
 gameLoaded,게임 로드됨.
 thisHouseHasNothingOfValue,이 집은 아무 가치도 없습니다.
@@ -14,23 +14,23 @@ usingRightHand,오른손의 무기 사용.
 usingLeftHand,왼손의 무기 사용.
 itemHasBroken,%s - 부러졌습니다.
 itemHasBrokenPlural,%s - 부서졌습니다.
-cannotCarryGold,골드를 더 이상 들 수 없습니다.
-cannotFloat,물에 뜨려면 더 이상 물건을 주울 수 없습니다.
+cannotCarryGold,금화를 더 이상 들 수 없습니다.
+cannotFloat,소지무게가 너무 무거워 수영을 할 수 없습니다.
 youHaveNoArrows,화살이 없습니다.
 oldSaveNoTrade,구버전 실내 저장파일 로드됨, 실내에서 나간 후 재입장 전까지 거래 메뉴 사용불가.
 theBodyHasNoTreasure,이 시체엔 아무 보물도 없습니다.
 youAreTooFarAway,너무 멉니다...
-youSeeAn,봤습니다 - %s.
-youSeeA,봤습니다 - %s.
+youSeeAn,%s 입니다.
+youSeeA,%s 입니다.
 youSeeADeadPerson,죽은 사람을 봤다.
-youSeeADead,봤습니다 - 죽은 %s.
+youSeeADead,죽은 %s 입니다.
 youCollectArrows,시체에서 화살을 뽑아냈습니다.
 loiterHowManyHours,대기 시간:
 restHowManyHours,휴식 시간:
 potionRecipeFor,%po 포션 제작법
 potionOf,%po 포션
 letterPrefix,편지:
-multipleAssignments,여러 임무 수행중...
+multipleAssignments,여러 임무 수행중입니다...
 youAreEntering,%s 입장
 storeClosed,상점이 문을 닫음. 개점 시간 %d1:00 에서 %d2:00.
 guildClosed,길드가 문을 닫음. 개방 시간 %d1:00 에서 %d2:00.
@@ -49,18 +49,18 @@ grab,잡기
 info,정보
 dialogue,대화
 residence,거주지
-youSee,봤습니다 - %s.
+youSee,%s 입니다.
 theNamedResidence,%s 거주지
 playerResidence,%s 의 집
-materialIneffective,사용중인 무기의 재질 때문에 효과가 없다.
+materialIneffective,사용중인 무기의 재질 때문에 효과가 없습니다.
 successfulBackstab,백스탭 성공
-languagePacified,%e, %s 기술로 비적대화 성공.
-lockpickingSuccess,잠금장치가 철컥 소리를 내며 풀렸다.
-lockpickingFailure,잠금이 풀리지 않았다.
-magicLock,마법적 방법으로 잠겨있다...
-lockpickChance1,이 잠금 장치는 열기 힘들다...
-lockpickChance2,이 잠금 장치를 열 가망이 없다...
-lockpickChance3,이 잠금 장치 수준이 너무 높다...
+languagePacified,%e, %s 기술로 진정화 성공.
+lockpickingSuccess,잠금장치가 철컥 소리를 내며 풀렸습니다.
+lockpickingFailure,잠금이 풀리지 않았습니다.
+magicLock,마법적 방법으로 잠겨있습니다...
+lockpickChance1,이 잠금 장치는 열기 힘듭니다...
+lockpickChance2,이 잠금 장치를 열 가망이 없습니다...
+lockpickChance3,이 잠금 장치 수준이 너무 높습니다...
 buildingNames,"아카토쉬의 사원
 아케이의 사원
 디벨라의 사원
@@ -101,9 +101,9 @@ You are amused by this lock...
 You laugh at the amateur quality of this lock...
 You see a pathetic excuse for a lock...
 This lock is an insult to your abilities..."
-youPinchedGoldPiece,You pinched 1 gold piece.
-youPinchedGoldPieces,You pinched %d gold pieces.
-youAreNotSuccessful,실패했습니다...
+youPinchedGoldPiece,금화 한 닢을 집어냈습니다.
+youPinchedGoldPieces,금화 %d 닢을 집어냈습니다.
+youAreNotSuccessful,소매치기에 실패했습니다...
 daysUntilFreedom,석방까지 %d 일.
 skillImprove,%s 기술이 향상되었습니다.
 mustDistributeBonusPoints,보너스 점수를 모두 분배해야 합니다.
@@ -141,8 +141,8 @@ roomFreeForKnightSuchAsYou,The room is free for a knight such as you.
 roomFreeDueToHeartsDay,Room is free due to Heart's Day.
 youAreNotHungry,You are not hungry.
 exhaustedInWater,Fatigue overcomes you and sends you to a watery grave....
-youFeelSomewhatBad,You feel somewhat bad.
-avoidDeath,"By the mercy of Stendarr, you survive certain death!"
+youFeelSomewhatBad,뭔가 좋지 않은 기분이 듭니다.
+avoidDeath,"스텐다르의 자비로, 죽을 상황에서 살아남았습니다!"
 pronounHe,he
 pronounShe,she
 pronounHim,him
@@ -197,8 +197,8 @@ Nothing,Nothing
 local,local
 tavern,tavern
 Attempted_Breaking_And_Entering,무단 침입 시도
-Trespassing,무단 출입
-Breaking_And_Entering,Breaking and Entering
+Trespassing,무단 통행
+Breaking_And_Entering,무단 침입
 Assault,상해
 Murder,살인
 Tax_Evasion,탈세
@@ -211,7 +211,7 @@ Pickpocketing,소매치기
 Theft,절도
 Treason,반역
 Loan_Default,Loan Default
-Regular_Punishment_String,벌금 %gtp 골드, 징역 %dip 일
+Regular_Punishment_String,벌금 금화 %gtp 닢, 징역 %dip 일
 Banishment,추방
 Execution,사형
 cannotChangeTransportationIndoors,실내에서 이동 수단을 바꿀 수 없습니다.
@@ -220,7 +220,7 @@ cannotTravelIndoors,실내에서는 여행할 수 없습니다.
 powersUnknown,Powers unknown.
 itemPowers,"사용할때 마법:
 손에들때 마법:
-공격할때 마법:
+공격 적중시 마법:
 추가 주문 점수
 상대에 강함
 생명력 재생
@@ -238,7 +238,7 @@ itemPowers,"사용할때 마법:
 사용자 피해
 시각 문제
 보행 문제
-상대에 약함
+상대에 주는 피해약화
 생명력 피해
 상대에 나쁜반응
 물품 무게 증가
@@ -348,22 +348,22 @@ repWithGroups,"평민
 귀족
 범죄자
 모두"
-youReceiveGoldPieces,%s 골드를 받았습니다.
-bankPurchasePrice,가격 : %s 골드
+youReceiveGoldPieces,금화 %s 을 받았습니다.
+bankPurchasePrice,가격 : 금화 %s 닢
 youHaveRentedRoom,%s 숙박 기간이 %d 시간 남았습니다.
 haveNotRentedRoom,이곳에 방을 잡지 않았습니다.
 expiredRentedRoom,숙박 기간이 끝났습니다.
-tavernAle,Ale (1 gold)
-tavernBeer,Beer (1 gold)
-tavernMead,Mead (2 gold)
-tavernWine,Wine (3 gold)
-tavernBread,Bread (1 gold)
-tavernBroth,Broth (1 gold)
-tavernCheese,Cheese (2 gold)
-tavernFowl,Fowl (3 gold)
-tavernGruel,Gruel (2 gold)
-tavernPie,Pie (2 gold)
-tavernStew,Stew (3 gold)
+tavernAle,에일 (금화 1닢)
+tavernBeer,맥주 (금화 1)
+tavernMead,벌꿀주 (금화 2닢)
+tavernWine,와인 (금화 3닢)
+tavernBread,빵 (금화 1닢)
+tavernBroth,묽은 스프 (금화 1닢)
+tavernCheese,치즈 (금화 2닢)
+tavernFowl,닭고기 (금화 3닢)
+tavernGruel,곡물 죽 (금화 2닢)
+tavernPie,파이 (금화 2닢)
+tavernStew,스튜 (금화 3닢)
 pressButtonToFireSpell,사용 버튼을 눌러 주문 사용.
 climbingMode,등반 모드.
 rappelMode,레펠 모드.
@@ -396,11 +396,11 @@ toMagic,마법
 toParalysis,마비
 toPoison,독기
 toShock,전기
-intInSpellPoints15,주문 점수 1.5X지능
-intInSpellPoints175,주문 점수 1.75X지능
-intInSpellPoints2,주문 점수 2X지능
-intInSpellPoints3,주문 점수 3X지능
-intInSpellPoints,주문 점수 지능
+intInSpellPoints15,주문 점수 1.5x지능
+intInSpellPoints175,주문 점수 1.75x지능
+intInSpellPoints2,주문 점수 2x지능
+intInSpellPoints3,주문 점수 3x지능
+intInSpellPoints,주문 점수 1x지능
 general,일반
 inDarkness,어두운 곳에서
 inLight,밝은 곳에서
@@ -640,20 +640,20 @@ youAreRegenerating,몸이 재생합니다.
 youAreBlending,You are blending.
 youAreAShade,You are a shade.
 slowFallActive,낙하 감속 활성화
-saveVersusSpellMade,Save versus spell made.
-spellEffectFailed,Spell effect failed.
-spellAbsorbed,Spell was absorbed.
-spellReflected,Spell was reflected.
-spellResisted,Spell was resisted.
-readyToLock,Ready to lock.
-readyToOpen,Ready to open.
-doorLocked,Door is now locked.
-doorAlreadyLocked,Door already locked.
-openFailed,Lock is too powerful.
+saveVersusSpellMade,주문을 버텨냈습니다.
+spellEffectFailed,주문 효과 실패.
+spellAbsorbed,주문이 흡수되었습니다.
+spellReflected,주문이 반사되었습니다.
+spellResisted,주문을 저항했습니다.
+readyToLock,잠금 준비됨.
+readyToOpen,잠금해제 준비됨.
+doorLocked,문을 잠갔습니다
+doorAlreadyLocked,문이 이미 잠겨있습니다.
+openFailed,잠금 수준이 너무 강합니다.
 noSpellbook,주문책이 없습니다!
 sunlightDamageFastTravelDay,대낮에는 빠른 이동을 할 수 없습니다.
-trapActive,Trap active.
-trapHumanoid,Trap will not work on humanoids.
+trapActive,함정 발동.
+trapHumanoid,인간형에는 함정이 작동하지 않습니다.
 trapSuccess,소울 트랩 성공.
 trapFail,소울 트랩 실패.
 trapNoneEmpty,비어있는 소울젬이 없습니다!
@@ -702,81 +702,81 @@ ShortBow,Short Bow
 Arrows,Arrows
 SteelBattleAxe,Steel Battle Axe
 Robes,Robes
-CastWhenUsed,Cast when used:
-CastWhenHeld,Cast when held:
-CastWhenStrikes,Cast when strikes:
-ExtraSpellPts,Extra spell pts
-PotentVs,Potent vs
-RegensHealth,Regens health
-VampiricEffect,Vampiric effect
-IncreasedWeightAllowance,Increased Weight Allowance
-RepairsObjects,Repairs objects
-AbsorbsSpells,Absorbs spells
-EnhancesSkill,Enhances skill
-FeatherWeight,Feather Weight
-StrengthensArmor,Strengthens armor
-ImprovesTalents,Improves talents
-GoodRepWith,Good rep with
-SoulBound,Soul bound
-ItemDeteriorates,Item deteriorates
-UserTakesDamage,User takes damage
-VisionProblems,Vision problems
-WalkingProblems,Walking problems
-LowDamageVs,Low damage vs
-HealthLeech,Health leech
-BadReactionsFrom,Bad reactions from
-ExtraWeight,Extra weight
-WeakensArmor,Weakens armor
-BadRepWith,Bad rep with
-inHolyPlaces,in holy places
-wheneverUsed,whenever used
-unlessUsedDaily,unless used daily
-unlessUsedWeekly,unless used weekly
-fromHumanoids,from humanoids
-fromAnimals,from animals
-fromDaedra,from Daedra
-duringWinter,during Winter
-duringSpring,during Spring
-duringSummer,during Summer
-duringFall,during Fall
-duringFullMoon,during Full Moon
-duringHalfMoon,during Half Moon
-duringNewMoon,during New Moon
-nearUndead,near undead
-nearDaedra,near deadra
-nearHumanoids,near humanoids
-nearAnimals,near animals
-undeadLower,undead
-humanoidLower,humanoid
-animalsLower,animals
-animalsUpper,Animals
-allTheTime,all the time
-inSunlight,in sunlight
-inDarknessLower,in darkness
-atRange,at range
-whenStrikes,when strikes
-add25Percent,25% additional
-add50Percent,50% additional
-hearing,hearing
-athleticismLower,athleticism
-adrenalineRushLower,"adrenaline rush"
-commoners,Commoners
-merchants,Merchants
-scholars,Scholars
-nobility,Nobility
-underworld,Underworld
-all,All
+CastWhenUsed,사용할때 마법:
+CastWhenHeld,손에들때 마법:
+CastWhenStrikes,공격 적중시 마법:
+ExtraSpellPts,추가 주문 점수
+PotentVs,상대에 강함
+RegensHealth,생명력 재생
+VampiricEffect,흡혈 효과
+IncreasedWeightAllowance,무게 제한 증가
+RepairsObjects,물품 수리
+AbsorbsSpells,주문 흡수
+EnhancesSkill,기술 향상
+FeatherWeight,물품 무게 감소
+StrengthensArmor,방어력 강화
+ImprovesTalents,특성 향상
+GoodRepWith,상대에 좋은평판
+SoulBound,영혼 속박
+ItemDeteriorates,물품 내구감소
+UserTakesDamage,사용자 피해
+VisionProblems,시각 문제
+WalkingProblems,보행 문제
+LowDamageVs,상대에 주는 피해약화
+HealthLeech,생명력 피해
+BadReactionsFrom,상대에 나쁜반응
+ExtraWeight,물품 무게 증가
+WeakensArmor,방어력 약화
+BadRepWith,상대에 나쁜평판
+inHolyPlaces,성스러운 장소
+wheneverUsed,사용할때마다
+unlessUsedDaily,매일 사용하지 않을시
+unlessUsedWeekly,매주 사용하지 않을시
+fromHumanoids,인간형
+fromAnimals,동물
+fromDaedra,데이드라
+duringWinter,겨울동안
+duringSpring,봄동안
+duringSummer,여름동안
+duringFall,가을동안
+duringFullMoon,보름달동안
+duringHalfMoon,반달동안
+duringNewMoon,신월동안
+nearUndead,언데드 근처에서
+nearDaedra,데이드라 근처에서
+nearHumanoids,인간형 근처에서
+nearAnimals,동물 근처에서
+undeadLower,언데드
+humanoidLower,인간형
+animalsLower,동물
+animalsUpper,동물
+allTheTime,항상
+inSunlight,태양빛 아래서
+inDarknessLower,어두운 곳에서
+atRange,원거리에서
+whenStrikes,공격 적중시
+add25Percent,25% 추가
+add50Percent,50% 추가
+hearing,청력 민감
+athleticismLower,높은 운동능력
+adrenalineRushLower,"아드레날린 러시"
+commoners,평민
+merchants,상인
+scholars,학자
+nobility,귀족
+underworld,범죄자
+all,모두
 noRoomInItem,No room in item...
-noEnchantments,You have not prepared enchantments for this item.
-noMonstersNearby,There are no monsters nearby.
-Fire,Fire
-Frost,Frost
-Poison,Poison
-Shock,Shock
-Magicka,Magicka
-Animal,Animal
-Undead,Undead
-Humanoid,Humanoid
+noEnchantments,부여할 인챈트 효과가 없습니다.
+noMonstersNearby,근처에 적이 없습니다.
+Fire,화염
+Frost,냉기
+Poison,독기
+Shock,전기
+Magicka,매지카
+Animal,동물
+Undead,언데드
+Humanoid,인간형
 Daedra,Daedra
 dialogButtonInfo,Switch between: Active Quests; Finished Quests; Notebook; Messages
 activeQuests,Active Quests
@@ -816,7 +816,7 @@ repairDays,%d 일
 interruptRepair,수리가 완료되기 전입니다. 회수합니까?
 repairNote,Left my {0} for repair at {1}.
 doesntNeedIdentify,This does not need to be identified.
-goldAmount,{0} 골드
+goldAmount,금화 {0} 닢
 goldWeight,무게: {0} 킬로그램
 letterOfCredit,어음으로 대금을 받았습니다.
 stealSuccess,성공했습니다.
@@ -825,14 +825,14 @@ cannotRemoveItem,You cannot remove this item.
 cannotCarryAnymore,You cannot carry anymore stuff.
 cannotHoldAnymore,Your cart cannot hold anymore stuff.
 cannotUseThis,You cannot use this.
-equippingWeapon,%s 장비중
-lightDouse,You douse the %it.
-lightLight,You light the %it.
-lightDies,Your %it flickers and dies.
-lightEmpty,Your %it has no fuel left.
-lightRefuel,You refuel your %it with a bottle of oil.
-lightFull,Your %it is full.
-kgSrc,kilograms
+equippingWeapon,%s 손에 들었습니다.
+lightDouse,%it 을 껐습니다.
+lightLight,%it 에 불을 붙였습니다.
+lightDies,%it 이 깜빡거리더니 꺼졌습니다.
+lightEmpty,%it 에 기름이 없습니다.
+lightRefuel,%it 을 기름병으로 채웠습니다.
+lightFull,%it 이 가득 찼습니다.
+kgSrc,킬로그램
 kgRep,kg
 damSrc,points of damage
 damRep,damage
@@ -844,30 +844,30 @@ noWagon,수레를 가지고 있지 않습니다.
 exitTooFar,출구에서 너무 멀리 있어 수레를 쓸 수 없습니다.
 bookUnavailable,The book is ruined and is now unreadable.
 unknownAuthor,unknown author
-cannotDeleteVamp,Cannot delete special vampire spells.
-cannotDeleteWere,Cannot delete special lycanthropy spell.
-noRecipes,You have no recipes.
-potionMixed,Your potion has been mixed.
+cannotDeleteVamp,뱀파이어 특수 주문은 삭제할 수 없습니다.
+cannotDeleteWere,늑대인간 특수 주문은 삭제할 수 없습니다.
+noRecipes,제작법이 없습니다.
+potionMixed,포션이 제조 되었습니다.
 potionFailed,Those ingredients did not concoct an effective potion.
-reqIngredients,You do not have the ingredients required.
-region,Region
-account,Account
-loan,Loan
-dueDate,Loan Due Date
-noAccount,None
-loanReminder,You have a loan of {0} gold pieces due in
-loanReminder2,less than {0} months in {1}
+reqIngredients,필요한 재료가 없습니다.
+region,지역
+account,계좌
+loan,대출
+dueDate,대출 기한
+noAccount,없음
+loanReminder,{1} 에서 대출 받은 금화 {0} 닢을
+loanReminder2,{0} 달 안에 상환해야 합니다.
 classicIcons,Classic
 suggestedIcons,Suggested
-serviceMembersOnly,My services are reserved for members only.
-serviceDonateHowMuch,Donate how much money : 
-curedDisease,You are cured.
-freeHolidayCuring,You are cured free from cost due to todays' holiday.
-gettingQuests1,"Hmm, let me see what tasks we have available."
-gettingQuests2,"Please have patience and wait here a moment, %pcf."
-illegalRestWarning,It is illegal to camp in or near a city. Continue?
-cannotLoiterMoreThanXHours1,You cannot loiter more
-cannotLoiterMoreThanXHours2,than {0} hours at a time.
+serviceMembersOnly,이 서비스는 회원 전용입니다.
+serviceDonateHowMuch,기부할 금화 : 
+curedDisease,질병이 치료 되었습니다.
+freeHolidayCuring,오늘이 명절이기 때문에 무료로 치료 받았습니다.
+gettingQuests1,"지금 가능한 임무를 살펴 보겠습니다."
+gettingQuests2,"잠시만 기다려 주시지요, %pcf."
+illegalRestWarning,도시 안이나 근처에서 노숙은 불법입니다. 노숙 하시겠습니까?
+cannotLoiterMoreThanXHours1,대기 불가
+cannotLoiterMoreThanXHours2,{0} 시간 이상 대기 할 수 없습니다.
 automapToolTipTextGridButton,left click: switch between 2D top view and 3D view (hotkey: {0})\rright click: reset rot. axis to player pos (hotkey: {1})\rmouse wheel up while over btn: inc. perspective (only 3D mode)\rmouse wheel down while over btn: dec. perspective (only 3D mode)
 automapToolTipForwardButton,left click: move viewpoint forward (hotkey: {0})\rright click: move rotation axis forward (hotkey: {1})
 automapToolTipBackwardButton,left click: move viewpoint backwards (hotkey: {0})\rright click: move rotation axis backwards (hotkey: {1})
