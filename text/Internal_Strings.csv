@@ -17,7 +17,7 @@ itemHasBrokenPlural,%s-부서졌습니다.
 cannotCarryGold,금화를 더 이상 들 수 없습니다.
 cannotFloat,소지무게가 너무 무거워 수영을 할 수 없습니다.
 youHaveNoArrows,화살이 없습니다.
-oldSaveNoTrade,"구버전 실내 저장파일 로드됨, 실내에서 나간 후 재입장 전까지 거래 메뉴 사용불가."
+oldSaveNoTrade,구버전 실내 저장파일 로드됨, 실내에서 나간 후 재입장 전까지 거래 메뉴 사용불가.
 theBodyHasNoTreasure,이 시체엔 아무 보물도 없습니다.
 youAreTooFarAway,너무 멉니다...
 youSeeAn,%s 입니다.
@@ -54,7 +54,7 @@ theNamedResidence,%s 거주지
 playerResidence,%s 의 집
 materialIneffective,사용중인 무기의 재질 때문에 효과가 없습니다.
 successfulBackstab,백스탭 성공
-languagePacified,"%e, %s 기술로 진정화 성공."
+languagePacified,%e, %s 기술로 진정화 성공.
 lockpickingSuccess,잠금장치가 철컥 소리를 내며 풀렸습니다.
 lockpickingFailure,잠금이 풀리지 않았습니다.
 magicLock,마법적 방법으로 잠겨있습니다...
@@ -101,8 +101,8 @@ You are amused by this lock...
 You laugh at the amateur quality of this lock...
 You see a pathetic excuse for a lock...
 This lock is an insult to your abilities..."
-youPinchedGoldPiece,"금화 한 닢을 집어냈습니다."
-youPinchedGoldPieces,"금화 %d 닢을 집어냈습니다."
+youPinchedGoldPiece,금화 한 닢을 집어냈습니다.
+youPinchedGoldPieces,금화 %d 닢을 집어냈습니다.
 youAreNotSuccessful,소매치기에 실패했습니다...
 daysUntilFreedom,석방까지 %d 일.
 skillImprove,%s 기술이 향상되었습니다.
