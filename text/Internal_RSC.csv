@@ -26,7 +26,7 @@ Key,Value
 25,"%gii 골드가 있습니다.[/center]얼마를 옮깁니까?[/center][/center] [/input][/end]"
 26,"한번에 99시간 이상[/center]휴식을 취할 수 없습니다.[/center][/end]"
 27,"한번에 3시간 이상[/center]대기 할 수 없습니다.[/center][/end]"
-28,"%hnt-마크9243[/end]"
+28,"%hnt-놑9243[/end]"
 29,"%it - 부서졌습니다.[/center][/end]"
 30,"감염된 질병이 없습니다.[/center][/end]"
 31,"다음 목적지로 여행 하시겠습니까?[/center]%tcn[/center][/end]"
@@ -414,13 +414,13 @@ White flowers litter the path.[/end]"
 666,"축하합니다, %pcn.[/center]%lev 진급이 결정되었습니다.[/center]그에 걸맞는 특전과 명예가 따르게 됩니다.[/center]기억해두십시오, 브라더후드에선[/center]과거의 업적에 안주하지 않는다는 것을.[/center][/end]"
 667,"%lev 의 직위로 격하됨을 공식 통보하는 것이[/center]제 의무가 되겠습니다.[/center]%pcf, 다시 한번 상기시켜 드리자면[/center]과거의 성취에 만족하지 않고 더욱 노력하는 것이[/center]우리 조직원으로서 요구되는 바임을 알려드리겠습니다.[/center][/record]강등을 알려드리게 되어 안타깝습니다.[/center]%pcn.[/center][/record]원로들께서 실망하셨습니다. %pcn.[/center]강등 되었습니다.[/center][/record]강등 되었습니다. %pcn.[/center]알려드리게 되어 안타깝습니다.[/center][/record]당신의 일처리를 원로들께서 아셨습니다.[/center]%pcn. 그분들께서 강등을 명하셨습니다.[/center][/record]원로들께서 무능력한 공헌에는 강등이 있음을[/center]명하셨습니다, %pcn.[/center][/record]원로들께서 무능함에 직위의 격하로서 답하셨습니다.[/center]이를 마땅히 받아들여야 할 것입니다.[/center][/center][/end]"
 668,"%pcn, 최근 조직에 실망을 주어왔는바.[/center]이제부터 조직원으로서 주어지는 혜택에[/center]걸맞지 않게 되엇습니다.[/center]다시 들어오게 될지도 모르나,[/center]지금 당신은, 파문이오.[/center][/record]이곳에서 아무것도 할 수 없습니다, %pcn.[/center]원로들께서 추방을 결정하셨습니다.[/center][/record]평판을 지킬 수 있을 정도의 연줄이[/center]없었던 모양입니다.[/center]%pcn, 그대는 추방이오.[/center][/record]그간 쌓아온 모든 명예와 혜택은 박탈[/center]되었습니다, %pcn. 추방임을 아시오.[/center][/end]"
-679,"파이터 길드는 값을 지불한다면 누구에게든[/center]잘 무장된 강인한 전사를 파견할 준비가 되어 있지.[/center]꾸준히 일을 받아 금화를 벌고 싶다면, 파이터 길드지.[/center]기사단 것들 보다 훨씬 낫고 말고. 그거 압니까[/center]거기는 일해주고도 돈도 안받는다고 하더군.[/center][/center][/record]파이터 길드는 구인하는데 까다롭지 않다는 평판이[/center]있지. 실제로도 다르지 않지만. 댁은 파이터 길드조차[/center]좋지 않는 눈으로 보는 상태요. 그쪽의 이름값이[/center]상태가 좋지 않으니 어떻게 해보고 그 후에야[/center]길드 가입을 이야기 해볼 수 있을 것 같소.[/center][/center][/end]"
-680,"%ra, 미안하지만. 파이터 길드에선 진짜 전사를[/center]찾고 있는데. 무기에 대해 좀 배우고 난 후에 다시[/center]서 봅시다, 알겠소?[/center][/end]"
-681,"좋아, 파이터 길드에서 쓸만한 전사인 것 같군.[/center]여기선 기술 훈련과 특별히 할인된 갑옷과 무기 수리,[/center]그리고 아주 짭잘한 일거리 알선을 제공하지.[/center]추가로 어느 파이터 길드에서든지 무료로[/center]잠자리가 제공된다네.[/center]관심 있나?[/center][/center][/end]"
-684,"훌륭하군. 파이터 길드에 들어온 걸 환영하네,[/center]%pcf. %lev 등급으로 시작하게 되네.[/center][/end]"
-686,"축하하지, %pcf. 뛰어난 무기 기량으로[/center]길드에서 %lev 등급으로 승격되었어.[/center]기존 혜택에, 추가로 무기 수리가 더 저렴하게[/center]제공되고, 더 짭잘한 일거리를 제안 받을 수[/center]있을거야.[/center][/center][/end]"
+679,"파이터 길드는 값을 지불한다면 누구에게든[/center]잘 무장된 강인한 전사를 파견할 준비가 되어 있지.[/center]꾸준히 일을 받아 금화를 벌고 싶다면, 파이터 길드지.[/center]기사단 것들 보다 훨씬 낫고 말고.[/center]듣기에 거기는 일해주고도 돈도 안받는다고 하더군.[/center][/record]파이터 길드는 구인하는데 까다롭지 않다는 평판이 있지.[/center]실제로도 다르지 않지만.[/center]댁은 파이터 길드조차좋지 않는 눈으로 보는 상태요.[/center]그쪽의 이름값이 상태가 좋지 않으니 어떻게 좀 해보고,[/center]그 후에 길드 가입을 이야기 해볼 수 있을 것 같아.[/center][/end]"
+680,"%ra, 미안하지만. 파이터 길드에선 진짜 전사를 찾고 있는데.[/center]무기에 대해 좀 배우고 난 후에 다시 봅시다, 알겠소?[/center][/end]"
+681,"좋아, 파이터 길드에서 쓸만한 전사인 것 같군.[/center]여기선 기술 훈련과 갑옷과 무기를 특별히 할인된 가격에 수리해주고,[/center]아주 짭잘한 일거리 알선을 제공하지.[/center]추가로 어느 파이터 길드에서든지 무료로 잠자리가 제공된다네.[/center]관심 있나?[/center][/end]"
+684,"훌륭하군. 파이터 길드에 들어온 걸 환영하네, %pcf.[/center]%lev 등급으로 시작하게 되네.[/center][/end]"
+686,"축하하지, %pcf.[/center]뛰어난 무기 기량으로 길드에서 %lev 등급으로 승격되었어.[/center]기존에 받던 혜택에, 추가로 무기 수리가 더 저렴하게 제공되고,[/center]더 짭잘한 일거리를 제안 받을 수 있을거야.[/center][/end]"
 702,"마음씨가 돈주머니보다 크십니다.[/center]%gii 골드 밖에 없으십니다.[/center][/record]안타깝지만 가진게 %gii 골드 밖에 없으십니다.[/center][/record]%gii 골드 밖에 주실 수 없습니다.[/center]그게 그쪽이 가지고 계신 전부입니다.[/center][/end]"
-703,"기부 감사합니다. %god 께서[/center]미래의 일탈 행위를 더 관대히 봐주실지도 모르겠습니다.[/center][/center][/record]물론 %gdd 에선 기부는 모두 받습니다만,[/center]기적을 기대하지는 마십시오. 기적은[/center]골드 이상의 것이 필요합니다.[/center][/record]기부는 감사합니다만, %god 께서[/center]그 어떤 악행을 돈으로서 용서 하는 분이 아니라는 것을[/center]상기 시켜 드리고 싶습니다.[/center][/end]"
+703,"기부 감사합니다.[/center]%god 께서 미래의 일탈 행위를 더 관대히 봐주실지도 모르겠습니다.[/center][/record]물론 %gdd 에선 기부는 모두 받습니다만,[/center]기적을 기대하지는 마십시오.[/center]기적은 골드 이상의 것이 필요합니다.[/center][/record]기부는 감사합니다만,[/center]%god 께서는 그 어떤 악행일지라도 돈으로서[/center]용서 하는 분이 아니라는 것을상기 시켜 드리고 싶습니다.[/center][/end]"
 705,"젠께서 차후 몇일 간 그대의 상업 기술에[/center]축복을 내리실 겁니다.[/center][/end]"
 707,"마라께서 차후 몇일 간 그대의 매력에[/center]축복을 내리실 겁니다.[/end]"
 709,"아카토쉬께서 차후 몇일 간 그대의 여행에[/center]축복을 내리실 겁니다.[/center][/end]"
@@ -1587,11 +1587,11 @@ to be reported to the watch.[/center]
 2075,"The House of Dibella is the noblest[/center] institution in Tamriel, we of the Order[/center] of the Lily firmly are devoted to its[/center] cause. Its only fault is that the priests[/center] and priestesses within are often too[/center] consumed with the propagation of beauty[/center] to protect themselves adequately.[/center] [/center] That is the sacred cause of the Order[/center] of the Lily. We protect the House and[/center] receive the training and blessings of[/center] clerics of equal rank. I can think of[/center] no better reason to fight than the[/center] cause of beauty.[/center] [/end]"
 2076,"We, the Knights of Stendarr the Merciful[/center] call ourselves the Crusaders, for it is[/center] our sacred duty to protect the Temple[/center] and fights its battles. While we firmly[/center] espouse the Temple's philosophy of[/center] compassion and charity, we recognize[/center] that if the Temple is weak, it cannot[/center] realistically survive.[/center] [/center] Only those of great combat ability and[/center] proven devotion to the Temple and the[/center] God Stendarr are eligible for possible[/center] membership in the Crusaders.[/center] [/end]"
 2077,"We are the strong arm of the Goddess[/center] Kynareth, an off-shoot of her temple[/center] devoted to fighting her causes all over[/center] Tamriel. Members of the Kynaran Order[/center] are honored for our skill and loyalty[/center] by the Temple, and given full access[/center] to the blessings and services within.[/center] According to individual rank in the[/center] Order, of course.[/center] [/center] Possible candidates for inclusion in[/center] the Kynaran Order are chosen on the[/center] basis of their combat skills and their[/center] reputation with the Temple.[/center] [/end]"
-2100,"메이지는 마법 기술의 학습과 사용에 일생을 바치는 자들 입니다.[/center]숙련된 메이지는 상대하기 매우 위협적인 상대가 될 수 있습니다.[/center]메이지 주요 기술: 모든 마법 학파--[/center]신비마법, 변화마법, 역동마법, 환영마법, 파괴마법, 회복마법.[/center]캐릭터를 메이지로 하시겠습니까?[/center][/end]"
+2100,"마법사는 마법 기술의 학습과 사용에 일생을 바치는 자들 입니다.[/center]숙련된 마법사는 상대하기 매우 위협적인 상대가 될 수 있습니다.[/center]마법사 주요 기술: 모든 마법 학파--[/center]신비마법, 변화마법, 역동마법, 환영마법, 파괴마법, 회복마법.[/center]캐릭터를 메이지로 하시겠습니까?[/center][/end]"
 2101,"마검사는 전사이지만 마법의 사용에도 상당한[/center]조예를 가지고 있는 자들입니다.[/center]이때문에 마검사들은 상대하기 만만치 않은 적입니다.[/center]마검사 주요 기술:[/center]도끼, 장검, 둔기, 파괴마법, 환영마법, 변화마법.[/center]캐릭터를 마검사로 하시겠습니까?[/center][/end]"
 2102,"배틀 메이지는 마법 기술을 전투용도로 사용하며[/center]공격 마법 주문을 자유자재로 사용합니다.[/center]배틀 메이지 주요 기술:[/center]파괴마법, 장검, 도끼, 역동마법, 변화마법, 격투.[/center]캐릭터를 배틀 메이지로 하시겠습니까?[/center][/end]"
 2103,"소서러는 마법을 다루는데 아주 능숙합니다.[/center]사용하는 마법적 에너지를 스스로 만들지는 못하지만[/center]자신이 공격 받는 마법에서 에너지를 흡수하여 주문 영창에 사용합니다.[/center]소서러 주요 기술: 모든 마법 학파--[/center]신비마법, 변화마법, 역동마법, 파괴마법, 회복마법, 환영마법.[/center]캐릭터를 소서러로 하시겠습니까?[/center][/end]"
-2104,"힐러는 마법을 상처와 질병을 회복하는데 사용합니다.[/center]때문에 보통 방어적인 역활을 수행합니다.[/center]힐러 주요 기술:[/center]회복마법, 의료, 회피, 역동마법, 신비마법, 변화마법.[/center]캐릭터를 힐러로 하시겠습니까?[/center][/end]"
+2104,"치료사는 마법을 상처와 질병을 회복하는데 사용합니다.[/center]때문에 보통 방어적인 역활을 수행합니다.[/center]치료사 주요 기술:[/center]회복마법, 의료, 회피, 역동마법, 신비마법, 변화마법.[/center]캐릭터를 힐러로 하시겠습니까?[/center][/end]"
 2105,"나이트블레이드는 은신 능력을 보충하는데 마법을 사용합니다.[/center]마법을 쓸 줄 아는 도둑과 유사합니다.[/center]나이트블레이드 주요 기술:[/center]환영마법, 은신, 회피, 역동마법, 소검, 자물쇠.[/center]캐릭터를 나이트블레이드로 하시겠습니까?[/center][/end]"
 2106,"바드는 가장 다재다능한 직업으로, 여러 기술을 가졌습니다.[/center]무기, 마법, 도둑 관련 기술에 능숙합니다.[/center]바드 주요 기술:[/center]거리예절, 궁중예절, 자물쇠, 은신, 소검, 격투.[/center]캐릭터를 바드로 하시겠습니까?[/center][/end]"
 2107,"버글러는 자물쇠 기술에 뛰어납니다.[/center]가장 잘 경비된 귀족의 집에도 들키지 않고 숨어 들어 갈 수 있습니다.[/center]버글러 주요 기술:[/center]자물쇠, 은신, 등반, 거래, 회피, 소검.[/center]캐릭터를 버글러로 하시겠습니까?[/center][/end]"
@@ -1599,9 +1599,9 @@ to be reported to the watch.[/center]
 2109,"아크로뱃은 도둑질 기술을 연마하고,[/center]뛰어난 신체 기술로 그를 보완합니다.[/center]매우 빠르고 민첩하며 날렵합니다.[/center]아크로뱃 주요 기술:도약, 회피, 질주, 등반, 격투, 은신.[/center]캐릭터를 아크로뱃으로 하시겠습니까?[/center][/end]"
 2110,"도둑은 은신 기술, 빠른 몸놀림, 교활함을 살려[/center]어떤 상황에도 적응해 도둑질로 먹고 사는 것으로 유명합니다.[/center]도둑 주요 기술: 소매치기, 은신, 소검, 후방공격, 등반, 잠금해제.[/center]캐릭터를 도둑으로 하시겠습니까?[/center][/end]"
 2111,"암살자는 많은 이가 두려워하면서도 인정하는 자들로,[/center]밤을 이용해 몸을 숨기고, 교묘히 목숨을 빼앗는 일격을 가하며,[/center]견고한 잠금장치도 암살자의 손엔 버틸수 없기 때문입니다.[/center]암살자 주요 기술: 치명 공격, 후방공격, 은신, 소검, 장검, 둔기.[/center]캐릭터를 암살자로 하시겠습니까?[/center][/end]"
-2112,"몽크는 특수한 정신적 수양을 통해 훈련된 자들입니다.[/center]정신적 깨달음으로 몸을 위협적인 무기로 바꾸었습니다.[/center]몽크 주요 기술: 격투, 치명 공격, 회피, 수영, 의료, 둔기.[/center]캐릭터를 몽크로 하시겠습니까?[/center][/end]"
+2112,"수도승은 특수한 정신적 수양을 통해 훈련된 자들입니다.[/center]정신적 깨달음으로 몸을 위협적인 무기로 바꾸었습니다.[/center]수도승 주요 기술: 격투, 치명 공격, 회피, 수영, 의료, 둔기.[/center]캐릭터를 몽크로 하시겠습니까?[/center][/end]"
 2114,"레인저는 자연의 야생을 집처럼 편히 여기는 자들로,[/center]뛰어난 사냥꾼입니다. 생존과 추적에 능숙합니다.[/center]레인저 주요 기술: 장검, 도끼, 등반, 수영, 궁술, 치명 공격.[/center]캐릭터를 레인저로 하시겠습니까?[/center][/end]"
-2115,"바바리안은 문명에서 떨어진 거친 땅에서 온 전사들입니다.[/center]뛰어난 싸움꾼들로, 최악의 상황에서도 생존할 수 있습니다.[/center]바바리안 주요 기술: 둔기, 장검, 도끼, 도약, 질주, 수영.[/center]캐릭터를 바바리안으로 하시겠습니까?[/center][/end]"
+2115,"야만전사는 문명에서 떨어진 거친 땅에서 온 전사들입니다.[/center]뛰어난 싸움꾼들로, 최악의 상황에서도 생존할 수 있습니다.[/center]야만전사 주요 기술: 둔기, 장검, 도끼, 도약, 질주, 수영.[/center]캐릭터를 바바리안으로 하시겠습니까?[/center][/end]"
 2116,"워리어는 전투와 전쟁 기술을 가장 강도 높게 훈련 받는 자들입니다.[/center]여러 무기의 사용에 익숙하며 갑옷으로 중무장 합니다.[/center]워리어 주요기술:[/center]도끼, 장검, 둔기 무기, 격투, 궁술, 소검[/center]캐릭터를 워리어로 하시겠습니까?[/center][/end]"
 2117,"기사는 귀족 혈통을 타고났으며, 전사로서 훈련받고, 기사도를 따르기로 한 자들입니다.[/center]기사 주요 기술: 장검, 예법, 둔기, 도끼, 궁술, 소검.[/center]캐릭터를 기사로 하시겠습니까?
 2200,"캐릭터의 성별을 선택하세요.[/center][/end]"
@@ -3431,13 +3431,13 @@ handed you a mace[/end]"
 4904,took your bow from you.[/end]
 4905,"handed you a sword[/record]
 gave you a blade[/end]"
-5100,"숙박 기간은 아직 %dwr 시간이 남아있습니다.[/center]추가로 며칠이나 더[/center]필요하신가요?[/center][/input] [/center][/end]"
-5101,"즐거운 발렌타인 데이입니다, %ra. 전통에 따라,[/center]오늘은 방을 무료로 이용하실 수 있습니다.[/center]더 오래 머무르시려면 내일 다시 들려주세요.[/center][/end]"
+5100,"숙박 기간은 아직 %dwr 시간이 남아있습니다.[/center]추가로 며칠이나 더[/center]필요하십니까?[/center][/input] [/center][/end]"
+5101,리뷰필요-"즐거운 발렌타인 데이입니다, %ra. 전통에 따라,[/center]오늘은 방을 무료로 이용하실 수 있습니다.[/center]더 오래 머무르시려면 내일 다시 들려주세요.[/center][/end]"
 5102,"안녕하세요, %ra. 얼마나 오래[/center]머무르실 예정이신가요?[/center][/input] [/center][/end]"
 5221,"교습자와 3시간 동안 훈련 했습니다.[/center]배운 것을 어떻게 받아들여야 하는지,[/center]또한 배운 것을 어떻게 잘 사용해야 할지 교육 받았습니다.[/center][/end]"
-5225,"좋아, 애송아, 잘 들어라, 한 번만[/center]말 해줄거니까. 이제 너도 우리 소속이 되었으니까,[/center]%lev밖에 안되긴 해도, 어쨌든,[/center]던전이 어디있는지 알려주지.[/center]상자에서 보급품을 챙겨가는게 좋을거다.[/center]지도에 표시해주지. 자, 됐다,[/center]%dng. 이제 어디 가서[/center]내가 챙겨준게 없다고 하면 안된다.[/center][/record]"
-5226,"축하한다, 애송이, 너도 이제 자신을[/center]도둑 길드의 %lev라고 할 수 있겠어[/center]원한다면 네 물건은[/center]우리가 거래해주지[/center]우리가 너의 물건을 구매해주거나[/center]다른 녀석들이 주워온 물건을[/center]아주 할인된 가격에 팔아줄 수 있다[/center]상부상조하는 거지[/center][/end]"
-5227,"잘 하고 있군. 이젠 너도[/center]도둑 길드의 %lev로서 자격을 갖췄다.[/center]앞으로는, 최신 정보를 알고 싶다면[/center]스파이 마스터를 찾아봐라.[/center]우리는 이곳저곳에 귀를 대고 있다. 이젠 너도[/center]%lev가 되었으니, 너도 그렇게 해야지.[/center][/end]"
+5225,"좋아, 애송아, 잘 들어라, 한 번만 말 해줄거니까.[/center]이제 너도 우리 소속이 되었으니까,[/center]%lev 밖에 안되긴 하지만,[/center]어쨋든 던전이 어디있는지 알려주지. 준비를 잘하고 가는게 좋을거다.[/center]지도에 표시해주지. 자, 됐다, %dng.[/center]나중에 다른데 가서 내가 챙겨준게 없다고 하지마라.[/center][/record]"
+5226,"축하한다, 애송이, 너도 이제 자신을[/center]도둑 길드의 %lev라고 할 수 있겠어[/center]이제 길드가 취급하는 장물에 끼워주도록 하지[/center]우리가 너의 물건을 구매해주거나[/center]다른 녀석들이 주워온 물건을[/center]아주 할인된 가격에 팔아줄 수 있지[/center]이걸로 사는게 좀 필거다.[/center][/end]"
+5227,"잘 하고 있군. 이젠 너도[/center]도둑 길드의 %lev로서 자격을 갖췄다.[/center]앞으로는, 최신 정보를 알고 싶다면[/center]스파이 마스터를 찾아봐라.[/center]우리는 이곳저곳에 귀를 대고 있지. 이젠 너도 %lev가 되었으니, 너도 귀가 되는거야.[/center][/end]"
 5228,"들어봐, %pcf, 네가 흥미를[/center]가질만한 곳이 있는데 말이야[/center]이 %reg에 있는 %dng라는 구덩이야.[/center]아직 아무도 손 데지 않은 보물이[/center]거기에 뭍혀있지. 자, 지도에 표시해줄게.[/center]어쨌든, 너도 도둑 길드의 신입 %lev로서[/center]수입을 올리긴 해야되니까[/center]안그래, %pcf?[/center][/end]"
 5229,"길드에서 너를 또 승진시켜줬어,[/center]%pcf, 어떻게 생각해?[/center]너도 %lev가 되었으니까, 내가 가장[/center]좋아하는 비밀 장소를 보여줘야겠군,[/center]자, 네 지도에 표시해뒀어.[/center]사람들은 %dng라고 부르는 곳이지.[/center]승진 축하한다, 애송아,[/center]가서 즐기라고.[/center][/end]"
 5230,"귀하께 존경을 표하오니,[/center]이 마법사 길드의 험난한 계급 체계에서[/center]영예로운 승격에 진심으로 경의를 표합니다.[/center]이제 귀하께서는 %lev의 계급을 이루셨으니[/center]길드 도서관에 접근하실 수 있습니다.[/center]제가 처음으로 그런 명예를[/center]허가 받았던 때가 기억나는군요.[/center]저는 사흘 간 책에서 눈을 떼지 못했지요.[/center]저는 귀하께서 이 기회를 최대한 이용하실 것을[/center]조언 드립니다.[/center]다시 한 번, 탁월한 성과를 이루신 것에[/center]축하 드립니다, %pcf.[/center][/end]"
@@ -3445,252 +3445,34 @@ gave you a blade[/end]"
 5232,"%pcn, 대마법사께서 귀하의 %lev로의[/center]승급을 허가하셨습니다.[/center]%lev로서, 귀하께는 길드의[/center]길드의 마법 부여를 이용할 권리가[/center]부여됩니다. 길드의 마법 제련사는[/center]기꺼이 귀하가 원하는 물건에 마법 부여를[/center]도와드릴 것 입니다.[/center]귀하께서 허락하신다면,[/center]제 개인적인 축하 말씀을 드립니다,[/center]%lev %pcn.[/center][/end]"
 5233,"오늘, 대마법사와 의회가 거의 만장일치로[/center]귀하의 지위를 %lev로 승격 결정했습니다.[/center]%lev로서, 귀하께서는 충분히 책임감이 있고[/center]신뢰할 수 있다 판단되어[/center]데이드라 소환실에 대한 권한이 부여됩니다.[/center]제가 말씀드릴 필요도 없겠지만,[/center]데이드라의 소환은 심각한 재고 후에만[/center]행해야 합니다. [/center]소환에 도움이 필요하다면,[/center]길드 소환 마법사가 귀하를 도울 것입니다.[/center]당연히, 데이드라 군주들은[/center]길드의 안전을 위해 특정한 날에만[/center]소환할 수 있습니다.[/center]이것은 매우 중대한 권리입니다, %pcn, 길드에서는[/center]귀하께 그만한 가치가 있다고 생각합니다.[/center][/end]"
 5234,"%pcn, 귀하께 %lev 직위를 수여하는 것은[/center]저에게 영광입니다. 행동과 말로,[/center]귀하께서는 마법사 길드가 인정하는[/center]가장 뛰어난 길드원임을 입증하셨습니다.[/center]완전한 %lev로서, 귀하께서는[/center]길드에서 가장 귀중하고 비밀스러운 방인[/center]공간이동실을 지키는.[/center]여행자 연합에게 서비스를[/center]요청하실 수 있습니다.[/center]그곳에서, 눈 깜빡할 사이에[/center]다른 마을로 이동할 수 있습니다.[/center]귀하의 시간은 가장 귀한 자산이므로,[/center]그들은 귀하를 도울 것입니다.[/center]다시 한 번, 귀하의 큰 명예에[/center]축하 드리도록 허락해 주십시오, %lev.[/center][/end]"
-5235,"For what it's worth, ya can call yerself[/center]
-%lev, now, %pcf. Change of[/center]
-rank due to meritous blah blah blah.[/center]
-Just so ya know.[/center]
-[/record]
-Yer doin' awright, %pcf. The[/center]
-boys decided you've earned the rank of[/center]
-%lev in the Guild. Means[/center]
-they're payin' attention to ya.[/center]
-[/record]
-Hey, kid, if ya start hearin' us call[/center]
-ya %lev, it's 'cause of yer[/center]
-promotion. Seems that the Guildmaster don't[/center]
-think yer a total slob.[/center]
-[/record]
-Been a lotta talk about ya lately, kid.[/center]
-Fact is, the Guildmaster says yer ready to[/center]
-be a full %lev now. Don't[/center]
-mean much, ta tell the truth, 'cept[/center]
-that yer doin' something right.[/center]
-[/end]"
-5236,"By order of the Archmagister of the Iliac[/center]
-Bay and the Council of the Mages Guild of[/center]
-%cn, %pcn the %ra[/center]
-is henceforth promoted to the rank and[/center]
-title of %lev. Your[/center]
-devotion and prowess is thus noted. Strive[/center]
-ever forward.[/center]
-[/record]
-Congratulations, %lev %pcn.[/center]
-The Council and Archmagister voted to award[/center]
-you with the new rank just today.[/center]
-[/end]"
-5237,"For meritous service and unswerving loyalty[/center]
-to the ideals of %fon, you[/center]
-have been awarded the title of %lev[/center]
-within the Order. As a symbol of your fellow[/center]
-knights' estimation, we have elected to present[/center]
-you with a new piece of armor. Congratulations,[/center]
-%lev %pcn.[/center]
-[/end]"
-5238,"For meritous service and unswerving loyalty[/center]
-to the ideals of %fon, you[/center]
-have been awarded the title of %lev[/center]
-within the Order. As a symbol of your fellow[/center]
-knights' estimation, we have elected to present[/center]
-you with a new piece of armor. Additionally, by[/center]
-right of your new title, you may expect and[/center]
-demand free lodging in every inn, not only in[/center]
-%reg, but all over the Bay.[/center]
-Congratulations, %lev[/center]
-%pcn.[/center]
-[/end]"
-5239,"For meritous service and unswerving loyalty[/center]
-to the ideals of %fon, you[/center]
-have been awarded the title of %lev[/center]
-within the Order. As a symbol of your fellow[/center]
-knights' estimation, we have elected to present[/center]
-you with a new piece of armor. You also have[/center]
-access to the ships reserved for our Order,[/center]
-so you need never again have to pay for passage[/center]
-across the Bay. I offer you my personal[/center]
-congratulations, %lev[/center]
-%pcn.[/center]
-[/end]"
-5240,"%pcn, by virtue of unparalleled[/center]
-devotion and legendary personal prowess, we[/center]
-of %fon are honored to[/center]
-offer you the title of %lev of[/center]
-%fon. In addition to the article[/center]
-of armament we traditionally bestow, the Order[/center]
-and the people of %reg wish[/center]
-to present you with the deed to a house, so[/center]
-you will consider %reg your home[/center]
-as well as your custody. The title of[/center]
-%lev is the highest honor[/center]
-%fon recognizes, but our pride[/center]
-in you knows no bounds. For many of us,[/center]
-you are the ideal to which we aspire,[/center]
-%lev %pcn.[/center]
-[/end]"
-5241,"%pcn, by virtue of unparalleled[/center]
-devotion and legendary personal prowess, we[/center]
-of %fon are honored to[/center]
-offer you the title of %lev of[/center]
-%fon. The title of %lev[/center]
-is the highest honor %fon[/center]
-recognizes, but our pride in you knows no[/center]
-bounds. For many of us, you are the ideal[/center]
-to which we aspire,[/center]
-%lev %pcn.[/center]
-[/end]"
-5242,"The Order of Arkay, in recognition for your[/center]
-tireless efforts to bring harmony and order to[/center]
-%reg and all of the Iliac Bay,[/center]
-hereby officially recognizes you as a[/center]
-%lev ofthe Order.[/center]
-If I may, congratulations,[/center]
-%lev %pcn.[/center]
-[/end]"
-5243,"The Resolution of Zenithar, by vote of the[/center]
-Common Council, hereby and forthwith promotes[/center]
-you, the %ra %pcn,[/center]
-to the rank of %lev within the[/center]
-Resolution. You are proof of the values[/center]
-of hard, honest labor.[/center]
-[/end]"
-5244,"You should be proud, %pcf.[/center]
-The Benevolence of Mara has decided that in[/center]
-light of the honors you have brought to the[/center]
-temple, you are worthy to be raised to the[/center]
-rank of %lev. Congratulations,[/center]
-my friend.[/center]
-[/end]"
-5245,"The Akatosh Chantry, after relatively[/center]
-short deliberation, has elected to raise your[/center]
-rank within the temple. Henceforth and until[/center]
-further notice, you will be addressed within[/center]
-the temple by the title %lev.[/center]
-[/end]"
-5246,"Ah, it is with unalloyed beatitude, we of the[/center]
-School of Julianos, in cognizance of all of[/center]
-your ministant, ah, endeavors and aggrandizing,[/center]
-dare I say piquant, erudition, ah, do bequeath[/center]
-to you, the %ra %pcn,[/center]
-the title and honorific %lev.[/center]
-It doesn't mean much, friend, but it's[/center]
-a jolly good symbol, eh?[/center]
-[/end]"
-5247,"You should be very proud, %pcf.[/center]
-The House of Dibella has chosen to recognize[/center]
-you by a new title, %lev.[/center]
-The beauty of your efforts and accomplishments[/center]
-have not gone unnoticed.[/center]
-[/end]"
-5248,"%pcn, it is my honored[/center]
-duty to inform you that the Temple of Stendarr[/center]
-has chosen you to bear a new title in the[/center]
-temple, that of %lev.[/center]
-We have recognized your humble efforts to[/center]
-spread peace to all the regions of the Iliac[/center]
-Bay. Continue to strive for mercy and[/center]
-justice, %lev %pcf.[/center]
-There is no greater duty to Stendarr.[/center]
-[/end]"
-5249,"Kynareth, through her agents in Mundus,[/center]
-has seen you worthy of advancement. For[/center]
-your accomplishments in the name of the[/center]
-Temple of Kynareth, your rank and title[/center]
-is henceforth that of %lev.[/center]
-Congratulations, my friend.[/center]
-[/record]
-"
-5287,"So then it is decided. You are hereby[/center]
-given the rank of %lev[/center]
-in the Order of Arkay. Speak to our trainers,[/center]
-if you desire. Our healer and herbalist will[/center]
-both be willing to assist you at any time,[/center]
-though our herbalist will have to charge you[/center]
-for the cost of any herbs needed, depending[/center]
-on the disease.[/center]
-[/end]"
-5288,"Well then, welcome, %pcn.[/center]
-As a %lev in the Resolution,[/center]
-you have access to our trainers. If you[/center]
-find them to be useful to you, we would[/center]
-appreciate donations. Whatever you[/center]
-can comfortably give, of course.[/center]
-[/end]"
-5289,"I am so pleased to have you with us, my[/center]
-child. Your initial rank will be that of[/center]
-%lev, though I have no doubt[/center]
-that you will shortly prove yourself[/center]
-worthy of promotion. Our trainers are[/center]
-available to you now.[/center]
-[/end]"
-5290,"Well, welcome then, my child. You[/center]
-may consider yourself a %lev[/center]
-now. Our trainers are available to you.[/center]
-For the other benefits of the temple,[/center]
-be patient, work hard, and they[/center]
-will come to you.[/center]
-[/end]"
-5291,"Then consider yourself one of the ranks[/center]
-of the proud %fon. You[/center]
-shall begin as a %lev. Though[/center]
-your rank in %fon is low,[/center]
-in %reg, our reputation will[/center]
-follow you. Do not be surprised when you[/center]
-learn that no %reg innkeep[/center]
-will charge you for a room. It is an[/center]
-honor paid to all %fon.[/center]
-[/end]"
-5292,"Good decision, young %pcf.[/center]
-From this moment on, your codeword will be[/center]
-%dbp. You are now considered a[/center]
-%lev, with full access to our[/center]
-trainers. There are other benefits of being[/center]
-a Dark Brother which will be made available[/center]
-upon you demonstrating your practical[/center]
-worth. If you haven't, by the way,[/center]
-been to %dng, you[/center]
-ought to. It's a lovely little cemetery,[/center]
-with lots of treasure-laden crypts, if[/center]
-you think some graverobbing would aid your[/center]
-present financial situation.[/center]
-[/end]"
-5293,"Then henceforth, you will be known as[/center]
-%pcn, %lev of the[/center]
-Mages Guild. It will take patience and[/center]
-hard effort to gain access to all the[/center]
-Guild offers, my child, but I can now[/center]
-give you access to our trainers and our[/center]
-Spellmaker. Too much power in too little[/center]
-time has destroyed many a man and[/center]
-woman. The Mages Guild is nothing[/center]
-if not conscientious.[/center]
-[/end]"
+5235,"뭐가 됬든, 이제 %lev 라고 대고 돌아다녀도 돼.[/center]왜 올려주는지 알고 싶으면, 이 직위는 뭐시기 뭐시기 공로로 주는 거고.[/center][/record]잘하고 있구만, %pcf. 걔들이 너한테 %lev 등급을 주기로 결정했다. 위에서 관심있게 보고 있단 말이지.[/center][/record]어이, 애송이, 누가 널 %lev 라고 부르면, 진급한줄 알라고. 길드 마스터가 꽤 쓸만하다고 생각한 모양이야.[/center][/record]요즘 네 이야기가 많이 들리더라, 애송이.[/center]실은 길드 마스터가 %lev 등급을 줘도 되겠다고 하더만.[/center]별로 큰 소식은 아니지만 말해주는거야, 네가 일을 제대로 해고 있다는 거지.[/end]"
+5236,"By order of the Archmagister of the Iliac[/center] Bay and the Council of the Mages Guild of[/center] %cn, %pcn the %ra[/center] is henceforth promoted to the rank and[/center] title of %lev. Your[/center] devotion and prowess is thus noted. Strive[/center] ever forward.[/center] [/record] Congratulations, %lev %pcn.[/center] The Council and Archmagister voted to award[/center] you with the new rank just today.[/center] [/end]"
+5237,"For meritous service and unswerving loyalty[/center] to the ideals of %fon, you[/center] have been awarded the title of %lev[/center] within the Order. As a symbol of your fellow[/center] knights' estimation, we have elected to present[/center] you with a new piece of armor. Congratulations,[/center] %lev %pcn.[/center] [/end]"
+5238,"For meritous service and unswerving loyalty[/center] to the ideals of %fon, you[/center] have been awarded the title of %lev[/center] within the Order. As a symbol of your fellow[/center] knights' estimation, we have elected to present[/center] you with a new piece of armor. Additionally, by[/center] right of your new title, you may expect and[/center] demand free lodging in every inn, not only in[/center] %reg, but all over the Bay.[/center] Congratulations, %lev[/center] %pcn.[/center] [/end]"
+5239,"For meritous service and unswerving loyalty[/center] to the ideals of %fon, you[/center] have been awarded the title of %lev[/center] within the Order. As a symbol of your fellow[/center] knights' estimation, we have elected to present[/center] you with a new piece of armor. You also have[/center] access to the ships reserved for our Order,[/center] so you need never again have to pay for passage[/center] across the Bay. I offer you my personal[/center] congratulations, %lev[/center] %pcn.[/center] [/end]"
+5240,"%pcn, by virtue of unparalleled[/center] devotion and legendary personal prowess, we[/center] of %fon are honored to[/center] offer you the title of %lev of[/center] %fon. In addition to the article[/center] of armament we traditionally bestow, the Order[/center] and the people of %reg wish[/center] to present you with the deed to a house, so[/center] you will consider %reg your home[/center] as well as your custody. The title of[/center] %lev is the highest honor[/center] %fon recognizes, but our pride[/center] in you knows no bounds. For many of us,[/center] you are the ideal to which we aspire,[/center] %lev %pcn.[/center] [/end]"
+5241,"%pcn, by virtue of unparalleled[/center] devotion and legendary personal prowess, we[/center] of %fon are honored to[/center] offer you the title of %lev of[/center] %fon. The title of %lev[/center] is the highest honor %fon[/center] recognizes, but our pride in you knows no[/center] bounds. For many of us, you are the ideal[/center] to which we aspire,[/center] %lev %pcn.[/center] [/end]"
+5242,"The Order of Arkay, in recognition for your[/center] tireless efforts to bring harmony and order to[/center] %reg and all of the Iliac Bay,[/center] hereby officially recognizes you as a[/center] %lev ofthe Order.[/center] If I may, congratulations,[/center] %lev %pcn.[/center] [/end]"
+5243,"The Resolution of Zenithar, by vote of the[/center] Common Council, hereby and forthwith promotes[/center] you, the %ra %pcn,[/center] to the rank of %lev within the[/center] Resolution. You are proof of the values[/center] of hard, honest labor.[/center] [/end]"
+5244,"You should be proud, %pcf.[/center] The Benevolence of Mara has decided that in[/center] light of the honors you have brought to the[/center] temple, you are worthy to be raised to the[/center] rank of %lev. Congratulations,[/center] my friend.[/center] [/end]"
+5245,"The Akatosh Chantry, after relatively[/center] short deliberation, has elected to raise your[/center] rank within the temple. Henceforth and until[/center] further notice, you will be addressed within[/center] the temple by the title %lev.[/center] [/end]"
+5246,"Ah, it is with unalloyed beatitude, we of the[/center] School of Julianos, in cognizance of all of[/center] your ministant, ah, endeavors and aggrandizing,[/center] dare I say piquant, erudition, ah, do bequeath[/center] to you, the %ra %pcn,[/center] the title and honorific %lev.[/center] It doesn't mean much, friend, but it's[/center] a jolly good symbol, eh?[/center] [/end]"
+5247,"You should be very proud, %pcf.[/center] The House of Dibella has chosen to recognize[/center] you by a new title, %lev.[/center] The beauty of your efforts and accomplishments[/center] have not gone unnoticed.[/center] [/end]"
+5248,"%pcn, it is my honored[/center] duty to inform you that the Temple of Stendarr[/center] has chosen you to bear a new title in the[/center] temple, that of %lev.[/center] We have recognized your humble efforts to[/center] spread peace to all the regions of the Iliac[/center] Bay. Continue to strive for mercy and[/center] justice, %lev %pcf.[/center] There is no greater duty to Stendarr.[/center] [/end]"
+5249,"Kynareth, through her agents in Mundus,[/center] has seen you worthy of advancement. For[/center] your accomplishments in the name of the[/center] Temple of Kynareth, your rank and title[/center] is henceforth that of %lev.[/center] Congratulations, my friend.[/center] [/record] "
+5287,"So then it is decided. You are hereby[/center] given the rank of %lev[/center] in the Order of Arkay. Speak to our trainers,[/center] if you desire. Our healer and herbalist will[/center] both be willing to assist you at any time,[/center] though our herbalist will have to charge you[/center] for the cost of any herbs needed, depending[/center] on the disease.[/center] [/end]"
+5288,"Well then, welcome, %pcn.[/center] As a %lev in the Resolution,[/center] you have access to our trainers. If you[/center] find them to be useful to you, we would[/center] appreciate donations. Whatever you[/center] can comfortably give, of course.[/center] [/end]"
+5289,"I am so pleased to have you with us, my[/center] child. Your initial rank will be that of[/center] %lev, though I have no doubt[/center] that you will shortly prove yourself[/center] worthy of promotion. Our trainers are[/center] available to you now.[/center] [/end]"
+5290,"Well, welcome then, my child. You[/center] may consider yourself a %lev[/center] now. Our trainers are available to you.[/center] For the other benefits of the temple,[/center] be patient, work hard, and they[/center] will come to you.[/center] [/end]"
+5291,"Then consider yourself one of the ranks[/center] of the proud %fon. You[/center] shall begin as a %lev. Though[/center] your rank in %fon is low,[/center] in %reg, our reputation will[/center] follow you. Do not be surprised when you[/center] learn that no %reg innkeep[/center] will charge you for a room. It is an[/center] honor paid to all %fon.[/center] [/end]"
+5292,"Good decision, young %pcf.[/center] From this moment on, your codeword will be[/center] %dbp. You are now considered a[/center] %lev, with full access to our[/center] trainers. There are other benefits of being[/center] a Dark Brother which will be made available[/center] upon you demonstrating your practical[/center] worth. If you haven't, by the way,[/center] been to %dng, you[/center] ought to. It's a lovely little cemetery,[/center] with lots of treasure-laden crypts, if[/center] you think some graverobbing would aid your[/center] present financial situation.[/center] [/end]"
+5293,"Then henceforth, you will be known as[/center] %pcn, %lev of the[/center] Mages Guild. It will take patience and[/center] hard effort to gain access to all the[/center] Guild offers, my child, but I can now[/center] give you access to our trainers and our[/center] Spellmaker. Too much power in too little[/center] time has destroyed many a man and[/center] woman. The Mages Guild is nothing[/center] if not conscientious.[/center] [/end]"
 5400,Action type twelve. (do not translate)[/end]
-5404,"Greetings, %pcn.[/center]
-You dare much by intruding here.[/center]
-Nevertheless, I will allow you[/center]
-to proceed, provided you prove as[/center]
-perceptive as rumor reports.[/center]
-You may be aware that I am a[/center]
-master of the blade. But what[/center]
-is my other favored weapon?[/center]
-Answer correctly, then arm yourself.[/center]
-[/end]"
-5406,"One speaks for me.[/center]
-Two serve me.[/center]
-Six protect me.[/center]
-How many defy me?[/center]
-[/end]"
-5423,"I guard the Way. Speak only my name,[/center]
-and I shall grant you passage.[/center]
-[/end]"
-5424,"Command me and entry shall be yours.[/center]
-[/end]"
-5464,"All are free to petition his highness at[/center]
-this time. Do not stray from the audience[/center]
-chamber lest ye have royal blessing to do so.[/center]
-Always speak politely to the king and queen,[/center]
-and above all, cast no spells while within[/center]
-these walls. Do ye agree with these terms?[/center]
-[/end]"
+5404,"Greetings, %pcn.[/center] You dare much by intruding here.[/center] Nevertheless, I will allow you[/center] to proceed, provided you prove as[/center] perceptive as rumor reports.[/center] You may be aware that I am a[/center] master of the blade. But what[/center] is my other favored weapon?[/center] Answer correctly, then arm yourself.[/center] [/end]"
+5406,"One speaks for me.[/center] Two serve me.[/center] Six protect me.[/center] How many defy me?[/center] [/end]"
+5423,"I guard the Way. Speak only my name,[/center] and I shall grant you passage.[/center] [/end]"
+5424,"Command me and entry shall be yours.[/center] [/end]"
+5464,"All are free to petition his highness at[/center] this time. Do not stray from the audience[/center] chamber lest ye have royal blessing to do so.[/center] Always speak politely to the king and queen,[/center] and above all, cast no spells while within[/center] these walls. Do ye agree with these terms?[/center] [/end]"
 5656,Answers start here. (do not translate)[/end]
 5660,"""Bow,bow and arrow,crossbow,bows,crossbows""[/end]"
 5662,"""One,1""[/end]"
@@ -4002,7 +3784,7 @@ Gentleman[/record]
 %mn[/record]
 %mn[/record]
 %mn[/record]
-Master %mn[/record]
+마스터 %mn[/record]
 Lord %mn[/record]
 Knight[/end]"
 6120,"Court[/record]
