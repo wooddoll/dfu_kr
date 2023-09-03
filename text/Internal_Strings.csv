@@ -20,10 +20,10 @@ youHaveNoArrows,화살이 없습니다.
 oldSaveNoTrade,구버전 실내 저장파일 로드됨, 실내에서 나간 후 재입장 전까지 거래 메뉴 사용불가.
 theBodyHasNoTreasure,이 시체엔 아무 보물도 없습니다.
 youAreTooFarAway,너무 멉니다...
-youSeeAn,%s 입니다.
-youSeeA,%s 입니다.
-youSeeADeadPerson,죽은 사람입니다.
-youSeeADead,죽은 %s 입니다.
+youSeeAn,%s.
+youSeeA,%s.
+youSeeADeadPerson,죽은 사람.
+youSeeADead,죽은 %s.
 youCollectArrows,시체에서 화살을 뽑아냈습니다.
 loiterHowManyHours,대기 시간:
 restHowManyHours,휴식 시간:
@@ -31,7 +31,7 @@ potionRecipeFor,%po 포션 제작법
 potionOf,%po 포션
 letterPrefix,편지:
 multipleAssignments,여러 임무 수행중입니다...
-youAreEntering,%s 입장
+youAreEntering,%s 입장.
 storeClosed,상점이 문을 닫음. 개점 시간 %d1:00 에서 %d2:00.
 guildClosed,길드가 문을 닫음. 개방 시간 %d1:00 에서 %d2:00.
 any,어떤 %s
@@ -406,7 +406,7 @@ inDarkness,어두운 곳에서
 inLight,밝은 곳에서
 whileImmersed,수면 아래서
 criticalWeakness,심각한 약점
-damage,피해입음
+damage,피해
 darknessPoweredMagery,어둠 기반 마법능력
 forbiddenArmorType,금지 방어구 종류
 forbiddenMaterial,금지 재질
@@ -535,18 +535,18 @@ youDreamOfTheMoon,"꿈을, 꿨다, 달의 꿈을..."
 inventoryWhileShapechanged,변형중에는 소지품을 볼 수 없습니다...
 youGetNoResponse,대답이 없습니다.
 copyLogbookInfo,Left-click: toggle copy of selected text. Right-click: copy whole current conversation.
-east,동
-northeast,북동
-north,북
-northwest,북서
-west,서
-southwest,남서
-south,남
-southeast,남동
+east,동쪽
+northeast,북동쪽
+north,북쪽
+northwest,북서쪽
+west,서쪽
+southwest,남서쪽
+south,남쪽
+southeast,남동쪽
 thisPlace,이 장소
 AnyNews,새로운 소식?
 WhereAmI,이곳은 어디?
-AnswerTextWhereAmI,{1}의 {0} 입니다.
+AnswerTextWhereAmI,{1} 의 {0} 입니다.
 YouAreInSameBuilding,여기가 {0} 입니다. 지금 있는 곳입니다.
 NpcInSameBuilding,{0}? {1} 주변에 있을겁니다.
 PreviousList,이전 목록
@@ -609,7 +609,7 @@ soulTrap,소울 트랩
 spellReflection,주문 반사
 spellResistance,주문 저항
 teleport,텔레포트
-transfer,Transfer
+transfer,이전
 waterBreathing,수중 호흡
 waterWalking,수면 보행
 fire,화염
@@ -632,7 +632,7 @@ noName,<no-name>
 youDontHaveTheSpellPoints,주문점수가 없습니다.
 youAreSilenced,You are silenced.
 youAreParalyzed,몸이 마비되었습니다.
-youFeelDrained,You feel drained.
+youFeelDrained,몸에서 뭔가 빠져나간 느낌이 듭니다.
 youAreFortified,You are fortified.
 youAreInvisible,몸이 투명해졌습니다.
 youAreLevitating,몸이 떠오릅니다.
@@ -777,7 +777,7 @@ Magicka,매지카
 Animal,동물
 Undead,언데드
 Humanoid,인간형
-Daedra,Daedra
+Daedra,데이드라
 dialogButtonInfo,Switch between: Active Quests; Finished Quests; Notebook; Messages
 activeQuests,Active Quests
 activeQuestsInfo,Click on an active quest that has a target location to initiate travel.
@@ -810,12 +810,12 @@ readMapDB,The Dark Brotherhood revealed the secret of some treasure-laden crypts
 readMapFail,You have already discovered the location shown by this map.
 howManyItems,Pick how many items (max {0})?
 wagonFullGold,Your wagon could only hold {0} gold pieces.
-itemsIdentified,Items identified.
+itemsIdentified,물품을 식별했습니다.
 repairDone,완료
 repairDays,%d 일
 interruptRepair,수리가 완료되기 전입니다. 회수합니까?
 repairNote,Left my {0} for repair at {1}.
-doesntNeedIdentify,This does not need to be identified.
+doesntNeedIdentify,이 물품은 식별할 필요가 없습니다.
 goldAmount,금화 {0} 닢
 goldWeight,무게: {0} 킬로그램
 letterOfCredit,어음으로 대금을 받았습니다.
@@ -838,12 +838,12 @@ damSrc,points of damage
 damRep,damage
 arSrc,armor rating
 arRep,armor
-northern,(northern)
-southern,(southern)
+northern,(북방)
+southern,(남방)
 noWagon,수레를 가지고 있지 않습니다.
 exitTooFar,출구에서 너무 멀리 있어 수레를 쓸 수 없습니다.
-bookUnavailable,The book is ruined and is now unreadable.
-unknownAuthor,unknown author
+bookUnavailable,책이 손상되어 읽을 수 없습니다.
+unknownAuthor,작자 미상
 cannotDeleteVamp,뱀파이어 특수 주문은 삭제할 수 없습니다.
 cannotDeleteWere,늑대인간 특수 주문은 삭제할 수 없습니다.
 noRecipes,제작법이 없습니다.
@@ -1047,7 +1047,7 @@ retroModeAspectCorrection,Aspect Ratio Correction
 FourThree,4:03
 SixteenTen,16:10
 notEnoughSpellpointsLeft,주문 점수가 충분하지 않습니다.
-totalIdentified,{0} out of {1} identified.
+totalIdentified,{1}개 중 {0}개를 식별했습니다.
 dispelMagicSuccess,마법 디스펠을 성공했습니다...
 dispelMagicFailed,마법 디스펠을 실패했습니다...
 smallerDungeonsChanged,던전 내부에서 더 작은 던전 옵션 변경함. 플레이어를 던전 출구로 이동합니다.
