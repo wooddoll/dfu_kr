@@ -212,7 +212,7 @@ The %sub by %an[/record]
 256,"누군가 외쳤다, ""들어오십시오.""[/record]""어서오세요""[/record]짜증이 난 목소리로 외치는 소리가 들렸다, ""장사 합니다!""[/record]누군가 ""들어오세요"" 하는 소리를 들었다.[/record]기쁜 목소리로 ""제 집에 오신걸 환영합니다."" 라는 소리를 들었다.[/record]외치는 목소리로 ""들어와도 됩니다""라는 소리를 들었다.[/end]"
 260,""이 누추한 가게에 와주셔서 감사합니다.[/center]%pcn. 제 굶주린 가족을 먹여 살리려면[/center]이 두배는 받아야 하지만서도, 그래도[/center]%a 골드에 넘겨드리도록 하겠습니다.""[/center][/record]""정말 흥정실력이 흉악하십니다, %pct.[/center]원래 이 것보다 더 받아야 하지만, 손님[/center]한테만 이 가격으로 거래하도록 하겠습니다.[/center]%a 골드면 넘겨 드리겠습니다.""[/center][/center][/record]""%pcf 분, 저는 누구한테도, 제 가까운 가족[/center]혹은 제일 친한 친구한테도 이런[/center]%a 골드 같은 가격은 주지 않습니다.[/center]손님 한테만 이 가격에 드리지요.""[/center][/center][/record]""제가 시장가를 잘 아는데 이건 정상 가격보다[/center]정말 싼겁니다. 어떻게 생각해보면 가끔은,[/center]이득을 보는게 중요하지 않을때가 있지요.[/center]손님께는 제가 손해를 감수하도록 하겠습니다.[/center]%a 골드, %pcf 분, 이것만 내시면 됩니다.""[/center][/center][/end]"
 261,"""이곳 %cpn 은,[/center]%cn 에서 가장 싼 곳입니다.[/center]흥정 하시려는게 끝이 안보이지만[/center]최대한 깎아서 %a 골드에 드리겠습니다.""[/center][/center][/record]""손님, 정말 끈질기게 흥정하시는군요.[/center]이제 끝을 냅시다. 원래 이보다는 더 받지만,[/center]손님께는 특별히 %a 골드에 모시겠습니다.[/center]정말 이 정도면 푼돈이죠.""[/center][/center][/end]"
-262,"""흥정은 이제 그만합시다. %a 골드.[/center]사던지 말던지 마음대로 하시오.""[/record]""%a 골드.[/center]맞춰준 값이요.""[/center][/record]긴 흥정의 시간후...[/center]""%a 골드로 합시다 더이상 안됩니다.""[/center][/end]"
+262,"""흥정은 이제 그만하시죠.[/center]%a 골드.[/center]하던지 말던지 마음대로 하시오.""[/record]""%a 골드.[/center]맞춰준 값이요.""[/center][/record]긴 흥정의 시간후...[/center]""%a 골드로 하시죠. 더이상 안됩니다.""[/center][/end]"
 263,"""이 끝없는 흥정은 이정도로 합시다.[/center]정말 급하신가 봅니다.[/center]내가 보통 이보다는 적게 주는데,[/center]특별히 %a 골드로 합시다.""[/center][/record]""자, 내가 손해 안보는 선에서[/center]최대한 많이 주려고 하는 겁니다.[/center]%a 골드 어떻습니까. 이 정도면 댁 친구들한테[/center]가게 털어먹었다고 떠들어도 될거요.""[/center][/record]""내 가족과 가장 친한 친구들한테만 주는 가격인데[/center]시장가격이야 이것보다는 훨신 낮지만,[/center]이 정도면 될 것 같은데[/center]%a 골드요.""[/center][/record]""물건 괜찮군, 괜찮아. 보통 이것보다는[/center]적게 주지만, 댁한텐 특별히 %a 골드로 하십시다.[/center]더이상 흥정할 수 없는 최선의 가격이요.[/center][/end]"
 264,"""어디 다른 가게에서 %a 골드[/center]이상 받을 수 있을지 모르겠습니다만,[/center]이 정도도 좋은 가격이고, 더이상 깍아 드릴 수 없습니다.""[/center][/record]""%a 골드 드릴 수 있겠습니다.[/center]누구 다른 사람이 더 줄 수 있다고 하면,[/center]거기로 가시는게 좋겠군요.[/center]%a 골드가 제쪽에선 최선입니다.""[/center][/record]""이런 물건은 그닥 잘 팔리진 않지만,[/center]팔 수 는 있습니다. %a 골드 드리지요.[/center]이정도면 완전히 공정한 가격입니다.""[/center][/record]""예, 맞습니다. 아무리 봐도 좋은 물건 입니다.[/center]정상 가격에서 약간 더 드릴 수 있겠습니다.[/center]%a 골드""[/center][/end]"
 265,"""댁한테 볼 시간 없습니다. 이런 쓰레기는[/center]%a 밖에 못줍니다.""[/record]""%a 골드다 애송이. 팔던지 말던지.""[/center][/record]""어줍잖은 흥정할 생각 마라, 아가야.[/center]%a 골드 주마, 이게 최고가니까[/center]더이상 흥정할 생각 하지마.""[/center][/record]""자, %ra. 그쪽이나 나나 이게 %a 골드 이상은[/center]못 받는다는거 알고 있잖습니까?[/center]더 이상 아닌 척은 하지 맙시다.[/center]물론, 동의 안해도 상관은 없지만, 난 이렇게 밖에 못줍니다.""[/center][/end]"
@@ -1085,7 +1085,7 @@ I only hope I might entertain[/record]
 1361,"궁술은 활과 화살을 사용해서 목표에[/center]피해를 주는 능력에 관한 기술 입니다.[/center][/center][/end]"
 1362,"도끼술은 전쟁도끼 혹은 전투도끼를[/center]목표에 사용할때 자동으로 사용되는 기술 입니다.[/center][/end]"
 1363,"배후공격은 목표의 후방에서 공격시[/center]사용되는 기술입니다.[/center]이 기술에 능숙하면 적의 후방을 공격시[/center]적중 확률이 올라갑니다.[/center]추가로 배후공격이 제대로 들어갔을때[/center]더 많은 피해를 줄 수 있습니다.[/center][/end]"
-1364,"둔기 무기는 목표를 무겁고, 날이 없는[/center]메이스나 스태프로 공격시 사용되는 기술입니다.[/center]능숙한 둔기 무기 전문가는 공격시[/center]더 높은 명중률과 피해를 줄 수 있습니다.[/center][/center][/end]"
+1364,"둔기는 목표를 무겁고, 날이 없는[/center]메이스나 스태프로 공격시 사용되는 기술입니다.[/center]능숙한 둔기 무기 전문가는 공격시[/center]더 높은 명중률과 피해를 줄 수 있습니다.[/center][/center][/end]"
 1365,"센타우리어는 반은 인간이고 반은 말인 센타우르와[/center]대화를 시도할때 사용되는 언어 기술 입니다.[/center][/end]"
 1366,"등반은 벽이나 절벽 경사면을 기어오를때[/center]사용되는 기술입니다.[/center]지면에 닿기 전까지 계속 사용됩니다.[/center][/center][/end]"
 1367,"치명 공격은 성공적으로 목표를 공격[/center]할때 마다 사용되는 기술입니다.[/center]대상에 치명 공격을 성공하면 압도적이며,[/center]치명적인 추가 피해를 줍니다.[/center][/center][/end]"
@@ -1093,122 +1093,31 @@ I only hope I might entertain[/record]
 1369,"파괴마법은 마법 분야의 6개 정규 분야 중[/center]하나인 파괴 학파를 말합니다.[/center]파괴 마법은 적에게 피해를 주는 것이[/center]주 목적이며, 파이어볼, 독성 구름 같은[/center]주문이 있습니다.[/end]"
 1370,"Disguise is a skill automatically checked[/center]whenever one attempts either to infiltrate a[/center]hostile environment or to secrete items away[/center]from prying eyes.[/center][/end]"
 1371,"회피는 적의 무기 혹은 주문으로[/center]공격 받을 때 사용되는 기술 입니다.[/center][/end]"
-1372,"Dragon is a language skill checked[/center]
-whenever one attempts to speak with[/center]
-a dragon.[/center]
-[/record]
-"
-1373,"Elvish is a language skill checked[/center]
-whenever one attempts to speak with[/center]
-a Wild Elf.[/center]
-[/end]"
-1374,"Etiquette is a skill checked whenever[/center]
-one attempts to be polite, deferential,[/center]
-and charming in conversation.[/center]
-[/end]"
-1375,"Faerie is a language skill checked[/center]
-whenever one attempts to speak with[/center]
-a Faerie.[/center]
-[/end]"
+1372,"Dragon is a language skill checked[/center] whenever one attempts to speak with[/center] a dragon.[/center] [/record] "
+1373,"Elvish is a language skill checked[/center] whenever one attempts to speak with[/center] a Wild Elf.[/center] [/end]"
+1374,"Etiquette is a skill checked whenever[/center] one attempts to be polite, deferential,[/center] and charming in conversation.[/center] [/end]"
+1375,"Faerie is a language skill checked[/center] whenever one attempts to speak with[/center] a Faerie.[/center] [/end]"
 1376,"자이언트어는 자이언트와 대화를[/center]시도할때 사용되는 언어 기술 입니다.[/center][/end]"
 1377,"맨손격투는 주먹 혹은 발차기를[/center]다루는 기술 입니다.[/center][/end]"
-1378,"Harpy is a language skill checked[/center]
-whenever one attempts to speak with[/center]
-a Harpy.[/center]
-[/end]"
-1379,"Illusion refers to the School of Illusion,[/center]
-one of the six avenues of magical study.[/center]
-Illusion spells are capable of camouflaging,[/center]
-illuminating, or obscuring objects, as the[/center]
-spells Invisibility and Light demonstrate.[/center]
-[/end]"
-1380,"Impish is a language skill checked[/center]
-whenever one attempts to speak with[/center]
-an Imp.[/center]
-[/end]"
-1381,"Jumping is a skill checked to determine[/center]
-the height and distance one is capable[/center]
-of leaping.[/center]
-[/end]"
-1382,"Lockpicking is a skill automatically[/center]
-checked whenever one attempts to pick the[/center]
-lock on a door or a chest.[/center]
-[/end]"
-1383,"Long Blade is a skill checked whenever[/center]
-one attempts to strike a target with a[/center]
-long-bladed, slashing weapon such as a[/center]
-claymore or a katana.[/center]
-[/end]"
-1384,"Medical skill is automatically checked[/center]
-whenever one rests, allowing one to[/center]
-diagnose minor injuries and illnesses.[/center]
-[/end]"
-1385,"Mercantile is a skill checked whenever[/center]
-one enters into negotiations with a[/center]
-merchant, attempting to buy or sell[/center]
-an item at the best possible price.[/center]
-[/end]"
-1386,"Mysticism refers to the School of[/center]
-Mysticism, one of the six avenues of[/center]
-magical study. Mysticism is the most[/center]
-arcane school, and the spells created[/center]
-by its application are as varied as[/center]
-Far Silence and Soul Trap.[/center]
-[/end]"
-1387,"Nymph is a language skill checked[/center]
-whenever one attempts to speak with[/center]
-a Nymph.[/center]
-[/end]"
-1388,"Pickpocketing is a skill automatically[/center]
-checked whenever one attempts to steal[/center]
-an item off a person or shelf without[/center]
-being detected.[/center]
-[/end]"
-1389,"Restoration refers to the School of[/center]
-Restoration, one of the six avenues[/center]
-of magical study. Any healing spell[/center]
-such as Cure Poison and Troll's[/center]
-Blood hails from Restoration.[/center]
-[/end]"
-1390,"Running is a skill automatically[/center]
-checked whenever one begins to[/center]
-run, to check the possible speed.[/center]
-[/end]"
-1391,"Short Blade is a skill checked whenever[/center]
-one attempts to strike a target with[/center]
-a short-bladed stabbing weapon such as[/center]
-a dagger or a tanto, to determine the[/center]
-aim and damage possible in a strike.[/center]
-[/end]"
-1392,"Spriggan is a language skill checked[/center]
-whenever one attempts to speak with[/center]
-a Spriggan.[/center]
-[/end]"
-1393,"Stealth is a skill which allows one[/center]
-to avoid the attention of a hostile[/center]
-creature. It is automatically checked[/center]
-at every encounter.[/center]
-[/end]"
-1394,"Streetwise is a skill checked[/center]
-whenever one attempts to be blunt,[/center]
-colloquial, or otherwise informal[/center]
-in conversation.[/center]
-[/end]"
-1395,"Swimming is a skill automatically[/center]
-checked whenever one encounters[/center]
-water to see how fast one can swim,[/center]
-how fatigued one gets while swimming,[/center]
-and how long one can stay underwater.[/center]
-[/end]"
-1396,"Thaumaturgy refers to the School of[/center]
-Thaumaturgy, one of the six avenues[/center]
-of magical study. A Thaumaturgical[/center]
-spell does not change the appearance[/center]
-or structure of a force or object,[/center]
-but can manipulate laws temporarily,[/center]
-as evident in such spells as[/center]
-Levitate and Water Walking.[/center]
-[/end]"
+1378,"Harpy is a language skill checked[/center] whenever one attempts to speak with[/center] a Harpy.[/center] [/end]"
+1379,"Illusion refers to the School of Illusion,[/center] one of the six avenues of magical study.[/center] Illusion spells are capable of camouflaging,[/center] illuminating, or obscuring objects, as the[/center] spells Invisibility and Light demonstrate.[/center] [/end]"
+1380,"Impish is a language skill checked[/center] whenever one attempts to speak with[/center] an Imp.[/center] [/end]"
+1381,"Jumping is a skill checked to determine[/center] the height and distance one is capable[/center] of leaping.[/center] [/end]"
+1382,"Lockpicking is a skill automatically[/center] checked whenever one attempts to pick the[/center] lock on a door or a chest.[/center] [/end]"
+1383,"Long Blade is a skill checked whenever[/center] one attempts to strike a target with a[/center] long-bladed, slashing weapon such as a[/center] claymore or a katana.[/center] [/end]"
+1384,"Medical skill is automatically checked[/center] whenever one rests, allowing one to[/center] diagnose minor injuries and illnesses.[/center] [/end]"
+1385,"Mercantile is a skill checked whenever[/center] one enters into negotiations with a[/center] merchant, attempting to buy or sell[/center] an item at the best possible price.[/center] [/end]"
+1386,"Mysticism refers to the School of[/center] Mysticism, one of the six avenues of[/center] magical study. Mysticism is the most[/center] arcane school, and the spells created[/center] by its application are as varied as[/center] Far Silence and Soul Trap.[/center] [/end]"
+1387,"Nymph is a language skill checked[/center] whenever one attempts to speak with[/center] a Nymph.[/center] [/end]"
+1388,"Pickpocketing is a skill automatically[/center] checked whenever one attempts to steal[/center] an item off a person or shelf without[/center] being detected.[/center] [/end]"
+1389,"Restoration refers to the School of[/center] Restoration, one of the six avenues[/center] of magical study. Any healing spell[/center] such as Cure Poison and Troll's[/center] Blood hails from Restoration.[/center] [/end]"
+1390,"Running is a skill automatically[/center] checked whenever one begins to[/center] run, to check the possible speed.[/center] [/end]"
+1391,"Short Blade is a skill checked whenever[/center] one attempts to strike a target with[/center] a short-bladed stabbing weapon such as[/center] a dagger or a tanto, to determine the[/center] aim and damage possible in a strike.[/center] [/end]"
+1392,"Spriggan is a language skill checked[/center] whenever one attempts to speak with[/center] a Spriggan.[/center] [/end]"
+1393,"Stealth is a skill which allows one[/center] to avoid the attention of a hostile[/center] creature. It is automatically checked[/center] at every encounter.[/center] [/end]"
+1394,"Streetwise is a skill checked[/center] whenever one attempts to be blunt,[/center] colloquial, or otherwise informal[/center] in conversation.[/center] [/end]"
+1395,"Swimming is a skill automatically[/center] checked whenever one encounters[/center] water to see how fast one can swim,[/center] how fatigued one gets while swimming,[/center] and how long one can stay underwater.[/center] [/end]"
+1396,"Thaumaturgy refers to the School of[/center] Thaumaturgy, one of the six avenues[/center] of magical study. A Thaumaturgical[/center] spell does not change the appearance[/center] or structure of a force or object,[/center] but can manipulate laws temporarily,[/center] as evident in such spells as[/center] Levitate and Water Walking.[/center] [/end]"
 1400,"You might be interested to know that %fx1 has just allied with %fx2.[/record]
 I just found out that %fx1 cut a deal with %fx2. Interesting, huh?[/record]
 Don't spread this around, but %fx1 and %fx2 are working together.[/end]"
@@ -1391,44 +1300,32 @@ must report to the Captain's tower.[/center]
 Sightings of this criminal are[/center]
 to be reported to the watch.[/center]
 [/end]"
-1500,"마비[/center]
-대상을 마비시킵니다.[/center]
-시간: 마비가 지속되는 시간.[/center]
-확률: 대상이 마비될 확률.[/center]
-세기: 해당없음[/center][/end]"
-1501,"마비[/center]
-대상을 마비시킵니다.[/center]
-시간: 마비가 지속되는 시간.[/center]
-확률: 대상이 마비될 확률.[/center]
-세기: 해당없음[/center][/end]"
-1502,"마비[/center]
-대상을 마비시킵니다.[/center]
-시간: 마비가 지속되는 시간.[/center]
-확률: 대상이 마비될 확률.[/center]
-세기: 해당없음[/center][/end]"
+1500,"마비[/center] 대상을 마비시킵니다.[/center] 시간: 마비가 지속되는 시간.[/center] 확률: 대상이 마비될 확률.[/center] 세기: 해당없음[/center][/end]"
+1501,"마비[/center] 대상을 마비시킵니다.[/center] 시간: 마비가 지속되는 시간.[/center] 확률: 대상이 마비될 확률.[/center] 세기: 해당없음[/center][/end]"
+1502,"마비[/center] 대상을 마비시킵니다.[/center] 시간: 마비가 지속되는 시간.[/center] 확률: 대상이 마비될 확률.[/center] 세기: 해당없음[/center][/end]"
 1503,"지속 피해 -- 생명력[/center]대상의 생명력을 매 라운드 마다 줄입니다.[/center]시간: 지속 피해가 유지되는 시간.[/center]확률: 해당없음[/center]세기: 매 라운드 마다 입는 피해량[/center][/end]"
 1504,"지속 피해 -- 생명력[/center]대상의 생명력을 매 라운드 마다 줄입니다.[/center]시간: 지속 피해가 유지되는 시간.[/center]확률: 해당없음[/center]세기: 매 라운드 마다 입는 피해량[/center][/end]"
 1505,"지속 피해 -- 지구력[/center]대상의 지구력을 매 라운드 마다 줄입니다.[/center]시간: 지속 피해가 유지되는 시간.[/center]확률: 해당없음[/center] 세기: 매 라운드 마다 입는 지구력 피해량[/center][/end]"
 1506,"지속 피해 -- 주문점수[/center]대상의 주문점수를 매 라운드 마다 줄입니다.[/center]시간: 지속 피해가 유지되는 시간.[/center]확률: 해당없음[/center] 세기: 매 라운드 마다 입는 주문점수 피해량[/center][/end]"
-1507,"Create Item[/center] Creates one useful item of the caster's choosing.[/center] Duration: How long created item exists.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
+1507,"물품 생성[/center]시전자가 선택한 유용한 물품 하나를 만들어 냅니다.[/center]시간: 만든 물품이 유지되는 시간.[/center] 확률: 해당없음[/center] 세기: 해당없음[/center][/end]"
 1509,"치료 -- 질병[/center]대상의 질병을 치료합니다.[/center]시간: 즉시[/center]확률: 질병이 치료될 확률[/center]세기: 해당없음[/center][/end]"
 1510,"치료 -- 독[/center]대상의 독을 치료합니다.[/center]시간: 즉시[/center]확률: 독이 치료될 확률[/center]세기: 해당없음[/center][/end]"
 1511,"치료 -- 마비[/center]대상의 마비를 치료합니다.[/center]시간: 즉시[/center]확률: 마비가 치료될 확률[/center]세기: 해당없음[/center][/end]"
-1512,"피해 -- 생명력[/center]대상의 생명력을 줄입니다.[/center]시간: 즉시[/center]확률: 해당없음[/center]세기: 대상이 입는 피해량[/center] [/end]"
-1513,"피해 -- 지구력[/center]대상의 지구력을 줄입니다.[/center]시간: 즉시[/center]확률: 해당없음[/center]세기: 대상이 입는 지구력 피해량[/center] [/end]"
-1514,"피해 -- 주문점수[/center]대상의 주문점수를 줄입니다.[/center]시간: 즉시[/center]확률: 해당없음[/center]세기: 대상이 입는 주문점수 피해량[/center] [/end]"
-1515,"분해[/center]대상을 분해합니다.[/center]시간: 즉시.[/center]확률: 대상이 분해될 확률.[/center]세기: 해당없음[/center] [/end]"
+1512,"피해 -- 생명력[/center]대상의 생명력을 줄입니다.[/center]시간: 즉시[/center]확률: 해당없음[/center]세기: 대상이 입는 피해량[/center][/end]"
+1513,"피해 -- 지구력[/center]대상의 지구력을 줄입니다.[/center]시간: 즉시[/center]확률: 해당없음[/center]세기: 대상이 입는 지구력 피해량[/center][/end]"
+1514,"피해 -- 주문점수[/center]대상의 주문점수를 줄입니다.[/center]시간: 즉시[/center]확률: 해당없음[/center]세기: 대상이 입는 주문점수 피해량[/center][/end]"
+1515,"분해[/center]대상을 분해합니다.[/center]시간: 즉시.[/center]확률: 대상이 분해될 확률.[/center]세기: 해당없음[/center][/end]"
 1516,"디스펠 -- 마법[/center]마법 효과를 해제합니다.[/center]시간: 즉시.[/center]확률: 마법을 디스펠할 확률.[/center]세기: 해당없음[/center][/end]"
 1517,"디스펠 -- 언데드[/center]언데드를 디스펠합니다.[/center]시간: 즉시.[/center]확률: 언데드를 디스펠할 확률.[/center]세기: 해당없음[/center][/end]"
 1518,"디스펠 -- 데이드라[/center]데이드라를 디스펠합니다[/center]시간: 즉시.[/center]확률: 데이드라를 디스펠할 확률.[/center]세기: 해당없음[/center][/end]"
-1519,"감쇄 -- 근력[/center]대상의 근력을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 근력 점수량.[/center] [/end]"
-1520,"감쇄 -- 지능[/center]대상의 지능을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 지능 점수량.[/center] [/end]"
-1521,"감쇄 -- 의지[/center]대상의 의지를 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 의지 점수량.[/center] [/end]"
-1522,"감쇄 -- 민첩[/center]대상의 민첩을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 민첩 점수량.[/center] [/end]"
-1523,"감쇄 -- 체력[/center]대상의 체력을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 체력 점수량.[/center] [/end]"
-1524,"감쇄 -- 매력[/center]대상의 매력을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 매력 점수량.[/center] [/end]"
-1525,"감쇄 -- 속도[/center]대상의 속도를 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 속도 점수량.[/center] [/end]"
-1526,"감쇄 -- 행운[/center]대상의 행운을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 행운 점수량.[/center] [/end]"
+1519,"감쇄 -- 근력[/center]대상의 근력을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 근력 점수량.[/center][/end]"
+1520,"감쇄 -- 지능[/center]대상의 지능을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 지능 점수량.[/center][/end]"
+1521,"감쇄 -- 의지[/center]대상의 의지를 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 의지 점수량.[/center][/end]"
+1522,"감쇄 -- 민첩[/center]대상의 민첩을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 민첩 점수량.[/center][/end]"
+1523,"감쇄 -- 체력[/center]대상의 체력을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 체력 점수량.[/center][/end]"
+1524,"감쇄 -- 매력[/center]대상의 매력을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 매력 점수량.[/center][/end]"
+1525,"감쇄 -- 속도[/center]대상의 속도를 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 속도 점수량.[/center][/end]"
+1526,"감쇄 -- 행운[/center]대상의 행운을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 행운 점수량.[/center][/end]"
 1527,"Elemental Resistance -- Fire[/center] Target becomes immune to fire damage.[/center] Duration: Rounds resistance lasts.[/center] Chance: Chance of successfully casting spell.[/center] Magnitude: N/A[/center] Target takes half damage from fire if spell fails.[/center] [/end]"
 1528,"Elemental Resistance -- Frost[/center] Target becomes immune to cold damage.[/center] Duration: Rounds resistance lasts.[/center] Chance: Chance of successfully casting spell.[/center] Magnitude: N/A[/center] Target takes half damage from cold if spell fails.[/center] [/end]"
 1529,"Elemental Resistance -- Poison[/center] Target becomes immune to poison damage.[/center] Duration: Rounds resistance lasts.[/center] Chance: Chance of successfully casting spell.[/center] Magnitude: N/A[/center] Target takes half damage from poison if spell fails.[/center] [/end]"
@@ -1587,11 +1484,11 @@ to be reported to the watch.[/center]
 2075,"The House of Dibella is the noblest[/center] institution in Tamriel, we of the Order[/center] of the Lily firmly are devoted to its[/center] cause. Its only fault is that the priests[/center] and priestesses within are often too[/center] consumed with the propagation of beauty[/center] to protect themselves adequately.[/center] [/center] That is the sacred cause of the Order[/center] of the Lily. We protect the House and[/center] receive the training and blessings of[/center] clerics of equal rank. I can think of[/center] no better reason to fight than the[/center] cause of beauty.[/center] [/end]"
 2076,"We, the Knights of Stendarr the Merciful[/center] call ourselves the Crusaders, for it is[/center] our sacred duty to protect the Temple[/center] and fights its battles. While we firmly[/center] espouse the Temple's philosophy of[/center] compassion and charity, we recognize[/center] that if the Temple is weak, it cannot[/center] realistically survive.[/center] [/center] Only those of great combat ability and[/center] proven devotion to the Temple and the[/center] God Stendarr are eligible for possible[/center] membership in the Crusaders.[/center] [/end]"
 2077,"We are the strong arm of the Goddess[/center] Kynareth, an off-shoot of her temple[/center] devoted to fighting her causes all over[/center] Tamriel. Members of the Kynaran Order[/center] are honored for our skill and loyalty[/center] by the Temple, and given full access[/center] to the blessings and services within.[/center] According to individual rank in the[/center] Order, of course.[/center] [/center] Possible candidates for inclusion in[/center] the Kynaran Order are chosen on the[/center] basis of their combat skills and their[/center] reputation with the Temple.[/center] [/end]"
-2100,"마법사는 마법 기술의 학습과 사용에 일생을 바치는 자들 입니다.[/center]숙련된 마법사는 상대하기 매우 위협적인 상대가 될 수 있습니다.[/center]마법사 주요 기술: 모든 마법 학파--[/center]신비마법, 변화마법, 역동마법, 환영마법, 파괴마법, 회복마법.[/center]캐릭터를 메이지로 하시겠습니까?[/center][/end]"
-2101,"마검사는 전사이지만 마법의 사용에도 상당한[/center]조예를 가지고 있는 자들입니다.[/center]이때문에 마검사들은 상대하기 만만치 않은 적입니다.[/center]마검사 주요 기술:[/center]도끼, 장검, 둔기, 파괴마법, 환영마법, 변화마법.[/center]캐릭터를 마검사로 하시겠습니까?[/center][/end]"
+2100,"메이지는 마법 기술의 학습과 사용에 일생을 바치는 자들 입니다.[/center]숙련된 메이지는 상대하기 매우 위협적인 상대가 될 수 있습니다.[/center]메이지 주요 기술: 모든 마법 학파--[/center]신비마법, 변화마법, 역동마법, 환영마법, 파괴마법, 회복마법.[/center]캐릭터를 메이지로 하시겠습니까?[/center][/end]"
+2101,"스펠스워드는 전사이지만 마법의 사용에도 상당한[/center]조예를 가지고 있는 자들입니다.[/center]이때문에 스펠스워드들은 상대하기 만만치 않은 적입니다.[/center]스펠스워드 주요 기술:[/center]도끼, 장검, 둔기, 파괴마법, 환영마법, 변화마법.[/center]캐릭터를 마검사로 하시겠습니까?[/center][/end]"
 2102,"배틀 메이지는 마법 기술을 전투용도로 사용하며[/center]공격 마법 주문을 자유자재로 사용합니다.[/center]배틀 메이지 주요 기술:[/center]파괴마법, 장검, 도끼, 역동마법, 변화마법, 격투.[/center]캐릭터를 배틀 메이지로 하시겠습니까?[/center][/end]"
 2103,"소서러는 마법을 다루는데 아주 능숙합니다.[/center]사용하는 마법적 에너지를 스스로 만들지는 못하지만[/center]자신이 공격 받는 마법에서 에너지를 흡수하여 주문 영창에 사용합니다.[/center]소서러 주요 기술: 모든 마법 학파--[/center]신비마법, 변화마법, 역동마법, 파괴마법, 회복마법, 환영마법.[/center]캐릭터를 소서러로 하시겠습니까?[/center][/end]"
-2104,"치료사는 마법을 상처와 질병을 회복하는데 사용합니다.[/center]때문에 보통 방어적인 역활을 수행합니다.[/center]치료사 주요 기술:[/center]회복마법, 의료, 회피, 역동마법, 신비마법, 변화마법.[/center]캐릭터를 힐러로 하시겠습니까?[/center][/end]"
+2104,"힐러는 마법을 상처와 질병을 회복하는데 사용합니다.[/center]때문에 보통 방어적인 역활을 수행합니다.[/center]힐러 주요 기술:[/center]회복마법, 의료, 회피, 역동마법, 신비마법, 변화마법.[/center]캐릭터를 힐러로 하시겠습니까?[/center][/end]"
 2105,"나이트블레이드는 은신 능력을 보충하는데 마법을 사용합니다.[/center]마법을 쓸 줄 아는 도둑과 유사합니다.[/center]나이트블레이드 주요 기술:[/center]환영마법, 은신, 회피, 역동마법, 소검, 자물쇠.[/center]캐릭터를 나이트블레이드로 하시겠습니까?[/center][/end]"
 2106,"바드는 가장 다재다능한 직업으로, 여러 기술을 가졌습니다.[/center]무기, 마법, 도둑 관련 기술에 능숙합니다.[/center]바드 주요 기술:[/center]거리예절, 궁중예절, 자물쇠, 은신, 소검, 격투.[/center]캐릭터를 바드로 하시겠습니까?[/center][/end]"
 2107,"버글러는 자물쇠 기술에 뛰어납니다.[/center]가장 잘 경비된 귀족의 집에도 들키지 않고 숨어 들어 갈 수 있습니다.[/center]버글러 주요 기술:[/center]자물쇠, 은신, 등반, 거래, 회피, 소검.[/center]캐릭터를 버글러로 하시겠습니까?[/center][/end]"
@@ -1602,7 +1499,7 @@ to be reported to the watch.[/center]
 2112,"수도승은 특수한 정신적 수양을 통해 훈련된 자들입니다.[/center]정신적 깨달음으로 몸을 위협적인 무기로 바꾸었습니다.[/center]수도승 주요 기술: 격투, 치명 공격, 회피, 수영, 의료, 둔기.[/center]캐릭터를 몽크로 하시겠습니까?[/center][/end]"
 2114,"레인저는 자연의 야생을 집처럼 편히 여기는 자들로,[/center]뛰어난 사냥꾼입니다. 생존과 추적에 능숙합니다.[/center]레인저 주요 기술: 장검, 도끼, 등반, 수영, 궁술, 치명 공격.[/center]캐릭터를 레인저로 하시겠습니까?[/center][/end]"
 2115,"야만전사는 문명에서 떨어진 거친 땅에서 온 전사들입니다.[/center]뛰어난 싸움꾼들로, 최악의 상황에서도 생존할 수 있습니다.[/center]야만전사 주요 기술: 둔기, 장검, 도끼, 도약, 질주, 수영.[/center]캐릭터를 바바리안으로 하시겠습니까?[/center][/end]"
-2116,"워리어는 전투와 전쟁 기술을 가장 강도 높게 훈련 받는 자들입니다.[/center]여러 무기의 사용에 익숙하며 갑옷으로 중무장 합니다.[/center]워리어 주요기술:[/center]도끼, 장검, 둔기 무기, 격투, 궁술, 소검[/center]캐릭터를 워리어로 하시겠습니까?[/center][/end]"
+2116,"워리어는 전투와 전쟁 기술을 가장 강도 높게 훈련 받는 자들입니다.[/center]여러 무기의 사용에 익숙하며 갑옷으로 중무장 합니다.[/center]워리어 주요기술:[/center]도끼, 장검, 둔기, 격투, 궁술, 소검[/center]캐릭터를 워리어로 하시겠습니까?[/center][/end]"
 2117,"기사는 귀족 혈통을 타고났으며, 전사로서 훈련받고, 기사도를 따르기로 한 자들입니다.[/center]기사 주요 기술: 장검, 예법, 둔기, 도끼, 궁술, 소검.[/center]캐릭터를 기사로 하시겠습니까?
 2200,"캐릭터의 성별을 선택하세요.[/center][/end]"
 2400,"도움말 - 일반[/center]
@@ -3251,8 +3148,8 @@ brats[/record]
 aristocrats[/end]"
 4512,"shortsword[/record]
 fine blade[/end]"
-4513,Mages Guild[/end]
-4514,"apprentices[/record]
+4513,메이지 길드[/end]
+4514,"견습생[/record]
 students[/record]
 novices[/record]
 scholars[/end]"
@@ -3431,12 +3328,12 @@ handed you a mace[/end]"
 4904,took your bow from you.[/end]
 4905,"handed you a sword[/record]
 gave you a blade[/end]"
-5100,"숙박 기간은 아직 %dwr 시간이 남아있습니다.[/center]추가로 며칠이나 더[/center]필요하십니까?[/center][/input] [/center][/end]"
-5101,리뷰필요-"즐거운 발렌타인 데이입니다, %ra. 전통에 따라,[/center]오늘은 방을 무료로 이용하실 수 있습니다.[/center]더 오래 머무르시려면 내일 다시 들려주세요.[/center][/end]"
-5102,"안녕하세요, %ra. 얼마나 오래[/center]머무르실 예정이신가요?[/center][/input] [/center][/end]"
+5100,"숙박 기간이 아직 %dwr 시간 남아있는데.[/center]며칠 더 필요한거요?[/center][/input] [/center][/end]"
+5101,"즐거운 사랑의 날 되슈, %ra.[/center]오늘은 전통에 따라 방이 무료요.[/center]오늘 하루보다 더 묵고 싶으면 내일 다시 말하쇼.[/center][/end]"
+5102,"안녕하슈, %ra.[/center]방은 몇일 잡을 거요?[/center][/input] [/center][/end]"
 5221,"교습자와 3시간 동안 훈련 했습니다.[/center]배운 것을 어떻게 받아들여야 하는지,[/center]또한 배운 것을 어떻게 잘 사용해야 할지 교육 받았습니다.[/center][/end]"
 5225,"좋아, 애송아, 잘 들어라, 한 번만 말 해줄거니까.[/center]이제 너도 우리 소속이 되었으니까,[/center]%lev 밖에 안되긴 하지만,[/center]어쨋든 던전이 어디있는지 알려주지. 준비를 잘하고 가는게 좋을거다.[/center]지도에 표시해주지. 자, 됐다, %dng.[/center]나중에 다른데 가서 내가 챙겨준게 없다고 하지마라.[/center][/record]"
-5226,"축하한다, 애송이, 너도 이제 자신을[/center]도둑 길드의 %lev라고 할 수 있겠어[/center]이제 길드가 취급하는 장물에 끼워주도록 하지[/center]우리가 너의 물건을 구매해주거나[/center]다른 녀석들이 주워온 물건을[/center]아주 할인된 가격에 팔아줄 수 있지[/center]이걸로 사는게 좀 필거다.[/center][/end]"
+5226,"축하한다, 애송이, 너도 이제 자신을[/center]도둑 길드의 %lev라고 할 수 있겠어[/center]이제 길드가 취급하는 장물거래에 끼워주도록 하지[/center]우리가 너의 물건을 구매해주거나[/center]다른 녀석들이 주워온 물건을[/center]아주 할인된 가격에 팔아줄 수 있지[/center]이걸로 사는게 좀 필거다.[/center][/end]"
 5227,"잘 하고 있군. 이젠 너도[/center]도둑 길드의 %lev로서 자격을 갖췄다.[/center]앞으로는, 최신 정보를 알고 싶다면[/center]스파이 마스터를 찾아봐라.[/center]우리는 이곳저곳에 귀를 대고 있지. 이젠 너도 %lev가 되었으니, 너도 귀가 되는거야.[/center][/end]"
 5228,"들어봐, %pcf, 네가 흥미를[/center]가질만한 곳이 있는데 말이야[/center]이 %reg에 있는 %dng라는 구덩이야.[/center]아직 아무도 손 데지 않은 보물이[/center]거기에 뭍혀있지. 자, 지도에 표시해줄게.[/center]어쨌든, 너도 도둑 길드의 신입 %lev로서[/center]수입을 올리긴 해야되니까[/center]안그래, %pcf?[/center][/end]"
 5229,"길드에서 너를 또 승진시켜줬어,[/center]%pcf, 어떻게 생각해?[/center]너도 %lev가 되었으니까, 내가 가장[/center]좋아하는 비밀 장소를 보여줘야겠군,[/center]자, 네 지도에 표시해뒀어.[/center]사람들은 %dng라고 부르는 곳이지.[/center]승진 축하한다, 애송아,[/center]가서 즐기라고.[/center][/end]"
@@ -3466,7 +3363,7 @@ gave you a blade[/end]"
 5290,"Well, welcome then, my child. You[/center] may consider yourself a %lev[/center] now. Our trainers are available to you.[/center] For the other benefits of the temple,[/center] be patient, work hard, and they[/center] will come to you.[/center] [/end]"
 5291,"Then consider yourself one of the ranks[/center] of the proud %fon. You[/center] shall begin as a %lev. Though[/center] your rank in %fon is low,[/center] in %reg, our reputation will[/center] follow you. Do not be surprised when you[/center] learn that no %reg innkeep[/center] will charge you for a room. It is an[/center] honor paid to all %fon.[/center] [/end]"
 5292,"Good decision, young %pcf.[/center] From this moment on, your codeword will be[/center] %dbp. You are now considered a[/center] %lev, with full access to our[/center] trainers. There are other benefits of being[/center] a Dark Brother which will be made available[/center] upon you demonstrating your practical[/center] worth. If you haven't, by the way,[/center] been to %dng, you[/center] ought to. It's a lovely little cemetery,[/center] with lots of treasure-laden crypts, if[/center] you think some graverobbing would aid your[/center] present financial situation.[/center] [/end]"
-5293,"Then henceforth, you will be known as[/center] %pcn, %lev of the[/center] Mages Guild. It will take patience and[/center] hard effort to gain access to all the[/center] Guild offers, my child, but I can now[/center] give you access to our trainers and our[/center] Spellmaker. Too much power in too little[/center] time has destroyed many a man and[/center] woman. The Mages Guild is nothing[/center] if not conscientious.[/center] [/end]"
+5293,"그럼 이제부터, 메이지 길드의[/center]%lev, %pcn 로서 활동하게 될겁니다.[/center]길드가 제공하는 모든 서비스를 이용하려면[/center]인내심과 성실한 노력이 필요하겠지요.[/center]지금은 길드 교습자와 주문 제작사 이용이 가능합니다.[/center]손쉽게 얻는 강대한 힘은 많은 사람들을 파멸시켰습니다.[/center]정직한 성실함이 없다면 길드는 망하고 말겠지요.[/center][/end]"
 5400,Action type twelve. (do not translate)[/end]
 5404,"Greetings, %pcn.[/center] You dare much by intruding here.[/center] Nevertheless, I will allow you[/center] to proceed, provided you prove as[/center] perceptive as rumor reports.[/center] You may be aware that I am a[/center] master of the blade. But what[/center] is my other favored weapon?[/center] Answer correctly, then arm yourself.[/center] [/end]"
 5406,"One speaks for me.[/center] Two serve me.[/center] Six protect me.[/center] How many defy me?[/center] [/end]"
@@ -3784,7 +3681,7 @@ Gentleman[/record]
 %mn[/record]
 %mn[/record]
 %mn[/record]
-마스터 %mn[/record]
+Master %mn[/record]
 Lord %mn[/record]
 Knight[/end]"
 6120,"Court[/record]
@@ -4343,7 +4240,7 @@ Special price, %a gold.[/record]
 What'd you say to %a gold?[/end]"
 7203,"I ain't no charity, honey.[/record]
 No money, no fun, sweetie.[/end]"
-7204,You cannot talk to that.[/end]
+7204,이것과 대화를 할수는 없습니다.[/end]
 7205,"대답이 없습니다.[/end]"
 7206,"What do you want now, %pcf?[/record]
 This better be good. I'm busy.[/record]
@@ -4860,11 +4757,11 @@ Fer me drinkin' buddy, of course. %hnt2[/record]
 very nearby. Here, I'll show you %loc on your map[/record]
 awfully close by. It'd be best if I marked %loc on your map[/record]
 right there (points to %loc your map)[/end]"
-7333,"%di of here[/record]
-%di of where we're standing[/record]
-that way, just keep going %di[/record]
-that way, %di[/record]
-a way %di of here[/record]
+7333,"여기서 %di 입니다.[/record]
+우리가 서있는 여기서 %di 으로 가면 됩니다.[/record]
+저쪽, %di 으로 계속 가면 됩니다.[/record]
+저쪽, %di 입니다.[/record]
+여기서 %di 으로 가면 됩니다.[/record]
 not too far to the %di, if you don't mind walking[/record]
 %di of here, unless I'm mistaken[/record]
 %di of here, I think[/record]
@@ -5122,16 +5019,7 @@ The %fn Convergence[/record]
 The Community of %fn[/record]
 The Circle of %fn[/record]
 The %fn Circle[/end]"
-8350,"Today the people of %cn are having[/center]
-the New Life Festival in celebration of a new[/center]
-year. The Emperor has ordered yet another tax[/center]
-increase in his New Life Address, and there is[/center]
-much grumbling about this. Still, despite financial[/center]
-difficulties, the New Life tradition of free ale[/center]
-at all the taverns in the %ct continues. The[/center]
-people of %cn certainly know how to hold a[/center]
-celebration ...[/center]
-[/end]"
+8350,"오늘은 %cn 의 민중들이 새해를 기리며[/center]새삶 축제를 하는 날입니다. 황제가 신년 발표에서 또다시 세금 인상을 공표했고, 다들 이 금전적인 어려움에 불평하고 있지만,[/center]모든 주점에서 무료 에일이 나오는 %ct 의 새삶절 전통은 계속되고 있습니다.[/center]%cn 사람들은 축제를 제대로 즐길줄 아는 사람들입니다...[/center][/end]"
 8351,"Scour Day is a celebration held in most High Rock[/center]
 villages on the day after New Life. It was once[/center]
 the day one cleans up after New Life, but has[/center]
