@@ -472,7 +472,7 @@ harpy,하피어
 giantish,자이언트어
 dragonish,용언
 nymph,님프어
-aedric,데이드릭어
+aedric,Daedric
 spriggan,스프리건어
 centaurian,센타우리어
 impish,임프어
@@ -1051,35 +1051,35 @@ totalIdentified,{1}개 중 {0}개를 식별했습니다.
 dispelMagicSuccess,마법 디스펠을 성공했습니다...
 dispelMagicFailed,마법 디스펠을 실패했습니다...
 smallerDungeonsChanged,던전 내부에서 더 작은 던전 옵션 변경함. 플레이어를 던전 출구로 이동합니다.
-youNote,You note: 
+youNote,기록: 
 customName,Custom name: 
-StoresA,"%ef's
-%cn's Best
+StoresA,"%ef 의
+%cn 최고급
 The Essential
-Lord %ef's
-The Adventurer's
+%ef 경의
+모험가의
 The Odd
-%ef's Finest
-Bargain
-Vintage
-The Emperor's
-%cn
-%ef's General
-The Superior
-%ef's Quality
-First Class
-The %rt's
+%ef 의 최상
+할인점
+골동품점
+황제의
+%cn t18373
+%ef 의 일반
+특상품
+%ef 의 고급
+최고급
+%rt 의
 The Champion
-Doctor %ef's
-Lady %ef's"
+전문가 %ef 의 
+%ef 여사의"
 GeneralStoresB,"Supplies
 Supply Store
-Gear
-Gear Store
-Equipment
-Equipment Store
-Sundries
-Provisions
+용품점
+용품점
+장비
+장비점
+일상용품점
+식료품점
 Merchandise
 General Store
 Retail Store
@@ -1147,8 +1147,8 @@ Potions
 Tinctures
 Medicaments
 Elixirs
-Pharmacy
-Apothecary
+약국
+생약
 Unguents
 Medicinal Agents
 Herb Garden
@@ -1195,84 +1195,84 @@ Game
 Animalia
 Fauna
 Menagerie"
-TavernsA,"The Queen's
-The King's
-The Dirty
-The Black
-The Mole and
-The Green
-The Red
-The Gold
-The White
-The Silver
-The Crimson
-The Flying
-The Dancing
-The Laughing
-The Restless
-The Thirsty
-The Unfortunate
-The Lucky
-The Devil's
-The Rusty
-The Howling
-The Screaming
-The Bat and
-The Lion and
-The Lynx and
-The Dwarf and
-The Beaver and
-The Fox and
-The Mouse and
-The Pig and
-The Feather and
-The Toad and
-The Rat and
-The Savage
-The Knave and
-The Dead"
-TavernsB,"Chasm
-Mug
-Pit
-Cat
-Dog
-Goblin
-Griffin
-Dragon
-Ogre
-Giant
-Djinn
-Wolf
-Huntsman
-Dagger
-Skull
-Sword
-Guard
-Dungeon
-Helm
-Castle
-Jug
-Bird
-Gnome
-Hedgehog
-Muskrat
-Woodchuck
-Scorpion
-Badger
-Goat
-Porcupine
-Priest
-Fawn
-Stag
-Barbarian
-Rascal
-Fairy"
-houseForSale,House for sale
-theBankOf,The Bank of
-daggerfall,Daggerfall
-wayrest,Wayrest
-sentinel,Sentinel
-palace,Palace
+TavernsA,"여왕의
+왕의
+더러운
+검은
+두더지와
+녹색
+적색
+금
+하얀
+은
+붉은
+날으는
+춤추는
+웃는
+잠못이루는
+목마른
+불행한
+행운의
+악마
+녹슨
+울부짖는
+비명지르는
+박쥐와
+사자와
+시라소니와
+드워프와
+비버와
+여우와
+집쥐와
+돼지와
+깃털과
+두꺼비와
+들쥐와
+흉폭한
+못된
+죽은"
+TavernsB,"틈새
+머그잔
+구덩이
+고양이
+개
+고블린
+그리핀
+용
+오거
+거인
+지니
+늑대
+사냥꾼
+단검
+해골
+칼
+경비병
+지하감옥
+투구
+성채
+주전자
+새
+노움
+고슴도치
+사향쥐
+마멋
+전갈
+오소리
+염소
+호저
+성직자
+새끼 사슴
+숫사슴
+야만인
+말썽꾸러기
+요정"
+houseForSale,내놓은 집
+theBankOf,은행 -
+daggerfall,대거폴
+wayrest,웨이레스트
+sentinel,센티넬
+palace,궁전
 regionNames,"Alik'r Desert
 Dragontail Mountains
 Glenpoint Foothills
@@ -1290,7 +1290,7 @@ Tamarilyn Point
 Lainlyn Cliffs
 Bjoulsae River
 Wrothgarian Mountains
-Daggerfall
+대거폴
 Glenpoint
 Betony
 Sentinel
@@ -1460,3 +1460,90 @@ lucRatings,"저주받은
 운에 강한
 운에는 따라올 자가 없는
 신이 편애하는"
+Mage,Mage
+Spellsword,Spellsword
+Battlemage,Battlemage
+Sorcerer,Sorcerer
+Healer,Healer
+Nightblade,Nightblade
+Bard,Bard
+Burglar,Burglar
+Rogue,Rogue
+Acrobat,Acrobat
+Thief,Thief
+Assassin,Assassin
+Monk,Monk
+Archer,Archer
+Ranger,Ranger
+Barbarian,Barbarian
+Warrior,Warrior
+Knight,Knight
+Custom,Custom
+darkBrotherhoodRanks,"Apprentice
+Journeyman
+Operator
+Slayer
+Executioner
+Punisher
+Terminator
+Assassin
+Dark Brother
+Master Assassin"
+fightersRanks,"Apprentice
+Journeyman
+Swordsman
+Protector
+Defender
+Warder
+Guardian
+Champion
+Warrior
+Master"
+knightlyOrderRanks,"Aspirant
+Squire
+Gallant
+Chevalier
+Keeper
+Knight Brother
+Commander
+Marshall
+Seneschal
+Paladin"
+magesRanks,"Apprentice
+Journeyman
+Evoker
+Conjurer
+Magician
+Enchanter
+Warlock
+Wizard
+Master Wizard
+Archmage"
+templeRanks,"Novice
+Initiate
+Acolyte
+Adept
+Curate
+Disciple
+Brother
+Diviner
+Master
+Patriarch"
+thievesRanks,"Apprentice
+Journeyman
+Filcher
+Crook
+Robber
+Bandit
+Thief
+Ringleader
+Mastermind
+Master Thief"
+darkSister,Dark Sister
+nonMember,non-member
+knightSister,Knight Sister
+matriarch,Matriarch
+sister,Sister
+daedricSkill,Daedric
+orcishSkill,Orcish
+midDateTimeFormatString,{0:00}:{1:00}:{2:00} {3:00} {4:00} 3E{5}
