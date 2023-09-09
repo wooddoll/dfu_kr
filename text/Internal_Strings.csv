@@ -545,7 +545,7 @@ south,남쪽
 southeast,남동쪽
 thisPlace,이 장소
 AnyNews,새로운 소식?
-WhereAmI,이곳은 어디?
+WhereAmI,이곳은 어디인지?
 AnswerTextWhereAmI,{1} 의 {0} 입니다.
 YouAreInSameBuilding,여기가 {0} 입니다. 지금 있는 곳입니다.
 NpcInSameBuilding,{0}? {1} 주변에 있을겁니다.
@@ -630,15 +630,15 @@ normal,보통
 TRUE,유지
 noName,<no-name>
 youDontHaveTheSpellPoints,주문점수가 없습니다.
-youAreSilenced,You are silenced.
+youAreSilenced,침묵에 걸렸습니다.
 youAreParalyzed,몸이 마비되었습니다.
 youFeelDrained,몸에서 뭔가 빠져나간 느낌이 듭니다.
-youAreFortified,You are fortified.
+youAreFortified,강화 효과를 받았습니다.
 youAreInvisible,몸이 투명해졌습니다.
 youAreLevitating,몸이 떠오릅니다.
 youAreRegenerating,몸이 재생합니다.
-youAreBlending,You are blending.
-youAreAShade,You are a shade.
+youAreBlending,그림자에 섞여듭니다.
+youAreAShade,그림자 그 자체가 됩니다.
 slowFallActive,낙하 감속 활성화
 saveVersusSpellMade,주문을 버텨냈습니다.
 spellEffectFailed,주문 효과 실패.
@@ -692,16 +692,16 @@ SteelGauntlets,Steel Gauntlets
 SteelGreaves,Steel Greaves
 SteelLeftPauldron,Steel Left Pauldron
 SteelRightPauldron,Steel Right Pauldron
-SteelHelm,Steel Helm
-SteelBoots,Steel Boots
-SteelBuckler,Steel Buckler
-SteelDagger,Steel Dagger
-SteelLongsword,Steel Longsword
-SteelStaff,Steel Staff
-ShortBow,Short Bow
-Arrows,Arrows
+SteelHelm,강철 투구
+SteelBoots,강철 부츠
+SteelBuckler,강철 버클러
+SteelDagger,강철 대거
+SteelLongsword,강철 롱소드
+SteelStaff,강철 스태프
+ShortBow,단궁
+Arrows,화살
 SteelBattleAxe,Steel Battle Axe
-Robes,Robes
+Robes,로브
 CastWhenUsed,사용할때 마법:
 CastWhenHeld,손에들때 마법:
 CastWhenStrikes,공격 적중시 마법:
@@ -1460,25 +1460,25 @@ lucRatings,"저주받은
 운에 강한
 운에는 따라올 자가 없는
 신이 편애하는"
-Mage,Mage
-Spellsword,Spellsword
-Battlemage,Battlemage
-Sorcerer,Sorcerer
-Healer,Healer
-Nightblade,Nightblade
-Bard,Bard
-Burglar,Burglar
-Rogue,Rogue
-Acrobat,Acrobat
-Thief,Thief
-Assassin,Assassin
-Monk,Monk
-Archer,Archer
-Ranger,Ranger
-Barbarian,Barbarian
-Warrior,Warrior
-Knight,Knight
-Custom,Custom
+Mage,메이지
+Spellsword,스펠스워드
+Battlemage,배틀메이지
+Sorcerer,소서러
+Healer,힐러
+Nightblade,나이트블레이드
+Bard,바드
+Burglar,버글러
+Rogue,로그
+Acrobat,아크로뱃
+Thief,시프
+Assassin,어새신
+Monk,몽크
+Archer,아처
+Ranger,레인저
+Barbarian,바바리안
+Warrior,워리어
+Knight,나이트
+Custom,커스텀
 darkBrotherhoodRanks,"Apprentice
 Journeyman
 Operator
@@ -1489,7 +1489,7 @@ Terminator
 Assassin
 Dark Brother
 Master Assassin"
-fightersRanks,"Apprentice
+fightersRanks,"견습생
 Journeyman
 Swordsman
 Protector
@@ -1509,7 +1509,7 @@ Commander
 Marshall
 Seneschal
 Paladin"
-magesRanks,"Apprentice
+magesRanks,"견습생
 Journeyman
 Evoker
 Conjurer
@@ -1529,7 +1529,7 @@ Brother
 Diviner
 Master
 Patriarch"
-thievesRanks,"Apprentice
+thievesRanks,"견습생
 Journeyman
 Filcher
 Crook
