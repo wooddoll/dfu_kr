@@ -32,27 +32,22 @@ QuestorPostsuccess:  [1008]
 <ce>                              -- Lady B.
 
 QuestLogEntry:  [1010]
-"%qdt: 
- 으앙 김밥 존맛I am on a mission from the emperor to investigate
- the shade of King Lysandus. His spirit has been
- haunting the city of Daggerfall. The emperor
- himself has charged me with the duty of laying
- his ghost to rest.
-    There is also the minor matter of a letter
- he sent to the Queen of Daggerfall. If I should
- find out what happened to the letter, he would be
- most appreciative.
-    Before landing in Daggerfall, a sudden storm
- capsized the ship. I barely made it into this cave."
+%qdt: 
+ 황제께서 라이산더스 왕의 유령에 대해 임무를 내리셨다.
+ 왕의 유령은 대도시 대거폴의 떠돌고 있다고 한다.
+ 황제께서 영혼을 안식에 들도록 할 것을 나에게 직접 명하셨다.
+ 그리고 대거폴의 여왕에게 보내졌던 편지에 대한 임무도
+ 있다. 중요성은 덜하지만 편지가 어떻게 된건지 알아낸다면
+ 황제께서 매우 기뻐하실 것이다.
+ 대거폴에 도착하기도 전에 갑자기 몰아닥친 폭풍이 배를
+ 집어삼켰다. 동굴로 간신히 목숨을 건질 수 있었다.
 
 Message:  1011
 %qdt:
- I met with Lady Brisienna in a tavern room. She
- told me that the three major powers of the Iliac
- bay are Daggerfall, Wayrest, and Sentinel. If I
- am to investigate the mystery of Lysandus' ghost,
- I should start by speaking with the royal families
- of these fiefdoms.
+ 브리지엔나 부인을 주점 방에서 만났다.
+ 일리악만의 강대국은 셋이며 대거폴, 웨이레스트, 센티넬
+ 이란 것을 알려주었다. 라이산더스의 유령을 조사하려면
+ 세곳의 왕족들과 대화를 해봐야할 것이다.
 
 Message:  1012
 Lady Magnessen? She's the emmisary of the Blades in Daggerfall.
