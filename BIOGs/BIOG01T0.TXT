@@ -1,43 +1,41 @@
-1.  After the College of Destruction, what school of 
-	magic have you been studying the second longest?
-a.	Restoration
+1.	파괴마법 다음으로, 어떤 마법 학파를 제일 오래 공부 했습니까?
+a.	회복마법
 	#4250
 	22 +8
 	23 +3
-b.	Illusion
+b.	환영마법
 	#4251
 	22 +8
 	24 +3
-c.	Alteration
+c.	변화마법
 	#4252
 	22 +8
 	25 +3
-d.	Thaumaturgy
+d.	역동마법
 	#4253
 	22 +8
 	26 +3
-e.	Mysticism
+e.	신비마법
 	#4254
 	22 +8
 	27 +3
 
-2.	What motivates you into a life of
-	adventure?
-a.	Riches
+2.	모험의 삶을 선택하게된 동기는?
+a.	부를 위해
 	#4255
 	GP +500
-b.	Fame
+b.	명예를 위해
 	#4256
 	r4 +10
 	r2 +10
-c.	Knowledge
+c.	지식을 위해
 	#4257
 	IT 7 0 0
-d.	Fun
+d.	재미를 위해
 	#4258
 	1 +3
 	2 +3
-e.	Helping Others
+e.	타인을 돕기 위해
 	#4259
 	r0 +10
 
