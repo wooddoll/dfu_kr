@@ -1312,99 +1312,99 @@ to be reported to the watch.[/center]
 1510,"치료 -- 독[/center]대상의 독을 치료합니다.[/center]시간: 즉시[/center]확률: 독이 치료될 확률[/center]세기: 해당없음[/center][/end]"
 1511,"치료 -- 마비[/center]대상의 마비를 치료합니다.[/center]시간: 즉시[/center]확률: 마비가 치료될 확률[/center]세기: 해당없음[/center][/end]"
 1512,"피해 -- 생명력[/center]대상의 생명력을 줄입니다.[/center]시간: 즉시[/center]확률: 해당없음[/center]세기: 대상이 입는 피해량[/center][/end]"
-1513,"피해 -- 지구력[/center]대상의 지구력을 줄입니다.[/center]시간: 즉시[/center]확률: 해당없음[/center]세기: 대상이 입는 지구력 피해량[/center][/end]"
-1514,"피해 -- 주문점수[/center]대상의 주문점수를 줄입니다.[/center]시간: 즉시[/center]확률: 해당없음[/center]세기: 대상이 입는 주문점수 피해량[/center][/end]"
-1515,"분해[/center]대상을 분해합니다.[/center]시간: 즉시.[/center]확률: 대상이 분해될 확률.[/center]세기: 해당없음[/center][/end]"
-1516,"디스펠 -- 마법[/center]마법 효과를 해제합니다.[/center]시간: 즉시.[/center]확률: 마법을 디스펠할 확률.[/center]세기: 해당없음[/center][/end]"
-1517,"디스펠 -- 언데드[/center]언데드를 디스펠합니다.[/center]시간: 즉시.[/center]확률: 언데드를 디스펠할 확률.[/center]세기: 해당없음[/center][/end]"
-1518,"디스펠 -- 데이드라[/center]데이드라를 디스펠합니다[/center]시간: 즉시.[/center]확률: 데이드라를 디스펠할 확률.[/center]세기: 해당없음[/center][/end]"
-1519,"감쇄 -- 근력[/center]대상의 근력을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 근력 점수량.[/center][/end]"
-1520,"감쇄 -- 지능[/center]대상의 지능을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 지능 점수량.[/center][/end]"
-1521,"감쇄 -- 의지[/center]대상의 의지를 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 의지 점수량.[/center][/end]"
-1522,"감쇄 -- 민첩[/center]대상의 민첩을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 민첩 점수량.[/center][/end]"
-1523,"감쇄 -- 체력[/center]대상의 체력을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 체력 점수량.[/center][/end]"
-1524,"감쇄 -- 매력[/center]대상의 매력을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 매력 점수량.[/center][/end]"
-1525,"감쇄 -- 속도[/center]대상의 속도를 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 속도 점수량.[/center][/end]"
-1526,"감쇄 -- 행운[/center]대상의 행운을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음[/center]세기: 감쇄 되는 행운 점수량.[/center][/end]"
-1527,"Elemental Resistance -- Fire[/center] Target becomes immune to fire damage.[/center] Duration: Rounds resistance lasts.[/center] Chance: Chance of successfully casting spell.[/center] Magnitude: N/A[/center] Target takes half damage from fire if spell fails.[/center] [/end]"
-1528,"Elemental Resistance -- Frost[/center] Target becomes immune to cold damage.[/center] Duration: Rounds resistance lasts.[/center] Chance: Chance of successfully casting spell.[/center] Magnitude: N/A[/center] Target takes half damage from cold if spell fails.[/center] [/end]"
-1529,"Elemental Resistance -- Poison[/center] Target becomes immune to poison damage.[/center] Duration: Rounds resistance lasts.[/center] Chance: Chance of successfully casting spell.[/center] Magnitude: N/A[/center] Target takes half damage from poison if spell fails.[/center] [/end]"
-1530,"Elemental Resistance -- Shock[/center] Target becomes immune to shock damage.[/center] Duration: Rounds resistance lasts.[/center] Chance: Chance of successfully casting spell.[/center] Magnitude: N/A[/center] Target takes half damage from electricity if spell fails.[/center] [/end]"
-1531,"Elemental Resistance -- Magic[/center] Target becomes immune to magic damage.[/center] Duration: Rounds resistance lasts.[/center] Chance: Chance of successfully casting spell.[/center] Magnitude: N/A[/center] Target takes half damage from magic if spell fails.[/center] [/end]"
-1532,"Fortify Strength[/center] Increases target's Strength.[/center] Duration: Rounds Attribute increase lasts.[/center] Chance: N/A[/center] Magnitude: Amount of Attribute increase.[/center] [/end]"
-1533,"Fortify Intelligence[/center] Increases target's Intelligence.[/center] Duration: Rounds Attribute increase lasts.[/center] Chance: N/A[/center] Magnitude: Amount of Attribute increase.[/center] [/end]"
-1534,"Fortify Willpower[/center] Increases target's Willpower.[/center] Duration: Rounds Attribute increase lasts.[/center] Chance: N/A[/center] Magnitude: Amount of Attribute increase.[/center] [/end]"
-1535,"Fortify Agility[/center] Increases target's Agility.[/center] Duration: Rounds Attribute increase lasts.[/center] Chance: N/A[/center] Magnitude: Amount of Attribute increase.[/center] [/end]"
-1536,"Fortify Endurance[/center] Increases target's Endurance.[/center] Duration: Rounds Attribute increase lasts.[/center] Chance: N/A[/center] Magnitude: Amount of Attribute increase.[/center] [/end]"
-1537,"Fortify Personality[/center] Increases target's Personality.[/center] Duration: Rounds Attribute increase lasts.[/center] Chance: N/A[/center] Magnitude: Amount of Attribute increase.[/center] [/end]"
-1538,"Fortify Speed[/center] Increases target's Speed.[/center] Duration: Rounds Attribute increase lasts.[/center] Chance: N/A[/center] Magnitude: Amount of Attribute increase.[/center] [/end]"
-1539,"Fortify Luck[/center] Increases target's Luck.[/center] Duration: Rounds Attribute increase lasts.[/center] Chance: N/A[/center] Magnitude: Amount of Attribute increase.[/center] [/end]"
-1540,"Heal Strength[/center] Restores target's Strength, up to normal level.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Number of points restored.[/center] [/end]"
-1541,"Heal Intelligence[/center] Restores target's Intelligence, up to normal level.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Number of points restored.[/center] [/end]"
-1542,"Heal Willpower[/center] Restores target's Willpower, up to normal level.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Number of points restored.[/center] [/end]"
-1543,"Heal Agility[/center] Restores target's Agility, up to normal level.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Number of points restored.[/center] [/end]"
-1544,"Heal Endurance[/center] Restores target's Endurance, up to normal level.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Number of points restored.[/center] [/end]"
-1545,"Heal Personality[/center] Restores target's Personality, up to normal level.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Number of points restored.[/center] [/end]"
-1546,"Heal Speed[/center] Restores target's Speed, up to normal level.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Number of points restored.[/center] [/end]"
-1547,"Heal Luck[/center] Restores target's Luck, up to normal level.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Number of points restored.[/center] [/end]"
-1548,"Heal Health[/center] Restores target's Health, up to normal level.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Number of points restored.[/center] [/end]"
-1549,"Heal Fatigue[/center] Restores target's Fatigue, up to normal level.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Number of points restored.[/center] [/end]"
-1550,"Transfer Strength[/center] Transfers target Strength Points to caster.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Amount of points transferred.[/center] [/end]"
-1551,"Transfer Intelligence[/center] Transfers target Intelligence Points to caster.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Amount of points transferred.[/center] [/end]"
-1552,"Transfer Willpower[/center] Transfers target Willpower Points to caster.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Amount of points transferred.[/center] [/end]"
-1553,"Transfer Agility[/center] Transfers target Agility Points to caster.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Amount of points transferred.[/center] [/end]"
-1554,"Transfer Endurance[/center] Transfers target Endurance Points to caster.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Amount of points transferred.[/center] [/end]"
-1555,"Transfer Personality[/center] Transfers target Personality Points to caster.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Amount of points transferred.[/center] [/end]"
-1556,"Transfer Speed[/center] Transfers target Speed Points to caster.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Amount of points transferred.[/center] [/end]"
-1557,"Transfer Luck[/center] Transfers target Luck Points to caster.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Amount of points transferred.[/center] [/end]"
-1558,"Transfer Health[/center] Transfers target Health Points to caster.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Amount of points transferred.[/center] [/end]"
-1559,"Transfer Fatigue[/center] Transfers target Fatigue Points to caster.[/center] Duration: Instantaneous.[/center] Chance: N/A[/center] Magnitude: Amount of points transferred.[/center] [/end]"
-1560,"Invisibility (Normal)[/center] Target becomes invisible. Dispelled if target[/center] attacks anything.[/center] Duration: Rounds target remains invisible.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
-1561,"Invisibility (True)[/center] Target becomes invisible.[/center] Duration: Rounds target remains invisible.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
-1562,"Levitate[/center] Target floats above the ground.[/center] Duration: Rounds target levitates.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
-1563,"Light[/center] Creates a light source centered on target.[/center] Duration: Rounds target remains illuminated.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
-1564,"Lock[/center] Locks chest or door to lock-level of caster.[/center] Duration: Rounds spell remains in effect.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
-1565,"Open[/center] Unlocks chest or door to lock-level of caster.[/center] Duration: Instantaneous.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
-1566,"Regenerate[/center] Target regenerates Health Points each round.[/center] Duration: Rounds target regenerates.[/center] Chance: N/A[/center] Magnitude: Number of points regenerated each round.[/center] [/end]"
-1567,"Silence[/center] Target is silenced, unable to cast spells.[/center] Duration: Rounds silence lasts.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
-1568,"Spell Absorption[/center] Target absorbs incoming spell energy, adding spell[/center] energy points to his or her own store.[/center] Duration: Rounds target will absorb spells.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
-1569,"Spell Reflection[/center] Target reflects incoming spells back at caster.[/center] Duration: Rounds target will reflect spells.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
-1570,"Spell Resistance[/center] Target resists incoming spells.[/center] Duration: Rounds target will resist spells.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
-1571,"Chameleon (Normal)[/center] Target becomes difficult to see. Spell broken if[/center] chameleon attacks anything.[/center] Duration: Rounds target remains obscured.[/center] Chance:N/A[/center] Magnitude: N/A[/center] [/end]"
-1572,"Chameleon (True)[/center] Target becomes difficult to see.[/center] Duration: Rounds target remains obscured.[/center] Chance:N/A[/center] Magnitude: N/A[/center] [/end]"
-1573,"Shadow (Normal)[/center] Target blends into shadows. Spell broken if[/center] hider in shadows attacks anything.[/center] Duration: Rounds target remains hidden.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
-1574,"Shadow (True)[/center] Target blends into shadows.[/center] Duration: Rounds target remains hidden.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
-1575,"Slowfall (Normal, Trigger)[/center] Target falls at half normal rate, reducing falling damage.[/center] Triggered when target falls.[/center] Duration: Rounds spell remains in effect.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
-1576,"Free Action[/center] Target is immune to paralyzation.[/center] Duration: Rounds immunity lasts.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
-1577,"Jumping[/center] Target can jump twice as well.[/center] Duration: Rounds spell remains active.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
-1578,"Climbing[/center] Target can climb twice as well.[/center] Duration: Rounds spell remains active.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
+1513,"피해 -- 지구력[/center]대상의 지구력을 줄입니다.[/center]시간: 즉시[/center]확률: 해당없음.[/center]세기: 대상이 입는 지구력 피해량[/center][/end]"
+1514,"피해 -- 주문점수[/center]대상의 주문점수를 줄입니다.[/center]시간: 즉시[/center]확률: 해당없음.[/center]세기: 대상이 입는 주문점수 피해량[/center][/end]"
+1515,"분해[/center]대상을 분해합니다.[/center]시간: 즉시.[/center]확률: 대상이 분해될 확률.[/center]세기: 해당없음.[/center][/end]"
+1516,"디스펠 -- 마법[/center]마법 효과를 해제합니다.[/center]시간: 즉시.[/center]확률: 마법을 디스펠할 확률.[/center]세기: 해당없음.[/center][/end]"
+1517,"디스펠 -- 언데드[/center]언데드를 디스펠합니다.[/center]시간: 즉시.[/center]확률: 언데드를 디스펠할 확률.[/center]세기: 해당없음.[/center][/end]"
+1518,"디스펠 -- 데이드라[/center]데이드라를 디스펠합니다[/center]시간: 즉시.[/center]확률: 데이드라를 디스펠할 확률.[/center]세기: 해당없음.[/center][/end]"
+1519,"감쇄 -- 근력[/center]대상의 근력을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 감쇄 되는 근력 점수량.[/center][/end]"
+1520,"감쇄 -- 지능[/center]대상의 지능을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 감쇄 되는 지능 점수량.[/center][/end]"
+1521,"감쇄 -- 의지[/center]대상의 의지를 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 감쇄 되는 의지 점수량.[/center][/end]"
+1522,"감쇄 -- 민첩[/center]대상의 민첩을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 감쇄 되는 민첩 점수량.[/center][/end]"
+1523,"감쇄 -- 체력[/center]대상의 체력을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 감쇄 되는 체력 점수량.[/center][/end]"
+1524,"감쇄 -- 매력[/center]대상의 매력을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 감쇄 되는 매력 점수량.[/center][/end]"
+1525,"감쇄 -- 속도[/center]대상의 속도를 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 감쇄 되는 속도 점수량.[/center][/end]"
+1526,"감쇄 -- 행운[/center]대상의 행운을 줄입니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 감쇄 되는 행운 점수량.[/center][/end]"
+1527,"원소 저항 - 화염[/center]대상이 화염 피해에 면역됩니다.[/center]시간: 저항이 유지되는 라운드.[/center]확률: 주문 영창이 성공할 확률.[/center]세기: 해당없음.[/center]주문의 저항이 실패할경우 절반의 화염 피해를 입습니다.[/center][/end]"
+1528,"원소 저항 - 냉기[/center]대상이 냉기 피해에 면역됩니다.[/center]시간: 저항이 유지되는 라운드.[/center]확률: 주문 영창이 성공할 확률.[/center]세기: 해당없음.[/center]주문의 저항이 실패할경우 절반의 냉기 피해를 입습니다.[/center][/end]"
+1529,"원소 저항 - 독기[/center]대상이 독기 피해에 면역됩니다.[/center]시간: 저항이 유지되는 라운드.[/center]확률: 주문 영창이 성공할 확률.[/center]세기: 해당없음.[/center]주문의 저항이 실패할경우 절반의 독기 피해를 입습니다.[/center][/end]"
+1530,"원소 저항 - 전기[/center]대상이 전기 피해에 면역됩니다.[/center]시간: 저항이 유지되는 라운드.[/center]확률: 주문 영창이 성공할 확률.[/center]세기: 해당없음.[/center]주문의 저항이 실패할경우 절반의 전기 피해를 입습니다.[/center][/end]"
+1531,"원소 저항 - 마법[/center]대상이 마법 피해에 면역됩니다.[/center]시간: 저항이 유지되는 라운드.[/center]확률: 주문 영창이 성공할 확률.[/center]세기: 해당없음.[/center]주문의 저항이 실패할경우 절반의 마법 피해를 입습니다.[/center][/end]"
+1532,"근력 강화[/center]대상의 근력을 늘립니다.[/center]시간: 능력치 증가가 유지되는 시간.[/center]확률: 해당없음.[/center]세기: 증가하는 능력치 수치.[/center][/end]"
+1533,"지능 강화[/center]대상의 지능을 늘립니다.[/center]시간: 능력치 증가가 유지되는 시간.[/center]확률: 해당없음.[/center]세기: 증가하는 능력치 수치.[/center][/end]"
+1534,"의지 강화[/center]대상의 의지력을 늘립니다.[/center]시간: 능력치 증가가 유지되는 시간.[/center]확률: 해당없음.[/center]세기: 증가하는 능력치 수치.[/center][/end]"
+1535,"민첩 강화[/center]대상의 민첩을 늘립니다.[/center]시간: 능력치 증가가 유지되는 시간.[/center]확률: 해당없음.[/center]세기: 증가하는 능력치 수치.[/center][/end]"
+1536,"체력 강화[/center]대상의 체력을 늘립니다.[/center]시간: 능력치 증가가 유지되는 시간.[/center]확률: 해당없음.[/center]세기: 증가하는 능력치 수치.[/center][/end]"
+1537,"매력 강화[/center]대상의 매력을 늘립니다.[/center]시간: 능력치 증가가 유지되는 시간.[/center]확률: 해당없음.[/center]세기: 증가하는 능력치 수치.[/center][/end]"
+1538,"속도 강화[/center]대상의 속도를 늘립니다.[/center]시간: 능력치 증가가 유지되는 시간.[/center]확률: 해당없음.[/center]세기: 증가하는 능력치 수치.[/center][/end]"
+1539,"행운 강화[/center]대상의 행운을 늘립니다.[/center]시간: 능력치 증가가 유지되는 시간.[/center]확률: 해당없음.[/center]세기: 증가하는 능력치 수치.[/center][/end]"
+1540,"근력 회복[/center]대상의 근력을 보통 수준으로 회복합니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 회복되는 능력치 수치.[/center][/end]"
+1541,"지능 회복[/center]대상의 지능을 보통 수준으로 회복합니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 회복되는 능력치 수치.[/center][/end]"
+1542,"의지 회복[/center]대상의 의지력을 보통 수준으로 회복합니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 회복되는 능력치 수치.[/center][/end]"
+1543,"민첩 회복[/center]대상의 민첩성을 보통 수준으로 회복합니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 회복되는 능력치 수치.[/center][/end]"
+1544,"체력 회복[/center]대상의 체력을 보통 수준으로 회복합니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 회복되는 능력치 수치.[/center][/end]"
+1545,"매력 회복[/center]대상의 매력을 보통 수준으로 회복합니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 회복되는 능력치 수치.[/center][/end]"
+1546,"속도 회복[/center]대상의 속도를 보통 수준으로 회복합니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 회복되는 능력치 수치.[/center][/end]"
+1547,"행운 회복[/center]대상의 행운을 보통 수준으로 회복합니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 회복되는 능력치 수치.[/center][/end]"
+1548,"생명력 회복[/center]대상의 생명력을 보통 수준으로 회복합니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 회복되는 생명력 수치.[/center][/end]"
+1549,"지구력 회복[/center]대상의 지구력을 보통 수준으로 회복합니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 회복되는 생명력 수치.[/center][/end]"
+1550,"근력 흡수[/center]대상의 근력을 시전자로 옮깁니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 흡수되는 능력치 수치.[/center][/end]"
+1551,"지능 흡수[/center]대상의 지능을 시전자로 옮깁니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 흡수되는 능력치 수치.[/center][/end]"
+1552,"의지 흡수[/center]대상의 의지력을 시전자로 옮깁니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 흡수되는 능력치 수치.[/center][/end]"
+1553,"민첩 흡수[/center]대상의 민첩성을 시전자로 옮깁니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 흡수되는 능력치 수치.[/center][/end]"
+1554,"체력 흡수[/center]대상의 체력을 시전자로 옮깁니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 흡수되는 능력치 수치.[/center][/end]"
+1555,"매력 흡수[/center]대상의 매력을 시전자로 옮깁니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 흡수되는 능력치 수치.[/center][/end]"
+1556,"속도 흡수[/center]대상의 속도를 시전자로 옮깁니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 흡수되는 능력치 수치.[/center][/end]"
+1557,"행운 흡수[/center]대상의 행운을 시전자로 옮깁니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 흡수되는 능력치 수치.[/center][/end]"
+1558,"생명력 흡수[/center]대상의 생명력을 시전자로 옮깁니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 흡수되는 생명력 수치.[/center][/end]"
+1559,"지구력 흡수[/center]대상의 지구력을 시전자로 옮깁니다.[/center]시간: 즉시.[/center]확률: 해당없음.[/center]세기: 흡수되는 지구력 수치.[/center][/end]"
+1560,"투명화 (보통)[/center]대상을 투명하게 만듭니다. 공격 행동시 해제됩니다.[/center]시간: 투명화가 유지되는 라운드.[/center]확률: 해당없음.[/center]세기: 해당없음.[/center][/end]"
+1561,"투명화 (유지)[/center]대상을 투명하게 만듭니다.[/center]시간: 투명화가 유지되는 라운드.[/center]확률: 해당없음.[/center]세기: 해당없음.[/center][/end]"
+1562,"공중부양[/center]대상을 공중에 뜨게 합니다.[/center]시간: 공중 부양이 유지되는 라운드.[/center]확률: 해당없음.[/center]세기: 해당없음.[/center][/end]"
+1563,"조명[/center]대상 중심에 광원을 만들어냅니다.[/center]시간: 조명이 유지되는 라운드.[/center]확률: 해당없음.[/center]세기: 해당없음.[/center][/end]"
+1564,"잠금[/center]상자 혹은 문을 시전자 레벨 수준으로 잠급니다.[/center]시간: 주문이 효과를 유지하는 시간.[/center]확률: 주문 성공 확률.[/center]세기: 해당없음.[/center][/end]"
+1565,"잠금해제[/center]상자 혹은 문을 시전자 레벨 수준으로 해제합니다.[/center]시간: 즉시.[/center]확률: 주문 성공 확률.[/center]세기: 해당없음.[/center][/end]"
+1566,"재생[/center]대상의 생명력이 매 라운드마다 회복됩니다.[/center] Duration: Rounds target regenerates.[/center] Chance: N/A[/center] Magnitude: Number of points regenerated each round.[/center] [/end]"
+1567,"침묵[/center]대상의 주문 시전을 막습니다.[/center]시간: 침묵이 유지되는 라운드.[/center]주문 성공 확률.[/center]세기: 해당없음.[/center][/end]"
+1568,"주문 흡수[/center]대상을 공격하는 주문을 흡수해 대상의 주문 점수로 바꿉니다.[/center]시간: 주문 흡수가 유지되는 라운드.[/center]확률: 주문 성공 확률.[/center]세기: 해당없음.[/center][/end]"
+1569,"주문 반사[/center]대상을 공격하는 주문을 반사해 시전자에게 되돌립니다.[/center]시간: 주문 반사가 유지되는 라운드.[/center]확률: 주문 성공 확률.[/center]세기: 해당없음.[/center][/end]"
+1570,"주문 저항[/center]대상을 공격하는 주문을 저항할 수 있게 됩니다..[/center]시간: 주문 저항이 유지되는 라운드.[/center]확률: 주문 성공 확률.[/center]세기: 해당없음.[/center][/end]"
+1571,"카멜레온 (보통)[/center]대상을 눈으로 보기 매우 힘들게 합니다. 공격 행동시 해제됩니다.[/center]시간: 주문 효과가 유지되는 라운드.[/center]확률: 해당없음.[/center]세기: 해당없음.[/center][/end]"
+1572,"카멜레온 (유지)[/center]대상을 눈으로 보기 매우 힘들게 합니다.[/center]시간: 주문 효과가 유지되는 라운드.[/center]확률: 해당없음.[/center]세기: 해당없음.[/center][/end]"
+1573,"쉐도우 (보통)[/center]대상을 그림자에 섞여들게 해줍니다. 공격 행동시 주문이 해제됩니다.[/center]시간: 주문 효과가 유지되는 라운드.[/center]확률: 해당없음.[/center]세기: 해당없음.[/center][/end]"
+1574,"쉐도우 유지)[/center]대상을 그림자에 섞여들게 해줍니다.[/center]시간: 주문 효과가 유지되는 라운드.[/center]확률: 해당없음.[/center]세기: 해당없음.[/center][/end]"
+1575,"낙하 감속 (일반, 발동형)[/center]대상의 낙하속도가 일반 낙하속도의 절반이 되어 낙하 피해를 줄여줍니다. 대상이 추락하기 시작하면 발동합니다.[/center]시간: 주문 효과가 유지되는 라운드.[/center]확률: 해당없음.[/center]세기: 해당없음.[/center][/end]"
+1576,"프리 액션[/center]대상이 마비효과에 면역이 됩니다.[/center]시간: 마비 면역이 유지되는 라운드.[/center]확률: 해당없음.[/center]세기: 해당없음.[/center][/end]"
+1577,"도약[/center]대상의 점프력이 두배가 됩니다.[/center]시간: 주문 효과가 유지되는 라운드.[/center]확률: 해당없음.[/center]세기: 해당없음.[/center][/end]"
+1578,"등반[/center]대상의 등반력이 두배가 됩니다.[/center]시간: 주문 효과가 유지되는 라운드.[/center]확률: 해당없음.[/center]세기: 해당없음.[/center][/end]"
 1579,"Morph Self[/center] Caster transforms into a creature or object[/center] selected by the caster.[/center] Duration: Rounds transformation lasts.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
 1580,"Morph Other[/center] Target transforms into a creature or object[/center] selected by the caster.[/center] Duration: Rounds transformation lasts.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
 1581,"Morph Item[/center] Item transforms into a creature or object[/center] selected by the caster.[/center] Duration: Rounds transformation lasts.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
-1582,"Water Breathing[/center] Target is able to breathe normally under water.[/center] Duration: Rounds target can breathe under water.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
-1583,"Water Walking[/center] Target is able to walk on top of water.[/center] Duration: Rounds target can walk on water.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
+1582,"수중 호흡[/center]대상이 물속에서 호흡할 수 있게 됩니다.[/center]시간: 수중 호흡이 유지되는 라운드.[/center]확률: 주문 성공 확률.[/center]세기: 해당없음.[/center][/end]"
+1583,"수면 보행[/center]대상이 물 위를 걸을 수 있게 됩니다.[/center]시간: 수면 보행이 유지되는 라운드.[/center]확률: 주문 성공 확률.[/center]세기: 해당없음.[/center][/end]"
 1584,"Diminution[/center] Target shrinks to half normal size.[/center] Duration: Rounds target is shrunk.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
-1585,"Pacify Animal[/center] Pacifies any beast of subhuman intelligence.[/center] Duration: Rounds animal remains docile.[/center] Chance: Chance of pacification.[/center] Magnitude: N/A[/center] [/end]"
-1586,"Pacify Undead[/center] Pacifies undead creatures.[/center] Duration: Rounds creature remains docile.[/center] Chance: Chance of pacification.[/center] Magnitude: N/A[/center] [/end]"
-1587,"Pacify Humanoid[/center] Pacifies humanoid creatures.[/center] Duration: Rounds humanoid remains docile.[/center] Chance: Chance of pacification.[/center] Magnitude: N/A[/center] [/end]"
-1588,"Pacify Daedra[/center] Pacifies Daedra.[/center] Duration: Rounds Daedra remains docile.[/center] Chance: Chance of pacification.[/center] Magnitude: N/A[/center] [/end]"
-1589,"Charm[/center] Raises caster's charm with target, improving[/center] caster's reputation.[/center] Duration: Rounds caster is charming.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
-1590,"Shield[/center] Target is surrounded by a magical shield.[/center] Shield absorbs Health Point damage. Shield lasts[/center] until its damage is overcome, or spell wears off.[/center] Duration: Rounds shield can last.[/center] Chance: N/A[/center] Magnitude: Health Point damage Shield can absorb.[/center] [/end]"
-1591,"Shield[/center] Target is surrounded by a magical shield.[/center] Shield absorbs Health Point damage. Shield lasts[/center] until its damage is overcome, or spell wears off.[/center] Duration: Rounds shield can last.[/center] Chance: N/A[/center] Magnitude: Health Point damage Shield can absorb.[/center] [/end]"
-1592,"Shield[/center] Target is surrounded by a magical shield.[/center] Shield absorbs Health Point damage. Shield lasts[/center] until its damage is overcome, or spell wears off.[/center] Duration: Rounds shield can last.[/center] Chance: N/A[/center] Magnitude: Health Point damage Shield can absorb.[/center] [/end]"
-1593,"Shield[/center] Target is surrounded by a magical shield.[/center] Shield absorbs Health Point damage. Shield lasts[/center] until its damage is overcome, or spell wears off.[/center] Duration: Rounds shield can last.[/center] Chance: N/A[/center] Magnitude: Health Point damage Shield can absorb.[/center] [/end]"
+1585,"동물 진정화[/center]인간류 미만의 지능을 가진 동물의 공격성을 막습니다.[/center]시간: 진정화가 유지되는 라운드.[/center]확률: 진정화 확률.[/center]세기: 해당없음.[/center][/end]"
+1586,"언데드 진정화[/center]언데드의 공격성을 막습니다.[/center]시간: 진정화가 유지되는 라운드.[/center]확률: 진정화 확률.[/center]세기: 해당없음.[/center][/end]"
+1587,"인간류 진정화[/center]인간류 생물의 공격성을 막습니다.[/center]시간: 진정화가 유지되는 라운드.[/center]확률: 진정화 확률.[/center]세기: 해당없음.[/center][/end]"
+1588,"데이드라 진정화[/center]데이드라의 공격성을 막습니다.[/center]시간: 진정화가 유지되는 라운드.[/center]확률: 진정화 확률.[/center]세기: 해당없음.[/center][/end]"
+1589,"매료[/center]대상의 호감도를 올려 평판을 개선합니다.[/center]시간: 매료가 유지되는 라운드.[/center]확률: 주문 성공 확률.[/center]세기: 해당없음.[/center][/end]"
+1590,"쉴드[/center]대상의 주위를 마법 방패로 둘러싸 최대 흡수량을 넘기거나 주문 지속 시간이 지날때 까지 생명력 피해를 흡수합니다.[/center]시간: 주문이 유지되는 라운드.[/center]확률: 해당없음.[/center]세기: 주문이 흡수할 수 있는 피해 수치.[/center][/end]"
+1591,"쉴드[/center]대상의 주위를 마법 방패로 둘러싸 최대 흡수량을 넘기거나 주문 지속 시간이 지날때 까지 생명력 피해를 흡수합니다.[/center]시간: 주문이 유지되는 라운드.[/center]확률: 해당없음.[/center]세기: 주문이 흡수할 수 있는 피해 수치.[/center][/end]"
+1592,"쉴드[/center]대상의 주위를 마법 방패로 둘러싸 최대 흡수량을 넘기거나 주문 지속 시간이 지날때 까지 생명력 피해를 흡수합니다.[/center]시간: 주문이 유지되는 라운드.[/center]확률: 해당없음.[/center]세기: 주문이 흡수할 수 있는 피해 수치.[/center][/end]"
+1593,"쉴드[/center]대상의 주위를 마법 방패로 둘러싸 최대 흡수량을 넘기거나 주문 지속 시간이 지날때 까지 생명력 피해를 흡수합니다.[/center]시간: 주문이 유지되는 라운드.[/center]확률: 해당없음.[/center]세기: 주문이 흡수할 수 있는 피해 수치.[/center][/end]"
 1594,"Astral Travel[/center] Sends caster to Astral Plane.[/center] Duration: Rounds caster remains in Astral Plane.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
 1595,"Etherealness[/center] Turns caster ethereal, thus able to walk through walls.[/center] Duration: Rounds caster remains ethereal.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
-1596,"Detect Magic[/center] Caster can detect all magic in front of him or her.[/center] Duration: Rounds caster can detect magic.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
-1597,"Detect Enemy[/center] Caster can detect all enemies in front of him or her.[/center] Duration: Rounds caster can detect enemies.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
-1598,"Detect Treasure[/center] Caster can detect all treasure in front of him or her.[/center] Duration: Rounds caster can detect treasure.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
-1599,"Identify[/center] Caster can identify a target object.[/center] Duration: Instantaneous.[/center] Chance: Chance of correct identification.[/center] Magnitude: N/A[/center] [/end]"
+1596,"마법 탐지[/center]시전자가 전방에 있는 모든 마법을 탐지할 수 있게됩니다.[/center]시간: 마법 탐지가 유지되는 라운드.[/center]확률: 해당없음.[/center]세기: 해당없음.[/center][/end]"
+1597,"적 탐지[/center]시전자가 전방에 있는 모든 적을 탐지할 수 있게됩니다.[/center]시간: 적 탐지가 유지되는 라운드.[/center]확률: 해당없음.[/center]세기: 해당없음.[/center][/end]"
+1598,"보물 탐지[/center]시전자가 전방에 있는 모든 보물을 탐지할 수 있게됩니다.[/center]시간: 보물 탐지가 유지되는 라운드.[/center]확률: 해당없음.[/center]세기: 해당없음.[/center][/end]"
+1599,"식별[/center]시전자가 선택한 물품을 식별합니다.[/center]시간: 즉시.[/center]확률: 식별 성공 확률.[/center]세기: 해당없음.[/center][/end]"
 1600,"Wizard Sight[/center] Caster's vision is projected out from his or her body.[/center] Duration: Rounds caster can see through projected vision.[/center] Chance: N/A[/center] Magnitude: N/A[/center] [/end]"
 1601,"Darkness[/center] Target is surrounded with darkness.[/center] Duration: Rounds target darkened.[/center] Chance: Chance of success.[/center] Magnitude: N/A[/center] [/end]"
-1602,"Teleport[/center] Caster chooses a location, then is able to teleport[/center] to location instantly. Spell must be cast at least[/center] twice to use (once to choose location).[/center] Duration: Instantaneous.[/center] Chance: Chance to teleport to correct location.[/center] Magnitude: N/A[/center] [/end]"
-1603,"Soul Trap[/center] After death, target's soul will be deposited[/center] into any available receptacle.[/center] Duration: How long spell dooms living target[/center] Chance: Chance of Imprisoning target.[/center] Magnitude: N/A[/center] [/end]"
+1602,"텔레포트[/center]시전자가 장소를 지정한 후 해당 지역으로 즉시 순간이동 합니다. 텔레포트 하려면 적어도 두번의 시전이 필요합니다(목적지를 지정해야함)[/center]시간: 즉시.[/center]확률: 정확한 목적지로 텔레포트 할 확률.[/center]세기: 해당없음.[/center][/end]"
+1603,"소울 트랩[/center]목표가 죽으면 그 영혼을 소울젬에 담습니다.[/center]시간: 소울 트랩 효과가 유지되는 라운드.[/center]확률: 목표를 봉인할 확률.[/center]세기: 해당없음.[/center][/end]"
 1604,"Telekenesis[/center] Allows caster to move objects with mental powers.[/center] Duration: How long caster can use Telekenesis.[/center] Chance: N/A[/center] Magnitude: Weight of object caster can manipulate.[/center] [/end]"
-1605,"Comprehend Languages[/center] Caster can comprehend any written or spoken tongue[/center] Duration: How long the caster comprehends languages[/center] Chance: Chance of comprehending all of a language[/center] Magnitude: N/A[/center] [/end]"
+1605,"언어 이해[/center]시전자가 모든 글, 언어를 이해할 수 있게 됩니다.[/center]시간: 언어 이해가 유지되는 시간.[/center]확률: 주문 성공 확률.[/center] Magnitude: N/A[/center] [/end]"
 1606,"Intensify Fire[/center] Caster may intensify the light of a normal fire.[/center] Duration: How long intensified fire will last[/center] Chance: N/A[/center] Magnitude: Intensification possible in candlepower.[/center] [/end]"
 1607,"Diminish Fire[/center] Caster may dim the light of a normal fire.[/center] Duration: How long diminished fire will last[/center] Chance: N/A[/center] Magnitude: Diminishment possible in candlepower.[/center] [/end]"
 1608,"Wall of Stone[/center] Caster creates a wall of stone[/center] Duration: How long wall lasts[/center] Chance: N/A Magnitude: How large wall is in square meters[/center] [/end]"
@@ -1427,7 +1427,7 @@ to be reported to the watch.[/center]
 1702,"이 주문을 구입하기엔[/center]골드가 부족합니다.[/center][/end]"
 1703,"이 주문을 적기 위해 필요한[/center]주문책이 없습니다.[/center][/end]"
 1704,"주문서에 주문을 적으려면[/center]주문 이름을 반드시 적어야 합니다.[/center][/end]"
-1705,"주문서에[/center]주문을 적었습니다.[/center][/end]"
+1705,"주문서에 주문을 적었습니다.[/center][/end]"
 1706,"주문이 일반 목록에[/center]추가되었고 테드는 쿨합니다.[/center][/end]"
 1707,"주문에 세가지를[/center]초과하는 효과를 추가할 수 없습니다.[/center][/end]"
 1708,"주문을 어떻게 변경합니까?[/center][/end]"
@@ -1500,7 +1500,7 @@ to be reported to the watch.[/center]
 2114,"레인저는 자연의 야생을 집처럼 편히 여기는 자들로,[/center]뛰어난 사냥꾼입니다. 생존과 추적에 능숙합니다.[/center]레인저 주요 기술: 장검, 도끼, 등반, 수영, 궁술, 치명 공격.[/center]캐릭터를 레인저로 하시겠습니까?[/center][/end]"
 2115,"야만전사는 문명에서 떨어진 거친 땅에서 온 전사들입니다.[/center]뛰어난 싸움꾼들로, 최악의 상황에서도 생존할 수 있습니다.[/center]야만전사 주요 기술: 둔기, 장검, 도끼, 도약, 질주, 수영.[/center]캐릭터를 바바리안으로 하시겠습니까?[/center][/end]"
 2116,"워리어는 전투와 전쟁 기술을 가장 강도 높게 훈련 받는 자들입니다.[/center]여러 무기의 사용에 익숙하며 갑옷으로 중무장 합니다.[/center]워리어 주요기술:[/center]도끼, 장검, 둔기, 격투, 궁술, 소검[/center]캐릭터를 워리어로 하시겠습니까?[/center][/end]"
-2117,"기사는 귀족 혈통을 타고났으며, 전사로서 훈련받고, 기사도를 따르기로 한 자들입니다.[/center]기사 주요 기술: 장검, 예법, 둔기, 도끼, 궁술, 소검.[/center]캐릭터를 기사로 하시겠습니까?
+2117,"기사는 귀족 혈통을 타고났으며, 전사로서 훈련받고, 기사도를 따르기로 한 자들입니다.[/center]기사 주요 기술: 장검, 예법, 둔기, 도끼, 궁술, 소검.[/center]캐릭터를 기사로 하시겠습니까?"
 2200,"캐릭터의 성별을 선택하세요.[/center][/end]"
 2400,"도움말 - 일반[/center]
 [/record]
@@ -1576,99 +1576,22 @@ You can select a maximum of 7 Special Disadvantages.[/left]
 Complete descriptions of each Special Disadvantage are[/left]
 listed in the Daggerfall manual.[/left]
 [/end]"
-2406,"Help - Reputations[/center]
-Editing Reputations is a optional class creation[/left]
-feature which allows you to help determine how[/left]
-certain broad societal factions are inclined to[/left]
-react to someone of your custom class.[/left]
-These groups are by no means the only reputational[/left]
-groups in the game: they are merely the broadest[/left]
-and the most common.[/left]
-The base average of all the reputational groups[/left]
-together must always equal zero. Thus, if you add[/left]
-five points to your reputation with one group, you[/left]
-must subtract five from another.[/left]
-For more on the importance of reputation, see the[/left]
-Daggerfall manual.[/left]
-[/record]
-"
-2407,"Help - Skill Advancement for Class[/center]
-The position of the dagger in the Skill[/left]
-Advancement table shows the approximate difficulty[/left]
-of skill advancement for that particular class.[/left]
-The higher the dagger rises, the more difficult it[/left]
-is for a member of a class to rise in skill level.[/left]
-Adding Special Advantages and extra health points[/left]
-makes it more difficult for you to learn skills.[/left]
-Adding disadvantages or lowering the health point[/left]
-bonuses makes it easier or you to learn skills.[/left]
-For reference, a true warrior learns skills at[/left]
-the default, exact middle of the Skill Advancement[/left]
-chart. Thieves have an easier time learning skills[/left]
-and mages have a harder time.[/end]"
+2406,"Help - Reputations[/center] Editing Reputations is a optional class creation[/left] feature which allows you to help determine how[/left] certain broad societal factions are inclined to[/left] react to someone of your custom class.[/left] These groups are by no means the only reputational[/left] groups in the game: they are merely the broadest[/left] and the most common.[/left] The base average of all the reputational groups[/left] together must always equal zero. Thus, if you add[/left] five points to your reputation with one group, you[/left] must subtract five from another.[/left] For more on the importance of reputation, see the[/left] Daggerfall manual.[/left] [/record] "
+2407,"Help - Skill Advancement for Class[/center] The position of the dagger in the Skill[/left] Advancement table shows the approximate difficulty[/left] of skill advancement for that particular class.[/left] The higher the dagger rises, the more difficult it[/left] is for a member of a class to rise in skill level.[/left] Adding Special Advantages and extra health points[/left] makes it more difficult for you to learn skills.[/left] Adding disadvantages or lowering the health point[/left] bonuses makes it easier or you to learn skills.[/left] For reference, a true warrior learns skills at[/left] the default, exact middle of the Skill Advancement[/left] chart. Thieves have an easier time learning skills[/left] and mages have a harder time.[/end]"
 2500,"%qdt - %pnq in %plq told me ""%qot""[/end]"
-3100,"I'm afraid I can only help[/center]
-persons of a certain rank.[/record]
-You're not of sufficient rank[/center]
-to use my services.[/record]
-My services are only available[/center]
-for persons of rank.[/record]
-No offense, but I can only assist[/center]
-certain high-ranking members.[/record]
-Perhaps I can help you one day, but[/center]
-you are not yet of sufficient rank.[/record]
-Come back when you have risen in[/center]
-rank in the organization.[/record]
-I can't offer my assistance to just[/center]
-anyone. I'm sure you understand.[/record]
-My services are reserved for a special[/center]
-few. You are not yet among them.[/end]"
-3353,Oh Shit!!![/end]
-3503,"Greetings, %pcf. Tonight we summon[/center]
-%dts from the pit of Oblivion.[/center]
-It is no small expense, this undertaking.[/center]
-From you, I must ask %a gold. Agreed?[/center]
-[/record]
-Tonight we reach to the chasm of Oblivion[/center]
-to bring that foul spirit, the Daedra regent[/center]
-%dts into the Mundus. From you, %a gold[/center]
-is required for this service.[/center]
-[/end]"
-3504,"Greetings, friend %pcf. Tonight we summon[/center]
-%dts from the pit of Oblivion.[/center]
-We usually ask for gold, but for allies like[/center]
-you, the service is without charge.[/center]
-Shall I proceed?[/center]
-[/record]
-Ah, my friend %pcf. Tonight we reach to[/center]
-the chasm of Oblivion to bring that foul spirit,[/center]
-the Daedra regent %dts into the Mundus.[/center]
-A favor to you. Shall I continue?[/center]
-[/end]"
-3506,"Very well, %pcn. If you[/center]
-change your mind, return. We can[/center]
-perform this ritual anytime.[/center]
-[/record]
-No? Well, return if you desire. I can[/center]
-bring forth %dts whenever[/center]
-you are better prepared.[/center]
-[/end]"
-3507,"No? If you change your mind, return to[/center]
-me tonight. Tomorrow portents will not[/center]
-allow me to complete this summoning.[/center]
-[/record]
-It is a fearful enterprise indeed. If[/center]
-you wish, you can return later tonight,[/center]
-but tomorrow will be a day too late to[/center]
-summon the Daedra %dts.[/center]
-[/end]"
+3100,"미안하지만 일정 등급 이상만 도와줄 수 있습니다.[/record]제 서비스를 이용하기엔 등급이 부족합니다.[/record]일정 등급 이상이 되어야 제 서비스를 사용할 수 있습니다.[/record]죄송하지만, 고위 등급 회원이 아니면 도와드릴 수 없습니다.[/record]언젠가 도와드릴 수 있겠지만, 지금은 아직 등급이 부족합니다.[/record]조직의 고위 등급이 되면 다시 오십시오.[/record]아무나 도와드릴 순 없습니다. 이해 부탁드립니다.[/record]제 업무는 특별한 소수에만 제공되고 있습니다. 아직은 도와드릴 수 없습니다.[/end]"
+3353,이런 젠장!!![/end]
+3503,"반갑소, %pcf. 오늘 우리는 오블리비언에서 %dts 소환을 행할 것이오.[/center]이는 많은 비용이 드는 일이기에, 금화 %a 닢을 청구해야만 합니다. 동의하겠습니까?[/center][/record]오늘 우리는 오블리비언의 틈새로 뻗어 사악한 영혼들인 데이드라 군주 %dts 의 문두스 소환을 할 것입니다. 이 소환은 금화 %a 닢이 필요합니다.[/center][/end]"
+3504,"안녕하십니까, %pcf 분. 오늘 밤 오블리비언의 깊은 곳에서 %dts 의 소환 의식을 거행할 것입니다.[/center]보통 금화를 받아야 하지만 당신 같은 충직한 자에게는 내야할 요금 같은 것은 없습니다.[/center]시작하시겠습니까?[/center][/record]아, %pcf 친구. 오늘 밤에는 오블리비언의 틈새에서 사악한 데이드라 군주 %dts 의 문두스 소환을 진행할 것입니다.[/center]무상으로 진행하겠습니다. 시작합니까?[/center][/end]"
+3506,"잘 알겠습니다, %pcn. 마음이 바뀌었다면, 다시 오십시오. 의식은 언제든 할 수 있습니다.[/center][/record]거부하겠습니까? 음, 원한다면 다시 오도록 하십시오. 준비가 되었다면 %dts 의 소환은 언제든 가능합니다.[/center][/end]"
+3507,"No? If you change your mind, return to[/center] me tonight. Tomorrow portents will not[/center] allow me to complete this summoning.[/center] [/record] It is a fearful enterprise indeed. If[/center] you wish, you can return later tonight,[/center] but tomorrow will be a day too late to[/center] summon the Daedra %dts.[/center] [/end]"
 3508,"소환은 실패 했소.[/center][/record]오늘밤은 %dts 의 응답이 없었소[/center]내 사과를 받아주시오.[/center][/end]"
 3509,"Tonight the portents are not kind for[/center]a safe summoning, %pcf. If[/center]you would like to be present for the[/center]summoning of %dts, return[/center]on %dfs.[/center][/record]We are not summoning %dts[/center]this evening. Return on %dfs[/center]if you want to be present for the[/center]summoning.[/center][/end]"
 4000,"텔레포트 와 위치지정 중 어느 것을 합니까?[/center][/end]"
 4001,"텔레포트를 하기전에 위치지정을 해야합니다.[/center][/end]"
-4020,"Congratulations, %pcn,[/center] You are now a Master of %ski[/center] One of the Finest Practitioners[/center] Of %ski in Tamriel.[/center] [/end]"
-4021,Master of %ski[/end]
-4022,"가르쳐 달란 말입니까? 오히려 그쪽에서 그걸[/center]몇가지 가르쳐 줄 수 있을것 같습니다,[/center]%pct.[/center][/record]미안합니다만, %pct.[/center]가르쳐 줄 수 있는 게 더 이상[/center]없는것 같습니다.[/center][/record]그 기술에 관해서는 %pct 의 실력이[/center]이쪽보다 크게 웃도는 것 같습니다.[/center][/record]%pct, 제가 가르칠 수 있는 실력을 넘어섰습니다.[/center][/end]"
+4020,"축하합니다, %pcn,[/center] %ski 기술의 마스터가 되었습니다.[/center]탐리엘에서 %ski 에 대한 최고의 지식을 가진 자들중 하나가 되었습니다.[/center][/end]"
+4021,%ski 마스터[/end]
+4022,"가르쳐 달란 말입니까? 오히려 그쪽에서 그걸[/center]몇가지 가르쳐 줄 수 있을것 같습니다,[/center]%pct.[/center][/record]미안합니다만, %pct.[/center]가르쳐 줄 수 있는 게 더 이상[/center]없는 것 같습니다.[/center][/record]그 기술에 관해서는 %pct 의 실력이[/center]이쪽보다 크게 웃도는 것 같습니다.[/center][/record]%pct, 제가 가르칠 수 있는 실력을 넘어섰습니다.[/center][/end]"
 4023,"오늘 훈련한 것을 되돌아볼 시간이 필요합니다.[/center][/record]하루에 훈련은 기술 하나만 가능합니다.[/center][/end]"
 4050,"Reliquary of Raen[/record]
 Shrine of Bandi[/record]
@@ -4230,16 +4153,10 @@ surprises. I know you'll love it. Here,[/center]
 I'll mark it on your map, %pcf.[/center]
 Or I should say, %lev %pcf.[/center]
 [/end]"
-7200,"Looking for a good time?[/record]
-You want some company, honey?[/record]
-Interested in some good, filthy fun?[/end]"
-7201,"For you, how about a freebie?[/record]
-For old times sake, how about a freebie?[/end]"
-7202,"Time of your life, %a gold.[/record]
-Special price, %a gold.[/record]
-What'd you say to %a gold?[/end]"
-7203,"I ain't no charity, honey.[/record]
-No money, no fun, sweetie.[/end]"
+7200,"Looking for a good time?[/record] You want some company, honey?[/record] Interested in some good, filthy fun?[/end]"
+7201,"For you, how about a freebie?[/record] For old times sake, how about a freebie?[/end]"
+7202,"Time of your life, %a gold.[/record] Special price, %a gold.[/record] What'd you say to %a gold?[/end]"
+7203,"I ain't no charity, honey.[/record] No money, no fun, sweetie.[/end]"
 7204,이것과 대화를 할수는 없습니다.[/end]
 7205,"대답이 없습니다.[/end]"
 7206,"What do you want now, %pcf?[/record]
@@ -4256,13 +4173,7 @@ Hello.[/record]
 Good day.[/record]
 What is it?[/record]
 What do you want?[/end]"
-7208,"Good day to you, %pcf.[/record]
-How can I help you, %pcf?[/record]
-Ah, my friend. How are you this day?[/record]
-Good to see you, %pcf. How can I help you?[/record]
-Oh, hello, %pcf.[/record]
-Good day, %pcf.[/record]
-Hello, my friend.[/end]"
+7208,"안녕하십니까, %pcf.[/record]뭘 도와드릴까요, %pcf?[/record]아, 오늘 괜찮게 보내고 계십니까?[/record] 만나서 반갑습니다, %pcf. 뭘 도와드릴까요?[/record]아, 안녕하십니까, %pcf.[/record]날이 좋습니다, %pcf.[/record]안녕하십니까.[/end]"
 7209,"A warm hello to you, good %pcf.[/record]
 It warms my heart to see you, %pcf.[/record]
 Ah, excellent company. Good day, dear friend.[/record]
@@ -4279,71 +4190,18 @@ lucrative business opportunities[/record]
 gainful employment[/record]
 employment[/record]
 a bit of toil and grind[/end]"
-7212,"%1com. If possible, I would hear about %key.[/record]
-%1com. I would be grateful for information about %key.[/record]
-%1com. I would appreciate any information about %key.[/record]
-%1com. I was hoping you might know about %key.[/record]
-%1com. Enlighten me on the subject of %key.[/record]
-%1com. Apprize me of the situation with %key.[/record]
-%1com. I gather you know something about %key .[/end]"
-7213,"%1com. What can you tell me about %key?[/record]
-%1com. I am seeking information on %key.[/record]
-%1com. What do you know about %key?[/record]
-%1com. I need to know about %key.[/record]
-%1com. Do you know anything about %key?[/record]
-%1com. What does %key mean to you?[/record]
-%1com. Talk to me about %key.[/record]
-%1com. You must know something about %key.[/end]"
-7214,"%1com. What's the newest word on %key?[/record]
-%1com. Any news about %key?[/record]
-%1com. What's the story on %key ?[/record]
-%1com. I'm looking for a tip on %key.[/record]
-%1com. Know anything about %key?[/record]
-%1com. Any hot tips on %key ?[/record]
-%1com. %key. That's what I really want to know.[/record]
-%1com. Fill me in on %key.[/record]
-%1com. Put me wise on %key.[/record]
-%1com. Ever hear of %key?[/record]
-%1com. %key from around here?[/end]"
-7215,"Hail to thee[/record]
-Fair day to thee[/record]
-Hail %n[/record]
-Hail good %n[/record]
-Salutations, %n[/end]"
-7216,"Good day, %n[/record]
-Greetings, good %n[/record]
-Greetings to you[/record]
-How do you do, %n[/record]
-How are you, %n[/record]
-Hello[/end]"
-7217,"Hi[/record]
-Hi there[/record]
-Ahoy, %n[/record]
-Listen up[/end]"
-7218,"Quite[/record]
-Indeed[/record]
-Ah, I see[/record]
-Fine[/record]
-Fascinating[/record]
-Well put[/record]
-Eloquently said[/end]"
-7219,"Hmm[/record]
-I see[/record]
-Really[/record]
-Ah[/record]
-Mmm[/end]"
-7220,"Yeah, whatever[/record]
-All right[/record]
-Listen[/record]
-Okay[/record]
-So ...[/end]"
-7221,"friend[/record]
-stranger[/end]"
-7222,"stranger[/record]
-mate[/end]"
-7223,"buddy[/record]
-bud[/record]
-mate[/end]"
+7212,"%1com. %key 에 대한 이야기를 듣고 싶습니다.[/record] %1com. %key 에 대한 정보를 알려준다면 고맙겠습니다.[/record] %1com. %key 에 대한 아무 정보라도 알려주면 감사하겠습니다.[/record] %1com. %key 에 대해 아는게 없는지 물어보고 싶습니다.[/record] %1com. %key 에 대해 알려주면 좋겠습니다.[/record] %1com. %key 의 현재 상태를 알려주면 좋겠습니다.[/record] %1com. %key 에 대한 정보를 알고 있는걸로 아는데 알려주십시오.[/end]"
+7213,"%1com. What can you tell me about %key?[/record] %1com. I am seeking information on %key.[/record] %1com. What do you know about %key?[/record] %1com. I need to know about %key.[/record] %1com. Do you know anything about %key?[/record] %1com. What does %key mean to you?[/record] %1com. Talk to me about %key.[/record] %1com. You must know something about %key.[/end]"
+7214,"%1com. What's the newest word on %key?[/record] %1com. Any news about %key?[/record] %1com. What's the story on %key ?[/record] %1com. I'm looking for a tip on %key.[/record] %1com. Know anything about %key?[/record] %1com. Any hot tips on %key ?[/record] %1com. %key. That's what I really want to know.[/record] %1com. Fill me in on %key.[/record] %1com. Put me wise on %key.[/record] %1com. Ever hear of %key?[/record] %1com. %key from around here?[/end]"
+7215,"안녕하십니까[/record]좋은 날입니다[/record]반갑습니다 %n[/record]안녕합니까 %n[/record]인사드립니다, %n[/end]"
+7216,"날이 좋습니다, %n[/record] Greetings, good %n[/record] Greetings to you[/record] How do you do, %n[/record] How are you, %n[/record] Hello[/end]"
+7217,"Hi[/record] Hi there[/record] Ahoy, %n[/record] Listen up[/end]"
+7218,"Quite[/record] Indeed[/record] Ah, I see[/record] Fine[/record] Fascinating[/record] Well put[/record] Eloquently said[/end]"
+7219,"Hmm[/record] I see[/record] Really[/record] Ah[/record] Mmm[/end]"
+7220,"Yeah, whatever[/record] All right[/record] Listen[/record] Okay[/record] So ...[/end]"
+7221,"friend[/record] stranger[/end]"
+7222,"stranger[/record] mate[/end]"
+7223,"buddy[/record] bud[/record] mate[/end]"
 7224,and %key2[/end]
 7225,"%1com. Can you tell me where I might find %key?[/record]
 %1com. I hoped you might direct me to %key.[/record]
@@ -4473,13 +4331,7 @@ Listen, I ain't got time for this. Why don't you just kiss off, %pcf.[/record]
 Don't know, don't care, and don't wanna to talk to ya anymore. Goodbye.[/record]
 Why don't you try asking me like a normal human being would?[/record]
 Listen, I don't give directions to people who talk to me like that.[/end]"
-7257,"You %ra have no respect for intellect. I choose not to reveal the location of %key.[/record]
-Are you not %pcn? I have better things to do than give you directions to %key.[/record]
-I have knowledge of %key. In the event you had been less rude, I might have told you.[/record]
-I am a scholar. I have no time for banal questions about %key.[/record]
-Scholars like myself have such knowledge. It is unfortunate your demeanor offends me.[/record]
-That's it. I've been as polite as I can be. Go away and leave me alone.[/record]
-I don't care where you go. Go to Oblivion, for all I care. Just go away.[/end]"
+7257,"댁 같은 %ra 들은 지식인에 대한 대한 존중이 없는것 같습니다. %key 에 대한 정보는 알려줄 생각이 없습니다.[/record]%pcn? 난 바뻐서 %key 가는 길 같은건 못알려 주겠습니다.[/record] I have knowledge of %key. In the event you had been less rude, I might have told you.[/record] I am a scholar. I have no time for banal questions about %key.[/record] Scholars like myself have such knowledge. It is unfortunate your demeanor offends me.[/record] That's it. I've been as polite as I can be. Go away and leave me alone.[/record] I don't care where you go. Go to Oblivion, for all I care. Just go away.[/end]"
 7258,"Ask a commoner. It is a waste of my valuable time to answer obvious questions.[/record]
 Who gave you permission to speak to me? I know where to find %key, but now I am disinclined to tell you.[/record]
 I have heard of you %pcn. You should know your place better. Nobles are not to be used as sign posts.[/record]
