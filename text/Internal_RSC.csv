@@ -260,7 +260,7 @@ are none available at this time.[/center]
 304,"더이상 장점을 선택할 수 없습니다.[/center][/end]"
 305,"더이상 단점을 선택할 수 없습니다.[/center][/end]"
 306,"레벨업 난이도 단검이 붉은 부분에 들어가면[/center]안됩니다. 장점을 더 선택해서 위로 올리거나[/center]단점을 선택해서 아래로 내리십시오.[/center][/end]"
-307,"플레이어 반응속도는 게임의 전체적인 속도를 결정하게 됩니다.[/center]매우 빠른-VERY HIGH, 반응 속도를 선택하면 괴물이 더 빠르게,[/center]이동하고 공격하게 되며, 그에 맞춰 플레이어도 빨리 컨트롤해야 합니다.[/center]매우 느린-VERY LOW, 반응 속도를 선택하면 괴물도 더 느리게,[/center]이동하고 공격하게 되며, 더 조심스럽게 생각하는 플레이를 할 수 있게 됩니다.[/center]느린 반응속도를 선택하면 캐릭터 레벨업이 느려지며 빠른 반응속도에는 빨라집니다.[/center][/end]"
+307,"플레이어 반응속도는 게임의 전체적인 속도를 결정하게 됩니다.[/center] [/center]매우 빠른-VERY HIGH, 반응 속도를 선택하면[/center]괴물이 더 빠르게, 이동하고 공격하게 되며,[/center]그에 맞춰 플레이어도 빨리 컨트롤해야 합니다.[/center] [/center]매우 느린-VERY LOW, 반응 속도를 선택하면[/center]괴물도 더 느리게, 이동하고 공격하게 되며,[/center]더 조심스럽게 생각할 수 있게 됩니다.[/center] [/center]느린 반응속도를 선택하면 캐릭터 레벨업이 느려지며 빠른 반응속도에는 빨라집니다.[/center][/end]"
 349,"대기 시간이 다 끝났습니다.[/center][/end]"
 350,"회복 되었습니다.[/end]"
 351,"휴식을 취할 필요가 없습니다.[/end]"
@@ -579,18 +579,10 @@ Bearded [/end]"
 869,"The Order of Arkay is a religious order dedicated to the worship of Arkay, the God of the Cycle of Birth and Death.[/record]
 That's the temple devoted to Arkay, the God of Birth and Death.[/record]
 The Order of Arkay is a temple for worshippers of the God of the Cycle of Birth and Death.[/end]"
-870,"Any temple dedicated to Zenithar, the God of Work and Commerce, is called a Resolution of Zenithar or a Resolution of Zen.[/record]
-A Resolution is the fancy name the priests of Zenithar give to their temples.[/record]
-Zenithar is the God of Work and Commerce. A no-nonsense kind of deity, and His temples are so headstrong, they're called Resolutions.[/end]"
-871,"Temples devoted to the Mother-Goddess Mara are customarily called Benevolences because she is also the Goddess of Love.[/record]
-A Benevolence is any temple devoted to the Mother-Goddess, Mara.[/record]
-Mara's temples are called Benevolences, just like the God of Work and Commerce calls His temples Resolutions. She's the Mother-Goddess and the Goddess of Love, so it makes sense in a way.[/record]"
-872,"The Akatosh Chantry is one of the temples dedicated to the Dragon, the God of Time, Akatosh.[/record]
-The priests of Akatosh always call their temples chantries. I suppose it's because they do a lot of singing there.[/record]
-Akatosh is a Dragon God of Time, and the temples devoted to Him are always called Chantries.[/end]"
-873,"Julianos is the God of Wisdom and Logic, and His temples are called Schools.[/record]
-They don't really worship Julianos at His temples, but since He is the God of Wisdom, they run the temples more like academies. That's why they call them Schools, not temples.[/record]
-The School of Julianos is one of the top research institutions in Tamriel, probably second only to the Mages Guild. There's a lot of rivalry between the Mages and the scholars of Julianos, actually.[/end]"
+870,"Any temple dedicated to Zenithar, the God of Work and Commerce, is called a Resolution of Zenithar or a Resolution of Zen.[/record] A Resolution is the fancy name the priests of Zenithar give to their temples.[/record] Zenithar is the God of Work and Commerce. A no-nonsense kind of deity, and His temples are so headstrong, they're called Resolutions.[/end]"
+871,"Temples devoted to the Mother-Goddess Mara are customarily called Benevolences because she is also the Goddess of Love.[/record] A Benevolence is any temple devoted to the Mother-Goddess, Mara.[/record] Mara's temples are called Benevolences, just like the God of Work and Commerce calls His temples Resolutions. She's the Mother-Goddess and the Goddess of Love, so it makes sense in a way.[/record]"
+872,"The Akatosh Chantry is one of the temples dedicated to the Dragon, the God of Time, Akatosh.[/record] The priests of Akatosh always call their temples chantries. I suppose it's because they do a lot of singing there.[/record] Akatosh is a Dragon God of Time, and the temples devoted to Him are always called Chantries.[/end]"
+873,"Julianos is the God of Wisdom and Logic, and His temples are called Schools.[/record] They don't really worship Julianos at His temples, but since He is the God of Wisdom, they run the temples more like academies. That's why they call them Schools, not temples.[/record] The School of Julianos is one of the top research institutions in Tamriel, probably second only to the Mages Guild. There's a lot of rivalry between the Mages and the scholars of Julianos, actually.[/end]"
 874,"The Temple of Stendarr is dedicated to the God Stendarr, the Patron of Mercy. They are among the greatest charitable institutions in the land.[/record]
 Stendarr is the God of Mercy and His temples attempt to carry His message of peace to all Tamriel. You can judge their success for yourself.[/record]
 The cult devoted to the God of Mercy and Peace is called the Temple of Stendarr. Say what you want about them, they have an honest vision of a peaceful Tamriel.[/end]"
@@ -1448,7 +1440,7 @@ to be reported to the watch.[/center]
 1813,"현재 주문을 지우고, 새로 시작[/end]"
 1814,"주문 제작 나가기[/end]"
 1850,"매지카가 충분하지 않습니다[/end]"
-2000,"노드는 스카이림 지역의 원주민입니다.[/center]키가 크고 밝은색 피부를 가졌으며, 강하고,끈질기며, 강인합니다.[/center]스카이림의 기후 때문에 노드는 극한의 추위에도 견뎌내며,[/center]냉기 기반의 마법 공격에도 적은 피해를 받습니다.[/center]노드는 역사적으로 전사로서의 무예에 두각을 나타냈습니다.[/center]캐릭터를 노드로 하시겠습니까?[/center][/end]"
+2000,"노드는 스카이림 지역의 원주민입니다.[/center]키가 크고 밝은색 피부를 가졌으며, 강하고, 끈질기며, 강인합니다.[/center]스카이림의 기후 때문에 노드는 극한의 추위에도 견뎌내며,[/center]냉기 기반의 마법 공격에도 적은 피해를 받습니다.[/center]노드는 역사적으로 전사로서의 무예에 두각을 나타냈습니다.[/center]캐릭터를 노드로 하시겠습니까?[/center][/end]"
 2001,"카짓은 엘스웨어 지역의 원주민입니다.[/center]카짓은 황갈색의 털을 가졌고, 극히 강인하며, 지능이 높고, 민첩합니다.[/center]많은 카짓이 그들의 전설적인 고양이과 친척이며[/center]대사막에서 사냥을 한다는 사냥 고양이처럼 칠하고 다닙니다.[/center]카짓은 뛰어난 등반 능력을 가지고 있으며, 도둑으로서의 능력에 적합합니다.[/center]캐릭터를 카짓으로 하시겠습니까?[/center][/end]"
 2002,"레드가드는 해머펠 지역의 원주민입니다.[/center]레드가드는 어두운 피부를 가졌고, 극히 강인하며, 몸놀림이 빠릅니다.[/center]전설에 따르면 레드가드는 다른 어떤 종족들 보다 무기를 잘 다루는 능력이[/center]선천적으로 뛰어나다고 합니다.[/center]레드가드는 대게 매우 뛰어난 전사들 입니다.[/center]캐릭터를 레드가드로 하시겠습니까?[/center][/end]"
 2003,"브레튼은 하이락 지역의 원주민입니다.[/center]키가 크고, 밝은색 피부를 가졌으며, 매우 지능이 높고, 의지력이 강합니다.[/center]브레튼은 선천적인 마법적 연관성을 가졌습니다.[/center]브레튼은 다른 어떤 종족 보다 적대적인 효과의 마법에 대한 저항력이 높으며,[/center]마법을 다루는 기술 또한 매우 뛰어납니다.[/center]캐릭터를 브레튼으로 하시겠습니까?[/center][/end]"
@@ -1614,52 +1606,10 @@ Strenner Haven[/record]
 Kieran Theatre[/record]
 Djen Lodge[/record]
 Notorgo Altar[/end]"
-4051,"The %ln Cemetery[/record]
-The %ln Cemetery[/record]
-The %ln Cemetery[/record]
-The %ln Cemetery[/record]
-The %ln Graveyard[/record]
-The %ln Graveyard[/record]
-The %ln Graveyard[/record]
-The %ln Graveyard[/record]
-The Graves of %ln[/record]
-The %ln Tombs[/record]
-The Tombs of %ln[/record]
-The %ln Vaults[/record]
-The %ln Crypts[/record]
-The Crypts of %ln[/record]
-The %ln Burial Ground[/record]
-%ln Memorial Gardens[/end]"
-4052,"Old %fn's Farm[/record]
-The %ln Farmstead[/record]
-The %ln Farmstead[/record]
-The %ln Farmstead[/record]
-The %ln Farmstead[/record]
-The %ln Plantation[/record]
-%ln Grange[/record]
-%ln Orchard[/record]
-The %ln Homestead[/end]"
-4053,"The Stronghold of %ln[/record]
-Castle %ln[/record]
-Castle %ln[/record]
-The Fortress of %ln[/record]
-The Hold of %ln[/record]
-%ln's Hold[/record]
-The Citadel of %ln[/record]
-Tower %ln[/record]
-%ln Tower[/record]
-The Tower of %ln[/record]
-%ln's Guard[/record]
-%ln Hall[/end]"
-4054,"%ln Manor[/record]
-%ln Manor[/record]
-%ln Manor[/record]
-%ln Manor[/record]
-%ln Hall[/record]
-%ln Court[/record]
-%ln Palace[/record]
-%ln Hall[/record]
-%ln Manorhouse[/end]"
+4051,"%ln 묘지[/record] %ln 묘지[/record] %ln 묘지[/record] %ln 묘지[/record] %ln 장지[/record] %ln 무덤[/record] %ln 묘지[/record] %ln 무덤[/record] %ln 무덤[/record] %ln 무덤[/record] %ln 무덤[/record] %ln 지하무덤[/record] %ln 지하무덤[/record] %ln 지하무덤[/record] %ln 매장지[/record] %ln 기념 공원[/end]"
+4052,"Old %fn's Farm[/record] The %ln Farmstead[/record] The %ln Farmstead[/record] The %ln Farmstead[/record] The %ln Farmstead[/record] The %ln Plantation[/record] %ln Grange[/record] %ln Orchard[/record] The %ln Homestead[/end]"
+4053,"The Stronghold of %ln[/record] %ln 성[/record] %ln 성[/record] The Fortress of %ln[/record] The Hold of %ln[/record] %ln's Hold[/record] The Citadel of %ln[/record] Tower %ln[/record] %ln Tower[/record] The Tower of %ln[/record] %ln's Guard[/record] %ln 회관[/end]"
+4054,"%ln 저택[/record] %ln 저택[/record] %ln 저택[/record] %ln 저택[/record] %ln 회관[/record] %ln 대저택[/record] %ln 궁전[/record] %ln 회관[/record] %ln 저택[/end]"
 4055,The Order of Arkay[/end]
 4056,The Resolution of Zenithar[/end]
 4057,The Benevolence of Mara[/end]
@@ -1668,119 +1618,66 @@ The Tower of %ln[/record]
 4060,The School of Julianos[/end]
 4061,The Temple of Stendarr[/end]
 4062,The Temple of Kynareth[/end]
-4063,"The Old %ln Hovel[/record]
-Old %fn's Hovel[/record]
-The Old %ln Shack[/record]
-Old %fn's Shack[/record]
-The %ln Cabin[/record]
-The Old %ln Place[/record]
-Old %fn's Place[/record]
-The Old %ln Hut[/end]"
-4075,"Bleeding[/record]
-Eternal[/record]
-Infinite[/record]
-Burning[/record]
-Fearful[/record]
-Joyous[/record]
-Perpetual[/record]
-Sacred[/record]
-Holy[/record]
-Inner[/record]
-Blessed[/record]
-Gentle[/record]
-Wailing[/record]
-Singing[/record]
-Weeping[/record]
-Silent[/record]
-Laughing[/end]"
-4076,"Soul[/record]
-Ascension[/record]
-Altar[/record]
-Rebirth[/record]
-Relic[/record]
-Star[/record]
-Light[/record]
-Redeemer[/record]
-Sunrise[/record]
-Prophet[/record]
-Oracle[/record]
-Tree[/record]
-Seer[/record]
-Martyr[/record]
-Omen[/record]
-Idol[/record]
-Sanctuary[/end]"
-4077,Arkay[/end]
-4078,Zenithar[/end]
-4079,Mara[/end]
-4080,Akatosh[/end]
-4081,Dibella[/end]
-4082,Julianos[/end]
-4083,Stendarr[/end]
-4084,Kynareth[/end]
-4116,"Your earliest memories are of a warm and unusual home.[/left]
-Your mother, a beautiful enchantress, would entertain[/left]
-you for hours with tricks. Your favorite was her[/left]
+4063,"The Old %ln Hovel[/record] Old %fn's Hovel[/record] The Old %ln Shack[/record] Old %fn's Shack[/record] The %ln Cabin[/record] The Old %ln Place[/record] Old %fn's Place[/record] The Old %ln Hut[/end]"
+4075,"Bleeding[/record] Eternal[/record] Infinite[/record] Burning[/record] Fearful[/record] Joyous[/record] Perpetual[/record] Sacred[/record] Holy[/record] Inner[/record] Blessed[/record] Gentle[/record] Wailing[/record] Singing[/record] Weeping[/record] Silent[/record] Laughing[/end]"
+4076,"Soul[/record] Ascension[/record] Altar[/record] Rebirth[/record] Relic[/record] Star[/record] Light[/record] Redeemer[/record] Sunrise[/record] Prophet[/record] Oracle[/record] Tree[/record] Seer[/record] Martyr[/record] Omen[/record] Idol[/record] Sanctuary[/end]"
+4077,아케이[/end]
+4078,제니타르[/end]
+4079,마라[/end]
+4080,아카토쉬[/end]
+4081,디벨라[/end]
+4082,줄리아노스[/end]
+4083,스텐다르[/end]
+4084,키나레스[/end]
+4116,"당신의 가장 어린시절 기억은 따스하고 특이한 집이었다.[/left]
+아름다운 마법사인 어머니는 몇시간이고 당신을 여러 재주로[/left]
+즐겁게 놀아주었고 그중 가장 좋아했던 것은[/left]
 %q1[/left]
-Your father was a fearsome man. Many in the village[/left]
-referred to him as ""that Warlock."" But to you he was a[/left]
-loving and doting father.[/left]
+아버지는 무서운 남자였다. 마을의 많은 이들이 아버지를 가르켜[/left]
+""그 요술사""라고 불렀지만, 당신에겐 따뜻하고 자상한 아버지였다.[/left]
 [/left]
-As you grew, it was apparent that you had unusually strong[/left]
-magical powers. Soon you were able to %q1a[/left]
-yourself. You remember your parents talking about an evil[/left]
-Battlemage, Jagar Tharn, how it was known in their circle[/left]
-that he had usurped the power of the land away from its[/left]
-rightful ruler. No one dared to move against him.[/left]
-%q2.[/left]
-One day in your twentieth year, a courier arrived at your[/left]
-house with the news that a powerful hero had killed[/left]
-Jagar Tharn and restored the rightful Emperor to the throne.[/left]
-Even your gruff father nearly wept with joy at the news.[/left]
+성장하면서, 당신에게는 특별히 강한 마법적인 힘이 있는게 확실해졌다.[/left]
+곧 %q1a[/left]
+당신은 부모가 악한 배틀메이지 제이거 탄에 대해 이야기 하는 것을[/left]
+기억하고 있다. 제이거 탄이 정당한 권력자에게서 권력을 빼앗았으며[/left]
+아무도 그에게 대항할 수 없는데,[/left]
+%q2[/left]
+당신이 20살이 된 어느날, 배달부가 집에 와서 한 강력한 영웅이[/left]
+제이거 탄을 죽이고 황좌를 정당한 주인인 황제께 돌려드렸다는[/left]
+소식을 알려주었다. 소식을 들은 그 무뚝뚝한 아버지가 기쁨에[/left]
+거의 눈물을 흘릴뻔한 것을 보았다.[/left]
 [/left]
-The courier also brought the news that there would be a great[/left]
-celebration in Imperial City and that all the people who had[/left]
-worked secretly to depose Tharn were invited. Once the[/left]
-courier left, you asked your parents if you could go to the[/left]
-celebration. Your mother and father looked concerned and[/left]
-explained that there was not enough gold for all three of you[/left]
-to make the trip. Downcast, you tried to hide your[/left]
-disappointment. Your father, however, turned to you and said[/left]
-that it was time you made your own way in the world. He gave[/left]
-you %q4 and a very unusual staff[/left]
-and sent you on your way to the Imperial City and the[/left]
-celebration.[/left]
+또한 배달부는 임페리얼 시티에서 큰 축전이 있을 것이며[/left]
+탄을 처단하기 위해 비밀리에 노력한 모두가 초대 되었다는 소식도[/left]
+알려주었다. 배달부가 떠난후 당신은 부모님께 축제에 가도 되냐고[/left]
+물어보았고, 어머니와 아버지는 걱정스럽게 당신을 보며 가족 셋[/left]
+모두가 여행을 가기엔 금화가 부족하다고 설명해 주었다.[/left]
+시무룩해진채, 당신은 실망감을 감추려고 했다.[/left]
+그러나 아버지가 다가와 네 스스로 세상으로 나아가볼 때가 되었다며,[/left]
+%q4 그리고 특이한 지팡이를 주었다.[/left]
+그 후 임페리얼 시티에서 열릴 축하 행사로 여행을 떠나게 했다.[/left]
 [/left]
-After many days of travel, you approached the capital of the[/left]
-realm, the Imperial City. You noticed a small band of[/left]
-travelers only a short distance in front of you. As you were[/left]
-about to hail them, they were attacked by brigands who had[/left]
-been lying in wait in the woods along the road. You rushed[/left]
-to help the other travelers. As you approached, one of the[/left]
-brigands raised his short sword to strike you. In a natural[/left]
-reflex, you tried to deflect the blow with the staff your[/left]
-father gave you. As the sword struck the staff, a great bolt[/left]
-of lightning erupted from it and both weapons shattered. The[/left]
-brigands and the travelers all stopped and stared at you.[/left]
-As the thunder subsided, the brigands ran back into the[/left]
-woods. You were mobbed by the travelers who thanked you[/left]
-profusely for saving them, members of the Imperial Family[/left]
-who had been visiting in the country and were returning to[/left]
-the Imperial City for the celebrations. They insisted that[/left]
-you come with them to the palace and have an audience with the[/left]
-Emperor.[/left]
+몇일 간의 여행을 거쳐, 수도인 임페리얼 시티에 거의 도달할 수 있었다.[/left]
+약간 앞에 있던 작은 무리의 여행자들을 발견하고, 인사를 건네려고 하는 때[/left]
+여행자들이 길 옆의 숲에서 엎드려 있던 도적들의 공격을 받았다.[/left]
+당신은 여행자들을 도우려고 급히 달려나갔다. 가까이 다가가자 도적 중[/left]
+하나가 소검을 쥐어들고 당신을 향해 내리쳤다. 채 의식하기도 전에[/left]
+반사적으로 들고 있던 아버지가 주신 지팡이를 들어 검을 막았다.[/left]
+소검과 지팡이가 닿는 순간 강력한 전기의 빛이 지팡이에서 뿜어져 나왔고[/left]
+두 무기가 깨져버렸다. 도적들과 여행자들 모두가 멈춰 당신을 쳐다보았다.[/left]
+천둥 소리가 가라앉자, 도적들은 숲으로 도망쳤다.[/left]
+당신은 구해준 것을 고마워 하는 여행자들에게 둘러싸였다.[/left]
+그들은 황가의 일원으로 주변국을 방문했다가 축하행사에 참여하기 위해[/left]
+임페리얼 시티로 돌아가는 중이며, 반드시 자신들과 같이 궁전에 가서[/left]
+황제를 알현해야 한다고 했다.[/left]
 [/left]
-The Emperor was very impressed by your bravery and knew[/left]
-your family as loyal supporters of the Empire. He presented[/left]
-you with %q5. The celebrations continued for weeks,[/left]
-and the Emperor often called on you for informal talks. When[/left]
-you were not in audience, you usually spent your time[/left]
-%q2a.[/left]
-One night you were called to the Emperor's presence in a[/left]
-manner such that you knew the business was serious. He[/left]
-met you in his study and there told you he had a favor[/left]
-to ask.[/left]
-[/end]"
+황제는 당신의 용기에 깊이 감명받았으며, 당신의 가족이 제국에[/left]
+충직한 지지자임을 알게됬다. 황제는 당신에게 %q5 하사했다.[/left]
+축하 행사는 몇주간 계속되었고, 황제는 종종 비공식적으로 당신을 불러[/left]
+대화를 나누었고, 당신은 황제를 알현하지 않을때는,[/left]
+%q2a 시간을 보냈다.[/left]
+어느 밤 황제에게 호출을 받았다. 밤을 고려할때 심상치 않은 일임을[/left]
+알 수 있었다. 황제는 서재에서 당신을 맞으며 부탁할 것이 있다고 했다.[/left][/end]"
 4117,"Your earliest memories of your homelife are of an ongoing[/left]
 turmoil -- visitors continually arriving and leaving, and your[/left]
 mother and father at separate times also having to leave for[/left]
@@ -2785,148 +2682,88 @@ law, and you boarded a ship that very night for[/left]
 Daggerfall.[/left]
 [/record]
 "
-4150,sending sparks of flame and ice flying around the yard[/end]
-4151,finding a wounded butterfly and send it flying again[/end]
-4152,"playing hide and seek, though she always turned invisible[/end]"
-4153,"leaping from the roof and then falling, slowly, like a leaf[/end]"
-4154,walking on the surface on a nearby lake like it were ground[/end]
-4155,casting a spell that made it impossible for you to speak[/end]
-4156,cast spells of destruction[/end]
-4157,perform healings and cures[/end]
-4158,vanish from human eyes[/end]
-4159,change your body's weight[/end]
-4160,walk on the water's surface[/end]
-4161,dispel sound from the air[/end]
-4162,He could ruin anyone economically who moved against him[/end]
-4163,You longed to be the one to gain the honor of deposing him[/end]
-4164,You marvelled at the knowledge Tharn must have accrued.[/end]
-4165,"If it weren't suicidal, you would have enjoyed working against him[/end]"
-4166,You vowed to avenge Tharn's evil against the innocent villagers[/end]
-4167,a bag of 100 gold pieces[/end]
-4168,a marvelous book[/end]
-4169,a cuirass[/end]
-4170,some fine silk robes[/end]
-4171,a flask of holy water[/end]
-4172,200 gold pieces[/end]
-4173,an ebony dagger[/end]
-4174,a rare magical item[/end]
-4175,a fine red ruby[/end]
-4176,a silver staff[/end]
-4177,a flask of holy water[/end]
-4179,practicing spells of destruction with the new Imperial Battlemage[/end]
-4180,perfecting your curative spells with the priests of a local temple[/end]
-4181,studying and practicing your spells of the college of alteration[/end]
-4182,strengthening the power of your senses with Thaumaturgic rituals[/end]
-4183,"studying otherworldly forces, and learning to wield their power[/end]"
-4190,a buckler[/end]
-4191,a pearl[/end]
-4192,an amulet[/end]
-4193,a katana[/end]
-4194,a cuirass[/end]
-4195,an elven flail[/end]
-4196,a set of armor[/end]
-4200,"tanto weaponry[/record]
-shortblade-work[/record]
-dagger fighting[/end]"
-4201,"martial arts[/record]
-hand-to-hand[/record]
-boxing[/end]"
-4202,"axe fighting[/record]
-hatchet weaponry[/end]"
-4203,"club fighting[/record]
-club fighting[/record]
-blunt weaponry[/record]
-staff fighting[/end]"
-4204,archery[/end]
-4205,"longblade[/record]
-fencing[/record]
-swordfighting[/end]"
-4206,"destruction[/record]
-desolation[/record]
-obliteration[/end]"
-4207,"healing[/record]
-rejuvenescence[/record]
-restoration[/end]"
-4208,"illusion[/record]
-legerdemain[/record]
-deception[/end]"
-4209,"alteration[/record]
-transformation[/record]
-fluctuation[/end]"
-4210,"thaumaturgy[/record]
-esthetic[/record]
-sense[/end]"
-4211,"mysticism[/record]
-occult[/record]
-eldritch[/end]"
-4212,"religious zealots[/record]
-maniacal priests[/record]
-religious fanatics[/end]"
-4213,"malevolent wizards[/record]
-fanatical warlocks[/end]"
-4214,"misled peasants[/record]
-cretinous peasants[/record]
-half-witted farmers[/end]"
-4215,"corrupt knights[/record]
-oppressive warriors[/record]
-berserker soldiers[/end]"
-4216,"a bit of extra gold[/record]
-a hundred gold pieces[/end]"
-4217,"a fascinating book[/record]
-an intriguing book[/end]"
-4218,"a leather cuirass[/record]
-a bit of old armor[/end]"
-4219,"clothing fit for nobility[/record]
-some very fine clothing[/end]"
-4220,"some holy water[/record]
-a bottle of holy water[/end]"
-4221,"magic studies[/record]
-studying magic[/end]"
-4222,"weapon studies[/record]
-studying weaponry[/end]"
-4223,"social climbing[/record]
-hobnobbing[/record]
-socializing[/end]"
-4224,"slumming[/record]
-urban adventure[/end]"
-4225,"acrobatics[/record]
-practicing acrobatics[/record]
-tumbling[/end]"
-4226,"economics[/record]
-haggling[/record]
-studying economics[/end]"
-4227,"perfecting disguises[/record]
-creating disguises[/record]
-make-up, costumes[/end]"
-4228,swimming[/end]
+4150,"작은 불꽃과 얼음을 집 앞 공터에서 떠다니게 하는 것이었다.[/end]"
+4151,"다친 나비를 찾아 다시 날아오를 수 있게 하는 것이었다.[/end]"
+4152,"어머니는 항상 투명화를 하고 숨긴 했지만, 숨바꼭질이었다.[/end]"
+4153,"지붕으로 뛰어오른 후 마치 나뭇잎 처럼 느리게 떨어지는 것이었다.[/end]"
+4154,"인근에 있는 호수에서 땅 위에서 처럼 물 위를 걷는 것이었다.[/end]"
+4155,"배운적 없는 언어를 말할 수 있게 하는 마법을 쓰는 것이었다.[/end]"
+4156,"파괴마법을 사용할 수 있게 되었다.[/end]"
+4157,"회복과 치료 마법을 사용할 수 있게 되었다.[/end]"
+4158,"눈에 안보이게 사라질 수 있게 되었다.[/end]"
+4159,"몸무게를 바꿀 수 있게 되었다.[/end]"
+4160,"물 위를 걸을 수 있게 되었다.[/end]"
+4161,"공기에서 소리를 안나게 할 수 있게 되었다.[/end]"
+4162,"대항하는 자들이면 누구든 경제적으로 몰락하게 한다는 이야기였다.[/end]"
+4163,"당신은 그를 처단하고 누릴 수 있는 명예로움을 염원하게 되었다.[/end]"
+4164,"당신은 탄이 습득한 지식에 대해 경탄하고 있었다.[/end]"
+4165,"당신은 죽음의 길만 아니라면, 그와 행동을 같이 하면 좋겠다고 생각했다.[/end]"
+4166,"무고한 마을 주민을 생각하며, 탄의 악행에 복수하리라 맹세했다.[/end]"
+4167,"금화 100닢이 든 주머니를[/end]"
+4168,"유명한 책 한 권을[/end]"
+4169,"커틀라스 한 자루를[/end]"
+4170,"잘 만든 실크 로브를[/end]"
+4171,"성수 한 병을[/end]"
+4172,"금화 200 닢을[/end]"
+4173,"에보니 단검 한 자루를[/end]"
+4174,"귀한 마법 물품 한 개를[/end]"
+4175,"훌륭한 붉은 루비 하나를[/end]"
+4176,"은제 지팡이 한 자루를[/end]"
+4177,"성수 한 병을[/end]"
+4179,"새로 임명된 제국 배틀메이지와 파괴마법 주문을 연습하며[/end]"
+4180,"인근 사원에 있는 성직자와 회복 마법을 연습하며[/end]"
+4181,"변화마법 주문을 연습하고 공부하며[/end]"
+4182,"역동마법 의식에 대한 능력을 높이며[/end]"
+4183,"다른 세계의 힘을 공부하고, 그 힘을 사용하는 법을 배우며[/end]"
+4190,"버클러 하나를[/end]"
+4191,"진주 하나를[/end]"
+4192,"목걸이 하나를[/end]"
+4193,"카타나 한 자루를[/end]"
+4194,"커틀라스 한 자루를[/end]"
+4195,"엘프제 플레일 한 자루를[/end]"
+4196,"갑옷 한 세트를[/end]"
+4200,"탄토 무기술[/record]소검 훈련[/record]단검 전투[/end]"
+4201,"무술[/record]맨손 격투[/record]권투[/end]"
+4202,"axe fighting[/record]hatchet weaponry[/end]"
+4203,"몽둥이 전투[/record]몽둥이 전투[/record]둔기 무기술[/record]지팡이 전투[/end]"
+4204,"궁술[/end]"
+4205,"장검[/record]펜싱[/record]검술[/end]"
+4206,"파괴마법[/record] desolation[/record] obliteration[/end]"
+4207,"healing[/record] rejuvenescence[/record] restoration[/end]"
+4208,"illusion[/record] legerdemain[/record] deception[/end]"
+4209,"alteration[/record] transformation[/record] fluctuation[/end]"
+4210,"thaumaturgy[/record] esthetic[/record] sense[/end]"
+4211,"mysticism[/record] occult[/record] eldritch[/end]"
+4212,"religious zealots[/record] maniacal priests[/record] religious fanatics[/end]"
+4213,"malevolent wizards[/record] fanatical warlocks[/end]"
+4214,"misled peasants[/record] cretinous peasants[/record] half-witted farmers[/end]"
+4215,"corrupt knights[/record] oppressive warriors[/record] berserker soldiers[/end]"
+4216,"a bit of extra gold[/record] a hundred gold pieces[/end]"
+4217,"a fascinating book[/record] an intriguing book[/end]"
+4218,"a leather cuirass[/record] a bit of old armor[/end]"
+4219,"clothing fit for nobility[/record] some very fine clothing[/end]"
+4220,"some holy water[/record] a bottle of holy water[/end]"
+4221,"magic studies[/record] studying magic[/end]"
+4222,"weapon studies[/record] studying weaponry[/end]"
+4223,"social climbing[/record] hobnobbing[/record] socializing[/end]"
+4224,"slumming[/record] urban adventure[/end]"
+4225,"acrobatics[/record] practicing acrobatics[/record] tumbling[/end]"
+4226,"economics[/record] haggling[/record] studying economics[/end]"
+4227,"변장기술을 연습[/record] 변장 하는 법[/record] 화장, 복장 입는 법[/end]"
+4228,"swimming[/end]"
 4229,"sparring[/record]boxing[/end]"
-4230,blowing things up[/end]
-4231,healing the ill[/end]
-4232,creating illusions[/end]
+4230,"blowing things up[/end]"
+4231,"healing the ill[/end]"
+4232,"creating illusions[/end]"
 4233,"transforming objects[/record]transubstantiation[/end]"
-4234,"performing miracles[/record]
-seeing beyond this reality[/end]"
+4234,"performing miracles[/record] seeing beyond this reality[/end]"
 4235,exploring the unknown[/end]
-4236,"대거[/record]
-탄토[/record]
-숏소드[/end]"
-4237,"boxing[/record]
-sparring[/record]
-fighting[/end]"
-4238,"battleaxe[/record]
-waraxe[/record]
-axe[/end]"
-4239,"플레일[/record]
-메이스[/record]
-워해머[/record]
-스태프[/end]"
-4240,"archery[/record]
-longbow[/record]
-shortbow[/end]"
-4241,"브로드소드[/record]
-세이버[/record]
-카타나[/record]
-클레이모어[/end]"
+4236,"단검[/record] 탄토[/record] 숏소드[/end]"
+4237,"복싱[/record] 스파링[/record] 전투[/end]"
+4238,"배틀엑스[/record] 워엑스[/record] 도끼[/end]"
+4239,"플레일[/record] 메이스[/record] 워해머[/record] 스태프[/end]"
+4240,"궁술[/record] 롱보우[/record] 숏보우[/end]"
+4241,"브로드소드[/record] 세이버[/record] 카타나[/record] 클레이모어[/end]"
 4242,Spark spell[/end]
 4243,Magicka Sponge spell[/end]
 4244,Light spell[/end]
@@ -3073,10 +2910,10 @@ aristocrats[/end]"
 fine blade[/end]"
 4513,메이지 길드[/end]
 4514,"견습생[/record]
-students[/record]
-novices[/record]
-scholars[/end]"
-4515,book[/end]
+학생s[/record]
+초보자s[/record]
+학자s[/end]"
+4515,책[/end]
 4516,"temple[/record]
 chantry[/record]
 monastery[/record]
@@ -4173,7 +4010,7 @@ Hello.[/record]
 Good day.[/record]
 What is it?[/record]
 What do you want?[/end]"
-7208,"안녕하십니까, %pcf.[/record]뭘 도와드릴까요, %pcf?[/record]아, 오늘 괜찮게 보내고 계십니까?[/record] 만나서 반갑습니다, %pcf. 뭘 도와드릴까요?[/record]아, 안녕하십니까, %pcf.[/record]날이 좋습니다, %pcf.[/record]안녕하십니까.[/end]"
+7208,"안녕하십니까, %pcf.[/record]뭘 도와드릴까요, %pcf?[/record]아, 오늘 괜찮게 보내고 계십니까?[/record]만나서 반갑습니다, %pcf. 뭘 도와드릴까요?[/record]아, 안녕하십니까, %pcf.[/record]날이 좋습니다, %pcf.[/record]안녕하십니까.[/end]"
 7209,"A warm hello to you, good %pcf.[/record]
 It warms my heart to see you, %pcf.[/record]
 Ah, excellent company. Good day, dear friend.[/record]
@@ -4183,119 +4020,33 @@ Grand to see you, %pcf.[/record]
 I'm happy to see you, %pcf.[/record]
 Ah, %pcf, hello. Always a pleasure.[/end]"
 7210,Comment already copied to notebook.[/end]
-7211,"work possibilities[/record]
-good, semi-honest work[/record]
-opportunities for profit[/record]
-lucrative business opportunities[/record]
-gainful employment[/record]
-employment[/record]
-a bit of toil and grind[/end]"
-7212,"%1com. %key 에 대한 이야기를 듣고 싶습니다.[/record] %1com. %key 에 대한 정보를 알려준다면 고맙겠습니다.[/record] %1com. %key 에 대한 아무 정보라도 알려주면 감사하겠습니다.[/record] %1com. %key 에 대해 아는게 없는지 물어보고 싶습니다.[/record] %1com. %key 에 대해 알려주면 좋겠습니다.[/record] %1com. %key 의 현재 상태를 알려주면 좋겠습니다.[/record] %1com. %key 에 대한 정보를 알고 있는걸로 아는데 알려주십시오.[/end]"
+7211,"work possibilities[/record] good, semi-honest work[/record] opportunities for profit[/record] lucrative business opportunities[/record] gainful employment[/record] employment[/record] a bit of toil and grind[/end]"
+7212," %1com. %key 에 대한 이야기를 듣고 싶습니다.[/record] %1com. %key 에 대한 정보를 알려준다면 고맙겠습니다.[/record] %1com. %key 에 대한 아무 정보라도 알려주면 감사하겠습니다.[/record] %1com. %key 에 대해 아는게 없는지 물어보고 싶습니다.[/record] %1com. %key 에 대해 알려주면 좋겠습니다.[/record] %1com. %key 의 현재 상태를 알려주시면 좋겠습니다.[/record] %1com. %key 에 대한 정보를 알고 있는걸로 아는데 알려주십시오.[/end]"
 7213,"%1com. What can you tell me about %key?[/record] %1com. I am seeking information on %key.[/record] %1com. What do you know about %key?[/record] %1com. I need to know about %key.[/record] %1com. Do you know anything about %key?[/record] %1com. What does %key mean to you?[/record] %1com. Talk to me about %key.[/record] %1com. You must know something about %key.[/end]"
-7214,"%1com. What's the newest word on %key?[/record] %1com. Any news about %key?[/record] %1com. What's the story on %key ?[/record] %1com. I'm looking for a tip on %key.[/record] %1com. Know anything about %key?[/record] %1com. Any hot tips on %key ?[/record] %1com. %key. That's what I really want to know.[/record] %1com. Fill me in on %key.[/record] %1com. Put me wise on %key.[/record] %1com. Ever hear of %key?[/record] %1com. %key from around here?[/end]"
-7215,"안녕하십니까[/record]좋은 날입니다[/record]반갑습니다 %n[/record]안녕합니까 %n[/record]인사드립니다, %n[/end]"
-7216,"날이 좋습니다, %n[/record] Greetings, good %n[/record] Greetings to you[/record] How do you do, %n[/record] How are you, %n[/record] Hello[/end]"
-7217,"Hi[/record] Hi there[/record] Ahoy, %n[/record] Listen up[/end]"
-7218,"Quite[/record] Indeed[/record] Ah, I see[/record] Fine[/record] Fascinating[/record] Well put[/record] Eloquently said[/end]"
-7219,"Hmm[/record] I see[/record] Really[/record] Ah[/record] Mmm[/end]"
-7220,"Yeah, whatever[/record] All right[/record] Listen[/record] Okay[/record] So ...[/end]"
-7221,"friend[/record] stranger[/end]"
-7222,"stranger[/record] mate[/end]"
-7223,"buddy[/record] bud[/record] mate[/end]"
-7224,and %key2[/end]
-7225,"%1com. Can you tell me where I might find %key?[/record]
-%1com. I hoped you might direct me to %key.[/record]
-%1com. Perhaps you can guide me toward %key?[/record]
-%1com. I'd appreciate your directions to %key.[/record]
-%1com. Are you familiar with the whereabouts of %key?[/end]"
-7226,"%1com. Where can I find %key?[/record]
-%1com. I am trying to get to %key.[/record]
-%1com. Do you know where %key is?[/record]
-%1com. I need to find %key.[/record]
-%1com. What is the best way to %key?[/end]"
-7227,"%1com. Point me toward %key.[/record]
-%1com. How do I get to %key?[/record]
-%1com. Where the hell is %key?[/record]
-%1com. I got to get to %key.[/record]
-%1com. Where's %key?[/end]"
-7228,"%1com. Perhaps you already know %key?[/record]
-%1com. Are you aware that %key?[/record]
-%1com. I merely wished to tell you that %key.[/record]
-%1com. It may interest you to know that %key.[/end]"
-7229,"%1com. Did you know that %key?[/record]
-%1com. Has anyone told you that %key?[/record]
-%1com. You should know that %key.[/record]
-%1com. Are you aware of the fact that %key?[/end]"
-7230,"%1com. Didja know that %key?[/record]
-%1com. Listen, %key.[/record]
-%1com. I know that %key.[/record]
-%1com. Let me tell you this -- %key.[/end]"
-7231,"%1com. Please, disseminate a little news, will you?[/record]
-%1com. Indulge me in a little gossip, if you would.[/record]
-%1com. You haven't heard anything interesting lately, have you?[/record]
-%1com. What is on the tongue of polite society these days?[/record]
-%1com. Would you kindly update me on the world at large?[/end]"
-7232,"%1com. Have you heard anything interesting lately?[/record]
-%1com. What are people talking about now?[/record]
-%1com. Do you have any interesting gossip?[/record]
-%1com. What has been happening?[/end]"
-7233,"%1com. What's new?[/record]
-%1com. What's the talk of the town?[/record]
-%1com. What's the buzz?[/record]
-%1com. And?[/record]
-%1com. Go on.[/end]"
-7234,"Do want to make love with me?[/record]
-Tell me you want me like I want you.[/record]
-Do you want to fool around?[/record]
-I'm yours if you want me.[/record]
-Do you want to slip away and make love?[/record]
-I don't want to talk. Let's make love.[/record]
-Come on, sweetheart. Lets do it.[/record]
-Would it offend you if I said I wanted you?[/record]
-No more talk. I want you.[/record]
-I want to hold your body tight against mine.[/record]
-Don't you want to do something more than talk?[/record]
-Kiss me, %pcf, I'm yours.[/record]
-Hold my body against yours until the morning comes.[/record]
-Let's do something we can be ashamed of.[/record]
-Why don't you stop talking and kiss me.[/end]"
-7235,"%oth! Can't blame me for asking.[/record]
-Oh. How embarrassing. Forget I asked.[/record]
-I'm sorry. I thought you felt it too.[/record]
-Well, maybe later.[/record]
-Ah well, I can always dream.[/record]
-%oth, all business, no fun.[/end]"
-7250,"You're wasting time with me, %pcf. I don't know a thing about %key.[/record]
-I don't know anything about %key. Not that I'd tell you if I did.[/record]
-Do you really think I'd tell a %ra even if I did know?[/record]
-Ask someone else, %pcf. I can't help you with %key.[/record]
-You're %pcn. What the hell makes you think I know or would tell you anything about %key?[/record]
-I honestly don't know what in Tamriel you're talking about.[/record]
-You've obviously confused me with someone who cares.[/record]
-And what do you want me to do about it?[/record]
-That means absolutely nothing to me.[/record]
-I could probably help you with that. But I'm not going to.[/record]
-%oth, stop wasting my time. I'll tell you nothing. Now scram.[/end]"
-7251,"%key? Even if I knew somethin', I wouldn't be a tellin' a %ra.[/record]
-I don't know nothin' 'bout %key and I ain't sayin' any more.[/record]
-Yer %pcn. I wouldn't tell ya 'bout %key even if I did know.[/record]
-Go on and find a friend or someone who knows somethin'. I'm  ain't either.[/record]
-Why would I wanna help you?[/record]
-I'm afraid that means nothing to me, %pcf.[/record]
-I don't understand. Is that supposed to mean something to me?[/record]
-To be honest, I couldn't really care less. Sorry.[/record]
-Ask someone else. Can't you see I'm busy?[/record]
-I'm sorry but I don't know and I have to go.[/record]
-I'm new to %cn too. Now, please excuse me.[/record]
-I gotta go.[/record]
-Ask someone else, %pcf. I'm running late myself.[/record]
-%oth, as if I know. Ask someone else.[/record]
-I don't particularly care to be your lackey, %pcf. Run along now.[/record]
-This conversation has grown tiresome. Leave me now, %pcf.[/record]
-Excuse me, %pcf. I actually have a life to lead.[/record]
-Ask someone who gives a damn.[/record]
-I neither know nor much care.[/record]
-I don't have the first clue, I'm afraid. Now, if you'll excuse me ...[/end]"
+7214,"%1com. %key 최근 소식 있습니까?[/record] %1com. %key 에 대해 들은게 있습니까?[/record] %1com. %key 이야기 아는게 있습니까?[/record] %1com. I'm looking for a tip on %key.[/record] %1com. %key 에 대해 아는게 있습니까?[/record] %1com. Any hot tips on %key ?[/record] %1com. %key. That's what I really want to know.[/record] %1com. Fill me in on %key.[/record] %1com. Put me wise on %key.[/record] %1com. Ever hear of %key?[/record] %1com. %key from around here?[/end]"
+7215," 안녕하십니까[/record] 좋은 날입니다[/record] 반갑습니다 %n[/record] 안녕하신지요 %n[/record] 인사드립니다, %n[/end]"
+7216," 날이 좋습니다, %n[/record] 안녕하세요, %n[/record] 안녕하십니까[/record] 잘 지내십니까, %n[/record] 잘 지내시는지요, %n[/record] 안녕하세요[/end]"
+7217," 안녕[/record] 안녕하쇼[/record] 여보쇼, %n[/record] 잠깐만[/end]"
+7218," 그렇군요[/record] 과연[/record] 아, 알겠습니다[/record] 잘 알겠습니다[/record] 흥미롭군요[/record] 잘 들었습니다[/record] 말씀 잘 들었습니다[/end]"
+7219," 흠[/record] 알겠습니다[/record] 정말 그렇군요[/record] 아[/record] 으음[/end]"
+7220," 그래, 어쨌든[/record] 좋아[/record] 들어봐[/record] 알았어[/record] 그래 ..[/end]"
+7221,"친구[/record]외지인[/end]"
+7222,"외지인[/record]친구[/end]"
+7223,"친구[/record]친구[/record]친구[/end]"
+7224, 그리고 %key2[/end]
+7225," %1com. %key 의 위치를 알려주실 수 있으실까요?[/record] %1com. %key 의 방향을 알려주셨으면 합니다.[/record] %1com. %key 가는 길을 알려주실 수 있으신지요?[/record] %1com. %key 방향을 알려주신다면 감사하겠습니다.[/record] %1com. %key 위치에 대해 아시는게 있습니까?[/end]"
+7226," %1com. %key 방향을 아십니까?[/record] %1com. %key 에 가고 싶습니다만.[/record] %1com. %key 에 가려면 어떻게 해야합니까?[/record] %1com. %key 에 가야 합니다.[/record] %1com. %key 가는 제일 좋은 방법이 무엇입니까?[/end]"
+7227," %1com. %key 방향 좀 알려줘.[/record] %1com. %key 에 어떻게 가나?[/record] %1com. 망할 %key 방향이 어디야?[/record] %1com. %key 에 가야되는데.[/record] %1com. %key 방향 어디?[/end]"
+7228," %1com. Perhaps you already know %key?[/record] %1com. Are you aware that %key?[/record] %1com. I merely wished to tell you that %key.[/record] %1com. It may interest you to know that %key.[/end]"
+7229," %1com. Did you know that %key?[/record] %1com. Has anyone told you that %key?[/record] %1com. You should know that %key.[/record] %1com. Are you aware of the fact that %key?[/end]"
+7230," %1com. %key 아는거 없나?[/record] %1com. %key.[/record] %1com. I know that %key.[/record] %1com. Let me tell you this -- %key.[/end]"
+7231,"%1com. Please, disseminate a little news, will you?[/record] %1com. Indulge me in a little gossip, if you would.[/record] %1com. You haven't heard anything interesting lately, have you?[/record] %1com. What is on the tongue of polite society these days?[/record] %1com. Would you kindly update me on the world at large?[/end]"
+7232,"%1com. 최근에 뭔가 재밌는 소식을 들으신게 있습니까?[/record] %1com. 요즘 다들 떠드는 소식이 있습니까?[/record] %1com. 흥미로운 소문을 아시는게 있습니까?[/record] %1com. 요즘 무슨 일이 있습니까?[/end]"
+7233,"%1com. What's new?[/record] %1com. What's the talk of the town?[/record] %1com. What's the buzz?[/record] %1com. And?[/record] %1com. Go on.[/end]"
+7234,"Do want to make love with me?[/record] Tell me you want me like I want you.[/record] Do you want to fool around?[/record] I'm yours if you want me.[/record] Do you want to slip away and make love?[/record] I don't want to talk. Let's make love.[/record] Come on, sweetheart. Lets do it.[/record] Would it offend you if I said I wanted you?[/record] No more talk. I want you.[/record] I want to hold your body tight against mine.[/record] Don't you want to do something more than talk?[/record] Kiss me, %pcf, I'm yours.[/record] Hold my body against yours until the morning comes.[/record] Let's do something we can be ashamed of.[/record] Why don't you stop talking and kiss me.[/end]"
+7235,"%oth! Can't blame me for asking.[/record] Oh. How embarrassing. Forget I asked.[/record] I'm sorry. I thought you felt it too.[/record] Well, maybe later.[/record] Ah well, I can always dream.[/record] %oth, all business, no fun.[/end]"
+7250,"You're wasting time with me, %pcf. I don't know a thing about %key.[/record] I don't know anything about %key. Not that I'd tell you if I did.[/record] Do you really think I'd tell a %ra even if I did know?[/record] Ask someone else, %pcf. I can't help you with %key.[/record] You're %pcn. What the hell makes you think I know or would tell you anything about %key?[/record] I honestly don't know what in Tamriel you're talking about.[/record] You've obviously confused me with someone who cares.[/record] And what do you want me to do about it?[/record] That means absolutely nothing to me.[/record] I could probably help you with that. But I'm not going to.[/record] %oth, stop wasting my time. I'll tell you nothing. Now scram.[/end]"
+7251,"%key? Even if I knew somethin', I wouldn't be a tellin' a %ra.[/record] I don't know nothin' 'bout %key and I ain't sayin' any more.[/record] Yer %pcn. I wouldn't tell ya 'bout %key even if I did know.[/record] Go on and find a friend or someone who knows somethin'. I'm  ain't either.[/record] Why would I wanna help you?[/record] I'm afraid that means nothing to me, %pcf.[/record] I don't understand. Is that supposed to mean something to me?[/record] To be honest, I couldn't really care less. Sorry.[/record] Ask someone else. Can't you see I'm busy?[/record] I'm sorry but I don't know and I have to go.[/record] I'm new to %cn too. Now, please excuse me.[/record] I gotta go.[/record] Ask someone else, %pcf. I'm running late myself.[/record] %oth, as if I know. Ask someone else.[/record] I don't particularly care to be your lackey, %pcf. Run along now.[/record] This conversation has grown tiresome. Leave me now, %pcf.[/record] Excuse me, %pcf. I actually have a life to lead.[/record] Ask someone who gives a damn.[/record] I neither know nor much care.[/record] I don't have the first clue, I'm afraid. Now, if you'll excuse me ...[/end]"
 7252,"You are that foul %pcn. I am ignorant on the subject of %key. Now begone.[/record]
 Mayhap you though I was conversant on the topic of %key. What a lark![/record]
 %key? Your question presupposes that I feel an affiliation for you, which I don't.[/record]
@@ -4331,7 +4082,7 @@ Listen, I ain't got time for this. Why don't you just kiss off, %pcf.[/record]
 Don't know, don't care, and don't wanna to talk to ya anymore. Goodbye.[/record]
 Why don't you try asking me like a normal human being would?[/record]
 Listen, I don't give directions to people who talk to me like that.[/end]"
-7257,"댁 같은 %ra 들은 지식인에 대한 대한 존중이 없는것 같습니다. %key 에 대한 정보는 알려줄 생각이 없습니다.[/record]%pcn? 난 바뻐서 %key 가는 길 같은건 못알려 주겠습니다.[/record] I have knowledge of %key. In the event you had been less rude, I might have told you.[/record] I am a scholar. I have no time for banal questions about %key.[/record] Scholars like myself have such knowledge. It is unfortunate your demeanor offends me.[/record] That's it. I've been as polite as I can be. Go away and leave me alone.[/record] I don't care where you go. Go to Oblivion, for all I care. Just go away.[/end]"
+7257,"댁 같은 %ra 들은 지식인에 대한 대한 존중이 없는것 같습니다. %key 에 대한 정보는 알려줄 생각이 없습니다.[/record] %pcn? 난 바뻐서 %key 가는 길 같은건 못알려 주겠습니다.[/record] I have knowledge of %key. In the event you had been less rude, I might have told you.[/record] I am a scholar. I have no time for banal questions about %key.[/record] Scholars like myself have such knowledge. It is unfortunate your demeanor offends me.[/record] That's it. I've been as polite as I can be. Go away and leave me alone.[/record] I don't care where you go. Go to Oblivion, for all I care. Just go away.[/end]"
 7258,"Ask a commoner. It is a waste of my valuable time to answer obvious questions.[/record]
 Who gave you permission to speak to me? I know where to find %key, but now I am disinclined to tell you.[/record]
 I have heard of you %pcn. You should know your place better. Nobles are not to be used as sign posts.[/record]
@@ -5541,74 +5292,19 @@ them, so get out of my face![/center]
 [/record]
 Your breath stinks. Get away from me.[/center]
 [/end]"
-8570,"Well met, stranger.[/center]
-[/end]"
-8571,"Why would I help a complete stranger,[/center]
-especially one with your reputation?[/center]
-[/record]
-I despise your kind. Just go away.[/record]
-I've heard of you. Nothing good of course. Get lost.[/record]
-I don't have time for your type.[/record]
-Me? Help you? Ha-ha-ha![/end]"
+8570,"만나서 반갑습니다, 낯선 분.[/center][/end]"
+8571,"Why would I help a complete stranger,[/center] especially one with your reputation?[/center] [/record] I despise your kind. Just go away.[/record] I've heard of you. Nothing good of course. Get lost.[/record] I don't have time for your type.[/record] Me? Help you? Ha-ha-ha![/end]"
 8600,Insert action type 11 here... (do not translate)[/end]
-8604,"A familiar voice laughs mockingly,[/center]
-""So, %pcn, come to pay[/center]
-your respects properly at last?""[/center]
-[/end]"
-8605,"Hear me:[/center]
-The Blind God is a jealous god.[/center]
-Let His true servants lift up their eyes[/center]
-unto Him, and the Way will be easy.[/center]
-Hear me![/center]
-[/end]"
-8607,"Ah, at last!  I was beginning to think you[/center]
-wouldn't get this far.  A dreary place, don't[/center]
-you agree?  And guarded by a pompous upstart--[/center]
-he's no more a god than I am.  Well, carry on.[/center]
-We will meet again soon, unless you are not as[/center]
-foolhardy as you appear.[/center]
-[/end]"
-8609,"Here lies the spirit of Benefactor,[/center]
-though his body still guards the way.[/center]
-[/end]"
-8616,"The guard by the door intones in a bored voice,[/center]
-""All those having business with Queen Akorithi[/center]
-pass through the door at the back of the hall.""[/center]
-[/end]"
-8617,"The guard by the door intones in a bored voice,[/center]
-""All those having business with Queen Akorithi[/center]
-pass through the door at the back of the hall[/center]
-on the right hand side.""[/center]
-[/end]"
-8690,"Game Hint![/center]
-[/center]
-The easiest way to get back your lost health[/center]
-is to rest. However, the game won't let you do[/center]
-that if there are monsters near by. Kill the[/center]
-monster behind this door, and the one in the next[/center]
-room down the hall. Then you will be allowed to[/center]
-rest and recover lost health.[/center]
-[/end]"
-8691,"Game Hint![/center]
-[/center]
-This corner is a good place to rest. Don't get[/center]
-too close to the stairs, or you'll wake up a[/center]
-monster![/center]
-[/end]"
-8692,"Game Hint![/center]
-[/center]
-If you have difficulty getting onto the platform,[/center]
-try jumping with the J key. You must be moving[/center]
-forward at the time. The faster you are moving,[/center]
-the further you jump.[/center]
-[/end]"
-8693,"Game Hint![/center]
-[/center]
-You should be looking for the exit about now.[/center]
-It is a tall, narrow archway showing stairs[/center]
-leading off into darkness. When you see it, click[/center]
-on it to exit the dungeon.[/center]
-[/end]"
+8604,"A familiar voice laughs mockingly,[/center] ""So, %pcn, come to pay[/center] your respects properly at last?""[/center] [/end]"
+8605,"Hear me:[/center] The Blind God is a jealous god.[/center] Let His true servants lift up their eyes[/center] unto Him, and the Way will be easy.[/center] Hear me![/center] [/end]"
+8607,"Ah, at last!  I was beginning to think you[/center] wouldn't get this far.  A dreary place, don't[/center] you agree?  And guarded by a pompous upstart--[/center] he's no more a god than I am.  Well, carry on.[/center] We will meet again soon, unless you are not as[/center] foolhardy as you appear.[/center] [/end]"
+8609,"Here lies the spirit of Benefactor,[/center] though his body still guards the way.[/center] [/end]"
+8616,"The guard by the door intones in a bored voice,[/center] ""All those having business with Queen Akorithi[/center] pass through the door at the back of the hall.""[/center] [/end]"
+8617,"The guard by the door intones in a bored voice,[/center] ""All those having business with Queen Akorithi[/center] pass through the door at the back of the hall[/center] on the right hand side.""[/center] [/end]"
+8690,"Game Hint![/center] [/center] The easiest way to get back your lost health[/center] is to rest. However, the game won't let you do[/center] that if there are monsters near by. Kill the[/center] monster behind this door, and the one in the next[/center] room down the hall. Then you will be allowed to[/center] rest and recover lost health.[/center] [/end]"
+8691,"Game Hint![/center] [/center] This corner is a good place to rest. Don't get[/center] too close to the stairs, or you'll wake up a[/center] monster![/center] [/end]"
+8692,"Game Hint![/center] [/center] If you have difficulty getting onto the platform,[/center] try jumping with the J key. You must be moving[/center] forward at the time. The faster you are moving,[/center] the further you jump.[/center] [/end]"
+8693,"Game Hint![/center] [/center] You should be looking for the exit about now.[/center] It is a tall, narrow archway showing stairs[/center] leading off into darkness. When you see it, click[/center] on it to exit the dungeon.[/center] [/end]"
 8700,"(caster only)[/left]
 [/left]
 Ever the vain one, Clavicus Vile made a[/left]
