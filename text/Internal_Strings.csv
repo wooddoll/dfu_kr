@@ -1072,18 +1072,18 @@ The Odd
 The Champion
 전문가 %ef 의 
 %ef 여사의"
-GeneralStoresB,"Supplies
-Supply Store
+GeneralStoresB,"보급품
+보급 상점
 용품점
 용품점
 장비
 장비점
 일상용품점
 식료품점
-Merchandise
-General Store
-Retail Store
-Trading Post
+상품점
+일반 상점
+소매점
+거래소
 Market
 Wares
 Warehouse"
@@ -1479,7 +1479,7 @@ Barbarian,바바리안
 Warrior,워리어
 Knight,나이트
 Custom,커스텀
-darkBrotherhoodRanks,"Apprentice
+darkBrotherhoodRanks,"견습생
 Journeyman
 Operator
 Slayer
@@ -1487,8 +1487,8 @@ Executioner
 Punisher
 Terminator
 Assassin
-Dark Brother
-Master Assassin"
+다크 브라더
+마스터 어새신"
 fightersRanks,"견습생
 Journeyman
 Swordsman
@@ -1497,8 +1497,8 @@ Defender
 Warder
 Guardian
 Champion
-Warrior
-Master"
+워리어
+마스터"
 knightlyOrderRanks,"Aspirant
 Squire
 Gallant
@@ -1507,8 +1507,8 @@ Keeper
 Knight Brother
 Commander
 Marshall
-Seneschal
-Paladin"
+대집사
+팔라딘"
 magesRanks,"견습생
 Journeyman
 Evoker
@@ -1517,18 +1517,18 @@ Magician
 Enchanter
 Warlock
 Wizard
-Master Wizard
-Archmage"
-templeRanks,"Novice
-Initiate
-Acolyte
+마스터 위저드
+아크메이지"
+templeRanks,"예비자
+입교자
+복사
 Adept
 Curate
 Disciple
 Brother
 Diviner
-Master
-Patriarch"
+마스터
+총대주교"
 thievesRanks,"견습생
 Journeyman
 Filcher
@@ -1537,13 +1537,13 @@ Robber
 Bandit
 Thief
 Ringleader
-Mastermind
-Master Thief"
+마스터 마인드
+마스터 시프"
 darkSister,Dark Sister
 nonMember,non-member
 knightSister,Knight Sister
 matriarch,Matriarch
 sister,Sister
-daedricSkill,Daedric
-orcishSkill,Orcish
+daedricSkill,데이드릭어
+orcishSkill,오크어
 midDateTimeFormatString,{0:00}:{1:00}:{2:00} {3:00} {4:00} 3E{5}
