@@ -17,7 +17,7 @@ itemHasBrokenPlural,%s-부서졌습니다.
 cannotCarryGold,금화를 더 이상 들 수 없습니다.
 cannotFloat,소지무게가 너무 무거워 수영을 할 수 없습니다.
 youHaveNoArrows,화살이 없습니다.
-oldSaveNoTrade,구버전 실내 저장파일 로드됨. 실내에서 나간 후 재입장 전까지 거래 메뉴 사용불가.
+oldSaveNoTrade,구버전 실내 저장파일 로드됨, 실내에서 나간 후 재입장 전까지 거래 메뉴 사용불가.
 theBodyHasNoTreasure,이 시체엔 아무 보물도 없습니다.
 youAreTooFarAway,너무 멉니다...
 youSeeAn,%s.
@@ -34,7 +34,7 @@ multipleAssignments,여러 임무 수행중입니다...
 youAreEntering,%s 입장.
 storeClosed,상점이 문을 닫음. 개점 시간 %d1:00 에서 %d2:00.
 guildClosed,길드가 문을 닫음. 개방 시간 %d1:00 에서 %d2:00.
-any,어떤 %s
+any,아는 아무 %s
 arkayDesc,삶과 죽음의 신
 zenDesc,직업과 상업의 신
 maraDesc,사랑의 여신
@@ -551,7 +551,7 @@ YouAreInSameBuilding,여기가 {0} 입니다. 지금 있는 곳입니다.
 NpcInSameBuilding,{0}? {1} 주변에 있을겁니다.
 PreviousList,이전 목록
 General,일반
-Regional,Regional
+Regional,지역 단위
 Alchemists,연금술사
 Armorers,갑옷 대장장이
 Banks,은행
