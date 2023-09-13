@@ -3854,14 +3854,7 @@ All right, %pcf. You have one minute of my time.[/record]
 %oth, it's you. What is it?[/record]
 What the hell do you want, %pcf?[/record]
 %oth, just what I need. What?[/end]"
-7207,"How can I help you, stranger?[/record]
-What can I do for you, stranger?[/record]
-Yes?[/record]
-You need something?[/record]
-Hello.[/record]
-Good day.[/record]
-What is it?[/record]
-What do you want?[/end]"
+7207," 무엇을 도와드릴까요, 외지분?[/record] 어떻게 도와드릴까요, 외지분?[/record] 네?[/record] 뭔가 필요하십니까?[/record] 안녕하십니까.[/record] 날이 좋습니다.[/record] 무슨 일입니까?[/record] 뭘 원하시는지요?[/end]"
 7208,"안녕하십니까, %pcf.[/record]뭘 도와드릴까요, %pcf?[/record]아, 오늘 괜찮게 보내고 계십니까?[/record]만나서 반갑습니다, %pcf. 뭘 도와드릴까요?[/record]아, 안녕하십니까, %pcf.[/record]날이 좋습니다, %pcf.[/record]안녕하십니까.[/end]"
 7209,"A warm hello to you, good %pcf.[/record]
 It warms my heart to see you, %pcf.[/record]
@@ -3882,8 +3875,8 @@ Ah, %pcf, hello. Always a pleasure.[/end]"
 7218," 그렇군요[/record] 과연[/record] 아, 알겠습니다[/record] 잘 알겠습니다[/record] 흥미롭군요[/record] 잘 들었습니다[/record] 말씀 잘 들었습니다[/end]"
 7219," 흠[/record] 알겠습니다[/record] 정말 그렇군요[/record] 아[/record] 으음[/end]"
 7220," 그래, 어쨌든[/record] 좋아[/record] 들어봐[/record] 알았어[/record] 그래 ..[/end]"
-7221,"친구[/record]외지인[/end]"
-7222,"외지인[/record]친구[/end]"
+7221,"친구[/record]낯선분[/end]"
+7222,"낯선분[/record]친구[/end]"
 7223,"친구[/record]친구[/record]친구[/end]"
 7224, 그리고 %key2[/end]
 7225," %1com. %key 의 위치를 알려주실 수 있으실까요?[/record] %1com. %key 의 방향을 알려주셨으면 합니다.[/record] %1com. %key 가는 길을 알려주실 수 있으신지요?[/record] %1com. %key 방향을 알려주신다면 감사하겠습니다.[/record] %1com. %key 위치에 대해 아시는게 있습니까?[/end]"
