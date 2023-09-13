@@ -5,7 +5,7 @@ saveGame,게임 저장
 loadGame,게임 로드
 thingJustDied,%s-죽었습니다.
 gameSaved,게임 저장됨.
-gameLoaded,게임 로드됨.
+gameLoaded,"게임 로드됨."
 thisHouseHasNothingOfValue,이 집은 아무 가치도 없습니다.
 findLocationPrompt,장소 이름 입력 :
 rightHandEquipped,오른손 장비됨.
@@ -54,7 +54,7 @@ theNamedResidence,%s 거주지
 playerResidence,%s 의 집
 materialIneffective,사용중인 무기의 재질 때문에 효과가 없습니다.
 successfulBackstab,백스탭 성공
-languagePacified,%e, %s 기술로 진정화 성공.
+languagePacified,"%e, %s 기술로 진정화 성공."
 lockpickingSuccess,잠금장치가 철컥 소리를 내며 풀렸습니다.
 lockpickingFailure,잠금이 풀리지 않았습니다.
 magicLock,마법적 방법으로 잠겨있습니다...
