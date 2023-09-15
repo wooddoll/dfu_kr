@@ -91,16 +91,16 @@ buildingNames,"아카토쉬의 사원
 의류점
 보석상
 전당포"
-lockpickChance,"You doubt your ability to open this lock...
-This lock looks difficult...
-You would be challenged by this lock...
-This lock would prove a good challenge...
-You think you should be able to pick this lock...
-This lock seems relatively easy...
-You are amused by this lock...
-You laugh at the amateur quality of this lock...
-You see a pathetic excuse for a lock...
-This lock is an insult to your abilities..."
+lockpickChance,"이 잠금을 열 수 있을지 자신의 능력에 의문이 듭니다...
+이 잠금은 열기 어려워 보입니다...
+이 잠금장치 열기는 힘든 일이 될 것입니다...
+여는게 좀 어려운 일이 될 것 같습니다...
+잠긴 걸 열 수 있을 것 같습니다...
+그럭저럭 쉬워 보이는 잠금장치 입니다...
+이 잠금 수준은 꽤 웃깁니다...
+초보적인 잠금장치 수준에 웃고 말았습니다...
+이 잠금은 처참한 수준입니다...
+이걸 열지 못하면 모욕적인 일이 될 것입니다..."
 youPinchedGoldPiece,금화 한 닢을 집어냈습니다.
 youPinchedGoldPieces,금화 %d 닢을 집어냈습니다.
 youAreNotSuccessful,소매치기에 실패했습니다...
@@ -129,18 +129,18 @@ serviceSpymaster,첩보장
 serviceMakePotions,포션 제작
 serviceBuyPotions,포션 구입
 serviceBuySoulgems,소울젬 구입
-serviceReceiveArmor,Receive Armor
-serviceReceiveHouse,Receive House
-serviceReceiveHouseAlready,You have already received your house.
-accessMembersOnly,You need to be a member of sufficient rank to access this.
+serviceReceiveArmor,갑옷 지급
+serviceReceiveHouse,주택 지급
+serviceReceiveHouseAlready,이미 주택을 지급 받았습니다.
+accessMembersOnly,사용하려면 일정 등급 이상이 되어야 합니다.
 serviceCured,치료되었습니다.
 serviceSummonCost1,"%pcn,"
 serviceSummonCost2,"%dae 소환에 필요한 금화는"
 serviceSummonCost3," 닢입니다."
 roomFreeForKnightSuchAsYou,기사이기 때문에 숙박은 무료입니다.
-roomFreeDueToHeartsDay,Room is free due to Heart's Day.
+roomFreeDueToHeartsDay,사랑의 날이기 때문에 숙박이 무료입니다.
 youAreNotHungry,배가 고프지 않습니다.
-exhaustedInWater,피로에 몸을 덮치고, 물속 깊은곳으로 끌고 갑니다....
+exhaustedInWater,피로가 몸을 덮쳐, 물속 깊은 곳으로 끌고 갑니다....
 youFeelSomewhatBad,뭔가 좋지 않은 기분이 듭니다.
 avoidDeath,"스텐다르의 자비로, 죽을 상황에서 살아남았습니다!"
 pronounHe,he
@@ -159,18 +159,18 @@ shack,shack
 manor,manor
 community,community
 shrine,shrine
-King,King
-Queen,Queen
-Duke,Duke
-Duchess,Duchess
-Marquis,Marquis
-Marquise,Marquise
-Count,Count
-Countess,Countess
-Baron,Baron
-Baroness,Baroness
-Lord,Lord
-Lady,Lady
+King,왕
+Queen,여왕
+Duke,공작
+Duchess,여공작
+Marquis,후작
+Marquise,여후작
+Count,백작
+Countess,여백작
+Baron,남작
+Baroness,여남작
+Lord,경
+Lady,부인
 revered,숭배받는
 esteemed,존경받는
 honored,명예로운
@@ -195,7 +195,7 @@ AlmostNew,거의 새것
 New,새것
 Nothing,Nothing
 local,local
-tavern,tavern
+tavern,선술집
 Attempted_Breaking_And_Entering,무단 침입 시도
 Trespassing,무단 통행
 Breaking_And_Entering,무단 침입
@@ -217,7 +217,7 @@ Execution,사형
 cannotChangeTransportationIndoors,실내에서 이동 수단을 바꿀 수 없습니다.
 cannotTravelWithEnemiesNearby,적이 가까울 때는 여행할 수 없습니다.
 cannotTravelIndoors,실내에서는 여행할 수 없습니다.
-powersUnknown,Powers unknown.
+powersUnknown,마법 알 수 없음.
 itemPowers,"사용할때 마법:
 손에들때 마법:
 공격 적중시 마법:
@@ -459,13 +459,13 @@ skyrim,스카이림
 sumurset,서머셋
 valenwood,발렌우드
 rollingHills,rolling hills
-desertLand,desertland
-mountains,mountains
-swamps,swamps
-forests,forests
-shores,shores
+desertLand,사막
+mountains,산
+swamps,늪지
+forests,숲
+shores,해안
 medical,의료
-etiquette,Etiquette
+etiquette,에티켓
 streetwise,Streetwise
 jumping,도약
 harpy,하피어
@@ -534,7 +534,7 @@ youNeedToHuntTheInnocent,먹이감을 사냥하고 싶은 욕구가 생깁니다
 youDreamOfTheMoon,"꿈을, 꿨다, 달의 꿈을..."
 inventoryWhileShapechanged,변형중에는 소지품을 볼 수 없습니다...
 youGetNoResponse,대답이 없습니다.
-copyLogbookInfo,Left-click: toggle copy of selected text. Right-click: copy whole current conversation.
+copyLogbookInfo,왼쪽-클릭: 선택한 글 복사. 오른쪽-클릭: 현재 대화 전부 복사.
 east,동쪽
 northeast,북동쪽
 north,북쪽
@@ -658,21 +658,21 @@ trapSuccess,소울 트랩 성공.
 trapFail,소울 트랩 실패.
 trapNoneEmpty,비어있는 소울젬이 없습니다!
 stamina,지구력
-orcStrength,Orc Strength
-healing,Healing
-restorePower,Restore Power
-resistFire,Resist Fire
-resistFrost,Resist Frost
-resistShock,Resist Shock
-cureDisease,Cure Disease
-slowFalling,Slow Falling
-healTrue,Heal True
-levitation,Levitation
-resistPoison,Resist Poison
-curePoison,Cure Poison
-chameleonForm,Chameleon Form
-shadowForm,Shadow Form
-purification,Purification
+orcStrength,오크 근력
+healing,회복
+restorePower,매지카 회복
+resistFire,화염 저항
+resistFrost,냉기 저항
+resistShock,전기 저항
+cureDisease,질병 치료
+slowFalling,낙하 감속
+healTrue,회복 대
+levitation,공중부양
+resistPoison,독기 저항
+curePoison,독 치료
+chameleonForm,카멜레온
+shadowForm,그림자
+purification,정화
 LeatherCuirass,Leather Cuirass
 LeatherGauntlets,Leather Gauntlets
 LeatherGreaves,Leather Greaves
@@ -700,7 +700,7 @@ SteelLongsword,강철 롱소드
 SteelStaff,강철 스태프
 ShortBow,단궁
 Arrows,화살
-SteelBattleAxe,Steel Battle Axe
+SteelBattleAxe,강철 전투 도끼
 Robes,로브
 CastWhenUsed,사용할때 마법:
 CastWhenHeld,손에들때 마법:
@@ -766,7 +766,7 @@ scholars,학자
 nobility,귀족
 underworld,범죄자
 all,모두
-noRoomInItem,No room in item...
+noRoomInItem,물품에 여유가 없습니다...
 noEnchantments,부여할 인챈트 효과가 없습니다.
 noMonstersNearby,근처에 적이 없습니다.
 Fire,화염
@@ -778,16 +778,16 @@ Animal,동물
 Undead,언데드
 Humanoid,인간형
 Daedra,데이드라
-dialogButtonInfo,Switch between: Active Quests; Finished Quests; Notebook; Messages
-activeQuests,Active Quests
-activeQuestsInfo,Click on an active quest that has a target location to initiate travel.
-finishedQuests,Finished Quests
-finishedQuestsInfo,Click on an entry to move it. Right click to delete.
-notebook,Notebook
-notebookInfo,Click a note to move. Right click to delete. Click in-between to add a new note.
-messages,Messages
-messagesInfo,History of messages recently shown on screen
-confirmMoveHead,Move entry
+dialogButtonInfo,다음 순서로 변경: 진행중 퀘스트; 완료된 퀘스트; 노트북; 메세지
+activeQuests,진행중 퀘스트
+activeQuestsInfo,진행중 퀘스트를 누르면 퀘스트 목적지로 여행.
+finishedQuests,완료된 퀘스트
+finishedQuestsInfo,좌 클릭시 누른 곳으로 이동. 우 클릭시 삭제.
+notebook,노트북
+notebookInfo,좌 클릭으로 메모 이동. 우 클릭으로 삭제. 빈 곳 좌 클릭시 새 메모 작성.
+messages,메세지
+messagesInfo,화면에 표시된 메세지 내역
+confirmMoveHead,항목 이동
 confirmMove,Do you want to change the position of this entry?
 confirmMove2,(It will be moved to before the next entry clicked)
 confirmRemoveHead,Delete entry
@@ -796,35 +796,35 @@ confirmRemove2,(It will be deleted permanently and cannot be restored)
 confirmFindHead,Travel to location
 confirmFind,Do you want to open the world map to travel to:
 confirmFind2,(Note: you can cancel travel from the world map)
-enterNote,Enter your note:
+enterNote,메모 입력:
 completedQuest,완료
 endedQuest,실패
 finishQuestHeader,{0} {1} 시간 {2}:
 quest,Quest
 noteHeader,시간:{0} 장소:{1}
-houseDeed,You obtained the deeds and now own a house in %town of %region.
+houseDeed,등록 문서를 획득했고, %region 의 %town 에 있는 집을 얻었다.
 levelProgress,다음 레벨 까지 누적된 진행도: {0}%
-readMap,Discovered the location of %map after studying a map.
-readMapTG,The Thieves Guild have revealed the closely guarded where-abouts of a treasure trove called %map.
-readMapDB,The Dark Brotherhood revealed the secret of some treasure-laden crypts located at somewhere called %map.
-readMapFail,You have already discovered the location shown by this map.
-howManyItems,Pick how many items (max {0})?
-wagonFullGold,Your wagon could only hold {0} gold pieces.
+readMap,지도를 보고 %map 위치를 알아냈다.
+readMapTG,도둑 길드에서 긴밀히 지켜오던 보물 위치가 적힌 %map 지도를 받았습니다.
+readMapDB,다크 브라더후드에서 보물이 있는 지하도 %map 에 대한 비밀을 건네받았습니다.
+readMapFail,이미 이 지도에 나오는 지역은 알고 있습니다.
+howManyItems,물품 몇 개를 이동 합니까(최대 {0})?
+wagonFullGold,마차에 금화 {0}닢 이상 실을 수 없습니다.
 itemsIdentified,물품을 식별했습니다.
 repairDone,완료
 repairDays,%d 일
 interruptRepair,수리가 완료되기 전입니다. 회수합니까?
-repairNote,Left my {0} for repair at {1}.
+repairNote,{0}의 수리를 {1}에 맡겼다.
 doesntNeedIdentify,이 물품은 식별할 필요가 없습니다.
 goldAmount,금화 {0} 닢
 goldWeight,무게: {0} 킬로그램
 letterOfCredit,어음으로 대금을 받았습니다.
 stealSuccess,성공했습니다.
 stealFailure,실패했습니다...
-cannotRemoveItem,You cannot remove this item.
-cannotCarryAnymore,You cannot carry anymore stuff.
-cannotHoldAnymore,Your cart cannot hold anymore stuff.
-cannotUseThis,You cannot use this.
+cannotRemoveItem,이것은 버릴 수 없습니다.
+cannotCarryAnymore,더 이상의 물건은 소지할 수 없습니다.
+cannotHoldAnymore,수레에 더 이상 물건을 넣을 수 없습니다.
+cannotUseThis,이것은 사용할 수 없습니다.
 equippingWeapon,%s-손에 들었습니다.
 lightDouse,%it 을 껐습니다.
 lightLight,%it 에 불을 붙였습니다.
@@ -1087,17 +1087,17 @@ GeneralStoresB,"보급품
 Market
 Wares
 Warehouse"
-WeaponStoresB,"Weapons
-Weaponry
+WeaponStoresB,"무기
+무기점
 Arms
-Armaments
-Arsenal
-Armsmaker
-Blades
-Blacksmith
-Metalsmith
-Weaponsmith"
-ArmorStoresB,"Armory
+무장
+무장점
+무장 제작점
+도검 제작소
+대장간
+대장장이
+무기 대장장이"
+ArmorStoresB,"갑옷
 Mail
 Shielding
 Armor
@@ -1109,20 +1109,20 @@ Metalsmith
 Armorer
 Smith
 Smithy"
-BookStoresB,"Books
-Bookstore
-Bookshop
-Book Dealer
-Book Center
-Bookseller
-Bookstall
-Incunabula"
-LibraryStoresB,"Library
-Bookroom
+BookStoresB,"책
+서점
+서점
+책 거래
+책 거래점
+서적판매
+서적매매
+고서거래"
+LibraryStoresB,"도서관
+책방
 Athenaeum
-Public Library
-Historians
-Bookroom
+공공 도서관
+역사서
+책방
 Seminary
 Lyceum"
 ClothingStoresB,"Clothing
@@ -1159,16 +1159,16 @@ Experiental Products
 Alchemistry
 Alchemical Solutions
 Metallurgy"
-GemStoresB,"Gems
-Gemstones
-Jewelry
-Jewels
-Precious Stones
+GemStoresB,"보석
+보석상
+귀금속
+귀금속점
+귀금속 판매점
 Bijoutry
-Jewelers
-Jewel Box
-Jewelry Shop
-Gemcutter"
+보석상
+보석 거래
+보석 거래점
+보석 가공점"
 PawnStoresB,"Pawnshop
 Pawnbrokers
 Used Supplies
