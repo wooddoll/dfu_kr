@@ -12,181 +12,156 @@ QuestFail:  [1003]
 Error: Questtext 1003 called on BRISIEN.Q
 
 RumorsDuringQuest:  [1005]
-The prophets say that soon what was unclaimed will be claimed.
+예언자들이 말하길 취하지 않았던 것이 취해질 것이다 라고 합니다.
 <--->
-Lady Brisienna awaits someone at _dirtypit_ in __dirtypit_.
+브리지엔나 부인이 _dirtypit_ 의 __dirtypit_.에서 누군가를 기다리고 있습니다.
 <--->
-That was some storm. Magically created, many are saying.
+얼마전에 폭풍이 불었는데, 다들 마법적으로 만들어진 것 같다고 합니다.
 <--->
-Lady Brisienna has taken up lodging at _dirtypit_ in __dirtypit_.
+브리지엔나 부인이 _dirtypit_ 의 __dirtypit_.에 여장을 풀었다고 합니다.
 
 RumorsPostfailure:  [1006]
-Lady Brisienna has left _dirtypit_, muttering about traitors to the Empire.
+브리지엔나 부인이 _dirtypit_ 에서 떠났으며, 제국의 배신자에 대해 투덜거렸다고 합니다.
 
 RumorsPostsuccess:  [1007]
-Lady Brisienna has left _dirtypit_. She must've found who she was looking for.
+브리지엔나 부인이 _dirtypit_ 에서 떠났다고 합니다. 찾던 뭔가를 찾은게 분명한 것 같습니다.
 
 QuestorPostsuccess:  [1008]
-<ce>        I hope your investigations are going well so far, %pcf.
-<ce>                                    
-<ce>                              -- Lady B.
+<ce>조사가 잘 진행 중이기를 바랍니다, %pcf.
+<ce>
+<ce>-- ㅂ 부인
 
 QuestLogEntry:  [1010]
-%qdt: 
- 황제께서 라이산더스 왕의 유령에 대해 임무를 내리셨다.
- 왕의 유령은 대도시 대거폴의 떠돌고 있다고 한다.
- 황제께서 영혼을 안식에 들도록 할 것을 나에게 직접 명하셨다.
- 그리고 대거폴의 여왕에게 보내졌던 편지에 대한 임무도
- 있다. 중요성은 덜하지만 편지가 어떻게 된건지 알아낸다면
- 황제께서 매우 기뻐하실 것이다.
- 대거폴에 도착하기도 전에 갑자기 몰아닥친 폭풍이 배를
- 집어삼켰다. 동굴로 간신히 목숨을 건질 수 있었다.
+%qdt:
+<ce>황제께서 라이산더스 왕의 유령에 대해 임무를 내리셨다.
+<ce>왕의 유령은 대도시 대거폴의 떠돌고 있다고 한다.
+<ce>황제께서 영혼을 안식에 들도록 할 것을 나에게 직접 명하셨다.
+<ce>그리고 대거폴의 여왕에게 보내졌던 편지에 대한 임무도
+<ce>있다. 중요성은 덜하지만 편지가 어떻게 된건지 알아낸다면
+<ce>황제께서 매우 기뻐하실 것이다.
+<ce>대거폴에 도착하기도 전에 갑자기 몰아닥친 폭풍이 배를
+<ce>집어삼켰다. 동굴로 간신히 목숨을 건질 수 있었다.
 
 Message:  1011
 %qdt:
- 브리지엔나 부인을 선술집 방에서 만났다.
- 일리악만의 강대국은 셋이며 대거폴, 웨이레스트, 센티넬
- 이란 것을 알려주었다. 라이산더스의 유령을 조사하려면
- 세곳의 왕족들과 대화를 해봐야할 것이다.
+<ce>브리지엔나 부인을 선술집 방에서 만났다.
+<ce>일리악만의 강대국은 셋이며 대거폴, 웨이레스트, 센티넬
+<ce>이란 것을 알려주었다. 라이산더스의 유령을 조사하려면
+<ce>세곳의 왕족들과 대화를 해봐야할 것이다.
 
 Message:  1012
-Lady Magnessen? She's the emmisary of the Blades in Daggerfall.
+마그누센 부인? 그 부인은 대거폴에 파견된 블레이드의 특사입니다.
 <--->
-Lady Magnessen is a part of the set regularly at Castle Daggerfall.
+마그누센 부인은 대거폴 성에 자주 나타납니다.
 <--->
-Lady Magnessen was formerly in the employ of Mynisera, when she was Queen.
+마그누센 부인은 예전 마이니스가 여왕이었을때 그 휘하에 있었습니다.
 
 Message:  1013
-Lady Magnessen once worked for the Queen Mother, but always for the Emperor.
+마그누센 부인은 왕대비를 위해 일한 적이 있지만, 언제나 제국에 충직했습니다.
 <--->
-Lady Magnessen is the sister of the Great Knight, leader of the Blades.
+마그누센 부인은 블레이드의 지도자인 위대한 기사와 남매입니다.
 <--->
-I heard Lady Magnessen was accused of spying. Nobody knows where she is now.
+마그누센 부인이 밀정 혐의로 고발당했다고 들었습니다. 부인이 어디있는지 아무도 모른다더군요.
 
 Message:  1015
-<ce>              Ah, thank you for responding to my letter,
-<ce>                    %pcf. I am Lady Brisienna. Let
-<ce>             me bring you to date on affairs. The spectre
-<ce>                of King Lysandus haunts the streets of
-<ce>              Daggerfall at night. Trying to communicate
-<ce>               with him is futile. He will occasionally
-<ce>              moan the word "Vengeance", but that is the
-<ce>               only coherent word I have ever heard him
-<ce>             utter. If you are ever in Daggerfall, do not
-<ce>             wander the city at night. You are certain to
-<ce>                 be attacked by his legion of ghosts.
-<ce>                                    
-<ce>                 It would be probably more gainful to
-<ce>               investigate those who might have wronged
-<ce>            Lysandus to find the cause behind his torment.
-<ce>            I do not know if the royal family of Daggerfall
-<ce>                or another person or persons merit more
-<ce>                suspicion. The major powers of the Bay,
-<ce>               Sentinel, Wayrest, and Daggerfall may be
-<ce>                         good places to start.
-<ce>                            (continued...)
+<ce>아, 제 편지에 답해주셔서 고맙습니다, %pcf.
+<ce>저는 브리지엔나 입니다. 본론으로 들어가겠습니다.
+<ce>라이산더스 왕의 유령이 대거폴의 밤거리를 떠돌고 있습니다.
+<ce>소통하려는 시도는 무용이었습니다. 가끔 ""복수""라는 단어를
+<ce>언급하지만 알아들을 수 있는 단어는 그게 다 입니다.
+<ce>대거폴에 가신다면, 밤에 도시를 돌아다니지 마십시오.
+<ce>유령 군단에 공격당할 수 있습니다.
+<ce>
+<ce>라이산더스 왕을 고통 받게 만든 자가 누구인지 조사해
+<ce>알아낸다면 더욱 좋을 것 입니다. 대거폴 왕가인지
+<ce>다른 누군가인지, 더 의심스러운 자가 문제인지 모릅니다.
+<ce>일리악 만의 주요 강대국인 센티넬, 웨이레스트, 대거폴이
+<ce>조사를 시작하기에 좋은 곳이 될 것입니다.
+<ce>(계속)
 
 Message:  1016
-<ce>              In the matter of the letter, the Emperor's
-<ce>             agent says that he was unable to hand-deliver
-<ce>            it to the Queen because of the war. He hired a
-<ce>              courier who supposedly delivered the letter
-<ce>             in his stead. We do not even know the name of
-<ce>               this courier. Obviously, there is little
-<ce>            information of use, but it would be worthwhile
-<ce>              to see whether the letter arrived at Castle
-<ce>             Daggerfall at all. How you decide to do this
-<ce>             is entirely your decision. I will contact you
-<ce>                if any new information should surface.
-<ce>                                    
-<ce>            I am leaving Daggerfall soon. My position here
-<ce>            has been compromised and my life is in danger.
-<ce>              Do not mention my name in court. It is more
-<ce>               likely to hurt than help. Good luck, and
-<ce>                        watch your back, %pcf.
+<ce>편지에 대해선, 황제의 요원이 말하길 전쟁 때문에 여왕에게
+<ce>직접 전달할 수 없었다고 합니다. 요원은 대신 배달부를
+<ce>고용했다고 합니다. 배달부의 이름조차 아직 모르는 상태입니다.
+<ce>알고 있겠지만, 정보가 부족하지만, 대거폴 성에 편지가
+<ce>애초 도착은 한 것인지는 알아볼 이유가 충분해 보입니다.
+<ce>어떻게 할 것인지는 모두 당신에게 달렸습니다. 새로운 정보가
+<ce>들어오면 즉시 연락하겠습니다.
+<ce>
+<ce>저는 대거폴을 곧 떠납니다. 제 위치가 알려졌고 목숨이
+<ce>위험한 상태입니다. 궁에서 제 이름을 대지 마십시오.
+<ce>도움이 되기 보다는 해가 될 것입니다. 행운을 빕니다,
+<ce>그리고 조심하십시오, %pcf.
 
 Message:  1020
-Dear %pcn,
+친애흐는 %pcn,
  
-     I heard about your accident at sea, and feared the
- worst. Now that I've heard you're alive and well, I
- would like the opportunity to meet with you and discuss
- our beloved Emperor's mission in the Iliac Bay.
+     바다에서 있었던 사고를 들었었고, 최악의 상황을 걱정했지만.
+ 지금은 잘 있으시다고 하니, 당신을 만나 경애하는 황제께서 내리신
+ 이곳 일리악 만에 대한 임무에 대해 논의하고 싶습니다.
  
-     Allow me to introduce myself. I am Lady Magnessen,
- the Emperor's agent in the court of Daggerfall. My
- position is not so official as an ambassador. None but
- other agents of the Emperor know of my true affiliation.
- The Iliac Bay is rife with rebels against the Imperial
- throne, so your discretion is required.
+     제 소개를 하겠습니다. 저는 마그누센 부인으로, 대거폴의
+ 궁전에서 황제의 요원으로 있습니다. 저는 외교관 같이 공식적인
+ 자격이 아니기 때문에 다른 황제의 요원들 누구도 제 정체를
+ 모르고 있습니다. 일리악 만은 제국의 황권에 반하는 반역자들이
+ 득실거리기 때문에, 행동을 신중해야 하지요.
  
-     For the purpose of our meeting, I will take a room
- at an inn, _dirtypit_ in __dirtypit_
- of Daggerfall, for a month. After that, I will no longer
- be available. I will expect you as soon as possible.
+     대거폴 _dirtypit_ 의 __dirtypit_ 에 있는
+ 선술집에 방을 잡고 있습니다. 한달간 있을 것이며, 이후에는
+ 저는 이곳에 없을 것입니다. 가능한 빨리 만났으면 합니다.
  
-<ce>                           Yours sincerely,
+<ce>                           친애하는,
  
-<ce>                       Brisienna, Lady Magnessen
+<ce>                       마그누센, 브리지엔나
 
 Message:  1021
 %pcn,
  
-     I sent you a letter weeks ago. I only hope
- it caught up with you. If this one crosses your path
- after you have visited me on your way to see me in
- __dirtypit_ please do not take offense.
- As I mentioned in the previous letter, I am the
- Emperor's agent in Daggerfall and it is imperative
- that I speak with you. I have extend my stay at
- _dirtypit_ in __dirtypit_ for two more weeks.
+     편지를 보낸지 일주일이 되었습니다. 제대로 도착했기만을
+ 바랄뿐입니다. 혹시나 이 편지가 저를 __dirtypit_ 에서
+ 만나고 나서 도착했다면 무시하시고 무례를 용서하십시오.
+ 이전 편지에서 언급했지만, 전 대거폴에서 황제의 요원으로
+ 있으며 저와 접촉이 매우 급선무입니다.
+ _dirtypit_ 의 __dirtypit_ 채류를 2주 더 연장하겠습니다.
  
- Of course there is the possibility that you have
- intentionally snubbed me and shirked your duty to
- the Emperor. I hope that is not the case. If you
- fail to arrive, I will be forced to assume you are
- a traitor to his Imperial Majesty, Uriel Septim VII.
+ 물론 당신이 저를 일부러 무시하고 황제께서 내리신 의무를
+ 회피하려 하는 것일 수도 있지만, 그게 아니길 바랍니다.
+ 접촉이 실패한다면, 제국의 주인이신 유리엘 셉팀 7세께
+ 반하는 반역자라고 밖에 생각할수 없게 될 것입니다.
  
-<ce>                           Yours sincerely,
+<ce>                           친애하는,
  
-<ce>                       Brisienna, Lady Magnessen
+<ce>                       마그누센, 브리지엔나
 
 Message:  1022
 %pcn,
  
- I waited and you never arrived. I shall report
- this to the Emperor. If I have my way, you will
- be barred from service.
+ 기다려 봤지만 오지 않으셨군요. 이를 황제께
+ 보고할 것입니다. 제가 명령권이 있다면, 당신은
+ 임무에서 배제했을 겁니다.
  
-<ce>                            Lady Magnessen
+<ce>                            마그누센
 
 Message:  1026
-<ce>           	You are approached by a young page who smiles in
-<ce>             recognition and does not ask your name before
-<ce>              he hands you a letter addressed to you. To
-<ce>               all of your questions, he merely responds
-<ce>                    with a blank look and a smile.
+<ce>당신을 알아본 어느 어린 시종이 이름은 묻지 않은채
+<ce>편지를 건넸다. 당신의 질문에도 그저 웃기만 할 뿐이었다.
                                      <--->
-<ce>             A letter is pressed into your hand. You spin
-<ce>            to see who gave it to you. You catch a glimpse
-<ce>                of livery that vanishes into the crowd.
+<ce>편지를 손에 건네 받았다. 건네준 자를 향해 몸을 돌렸지만
+<ce>사람들 속으로 사라지는 모습만 얼핏 볼 수 있었다.
                                      <--->
-<ce>              A page steps forward saying "Letter for you
-<ce>                     %pcn," and hands you a note.
+<ce>시종이 다가와 "당신에게 온 편지입니다, %pcn."
+<ce>라고 말하곤 편지를 건넸다.
                                      <--->
-<ce>              A courier steps up to you with a letter in
-<ce>               hand. "I was told to give this letter to
-<ce>                someone fitting your description," says
-<ce>               the courier. As you take it, the courier
-<ce>                     turns and walks quickly away.
+<ce>편지를 손에 든 배달부가 다가왔다.
+<ce>"당신 같이 생긴 사람 한테 편지를 건네라더군요" 라고 말했다.
+<ce>편지를 받자, 배달부는 등을 돌려 빠르게 걸어 사라졌다.
                                      <--->
-<ce>               Reaching into your pack for something to
-<ce>             eat, you spy a note. It wasn't there before.
+<ce>뭔가 먹을 것을 꺼내려 가방을 뒤지려는데, 편지를 발견했다.
+<ce>이전에는 없었던 편지였다.
                                      <--->
-<ce>             A redfaced courier startles you with a cry of
-<ce>                  "Letter for %pcn! Hey that must be
-<ce>                 you. Here, take this. Gotta go. Other
-<ce>                        deliveries to be made.
+<ce>숨이 차보이는 배달부가 놀라 외쳤다.
+<ce>"%pcn 에게 온 편지입니다! 저기요 분명 당신이죠.
+<ce>여기 받으세요. 전 가야됩니다. 배달할게 많아요."
 
 Message:  1025
 <ce>당신은 잠에서 깨어나 주위를 둘러보았다. 몇 시간 전,
