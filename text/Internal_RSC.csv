@@ -593,7 +593,7 @@ Bearded [/end]"
 1409,"%fx1 and %fx2 have signed a peace treaty. The war was ruining both their economies.[/record] %fx1 was winning the war, but ran out of money. They were forced to sign an armistice with %fx2.[/record] The war is over! The war is over! %fx1 and %fx2 stopped fighting. I haven't heard why.[/end]"
 1410,"Lock your doors at night. Nobody is safe anymore from the criminals. They just take anything they want.[/record] They killed %n in broad daylight. The guards didn't even do anything. What is this place coming to.[/end]"
 1411,"We're all preparing for %hol. It's coming up soon.[/record] Are you ready for %hol? Don't wait too long.[/record] %hol is almost here. I wouldn't wait to the last minute to get ready.[/end]"
-1412,"Did you hear that the Thieves Guild master has been arrested? I hope they hang him.[/record] The Thieves Guild master is in jail. I'm sure he'll have escaped by tomorrow.[/record] No prison can hold the Thieves Guild master for long. That's why his trial will be held soon.[/end]"
+1412,"시프 길드 마스터가 체포된 것 알고 계십니까? 교수형 해버리면 좋을텐데.[/record] The Thieves Guild master is in jail. I'm sure he'll have escaped by tomorrow.[/record] No prison can hold the Thieves Guild master for long. That's why his trial will be held soon.[/end]"
 1413,"Can you believe they set the Thieves Guild master free? That wily old fox.[/record] He escaped! The Thieves Guild master broke out of prison.[/record] The Thieves Guild master escaped. I knew that tin jail couldn't hold him.[/end]"
 1414,"Beheaded. That's what happened to the Thieves Guild master. Good riddance.[/record] They executed the Thieves Guild master. I hear he will lie in an unmarked grave.[/record] They didn't take long in executing the poor bastard. Who? The Thieves Guild master of course.[/end]"
 1415,"I hear there is a mad wizard stirring up trouble.[/record] Some insane sorcerer turned the palace pink. It took two weeks to get it cleaned.[/record] There's a crackpot wizard out there. If we don't follow orders, we'll all be turnips.[/end]"
@@ -608,46 +608,10 @@ Bearded [/end]"
 1455,"If you really want revenge, contact the Dark Brotherhood. They are professional assassins.[/record] There is such a thing as an assassins guild, which calls itself the Dark Brotherhood. They recruit the most cold blooded killers they can find.[/record] The Dark Brotherhood is quite powerful in %reg. This assassins guild punishes outsiders that kill for money.[/end]"
 1456,"%lt1 is having an affair.[/record] They say we will have new cobblestone streets before the year is out.[/record] %n says that the bands on the fuzzy caterpillars predict a bad winter.[/record] There is supposed to be a new tax announced soon.[/record] Don't go out at night. %n saw ghouls lurking in the alleys.[/record] Representatives of the Empire are expected in %reg soon.[/record] The weakest link in the Imperial chain is the province of Sumurset Isle. Then %reg.[/end]"
 1457,"Hmmm. Can't think of any.[/record] None that I know of.[/record] I try not to spread rumors.[/record] Since I have nothing nice to say ...[/end]"
-1475,"%nrn has declared that all witches[/center]
-[/left]
-are to be burnt at the stake.[/center]
-[/record]
-Witchcraft is punishable by[/center]
-burning at the stake. -- %nrn[/center]
-[/record]
-Any witch shall be burnt alive while[/center]
-bound to a stake, by the order of %nrn.[/center]
-[/end]"
-1476,"%nrn has declared that %ptm[/center]
-is guilty of treason and heresy.[/center]
-[/record]
-Any member of %ptm are to[/center]
-be jailed immediately. -- %nrn[/center]
-[/record]
-%ptm is not recognized by %reg or %nrn.[/center]
-All its lands and properties[/center]
-are subject to confiscation.[/center]
-[/end]"
-1477,"Due to the famine in %reg, all[/center]
-merchants importing food must[/center]
-report to the gate captain.[/center]
-[/record]
-One part in ten of all food[/center]
-entering this town must be turned[/center]
-over to %t, so that %g3 grace does[/center]
-not suffer from the famine.[/center]
-[/record]
-%reg is beset by famine. Wasting[/center]
-food is punishable by flogging. -- %nrn[/end]"
-1478,"All plague victims must be left[/center]
-in the street to be gathered and[/center]
-burned. -- %nrn[/record]
-Bewarned all visitors. Our fair[/center]
-town is beset by the plague.[/center]
-[/record]
-By order of %nrn, no person showing sign[/center]
-of plague may enter or leave this town.[/center]
-[/end]"
+1475,"%nrn has declared that all witches[/center] [/left] are to be burnt at the stake.[/center] [/record] Witchcraft is punishable by[/center] burning at the stake. -- %nrn[/center] [/record] Any witch shall be burnt alive while[/center] bound to a stake, by the order of %nrn.[/center] [/end]"
+1476,"%nrn has declared that %ptm[/center] is guilty of treason and heresy.[/center] [/record] Any member of %ptm are to[/center] be jailed immediately. -- %nrn[/center] [/record] %ptm is not recognized by %reg or %nrn.[/center] All its lands and properties[/center] are subject to confiscation.[/center] [/end]"
+1477,"Due to the famine in %reg, all[/center] merchants importing food must[/center] report to the gate captain.[/center] [/record] One part in ten of all food[/center] entering this town must be turned[/center] over to %t, so that %g3 grace does[/center] not suffer from the famine.[/center] [/record] %reg is beset by famine. Wasting[/center] food is punishable by flogging. -- %nrn[/end]"
+1478,"All plague victims must be left[/center] in the street to be gathered and[/center] burned. -- %nrn[/record] Bewarned all visitors. Our fair[/center] town is beset by the plague.[/center] [/record] By order of %nrn, no person showing sign[/center] of plague may enter or leave this town.[/center] [/end]"
 1479,"A state of war exists between %fx1[/center] and %fx2. Any foreign citizen of the enemy[/center] found within this place will be hanged.[/center] -- %nrn[/center] [/record] %fx1 is at war with %fx2.[/center] All visitors may be subject to search.[/center] [/record] By the order of %nrn, for the duration[/center] of the war between %fx1 and %fx2,[/center] military rule is in effect.[/center] [/end]"
 1480,"The noble ruler, %ol1 %olf.[/center] Long live %fl1, newly made %lt1 of %reg.[/center] [/record] %fl1 has ascended to the throne and [/center] is the new %lt1. Long may %fl1 rule over %reg.[/center] [/record] %fl1 is the new %lt1 of %reg.[/center] [/end]" 1481,"%fx2 is formally allied to %fx1.[/center] [/record] %fx1 and %fx2 have signed an agreement.[/center] [/record] %fx1 has formal relations with %fx2.[/center] [/end]"
 1482,"Any person from %fx2 will be persecuted[/center] to the full extent of the law. -- %nrn[/center] [/record] Persons of %fx2 are to be[/center] detained upon sight. -- %nrn[/center] [/record] For crimes against %reg, %fx2[/center] is the sworn enemy of %nrn.[/center] [/end]"
