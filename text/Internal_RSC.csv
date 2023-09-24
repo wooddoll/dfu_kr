@@ -140,99 +140,37 @@ Key,Value
 503,"부서진 수갑이 발에 걸렸습니다.[/record]멀리서 연기가 나는 것 같습니다.[/record]벨소리가 멀리서 들립니다.[/end]"
 504,"대리석 벽돌이 널려 있습니다.[/record]석조 원형 기둥을 지나쳤습니다.[/record]조각난 석상이 바닥에 있습니다.[/end]"
 505,"사방에 흙더미가 있습니다.[/record]바닥에 깊게 파인 바퀴 자국이 있습니다.[/record]큰 구덩이를 돌아서 지나쳤습니다.[/end]"
-507,"A rune is scratched in the dirt.[/record]
-You feel a vague sense of unease.[/record]
-You see movement in the underbrush.[/end]"
-508,"A strange silence envelops you.[/record]
-A flock of ravens passes overhead.[/record]
-Dry bones are littered everywhere.[/end]"
-509,"You notice an acrid odor.[/record]
-Your eyes suddenly sting.[/record]
-The ground here vibrates faintly.[/end]"
-510,"Harpy droppings foul the ground.[/record]
-The scent of carrion hangs in the air.[/record]
-Large feathers lie scattered about.[/end]"
-511,"You pass a low stone wall.[/record]
-Paving stones ring underfoot.[/record]
-Vines cover piles of rubble.[/end]"
-512,"You brush aside huge cobwebs.[/record]
-Spider webs hang from the trees.[/record]
-Hmm. No mosquitos.[/end]"
-513,"Huge footprints cross your path.[/record]
-Smoke rises in the distance.[/record]
-Gnawed bones litter the ground.[/end]"
-514,"Scorched bones are everywhere.[/record]
-The trees here are charred by fire.[/record]
-The air seems warmer here.[/end]"
-515,"You smell woodsmoke.[/record]
-Someone's been this way recently.[/record]
-A horse neighs in the distance.[/end]"
-516,"Stone outcroppings dot the area.[/record]
-You pass several lava boulders.[/record]
-Everything here is covered with ash.[/end]"
-517,"Something's been digging in the sand.[/record]
-Those look like scorpion tracks.[/record]
-What's that rustling sound?[/end]"
-518,"You smell fresh turned earth.[/record]
-A low, ghostly moan shivers by.[/record]
-A crow caws in the distance.[/end]"
-520,"A ghostly wail shatters the silence.[/record]
-You stumble over a fallen headstone.[/record]
-An open grave yawns in your path.[/end]"
-521,"You smell orcs.  Definitely orcs.[/record]
-Orcs have trampled the ground here.[/record]
-A harsh yell brings you up short.[/end]"
-522,"Someone's cleared the underbrush here.[/record]
-You pass a stack of firewood.[/record]
-A bird calls nearby.[/end]"
-523,"A bell tolls nearby.[/record]
-A rotting corpse hangs from a tree.[/record]
-A despairing cry rings out.[/end]"
-524,"You pass a row of fallen columns.[/record]
-Vines cover jumbled stones here.[/record]
-A headless statue lies in the dust.[/end]"
-525,"You clamber over piles of gravel.[/record]
-A deep pit almost blocks your path.[/record]
-You pass a heap of rusting shovels.[/end]"
-526,"A dank breeze ruffles your hair.[/record]
-A spring bubbles from the ground.[/record]
-That looks like a path.[/end]"
-527,"Blood soaks the earth here.[/record]
-You feel you are being watched.[/record]
-You pass a trampled circle in the dirt.[/end]"
-528,"A huge bat flaps slowly overhead.[/record]
-A wolf howls, not far away.[/record]
-The air is still and oppressive.[/end]"
-529,"The ground vibrates underfoot.[/record]
-A green haze makes your eyes burn.[/record]
-You notice a strong acrid odor.[/end]"
-530,"You step over a half-eaten carcass.[/record]
-Harpy feathers are everywhere.[/record]
-You almost gag on a foul stench.[/end]"
-531,"A loose paving stone nearly trips you.[/record]
-Your path is flanked by toppled masonry.[/record]
-You pass overgrown fields.[/end]"
-532,"Even the insects have fallen silent.[/record]
-You push through a huge spider web.[/record]
-Large spiders scuttle from your path.[/end]"
-533,"Footprints are everywhere. BIG footprints.[/record]
-You pass several uprooted trees.[/record]
-A huge bonfire smolders nearby.[/end]"
-534,"The ground is blackened by fire.[/record]
-It is definitely getting warmer.[/record]
-You pass a charred skeleton.[/end]"
-535,"You pass a smoldering campfire.[/record]
-A sign warns, ""Trespassers Beware"".[/record]
-An owl hoots softly nearby.[/end]"
-536,"Steam rises from cracks in the earth.[/record]
-A hot spring bubbles nearby.[/record]
-A path winds off among the boulders.[/end]"
-537,"You pass a shallow sandy pit.[/record]
-Scorpion tracks crisscross the area.[/record]
-A loud rustling startles you.[/end]"
-538,"You smell freshly buried dead.[/record]
-Wagon ruts lead off a ways.[/record]
-White flowers litter the path.[/end]"
+507,"A rune is scratched in the dirt.[/record] You feel a vague sense of unease.[/record] You see movement in the underbrush.[/end]"
+508,"A strange silence envelops you.[/record] A flock of ravens passes overhead.[/record] Dry bones are littered everywhere.[/end]"
+509,"You notice an acrid odor.[/record] Your eyes suddenly sting.[/record] The ground here vibrates faintly.[/end]"
+510,"Harpy droppings foul the ground.[/record] The scent of carrion hangs in the air.[/record] Large feathers lie scattered about.[/end]"
+511,"You pass a low stone wall.[/record] Paving stones ring underfoot.[/record] Vines cover piles of rubble.[/end]"
+512,"You brush aside huge cobwebs.[/record] Spider webs hang from the trees.[/record] Hmm. No mosquitos.[/end]"
+513,"Huge footprints cross your path.[/record] Smoke rises in the distance.[/record] Gnawed bones litter the ground.[/end]"
+514,"Scorched bones are everywhere.[/record] The trees here are charred by fire.[/record] The air seems warmer here.[/end]"
+515,"You smell woodsmoke.[/record] Someone's been this way recently.[/record] A horse neighs in the distance.[/end]"
+516,"Stone outcroppings dot the area.[/record] You pass several lava boulders.[/record] Everything here is covered with ash.[/end]"
+517,"Something's been digging in the sand.[/record] Those look like scorpion tracks.[/record] What's that rustling sound?[/end]"
+518,"You smell fresh turned earth.[/record] A low, ghostly moan shivers by.[/record] A crow caws in the distance.[/end]"
+520,"A ghostly wail shatters the silence.[/record] You stumble over a fallen headstone.[/record] An open grave yawns in your path.[/end]"
+521,"You smell orcs.  Definitely orcs.[/record] Orcs have trampled the ground here.[/record] A harsh yell brings you up short.[/end]"
+522,"Someone's cleared the underbrush here.[/record] You pass a stack of firewood.[/record] A bird calls nearby.[/end]"
+523,"A bell tolls nearby.[/record] A rotting corpse hangs from a tree.[/record] A despairing cry rings out.[/end]"
+524,"You pass a row of fallen columns.[/record] Vines cover jumbled stones here.[/record] A headless statue lies in the dust.[/end]"
+525,"You clamber over piles of gravel.[/record] A deep pit almost blocks your path.[/record] You pass a heap of rusting shovels.[/end]"
+526,"A dank breeze ruffles your hair.[/record] A spring bubbles from the ground.[/record] That looks like a path.[/end]"
+527,"Blood soaks the earth here.[/record] You feel you are being watched.[/record] You pass a trampled circle in the dirt.[/end]"
+528,"A huge bat flaps slowly overhead.[/record] A wolf howls, not far away.[/record] The air is still and oppressive.[/end]"
+529,"The ground vibrates underfoot.[/record] A green haze makes your eyes burn.[/record] You notice a strong acrid odor.[/end]"
+530,"You step over a half-eaten carcass.[/record] Harpy feathers are everywhere.[/record] You almost gag on a foul stench.[/end]"
+531,"A loose paving stone nearly trips you.[/record] Your path is flanked by toppled masonry.[/record] You pass overgrown fields.[/end]"
+532,"Even the insects have fallen silent.[/record] You push through a huge spider web.[/record] Large spiders scuttle from your path.[/end]"
+533,"Footprints are everywhere. BIG footprints.[/record] You pass several uprooted trees.[/record] A huge bonfire smolders nearby.[/end]"
+534,"The ground is blackened by fire.[/record] It is definitely getting warmer.[/record] You pass a charred skeleton.[/end]"
+535,"You pass a smoldering campfire.[/record] A sign warns, ""Trespassers Beware"".[/record] An owl hoots softly nearby.[/end]"
+536,"Steam rises from cracks in the earth.[/record] A hot spring bubbles nearby.[/record] A path winds off among the boulders.[/end]"
+537,"You pass a shallow sandy pit.[/record] Scorpion tracks crisscross the area.[/record] A loud rustling startles you.[/end]"
+538,"You smell freshly buried dead.[/record] Wagon ruts lead off a ways.[/record] White flowers litter the path.[/end]"
 550,"도둑 길드에서 재판관에 뇌물을 줬고,[/center]무죄가 판결 되었습니다.[/center][/end]"
 551,"다크브라더후드에서 재판관에게 뒷돈을 건넸고,[/center]판결은 무죄가 되었습니다.[/center][/end]"
 600,"음, 일이 있긴 했습니다만,[/center]파이터 길드에 맡겼습니다.[/record]그 입 가벼운... 그 누구가[/center]제가 도움이 필요하다고 떠벌렸나 봅니다.[/center]아무 도움도 필요 없습니다.[/record]너무 늦었습니다. 일은 다른[/center]마검사에게 맡겼습니다.[/center][/record]아, 일이 있었긴 했습니다만.[/center]일이 알아서 풀렸습니다. 어쨌든 고맙군요.[/center][/end]"
@@ -378,14 +316,14 @@ Bearded [/end]"
 882,"The Crusaders are the knights of Stendarr, God of Mercy. They protect the Temples of Stendarr and act as his compassionate blade when the situation demands.[/end]"
 883,"The Kynaran Order is composed of knights who have dedicated themselves mind, body, and sword to the Goddess of the Air, Kynareth. They are most often in the company of Her priests of the Temple of Kynareth.[/end]"
 884,"The Knights of the Dragon are composed of the finest knights of the Daggerfall militia, bound together by vows of service to the royal family and kingdom.[/end]"
-885,The Order of the Candle is the knightly order charged with the protection of the royal family and kingdom of Sentinel.[/end]
-886,The Knights of the Rose are consecrated as protectors and warriors for the royal family and kingdom of Wayrest.[/end]
+885,"The Order of the Candle is the knightly order charged with the protection of the royal family and kingdom of Sentinel.[/end]
+886,"The Knights of the Rose are consecrated as protectors and warriors for the royal family and kingdom of Wayrest.[/end]
 887,"The Knights of the Flame have been affiliated with the royal Flyte family for centuries, and now they have become the protectors of the land of Anticlere.[/end]"
 888,"The Host of the Horn is composed of the finest knights of Lainlyn, bound by oaths to protect and serve the Barony of Lainlyn and its ruling family.[/end]"
 889,"The Knights of the Owl are the traditional guard and militia of Glenpoint, the finest in the region.[/end]"
-890,The Order of the Raven has been the consecrated protector of the Barony of Dwynnen for hundreds of years.[/end]
-891,The Knights of the Wheel protect and serve the people and ruling family of Abibon-Gora. They are among the finest knights in Hammerfell.[/end]
-892,The Order of the Scarab is composed of knights charged by holy oaths with the protection of the royal family and land of Totambu.[/end]
+890,"The Order of the Raven has been the consecrated protector of the Barony of Dwynnen for hundreds of years.[/end]
+891,"The Knights of the Wheel protect and serve the people and ruling family of Abibon-Gora. They are among the finest knights in Hammerfell.[/end]
+892,"The Order of the Scarab is composed of knights charged by holy oaths with the protection of the royal family and land of Totambu.[/end]
 893,"The Knights of the Hawk are chosen from the finest, noblest warriors in Antiphyllos, to protect and fight for the royal family and people of the land.[/end]"
 894,"미의 여신을 모시는 사원으로 디벨라의 집이라고 부릅니다. 정신과 물질적인 형태로서의 미를 숭상하는 성직자들로 쾌락을 추구하고 난잡한 자들입니다.[/end]"
 900,"Fowls in the wood[/record] I would if I could[/record] O, that would be good[/record] Let us do as we should[/record] Would you, would you, would?[/record] Does your sword so drip with blood?[/record] Like a babe in the wood[/record] I saw thee in my neighborhood[/record] Knock, knock, knock on wood[/record] Love, why cannot I be good?[/record] The stem, petals, and bud[/record] Just one face in the crowd[/record] I pick thee out of the crowd[/record] Sing it now, sing it loud![/record] Why must thou cry out loud?[/record] My love, my love, be not proud[/record] My love, I fear, is very proud[/record] Lay upon my grave a shroud[/record] The clouds look like a gray shroud[/record] Praps I am somewhat over-endowed[/record] He remembered her from his boyhood[/record] Such innocence is left in childhood[/record] My love, that is but a falsehood[/record] Eat, love, of ivy and monkshood[/record] Much more my love hath withstood[/record] Your words to me are wormwood[/record] Far more than that I understood[/record] Am I now better understood?[/record] Why must I be misunderstood?[/record] Perhaps, dear, I misunderstood[/end]"
@@ -1211,7 +1149,7 @@ You remember your father talking about an evil[/left] Battlemage, Jagar Tharn, h
 5423,"I guard the Way. Speak only my name,[/center] and I shall grant you passage.[/center][/end]"
 5424,"Command me and entry shall be yours.[/center][/end]"
 5464,"All are free to petition his highness at[/center] this time. Do not stray from the audience[/center] chamber lest ye have royal blessing to do so.[/center] Always speak politely to the king and queen,[/center] and above all, cast no spells while within[/center] these walls. Do ye agree with these terms?[/center][/end]"
-5656,Answers start here. (do not translate)[/end]
+5656,"Answers start here. (do not translate)[/end]"
 5660,"""Bow,bow and arrow,crossbow,bows,crossbows""[/end]"
 5662,"""One,1""[/end]"
 5679,"""Benefactor,the Benefactor""[/end]"
@@ -1861,7 +1799,7 @@ Good day to you, %pcf.[/record]
 Grand to see you, %pcf.[/record]
 I'm happy to see you, %pcf.[/record]
 Ah, %pcf, hello. Always a pleasure.[/end]"
-7210,Comment already copied to notebook.[/end]
+7210,"Comment already copied to notebook.[/end]"
 7211,"work possibilities[/record] good, semi-honest work[/record] opportunities for profit[/record] lucrative business opportunities[/record] gainful employment[/record] employment[/record] a bit of toil and grind[/end]"
 7212," %1com. %key 에 대한 이야기를 듣고 싶습니다.[/record] %1com. %key 에 대한 정보를 알려준다면 고맙겠습니다.[/record] %1com. %key 에 대한 아무 정보라도 알려주면 감사하겠습니다.[/record] %1com. %key 에 대해 아는게 없는지 물어보고 싶습니다.[/record] %1com. %key 에 대해 알려주면 좋겠습니다.[/record] %1com. %key 의 현재 상태를 알려주시면 좋겠습니다.[/record] %1com. %key 에 대한 정보를 알고 있는걸로 아는데 알려주십시오.[/end]"
 7213,"%1com. What can you tell me about %key?[/record] %1com. I am seeking information on %key.[/record] %1com. What do you know about %key?[/record] %1com. I need to know about %key.[/record] %1com. Do you know anything about %key?[/record] %1com. What does %key mean to you?[/record] %1com. Talk to me about %key.[/record] %1com. You must know something about %key.[/end]"
@@ -2211,7 +2149,7 @@ not too far to the %di, if you don't mind walking[/record]
 %di of here, unless I'm mistaken[/record]
 %di of here, I think[/record]
 %di, with a bit of a walk[/end]"
-7700,Start inserting action type 99 here... (do not translate)[/end]
+7700,"Start inserting action type 99 here... (do not translate)[/end]"
 7701,"A bored guard says ""Only castle staff and[/center]
 trusted guests are allow beyond those doors.""[/center]
 [/end]"
@@ -3120,7 +3058,7 @@ Your breath stinks. Get away from me.[/center]
 [/end]"
 8570,"만나서 반갑습니다, 낯선 분.[/center][/end]"
 8571,"Why would I help a complete stranger,[/center] especially one with your reputation?[/center] [/record] I despise your kind. Just go away.[/record] I've heard of you. Nothing good of course. Get lost.[/record] I don't have time for your type.[/record] Me? Help you? Ha-ha-ha![/end]"
-8600,Insert action type 11 here... (do not translate)[/end]
+8600,"Insert action type 11 here... (do not translate)[/end]"
 8604,"A familiar voice laughs mockingly,[/center] ""So, %pcn, come to pay[/center] your respects properly at last?""[/center][/end]"
 8605,"Hear me:[/center] The Blind God is a jealous god.[/center] Let His true servants lift up their eyes[/center] unto Him, and the Way will be easy.[/center] Hear me![/center][/end]"
 8607,"Ah, at last!  I was beginning to think you[/center] wouldn't get this far.  A dreary place, don't[/center] you agree?  And guarded by a pompous upstart--[/center] he's no more a god than I am.  Well, carry on.[/center] We will meet again soon, unless you are not as[/center] foolhardy as you appear.[/center][/end]"
@@ -3606,9 +3544,9 @@ There is nothing in your victim's pocket except a dull letter from a friend in a
 You pilfer a few pebbles your victim has unaccountably been collecting.[/record]
 All you pilfer from your victim is a contract from a local moneylender for ten gold pieces.[/record]
 The only thing in your victim's pocket was a large ball of cat hair.[/end]"
-9000,Deprecated record.
-9400,Reserved to 9912 for Bruce and Co. (do not translate)[/end]
-9999,Dummy entry. Must always [/end]"
+9000,"Deprecated record."
+9400,"Reserved to 9912 for Bruce and Co. (do not translate)[/end]"
+9999,"Dummy entry. Must always [/end]"
 9000.1,"1.   어느 맑은 날 당신은 특이한 동물을 마주쳤다,[/left]
     다리가 사냥꾼의 찰코에 걸려있다. 출혈으로 보건데[/left]
     얼마 살지 못하리라. 당신은:[/left]
