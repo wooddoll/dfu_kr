@@ -1169,14 +1169,14 @@ Bijoutry
 보석 거래
 보석 거래점
 보석 가공점"
-PawnStoresB,"Pawnshop
-Pawnbrokers
-Used Supplies
-Used Gear
-Used Equipment
-Used Merchandise
-Hockshop
-Antiquities"
+PawnStoresB,"전당포
+담보거래점
+중고품
+중고장비
+중고장비
+중고품
+전당포
+골동품"
 FurnitureStoresB,"Furniture
 Furnishings
 Interior Design
@@ -1273,7 +1273,7 @@ daggerfall,대거폴
 wayrest,웨이레스트
 sentinel,센티넬
 palace,궁전
-regionNames,"Alik'r Desert
+regionNames,"알리키어 사막
 Dragontail Mountains
 Glenpoint Foothills
 Daggerfall Bluffs
