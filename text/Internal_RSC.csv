@@ -468,8 +468,8 @@ Key,Value
 1479,"A state of war exists between %fx1[/center] and %fx2. Any foreign citizen of the enemy[/center] found within this place will be hanged.[/center] -- %nrn[/center] [/record] %fx1 is at war with %fx2.[/center] All visitors may be subject to search.[/center] [/record] By the order of %nrn, for the duration[/center] of the war between %fx1 and %fx2,[/center] military rule is in effect.[/center] [/end]"
 1480,"The noble ruler, %ol1 %olf.[/center] Long live %fl1, newly made %lt1 of %reg.[/center] [/record] %fl1 has ascended to the throne and [/center] is the new %lt1. Long may %fl1 rule over %reg.[/center] [/record] %fl1 is the new %lt1 of %reg.[/center] [/end]"
 1481,"%fx2 is formally allied to %fx1.[/center] [/record] %fx1 and %fx2 have signed an agreement.[/center] [/record] %fx1 has formal relations with %fx2.[/center] [/end]"
-1482,"Any person from %fx2 will be persecuted[/center] to the full extent of the law. -- %nrn[/center] [/record] Persons of %fx2 are to be[/center] detained upon sight. -- %nrn[/center] [/record] For crimes against %reg, %fx2[/center] is the sworn enemy of %nrn.[/center] [/end]"
-1483,"By order of %nrn, all taxes[/center] must be paid by the end of the month.[/center] [/record] All weapons must be peace bonded.[/record] Magic is strictly prohibited in town.[/center] [/record] All merchants transporting ale[/center] must report to the Captain's tower.[/center] [/record] %n is an enemy of %reg.[/center] Sightings of this criminal are[/center] to be reported to the watch.[/center] [/end]"
+1482,"Any person from %fx2 will be persecuted[/center] to the full extent of the law. -- %nrn[/center] [/record]%fx2 사람은 발견 즉시 구금을 명한다. -- %nrn[/center] [/record]%reg 에서 행한 범죄로,[/center]%fx2,[/center]이들이 %nrn 의 공적임을 알린다.[/center] [/end]"
+1483,"%nrn 의 명에 따라,[/center]모든 세금은 월말 까지 모두 납부돼야 한다.[/center] [/record]모든 무기는 무기집에서 빼면 안됨.[/record]마을에서 마법 엄격히 금지.[/center] [/record]에일을 수송하는 모든 상인은[/center]경비대장의 경비탑에 반드시 신고해야 한다.[/center] [/record] %reg 의 적 %n .[/center] 이 범죄자를 목격시 경비에게 신고할 것.[/center] [/end]"
 1500,"마비[/center] 대상을 마비시킵니다.[/center] 시간: 마비가 지속되는 시간.[/center] 확률: 대상이 마비될 확률.[/center] 세기: 해당없음[/center][/end]"
 1501,"마비[/center] 대상을 마비시킵니다.[/center] 시간: 마비가 지속되는 시간.[/center] 확률: 대상이 마비될 확률.[/center] 세기: 해당없음[/center][/end]"
 1502,"마비[/center] 대상을 마비시킵니다.[/center] 시간: 마비가 지속되는 시간.[/center] 확률: 대상이 마비될 확률.[/center] 세기: 해당없음[/center][/end]"
@@ -686,7 +686,7 @@ Key,Value
 3503,"반갑소, %pcf. 오늘 우리는 오블리비언에서 %dts 소환을 행할 것이오.[/center]이는 많은 비용이 드는 일이기에, 금화 %a 닢을 청구해야만 합니다. 동의하겠습니까?[/center][/record]오늘 우리는 오블리비언의 틈새로 뻗어 사악한 영혼들인 데이드라 군주 %dts 의 문두스 소환을 할 것입니다. 이 소환은 금화 %a 닢이 필요합니다.[/center][/end]"
 3504,"안녕하십니까, %pcf 분. 오늘 밤 오블리비언의 깊은 곳에서 %dts 의 소환 의식을 거행할 것입니다.[/center]보통 금화를 받아야 하지만 당신 같은 충직한 자에게는 내야할 요금 같은 것은 없습니다.[/center]시작하시겠습니까?[/center][/record]아, %pcf 친구. 오늘 밤에는 오블리비언의 틈새에서 사악한 데이드라 군주 %dts 의 문두스 소환을 진행할 것입니다.[/center]무상으로 진행하겠습니다. 시작합니까?[/center][/end]"
 3506,"잘 알겠습니다, %pcn. 마음이 바뀌었다면, 다시 오십시오. 의식은 언제든 할 수 있습니다.[/center][/record]거부하겠습니까? 음, 원한다면 다시 오도록 하십시오. 준비가 되었다면 %dts 의 소환은 언제든 가능합니다.[/center][/end]"
-3507,"No? If you change your mind, return to[/center] me tonight. Tomorrow portents will not[/center] allow me to complete this summoning.[/center] [/record] It is a fearful enterprise indeed. If[/center] you wish, you can return later tonight,[/center] but tomorrow will be a day too late to[/center] summon the Daedra %dts.[/center][/end]"
+3507,"하지 않겠습니까? 생각이 바뀌면, 오늘밤 저에게 다시 오십시오. 내일의 예지로는 소환을 완료할 수 없을 것 같습니다.[/center] [/record]분명 쉽게 결정할 수 없는 문제입니다. 시도를 원한다면 오늘밤 다시 오십시오. 내일은 데이드라 %dts 의 소환에 너무 늦습니다.[/center][/end]"
 3508,"소환은 실패 했소.[/center][/record]오늘밤은 %dts 의 응답이 없었소[/center]내 사과를 받아주시오.[/center][/end]"
 3509,"Tonight the portents are not kind for[/center]a safe summoning, %pcf. If[/center]you would like to be present for the[/center]summoning of %dts, return[/center]on %dfs.[/center][/record]We are not summoning %dts[/center]this evening. Return on %dfs[/center]if you want to be present for the[/center]summoning.[/center][/end]"
 4000,"텔레포트 와 위치지정 중 어느 것을 합니까?[/center][/end]"
@@ -723,8 +723,8 @@ Key,Value
 4117,"집에서 살던 가장 오래된 기억은 끝없이 떠들썩한 집이었다,[/left] 손님들이 계속 도착하고 다시 떠났으며, 어머니, 아버지와는 서로 따로 보내며[/left] 오랜 시간 어디론가 떠나있곤 했다. 자라면서 당신의 어머니는 실력이 뛰어난[/left] 용병 집단의 일원이었고, 초기에는 무기 다루는 법을 가르치는 훈련관으로[/left] 나중엔 전투 전략 전문가가 된 것을 알게 되었다. 아버지의 관심사는[/left] 전혀 달랐는데, 지역 메이지 길드에서 명망높은 인사였으며, 다양한[/left] 마법의 전문가였다. 아버지는 당신을 아래에 두고 가르치기 시작했고[/left] 곧 %q1[/left] [/left] 당신은 부모가 악한 배틀메이지 제이거 탄에 대해 이야기 하는 것을[/left] 기억하고 있다. 제이거 탄이 정당한 권력자에게서 권력을 빼앗았으며[/left] 아무도 그에게 대항할 수 없는데,[/left] %q2[/left] 당신이 20살이 된 어느날, 한 손님이 집에 와서 한 강대한 영웅이[/left] 제이거 탄을 죽이고 황좌를 정당한 주인인 황제께 돌려드렸다는[/left] 소식을 알려주었다.[/left] [/left] 집에 오던 손님들은 임페리얼 시티에서 큰 축하행사가 있을 것이라고[/left] 전해주었다. 배달부가 떠난후, 당신은 부모님께 축전에 가도 되는지를[/left] 물어보았다. 어머니와 아버지는 한동안 고심히 논의를 했고, 네 스스로 세상으로[/left] 나아갈 때가 되었다고 했다. 당신에게 어머니는 %q4[/left] 그리고 아버지는 특이한 지팡이를 쥐어줬고, 임페리얼 시티의 축하행사로[/left] 출발하라고 했다.[/left] [/left] 며칠 간의 여행 이후, 수도인 임페리얼 시티에 거의 다 도착하게 되었다. 조금 앞에 한 무리의 여행자들이 있는 것을 보았다. 여행자들과 만나자마자, 길옆의 숲에서 엎드려 있던 도적들의 공격을 받았다. 도적 중[/left] 하나가 소검을 쥐어 들고 당신을 향해 내리쳤다. 채 의식하기도 전에[/left] 반사적으로 들고 있던 아버지가 주신 지팡이를 들어 검을 막았다.[/left] 소검과 지팡이가 닿는 순간 강력한 전기의 빛이 지팡이에서 뿜어져 나왔고[/left] 두 무기가 깨져버렸다. 도적들과 여행자들 모두가 멈춰 당신을 쳐다보았다.[/left] 천둥소리가 가라앉자, 도적들은 숲으로 도망쳤다.[/left] 당신은 구해준 것을 고마워 하는 여행자들에게 둘러싸였다.[/left] 여행자들은 황가의 일원으로 주변국을 방문했다가 축하행사에 참여하기 위해[/left] 임페리얼 시티로 돌아가는 중이며, 반드시 자신들과 같이 궁전에 가서[/left] 황제를 알현해야 한다고 했다.[/left] [/left] 황제는 당신의 용기에 깊이 감명받았고, 황가의 일원을 구해준 것에 대해 고마움을 표했다. 황제는 당신을 축제행사에 정식으로 초대하면서 %q5 하사했다.[/left] 축하 행사는 몇 주간 계속되었고, 황제는 종종 비공식적으로 당신을 불러[/left] 대화를 나누었고, 당신은 황제를 알현하지 않을 때는,[/left] %q2a 시간을 보냈다.[/left] 어느 밤 황제에게 호출을 받았다. 밤을 고려할 때 심상치 않은 일임을[/left] 알 수 있었다. 황제는 서재에서 당신을 맞으며 부탁할 것이 있다고 했다.[/left][/end]"
 4118,"당신의 어린 시절은 섬세함이라고는 거의 없었다. 어머니는 아름다운 만큼 가차 없는 사람이었고, 만족하지 못하면 혹독한 분노를 보이곤 했다. 아버지 역시 비슷하게 흉포한 사람이었다. 당신은 부모에게서 매지카 그 자체의 순수한 힘을 다루고 사용하는 많은 방법을 배웠다. 이 파괴적인 에너지는 쓰지 않을 수 없는 것이며 어떻게 써야 할지 만이 문제인 것이였다. 종종 새로운 것을 알려고 다른 학파의 마법인 %q1 에 관해 배우기도 했지만, 파괴마법이 당신의 주특기였다. 부모가 제국 배틀메이지 제이거 탄에 대해 이야기 한 것을 기억하고 있다, 그는 황제의 황좌를 빼앗았으며, 누구도 그에게 거스르지 못했다. 그들 자신이 배틀메이지 였기 때문이었을까, 양친 모두 탄의 성공을 시샘했다. %q2. 당신이 20세가 된 어느 날, 한 손님이 집에 찾아와 어느 강대한 영웅이 제이거 탄을 처치하고, 쫓겨났었던 황제를 되찾았다는 소식을 전해주었다. 황좌가 제자리를 찾았다는 소식을 들은 양친은 약간의 실망감을 드러낼 뿐이었다. 또한 그 방문자는 임페리얼 시티에서 아주 큰 축하 행사가 있을 것이라는 소식도 전했다. 그가 떠난 후, 당신은 부모님께 축하연에 가도 될지를 물었다. 어머니와 아버지는 한동안 깊이 이야기를 했고, 네가 세상으로 나가볼 때가 되었다고 했다. 당신에게 어머니는 %q4 아버지는 아주 특이한 지팡이를 주었다, 임페리얼 시티의 축하 행사로 출발하라고 했다. 며칠 간의 여행 이후, 수도인 임페리얼 시티에 거의 다 도착하게 되었다. 조금 앞에 한 무리의 여행자들이 있는 것을 보았다. 여행자들과 만나자마자, 길옆의 숲에서 엎드려 있던 도적들의 공격을 받았다. 도적 중 하나가 소검을 쥐어 들고 당신을 향해 내리쳤다. 채 의식하기도 전에 반사적으로 들고 있던 아버지가 주신 지팡이를 들어 검을 막았다. 소검과 지팡이가 닿는 순간 강력한 전기의 빛이 지팡이에서 뿜어져 나왔고 깨져버렸다. 도적들과 여행자들 모두가 멈춰 당신을 쳐다보았다. 천둥소리가 가라앉자, 도적들은 숲으로 도망쳤다. 당신은 구해준 것을 고마워 하는 여행자들에게 둘러싸였다. 여행자들은 황가의 일원으로 주변국을 방문했다가 축하 행사에 참여하기 위해 임페리얼 시티로 돌아가는 중이며, 반드시 자신들과 같이 궁전에 가서 황제를 알현해야 한다고 했다. 황제는 당신의 용기에 깊이 감명받았고, 황가의 일원을 구해준 것에 대해 고마움을 표했다. 황제는 당신을 축제 행사에 정식으로 초대하면서 %q5 하사했다. 축하 행사는 몇 주간 계속되었고, 황제는 종종 비공식적으로 당신을 불러 대화를 나누었고, 당신은 황제를 알현하지 않을 때는, %q2a 시간을 보냈다. 어느 밤 황제에게 호출을 받았다. 밤을 고려할 때 심상치 않은 일임을 알 수 있었다. 황제는 서재에서 당신을 맞으며 부탁할 것이 있다고 했다.[/left][/end]"
 4119,"당신의 부모는 서로 조화롭게 어울리는 사람으로, 둘 다 소서러이자 교육자였다. 어머니는 %q1 교육에 세심한 노력을 기울였으나, 아버지는 좀 더 극적인 방법을 사용했다. 능력이 더 성장하자 어머니는 당신에게 주문을 가르쳤고, 아버지는 세상에 퍼져있는 매지카를 끌어모아 그 힘을 사용해 주문을 구사하는 방법을 보여줬다. 아버지가 말하길, 우리들은 스스로 몸에서 매지카를 재생하지 못한다고 했다. 아버지가 방안에 들어오며 당신에게 번개 주문을 쓰는 일이 예사였다. 무섭긴 했지만, 매지카가 차오르는 좋은 고양감을 느꼈다. 성장하면서 당신의 마법적 능력은 뛰어난 것이 명확해졌다. 곧 자신을 %q1a. 당신은 사악한 배틀메이지 제이거 탄에 대해 양친이 대화를 나눈 것을 기억하고 있다. 그는 황좌를 황제에게서 찬탈했으며, 누구도 그에게 대항하지 못했다. %q2. 20세가 된 어느 날, 배달부가 와서 한 강력한 영웅이 제이거 탄을 죽이고 황좌를 합당한 주인인 황제께 돌려드렸다는 소식을 전했다. 그 완고하던 당신의 아버지 조차 기쁨에 거의 눈물을 흘릴뻔 했다. 배달부는 임페리얼 시티에서 거대한 축하행사가 있을 것이라는 소식도 알려줬다. 탄을 처단하기 위해 비밀리에 노력한 자들도 초대 되었다고 했다. 배달부가 떠난 후 당신은 부모님께 참석하러 가도 되는지를 물었고 어머니와 아버지는 걱정스럽게 바라보며 우리 셋이 같이 가기에는 금화가 부족하다 말해주었다. 실망했지만, 당신은 실망감을 감추려 했다. 그러나 아버지가 당신쪽으로 몸을 돌려 네가 세상으로 발을 내딪을때가 되었다고 말했다. 아버지는 %q4 와 아주 특이한 지팡이를 주며 임페리얼 시티로 행사 참석을 위해 여행을 보냈다. 수일간의 여행을 거쳐서, 수도인 임페리얼 시티에 가까워질 수 있었다. 당신은 약간 앞에 여행자들이 있는 것을 알았다. 인사를 건네려고 하려는 참에 길옆의 숲에서 엎드려 있던 도적들이 그들을 공격했다. 도와줄 생각으로 뛰어가자 마법사가 확실해 보이는 도적 하나가 지팡이를 들어 당신을 향해 주문을 시전했다. 파이어볼트에 맞자 귀가 먹먹했지만, 매지카는 몸에 흡수되었고 당신은 강력한 쇼크 마법을 시전했다. 전기가 도적 마법사에게 맞자, 마법사는 불기둥에 휩싸여 한줌의 재로 변했다. 도적들과 여행자들 모두가 멈춰 당신을 쳐다보았다. 천둥소리가 가라앉자, 도적들은 숲으로 도망쳤다. 여행자들은 당신에게 감사를 표하며 황가의 일원이며 축하연에 참여하기 위해 임페리얼 시티로 돌아가고 있었다고 소개했다. 그리고 황제를 꼭 만나뵈야 한다고 말했다. 황제는 용기에 감명 받았고, 당신의 가족이 황제에 충실한 지지자임을 알게 되었다. 황제에게 %q5 하사 받았다. 축하 행사는 몇 주간 계속되었고 황제는 종종 비공식적으로 당신을 불러 대화를 나누었고, 당신은 황제를 알현하지 않을 때는,%q3. 어느 밤 황제에게 호출을 받았다. 밤을 고려할 때 심상치 않은 일임을 알 수 있었다. 황제는 서재에서 당신을 맞으며 부탁할 것이 있다고 했다.[/left][/end]"
-4120,"당신의 아버지는 %hpw 의 %hpn 에 있는 아주 작은 마을의 치료사였다. 어머니에 대해선 거의 기억나지 않지만, 아름답고, 당신에게 마법을 가르쳐준 친절한 어머니였다. 어머니는 몇가지 기술로 당신과 놀아주었고, 가장 좋아했던 것은 %q1 였다. 어머니는 아버지의 치료 노력에도 전염병에 깊이 시달리다 죽고 말았다. 어머니는 당신에게 치료마법을 배웠으면 좋겠다고 했고, 당신은 아버지를 뛰어넘도록 하겠다고 약속했다. 성장하면서 당신의 마법적 능력은 뛰어난 것이 명확해졌다. 곧 자신을 %q1a. 아버지가 사악한 배틀메이지 제이거 탄에 대해 말한 것이 기억난다, 탄은 정당한 권력자로부터 황좌를 빼앗았다고 했다. 
-You remember your father talking about an evil[/left] Battlemage, Jagar Tharn, how it was known in his circle[/left] that he had usurped the power of the land away from its[/left] rightful ruler. No one dared to move against him.[/left] %q2.[/left] One day in your twentieth year, a courier arrived at your[/left] house with the news that a powerful hero had killed[/left] Jagar Tharn and restored the rightful Emperor to the throne.[/left] Your tender-hearted father openly wept with joy at the news.[/left] [/left] The courier also brought the news that there would be a great[/left] celebration in Imperial City and that all the people who had[/left] worked secretly to depose Tharn were invited. Once the[/left] courier left, you asked your father if you could go to the[/left] celebration. Your father turned to you and said[/left] that it was time you made your own way in the world. He gave[/left] you %q4 and a very unusual staff[/left] and sent you on your way to the Imperial City and the[/left] celebration.[/left] [/left] After many days of travel, you approached the capital of the[/left] realm, the Imperial City. You noticed a small band of[/left] travelers only a short distance in front of you. As you were[/left] about to hail them they were attacked by brigands who had[/left] been lying in wait in the woods along the road. You rushed[/left] to help the other travelers. As you approached one of the[/left] brigands raised his short sword to strike you. In a natural[/left] reflex, you tried to deflect the blow with the staff your[/left] father gave you. As the sword struck the staff, a great bolt[/left] of lightning erupted from it and both weapons shattered. The[/left] brigands and the travelers all stopped and stared at you.[/left] As the thunder subsided, the brigands ran back into the[/left] woods. You were mobbed by the travelers who thanked you[/left] profusely for saving them, members of the Imperial Family[/left] who had been visiting in the country and were returning to[/left] the Imperial City for the celebrations. They insisted that[/left] you come with them to the palace and have an audience with[/left] the Emperor.[/left] [/left] The Emperor was very impressed by your bravery and knew[/left] your family as loyal supporters of the Empire. He presented[/left] you with %q5. The celebrations continued for weeks,[/left] and the Emperor often called on you for informal talks.[/left] When you were not in audience, you usually spent your time[/left] %q2a.[/left] One night you were called to the Emperor's presence in a[/left] manner such that you knew the business was serious. He[/left] met you in his study and there told you he had a favor[/left] to ask.[/left] [/end]"
+4120,"당신의 아버지는 %hpw 의 %hpn 에 있는 아주 작은 마을의 치료사였다. 어머니에 대해선 거의 기억나지 않지만, 아름답고, 당신에게 마법을 가르쳐준 친절한 어머니였다. 어머니는 몇가지 기술로 당신과 놀아주었고, 가장 좋아했던 것은 %q1 였다. 어머니는 아버지의 치료 노력에도 전염병에 깊이 시달리다 죽고 말았다. 어머니는 당신에게 치료마법을 배웠으면 좋겠다고 했고, 당신은 아버지를 뛰어넘도록 하겠다고 약속했다. 성장하면서 당신의 마법적 능력은 뛰어난 것이 명확해졌다. 곧 자신을 %q1a. 아버지가 사악한 배틀메이지 제이거 탄에 대해 말한 것이 기억난다, 탄은 정당한 권력자로부터 황좌를 빼앗았고, 누구도 그에에 거역할 수 없었다.[/left] %q2.[/left] 당신이 20살이 된 어느 날, 배달부가 집에 찾아와 한 강대한 영웅이 제이거 탄을 처단하고 정당한 주인이신 황제께 황좌를 돌려드렸다는 소식을 전했다. 여린 마음을 가졌던 아버지는 그 소식에 눈물을 흘렸다. [/left] [/left] 배달부는 이어 임페리얼 시티에서 아주 큰 축하 행사가 있을 것이라고 했으며 탄을 처단하기 위해 비밀스럽게 노력한 모든 이가 초대 되었다고 했다. 배달부가 떠난 후, 당신은 아버지께 축하연 참석을 물어봤다. 아버지는 몸을 돌려 이제 세상으로 나아가 봐야 할 때가 왔다고 했다. 아버지는 당신에게 %q4 그리고 아주 특이한 지팡이를 하나 주며 임페리얼 시티에서 열릴 축하행사로 여행을 보냈다.[/left] [/left] 몇일 간 여행을 거쳐서 제국의 수도인 임페리얼 시티에 거의 도착하게 되었다.
+ You noticed a small band of[/left] travelers only a short distance in front of you. As you were[/left] about to hail them they were attacked by brigands who had[/left] been lying in wait in the woods along the road. You rushed[/left] to help the other travelers. As you approached one of the[/left] brigands raised his short sword to strike you. In a natural[/left] reflex, you tried to deflect the blow with the staff your[/left] father gave you. As the sword struck the staff, a great bolt[/left] of lightning erupted from it and both weapons shattered. The[/left] brigands and the travelers all stopped and stared at you.[/left] As the thunder subsided, the brigands ran back into the[/left] woods. You were mobbed by the travelers who thanked you[/left] profusely for saving them, members of the Imperial Family[/left] who had been visiting in the country and were returning to[/left] the Imperial City for the celebrations. They insisted that[/left] you come with them to the palace and have an audience with[/left] the Emperor.[/left] [/left] The Emperor was very impressed by your bravery and knew[/left] your family as loyal supporters of the Empire. He presented[/left] you with %q5. The celebrations continued for weeks,[/left] and the Emperor often called on you for informal talks.[/left] When you were not in audience, you usually spent your time[/left] %q2a.[/left] One night you were called to the Emperor's presence in a[/left] manner such that you knew the business was serious. He[/left] met you in his study and there told you he had a favor[/left] to ask.[/left] [/end]"
 4121,"Though your childhood was similar to that of other[/left] %ra children you knew, at age 10, your[/left] father thought you ready to begin learning thieving[/left] skills. You spent many happy hours in his work shop,[/left] practicing initially %q1.[/left] Your skills developed slowly at first, and your father[/left] seemed to have to suppress his impatience at times.[/left] [/left] You applied yourself to your training more diligently[/left] than ever. It gradually became apparent to both you[/left] and your father that while you certainly would[/left] become a competent thief given time, you would never[/left] achieve his level of mastery.[/left] [/left] While you were studying %q3 techniques[/left] with your father, your mother began to teach you, in[/left] her quiet way, the use of magicka. It did not[/left] take long to determine that you had some definite[/left] potential. You discovered that you could use both[/left] sciences together, using the discipline from[/left] your %q3 and %q4[/left] training to accelerate your development of[/left] %q2 spells.[/left] [/left] Your mother introduced you to some unusual, non-human[/left] creatures, mostly %q5.[/left] You learned not only not to fear them, but also some of[/left] their language. One in particular, a female named %fn[/left] took a liking to you and trained you further in spells[/left] of %q6 than your mother ever could.[/left] [/left] One night, your father brought you into his shop, a[/left] serious expression on his face. He explained that an[/left] agent of the Emperor himself had approached the[/left] heads of the local Thieves and Mages Guild. He had told[/left] them that the Emperor had heard rumors of a[/left] %q8 named %bn who was supposed to[/left] have been allied with the imperial traitor Jagar Tharn.[/left] The Emperor dared not act against %bn[/left] without proper evidence to verify his illegal actions.[/left] Your father suggested that, as a pair, you two were just[/left] right for the assignment. Excited about the chance[/left] to impress your father as much as the Emperor's reward,[/left] you agreed at once.[/left] [/left] Some nights later, you and your father broke into[/left] %bn's study and began searching for[/left] evidence of conspiracy. A noise out in the hall[/left] nearly caused you to drop the stack of papers you were[/left] carrying. Quickly, as agreed before, you moved off to the[/left] exit route carrying %bn's materials[/left] while your father headed off to provide a distraction. He[/left] gave you a wink and disappeared. You left the castle, and[/left] followed the escape route to your home.[/left] [/left] There, a portly mage and an Imperial courier examined the[/left] materials, and from their reactions, the evidence damned[/left] %bn. You sat with your mother and[/left] fretfully awaited your father's return. The hours turned[/left] to days, and you numbly realized that you would never see[/left] your father again. The receipt of the Emperor's reward[/left] seemed small consolation for your loss.[/left] [/left] Some weeks later, a letter bearing the Imperial seal[/left] arrived at your house. You were requested in the Imperial[/left] City at once.[/left] [/end]"
 4122,"Your parents travelled with a carnival throughout your youth,[/left] so you were exposed to the best and worst of Tamriel. From your[/left] mother you learned how to %q1.[/left] From your father you learned many things -- how to[/left] %q2, to %q3,[/left] and the rudiments of %q4.[/left] All could be used for defense as well as entertainment.[/left] [/left] The years between your tenth and twentieth birthdays are among[/left] the worst Tamriel has ever suffered. The carnival was not such[/left] a happy place, and movement within the land was severely[/left] restricted. Agents of the Emperor would search the countryside[/left] for enemies of the Empire and would question all quite rudely.[/left] You always hoped that such a refugee would make his way to the[/left] carnival, and then one day, one did. When the bedraggled young[/left] man was hidden away, you had your opportunity to have fun with[/left] the Imperial agents. Gleefully, you convinced half of the agents[/left] that you were their commanding officer in disguise and sent[/left] them after the other agents, insisting they were double-[/left] agents. It turned out to be your last prank. You were[/left] shortly after jailed as an enemy of the Emperor.[/left] [/left] When the true Emperor took his throne back from the usurper[/left] Jagar Tharn, all political prisoners, including you, were[/left] released from the dungeons. You and only you were bathed,[/left] dressed in fine clothing, and presented to the Emperor[/left] himself. Emperor Uriel told you that the young man whose[/left] life you saved at the carnival was his own son, the prince[/left] %imp. The Emperor congratulated you on your[/left] ability to charm, confuse, and befuddle and gave you[/left] %q6 as a token of his appreciation.[/left] He also asked you for a special favor.[/left] [/end]"
 4123,"You were born to a peasant family in a tiny village in[/left] the %hpw of %hpn. Your parents and older[/left] brothers were hard workers, proud of their strength and[/left] endurance. The only thing big about you was your appetite.[/left] You were of an inquisitive nature. No cupboard, closet, or[/left] drawer was safe from your prying eyes and fingers. You[/left] left no traces, but still your father and brothers beat[/left] you when they caught you. By the time you were eleven,[/left] they no longer caught you. Your mother taught you[/left] %q1 and %q2, but you had no other[/left] schooling and wanted none.[/left] [/left] Once, you climbed the wall of the local %q3[/left] and spied on the young %q3a at practice. When[/left] their equipment was left lying about you took it for your[/left] own. In this way, you acquired a %q3b.[/left] You also adopted a jacket shed by its owner and wore it[/left] proudly about the village.[/left] [/left] One day, you saw some village boys hurling stones and[/left] insults at an old woman named %fn.[/left] Moved by an impulse you did not understand, you flung[/left] rocks back at the boys. They laughed, but as you drew[/left] near, they turned and ran away. You went back to[/left] %fn and offered to see her to her door.[/left] [/left] ""Come inside,"" %fn said. ""I have[/left] something for you."" Her cottage was just one room, with[/left] cats and kittens everywhere. ""Sit down,"" she said,[/left] removing two cats from a stool. ""I'm going to teach you[/left] about %q4.""[/left] [/left] ""Why?"" you asked.[/left] [/left] ""The cats don't need training in %q4,""[/left] %fn said. ""You do. Or will. No matter.""[/left] [/left] Thus your training began. Her hands could no longer[/left] perform, but her mind was still efficacious. You and[/left] %fn became friends, as well as[/left] student and teacher.[/left] [/left] On your sixteenth birthday, she told you that you must[/left] leave. Your little village was too small for someone of[/left] your talents.[/left] [/left] ""What of you?"" you asked.[/left] [/left] ""I also must move on. Perhaps some day you will visit me[/left] in the Iliac Bay? I would like that. Until then, I have[/left] my memories and my cats.""[/left] [/left] On your way to the Imperial City, you stopped in an inn[/left] and heard that the Emperor was to pass the next day.[/left] Instead of sneaking into a room, you spent the night in[/left] a tree beside the road. You wanted to see the Emperor,[/left] later there would always be chances to[/left] %q12.[/left] [/left] The procession was very splendid indeed, but a nearby[/left] rustle drew your attention. A black clad man was[/left] crouching on a limb ten feet beneath you. You gasped[/left] before you could stop yourself, and he twisted around,[/left] bringing his bow to bear on you. With no time to draw a[/left] weapon, you flung yourself at him, and together you[/left] crashed down on the heads below, just as the Emperor's[/left] carriage drew abreast.[/left] [/left] Hands seized you roughly. You felt dizzy and a trail[/left] of fire burned along your left arm. Poison! Then a white[/left] robed elf muttered an incantation over you. Your arm[/left] cooled and your head cleared. The Emperor himself thanked[/left] you and gave you %q5.[/left] [/left] The local folk treated you to drinks and food and[/left] unaccustomed praise. Later you slipped away and found[/left] that in addition to %q5,[/left] the Emperor had handed you a note inviting you to share an[/left] audience with him at the Imperial Palace. You set out[/left] immediately.[/left] [/end]"
@@ -781,40 +781,40 @@ You remember your father talking about an evil[/left] Battlemage, Jagar Tharn, h
 4196,"갑옷 한 세트를[/end]"
 4200,"탄토 무기술[/record]소검 훈련[/record]단검 전투[/end]"
 4201,"무술[/record]맨손 격투[/record]권투[/end]"
-4202,"axe fighting[/record]hatchet weaponry[/end]"
+4202,"도끼 전투[/record]손도끼 무기술[/end]"
 4203,"몽둥이 전투[/record]몽둥이 전투[/record]둔기 무기술[/record]지팡이 전투[/end]"
 4204,"궁술[/end]"
 4205,"장검[/record]펜싱[/record]검술[/end]"
-4206,"파괴마법[/record] desolation[/record] obliteration[/end]"
-4207,"healing[/record] rejuvenescence[/record] restoration[/end]"
-4208,"illusion[/record] legerdemain[/record] deception[/end]"
-4209,"alteration[/record] transformation[/record] fluctuation[/end]"
-4210,"thaumaturgy[/record] esthetic[/record] sense[/end]"
-4211,"mysticism[/record] occult[/record] eldritch[/end]"
-4212,"religious zealots[/record] maniacal priests[/record] religious fanatics[/end]"
-4213,"malevolent wizards[/record] fanatical warlocks[/end]"
-4214,"misled peasants[/record] cretinous peasants[/record] half-witted farmers[/end]"
-4215,"corrupt knights[/record] oppressive warriors[/record] berserker soldiers[/end]"
-4216,"a bit of extra gold[/record] a hundred gold pieces[/end]"
-4217,"a fascinating book[/record] an intriguing book[/end]"
-4218,"a leather cuirass[/record] a bit of old armor[/end]"
-4219,"clothing fit for nobility[/record] some very fine clothing[/end]"
-4220,"some holy water[/record] a bottle of holy water[/end]"
-4221,"magic studies[/record] studying magic[/end]"
-4222,"weapon studies[/record] studying weaponry[/end]"
-4223,"social climbing[/record] hobnobbing[/record] socializing[/end]"
+4206,"파괴[/record] 황량함[/record] 소멸[/end]"
+4207,"치료[/record] 재생[/record] 회복[/end]"
+4208,"환영[/record] 작은 마법 재주[/record] 기만[/end]"
+4209,"변화마/record] 변형[/record] 변동[/end]"
+4210,"역동[/record] 미학[/record] 감각[/end]"
+4211,"신비학[/record] 주술[/record] 고대주술[/end]"
+4212,"종교적 광신자들[/record] 열광적인 광신 성직자들[/record] 종교적 광신도들[/end]"
+4213,"간악한 마법사들[/record] 광적인 비술사들[/end]"
+4214,"못배운 농민들[/record] 멍청한 농민들[/record] 얼빠진 농부들[/end]"
+4215,"부패한 기사들[/record] 공격적인 전사들[/record] 광포한 병사들[/end]"
+4216,"약간의 금화[/record] 금화 100닢[/end]"
+4217,"훌륭한 책 한권[/record]흥미로운 책 한권[/end]"
+4218,"가죽 흉갑 한벌[/record]오래된 갑옷 한벌[/end]"
+4219,"귀족에게 어울리는 의복[/record]아주 멋진 복장[/end]"
+4220,"성수 약간[/record]성수 한병[/end]"
+4221,"마법 공부[/record]마법에 대한 공부[/end]"
+4222,"무기 공부[/record]무기에 대한 공부[/end]"
+4223,"인맥 쌓기[/record]높은 분들과 인맥쌓기[/record]사람과 많이 어울리기[/end]"
 4224,"slumming[/record] urban adventure[/end]"
 4225,"acrobatics[/record] practicing acrobatics[/record] tumbling[/end]"
-4226,"economics[/record] haggling[/record] studying economics[/end]"
-4227,"perfecting disguises[/record] creating disguises[/record] make-up, costumes[/end]"
+4226,"경제학[/record]흥정[/record]경제학 공부[/end]"
+4227,"변장 연습[/record]변장 만들기[/record]분장,복장[/end]"
 4228,"수영[/end]"
 4229,"대련[/record]권투[/end]"
-4230,"blowing things up[/end]"
+4230,"물건 날려버리기[/end]"
 4231,"질병을 치료[/end]"
 4232,"환영을 만들어 내기[/end]"
-4233,"transforming objects[/record]transubstantiation[/end]"
-4234,"performing miracles[/record] seeing beyond this reality[/end]"
-4235,"exploring the unknown[/end]"
+4233,"물체를 변화시키기[/record]transubstantiation[/end]"
+4234,"기적을 행함[/record]현실 너머를 이해[/end]"
+4235,"미지를 탐험함[/end]"
 4236,"단검[/record] 탄토[/record] 숏소드[/end]"
 4237,"복싱[/record] 스파링[/record] 전투[/end]"
 4238,"배틀엑스[/record] 워엑스[/record] 도끼[/end]"
@@ -1009,7 +1009,7 @@ You remember your father talking about an evil[/left] Battlemage, Jagar Tharn, h
 4761,"The Bandit God[/end]"
 4762,"speak with the Wild Elves[/end]"
 4763,"commune with the Faerie[/end]"
-4764,"speak the Harpies tongue[/end]"
+4764,"하피어로 말하기[/end]"
 4765,"converse with the Giants[/end]"
 4766,"talk (a bit!) to Dragons[/end]"
 4767,"speak somewhat with Nymphs[/end]"
@@ -1707,17 +1707,10 @@ All right, %pcf. You have one minute of my time.[/record]
 What the hell do you want, %pcf?[/record]
 %oth, just what I need. What?[/end]"
 7207," 무엇을 도와드릴까요, 외지분?[/record] 어떻게 도와드릴까요, 외지분?[/record] 네?[/record] 뭔가 필요하십니까?[/record] 안녕하십니까.[/record] 날이 좋습니다.[/record] 무슨 일입니까?[/record] 뭘 원하시는지요?[/end]"
-7208,"안녕하십니까, %pcf.[/record]뭘 도와드릴까요, %pcf?[/record]아, 오늘 괜찮게 보내고 계십니까?[/record]만나서 반갑습니다, %pcf. 뭘 도와드릴까요?[/record]아, 안녕하십니까, %pcf.[/record]날이 좋습니다, %pcf.[/record]안녕하십니까.[/end]"
-7209,"A warm hello to you, good %pcf.[/record]
-It warms my heart to see you, %pcf.[/record]
-Ah, excellent company. Good day, dear friend.[/record]
-%oth! Good to see you, %pcf.[/record]
-Good day to you, %pcf.[/record]
-Grand to see you, %pcf.[/record]
-I'm happy to see you, %pcf.[/record]
-Ah, %pcf, hello. Always a pleasure.[/end]"
-7210,"Comment already copied to notebook.[/end]"
-7211,"work possibilities[/record] good, semi-honest work[/record] opportunities for profit[/record] lucrative business opportunities[/record] gainful employment[/record] employment[/record] a bit of toil and grind[/end]"
+7208,"안녕하십니까, %pcf.[/record]뭘 도와드릴까요, %pcf?[/record]아, 오늘 잘 보내고 계신지요?[/record]만나서 반갑습니다, %pcf. 뭘 도와드릴까요?[/record]아, 안녕하십니까, %pcf.[/record]날이 좋습니다, %pcf.[/record]안녕하십니까.[/end]"
+7209,"A warm hello to you, good %pcf.[/record] It warms my heart to see you, %pcf.[/record] Ah, excellent company. Good day, dear friend.[/record] %oth! Good to see you, %pcf.[/record] Good day to you, %pcf.[/record] Grand to see you, %pcf.[/record] I'm happy to see you, %pcf.[/record] Ah, %pcf, hello. Always a pleasure.[/end]"
+7210,"메모장으로 이미 복사된 내용입니다.[/end]"
+7211,"일할 기회[/record]괜찮은, 반만 합법적인 일[/record]돈 들어올 만한 일[/record]짭잘한 일 건수[/record]괜찮은 일거리[/record]일거리[/record] a bit of toil and grind[/end]"
 7212," %1com. %key 에 대한 이야기를 듣고 싶습니다.[/record] %1com. %key 에 대한 정보를 알려준다면 고맙겠습니다.[/record] %1com. %key 에 대한 아무 정보라도 알려주면 감사하겠습니다.[/record] %1com. %key 에 대해 아는게 없는지 물어보고 싶습니다.[/record] %1com. %key 에 대해 알려주면 좋겠습니다.[/record] %1com. %key 의 현재 상태를 알려주시면 좋겠습니다.[/record] %1com. %key 에 대한 정보를 알고 있는걸로 아는데 알려주십시오.[/end]"
 7213,"%1com. What can you tell me about %key?[/record] %1com. I am seeking information on %key.[/record] %1com. What do you know about %key?[/record] %1com. I need to know about %key.[/record] %1com. Do you know anything about %key?[/record] %1com. What does %key mean to you?[/record] %1com. Talk to me about %key.[/record] %1com. You must know something about %key.[/end]"
 7214,"%1com. %key 최근 소식 있습니까?[/record] %1com. %key 에 대해 들은게 있습니까?[/record] %1com. %key 이야기 아는게 있습니까?[/record] %1com. I'm looking for a tip on %key.[/record] %1com. %key 에 대해 아는게 있습니까?[/record] %1com. Any hot tips on %key ?[/record] %1com. %key. That's what I really want to know.[/record] %1com. Fill me in on %key.[/record] %1com. Put me wise on %key.[/record] %1com. Ever hear of %key?[/record] %1com. %key from around here?[/end]"
@@ -1739,380 +1732,71 @@ Ah, %pcf, hello. Always a pleasure.[/end]"
 7230," %1com. %key 아는거 없나?[/record] %1com. %key.[/record] %1com. I know that %key.[/record] %1com. Let me tell you this -- %key.[/end]"
 7231,"%1com. Please, disseminate a little news, will you?[/record] %1com. Indulge me in a little gossip, if you would.[/record] %1com. You haven't heard anything interesting lately, have you?[/record] %1com. What is on the tongue of polite society these days?[/record] %1com. Would you kindly update me on the world at large?[/end]"
 7232,"%1com. 최근에 뭔가 재밌는 소식을 들으신게 있습니까?[/record] %1com. 요즘 다들 떠드는 소식이 있습니까?[/record] %1com. 흥미로운 소문을 아시는게 있습니까?[/record] %1com. 요즘 무슨 일이 있습니까?[/end]"
-7233,"%1com. What's new?[/record] %1com. What's the talk of the town?[/record] %1com. What's the buzz?[/record] %1com. And?[/record] %1com. Go on.[/end]"
+7233,"%1com. 새 소식 없어?[/record] %1com. 마을에 도는 이야기 없어?[/record] %1com. 뭔일 없어?[/record] %1com. 그래서?[/record] %1com. 뭐 없어?.[/end]"
 7234,"Do want to make love with me?[/record] Tell me you want me like I want you.[/record] Do you want to fool around?[/record] I'm yours if you want me.[/record] Do you want to slip away and make love?[/record] I don't want to talk. Let's make love.[/record] Come on, sweetheart. Lets do it.[/record] Would it offend you if I said I wanted you?[/record] No more talk. I want you.[/record] I want to hold your body tight against mine.[/record] Don't you want to do something more than talk?[/record] Kiss me, %pcf, I'm yours.[/record] Hold my body against yours until the morning comes.[/record] Let's do something we can be ashamed of.[/record] Why don't you stop talking and kiss me.[/end]"
 7235,"%oth! Can't blame me for asking.[/record] Oh. How embarrassing. Forget I asked.[/record] I'm sorry. I thought you felt it too.[/record] Well, maybe later.[/record] Ah well, I can always dream.[/record] %oth, all business, no fun.[/end]"
 7250,"You're wasting time with me, %pcf. I don't know a thing about %key.[/record] I don't know anything about %key. Not that I'd tell you if I did.[/record] Do you really think I'd tell a %ra even if I did know?[/record] Ask someone else, %pcf. I can't help you with %key.[/record] You're %pcn. What the hell makes you think I know or would tell you anything about %key?[/record] I honestly don't know what in Tamriel you're talking about.[/record] You've obviously confused me with someone who cares.[/record] And what do you want me to do about it?[/record] That means absolutely nothing to me.[/record] I could probably help you with that. But I'm not going to.[/record] %oth, stop wasting my time. I'll tell you nothing. Now scram.[/end]"
 7251,"%key? Even if I knew somethin', I wouldn't be a tellin' a %ra.[/record] I don't know nothin' 'bout %key and I ain't sayin' any more.[/record] Yer %pcn. I wouldn't tell ya 'bout %key even if I did know.[/record] Go on and find a friend or someone who knows somethin'. I'm  ain't either.[/record] Why would I wanna help you?[/record] I'm afraid that means nothing to me, %pcf.[/record] I don't understand. Is that supposed to mean something to me?[/record] To be honest, I couldn't really care less. Sorry.[/record] Ask someone else. Can't you see I'm busy?[/record] I'm sorry but I don't know and I have to go.[/record] I'm new to %cn too. Now, please excuse me.[/record] I gotta go.[/record] Ask someone else, %pcf. I'm running late myself.[/record] %oth, as if I know. Ask someone else.[/record] I don't particularly care to be your lackey, %pcf. Run along now.[/record] This conversation has grown tiresome. Leave me now, %pcf.[/record] Excuse me, %pcf. I actually have a life to lead.[/record] Ask someone who gives a damn.[/record] I neither know nor much care.[/record] I don't have the first clue, I'm afraid. Now, if you'll excuse me ...[/end]"
-7252,"You are that foul %pcn. I am ignorant on the subject of %key. Now begone.[/record]
-Mayhap you though I was conversant on the topic of %key. What a lark![/record]
-%key? Your question presupposes that I feel an affiliation for you, which I don't.[/record]
-These questions are taxing my time, even if I knew about %key. Avail yourself of the nearest exit.[/record]
-If %ra knew how to read, you could find the answer yourself. I certainly don't have time to look it up.[/record]
-That is are certainly none of your concern. Now leave me, %pcf.[/record]
-Why should I tell you? Go bother someone else, %pcf.[/end]"
-7253,"How droll. I only help to people of importance, those who have titles and lands. Now go away.[/record]
-I am a personal friend of %t %rn and do not cavort with your sort. %key indeed.[/record]
-How should I know? Hey! You're that loathsome %pcn. Why am I talking to you anyway?[/record]
-I couldn't care less about %key. Take your peasant feet away from my noble person.[/record]
-%key? Let me remind you that I am nobility and you are %ra scum. Go away.[/end]"
-7304,"Never heard of %key, kid. Leave before I put a knife in yer back.[/record]
-I killed a %ra once for asking stupid questions about %key.[/record]
-I don't know. But I do know that if you stink up the air around me any more I'll stick a sword in yer gut.[/record]
-Yer %pcn. I oughta slice you a second smile. But because I'm a nice guy, I'll just tell ya I don't know.[/record]
-You gotta bad rep %pcn. I don't know anythin' about %key, but if ya come any closer, I'm gonna pop ya one.[/end]"
-7255,"Wouldn't you like to know.[/record]
-%key? That's not rare information. Ask someone else about %key.[/record]
-You don't know where %key is? Ha-ha-ha! Serves you right %pcn, after what you've done.[/record]
-If I liked %ra better, maybe I'd tell you.[/record]
-Everyone knows where %key is. Which makes it all the more fun that you don't.[/record]
-No, I don't think I want to talk to you anymore, %pcf. Shove off.[/record]
-What do I know? I know I don't want to talk to you anymore, how's that?[/end]"
+7252,"You are that foul %pcn. I am ignorant on the subject of %key. Now begone.[/record] Mayhap you though I was conversant on the topic of %key. What a lark![/record] %key? Your question presupposes that I feel an affiliation for you, which I don't.[/record] These questions are taxing my time, even if I knew about %key. Avail yourself of the nearest exit.[/record] If %ra knew how to read, you could find the answer yourself. I certainly don't have time to look it up.[/record] That is are certainly none of your concern. Now leave me, %pcf.[/record] Why should I tell you? Go bother someone else, %pcf.[/end]"
+7253,"How droll. I only help to people of importance, those who have titles and lands. Now go away.[/record] I am a personal friend of %t %rn and do not cavort with your sort. %key indeed.[/record] How should I know? Hey! You're that loathsome %pcn. Why am I talking to you anyway?[/record] I couldn't care less about %key. Take your peasant feet away from my noble person.[/record] %key? Let me remind you that I am nobility and you are %ra scum. Go away.[/end]"
+7304,"Never heard of %key, kid. Leave before I put a knife in yer back.[/record] I killed a %ra once for asking stupid questions about %key.[/record] I don't know. But I do know that if you stink up the air around me any more I'll stick a sword in yer gut.[/record] Yer %pcn. I oughta slice you a second smile. But because I'm a nice guy, I'll just tell ya I don't know.[/record] You gotta bad rep %pcn. I don't know anythin' about %key, but if ya come any closer, I'm gonna pop ya one.[/end]"
+7255,"Wouldn't you like to know.[/record] %key? That's not rare information. Ask someone else about %key.[/record] You don't know where %key is? Ha-ha-ha! Serves you right %pcn, after what you've done.[/record] If I liked %ra better, maybe I'd tell you.[/record] Everyone knows where %key is. Which makes it all the more fun that you don't.[/record] No, I don't think I want to talk to you anymore, %pcf. Shove off.[/record] What do I know? I know I don't want to talk to you anymore, how's that?[/end]"
 7256,"Yer %pcn. I don't think I wanna tell ya where to find %key.[/record]
-Beggin' yer pardon, but that's such a stupid question, I don't think I should haveta answer.[/record]
-I reckin' a little more wanderin' around will make a right good improvement in yer manners.[/record]
-'Course I know where %key is. But I don't wanna tell the likes of you.[/record]
-Freakin' %ra. Always beggin' us common folk fer help. Whattya done fer me lately?[/record]
-Why on Tamriel would I want you to know, %pcf?[/record]
-Why the hell would I want to give you directions %pcf?[/record]
-Listen, I ain't got time for this. Why don't you just kiss off, %pcf.[/record]
-Don't know, don't care, and don't wanna to talk to ya anymore. Goodbye.[/record]
-Why don't you try asking me like a normal human being would?[/record]
-Listen, I don't give directions to people who talk to me like that.[/end]"
-7257,"댁 같은 %ra 들은 지식인에 대한 대한 존중이 없는것 같습니다. %key 에 대한 정보는 알려줄 생각이 없습니다.[/record] %pcn? 난 바뻐서 %key 가는 길 같은건 못알려 주겠습니다.[/record] I have knowledge of %key. In the event you had been less rude, I might have told you.[/record] I am a scholar. I have no time for banal questions about %key.[/record] Scholars like myself have such knowledge. It is unfortunate your demeanor offends me.[/record] That's it. I've been as polite as I can be. Go away and leave me alone.[/record] I don't care where you go. Go to Oblivion, for all I care. Just go away.[/end]"
-7258,"Ask a commoner. It is a waste of my valuable time to answer obvious questions.[/record]
-Who gave you permission to speak to me? I know where to find %key, but now I am disinclined to tell you.[/record]
-I have heard of you %pcn. You should know your place better. Nobles are not to be used as sign posts.[/record]
-You presume above your station %ra. I should have you flogged, instead I'll let you flee.[/record]
-How amusing. This...%ra peasant is looking for %key. I'm not about to lower myself by answering.[/end]"
-7259,"Last bloke that asked how to get to %key wound up dead.[/record]
-Howd' ya like a knife in yer gut? Thought so.[/record]
-You lookin' to find %key? I oughta kick yer arse fer wastin' my time.[/record]
-You're that lousy %pcn. Stay away from %key. Or else I'll haveta slit yer throat.[/record]
-I hate %ra scum. Git. Or I'll fill my cup with yer blood.[/end]"
-7260,"I've heard about you %pcn. I'm not telling you anything about %key.[/record]
-%key? I know lots. But I'm not about to tell the likes of you.[/record]
-%ra dog. I wouldn't help you find out about %key for anything.[/record]
-I know that %key is none of your damn business.[/record]
-To be honest, I don't trust you, %pcn.[/record]
-Wouldn't you like to know?[/record]
-You're on the right track, %pcf. Now talk to someone who trusts you.[/record]
-Listen, I couldn't talk to you about that if I wanted to.[/record]
-Who do you think you are, talking to me like that?[/record]
-Listen, I don't care for your tone of voice.[/record]
-I'm not sure I should talk about %key with a relative stranger.[/record]
-Of course I know about %key. But I don't talk about it with just anyone.[/end]"
-7261,"I ain't tellin' ya nothin' 'bout %key.[/record]
-%key? I got someplace else ta be.[/record]
-You're that evil %pcn! Tellin' you would be like tellin' Clavicus Vile hisself.[/record]
-%key? %key! I ain't gonna talk about %key to nobody.[/record]
-Why should I tell some %ra 'bout %key? Wouldn't you like to know?[/record]
-Oh, maybe I know ... something. But I'm not to talk about it.[/record]
-No offense, but why would I tell you anything?[/record]
-It's none of yer damn business.[/end]"
-7262,"Knowledge of %key is privileged, particularly with respect to you.[/record]
-%key is difficult to learn about. I shall enjoy observing your discomfort and ignorance.[/record]
-Where did you hear about %key? I'll not tell some wetback %ra any more about %key.[/record]
-I would never divulge information about %key.[/record]
-%key? To %pcn? This must be some lowbrow attempt at humor. Listen, you are obviously not a busy person, but I am. Get lost, %pcf.[/record]
-This isn't going anywhere, %pcf. I'm going back to my life, you go to yours.[/record]
-I have no interest in telling you anything. Run along now, %pcf.[/record]
-Who do you think I am, the travellers bureau? Leave me alone.[/end]"
-7263,"Nobody trusts you %pcn. Why should I?[/record]
-You have my permission to prostrate yourself and beg for forgiveness. %key indeed.[/record]
-A %ra wanting to know about %key. How droll. I've always said commonfolk need to be kept ignorant.[/record]
-Of course I know all about %key. The problem is I don't like you.[/record]
-Noblemen should not consort with common rabble. Leave me.[/record]
-I don't think I care for your tone of voice, %pcf.[/record]
-Listen, I don't talk to anyone who talks to me like that.[/record]
-How impertinent to think I'd want to give you any sort of information. Goodbye.[/record]
-Listen, I have a life. I'd recommend you go out and get one too. Goodbye, %pcf.[/end]"
-7264,"%key? I'll show ya the edge of my knife instead! Scram.[/record]
-Come any closer and I'll slit yer gizzard %pcf.[/record]
-Ya have a hankerin' ta die? Then keep askin' around about %key.[/record]
-A %ra. Wonder what color blood ya have. Come 'ere and let me see.[/record]
-I know all about %key. But if I told ya, I'd have ta kill ya.[/record]
-Maybe I know something, maybe I don't. But I'm through with talking, %pcf.[/record]
-I don't care to discuss that or anything else with you. Goodbye.[/end]"
-7265,"I'm afraid I can't help you, %pcf.[/record]
-Sorry, %pcf. I don't know anything about %key.[/record]
-Sorry, friend. I'd help you if I could.[/record]
-I'm afraid I just don't know.[/record]
-%oth, I wish I could help you, %pcf.[/record]
-I'm really sorry, %pcf. I wish I knew something about that.[/record]
-Please forgive my ignorance, %pcf. I know little about that.[/record]
-To be honest, I know nothing about that, %pcf. I'm very sorry.[/record]
-Excuse me? %key? No idea one way or the other.[/record]
-You'll want to ask someone else. I have no idea.[/end]"
-7266,"I wish I knew, %pcf. Could be anywhere.[/record]
-I heard that name somewheres before, but I got no idea where.[/record]
-Sorry. I haven't gotta clue.[/record]
-Gotta be somewhere 'round here.[/record]
-I heard 'o you %pcn. I'd help ya if I could.[/record]
-I wish I could help you, %pcf, but I know nothing about that.[/record]
-Sorry, friend. I can't help you there.[/record]
-Ask around some more, friend. Someone's bound to know.[/record]
-No, I don't have a clue.[/record]
-There's no reason ta talk down ta me like that. I can't help ya anyway.[/end]"
-7267,"Quite a conundrum. I am completely baffled.[/record]
-You are the first person to ask. Sadly, I remain ignorant of the answer.[/record]
-North? No...south? My profuse apologies. I am unable to recall anything about %key.[/record]
-I had one once, but the wheel fell off. Would you hold my foot while I get a drink of air?[/record]
-An obtuse topic if ever there was one. No answer appears to be forthcoming.[/record]
-I'm sorry to ask, but why did you think I'd care about that?[/record]
-Come on, %pcf, you know me better than to think I'd care about that![/record]
-Wait. Does that sound like something I'm involved in, %pcf? Really.[/end]"
-7268,"You have at least mastered the minimum forms of etiquette, but I just don't know.[/record]
-How refreshing. A %ra with manners. Sadly, I know nothing of %key.[/record]
-Ah, a true servant of %reg. You may kiss my ring, but I know nothing of %key.[/record]
-%pcn? Hmmm. I seem to remember some courtier speaking well of you. Sadly I can't help you with %key.[/record]
-%key? Doesn't sound familiar.[/record]
-Sorry, %pcf. I can't help you with that.[/record]
-I am certainly the wrong person to ask, %pcf.[/end]"
-7269,"%key? Never heard of it. Doesn't ring any bells. If is about somethin' hot, go through the guild.[/record]
-Is %key a problem? I knows people that can take care of problems.[/record]
-Does %key have anythin' ta do with %fn? No? Then I can't help ya %pcf.[/record]
-You've gotta good rep on the streets %pcn. Sorry I don't know nothin' about %key.[/end]"
-7270,"Sure. %key is %hnt.[/record]
-That's %hnt.[/record]
-I suppose it's okay to tell you. It's %hnt.[/record]
-You'll find %key %hnt.[/record]
-You'll want to go %hnt.[/record]
-Oh, that's %hnt.[/record]
-Well, it's %hnt.[/record]
-You'll find it %hnt. Just ask me civilly next time.[/record]
-If it's your concern, you'll find it %hnt.[/end]"
-7271,"Mmm. Well, try %hnt.[/record]
-I guess I can tell ya it's %hnt.[/record]
-Ya gotta go %hnt.[/record]
-%key is somewhere %hnt.[/record]
-Go north...no, east...no, %hnt.[/record]
-That's easy, %pcf. It's %hnt.[/record]
-Last time I checked it was %hnt.[/record]
-Of course I'll help you. Just go %hnt.[/record]
-It's really easy. You'll want to go %hnt.[/record]
-The best way is to go %hnt.[/record]
-What you're going to want to do is to go %hnt.[/record]
-You asked the right person. Just look for it %hnt.[/record]
-Simple. You'll find it %hnt.[/record]
-That's %hnt.[/record]
-You'll find it %hnt.[/end]"
-7272,"Our maps show %key to be %hnt.[/record]
-Hmm. I recall being instructed that %key is %hnt.[/record]
-%pcn is it? I do not mind reveal that %key is %hnt.[/record]
-Directionally challenged %pcf? Try %hnt.[/record]
-Go %hnt.[/end]"
-7273,"Dear fellow, try %hnt.[/record]
-The lower classes get lost so easily. Go %hnt.[/record]
-Lets see, the palace is over there...%key is %hnt.[/record]
-My personal scrivner assures me %key is %hnt.[/record]
-Try %hnt. That's how my carriage driver goes.[/end]"
-7274,"I know an alley short cut to %key. Try %hnt.[/record]
-You're an okay %ra. Go %hnt.[/record]
-I pinched some gold near %key. Go %hnt.[/record]
-I cut someone there yesterday. It's %hnt.[/record]
-%key? Gonna pinch some coin, are ya? No? Well, it's %hnt.[/end]"
-7275,"Oh, ho! %hnt[/record]
-%fn told me this. %hnt[/record]
-You're a good sort, %pcf. %hnt[/record]
-%hnt[/record]
-Everybody has heard this one. %hnt2[/record]
-%hnt[/record]
-This is all I know. %hnt[/record]
-I can help you with that. %hnt2[/record]
-Oh, that's easy. %hnt[/record]
-Ah, %key. %hnt[/record]
-Well, as if you don't know already. %hnt[/record]
-If you must know, I'll tell you. %hnt[/record]
-I don't see how it's your business. %hnt[/end]"
-7276,"This is what they says. %hnt[/record]
-It's a good story it is. %hnt[/record]
-%hnt[/record]
-I wouldn't wanna be called no gossip, but...%hnt[/record]
-Who woulda thought it. %hnt[/record]
-%hnt I wish I could tell you more.[/record]
-%hnt I'm afraid that's all I know.[/record]
-Oh yes. %hnt[/record]
-%hnt But you may already know that.[/record]
-Pardon me? %hnt That's all I know.[/record]
-Well, you probably already know this. %hnt[/end]"
-7277,"The tomes are very specific. %hnt[/record]
-My scrying is rarely wrong. %hnt[/record]
-Some sources disagree, but I am sure. %hnt2[/record]
-I suppose it is harmless. %hnt2[/record]
-It is to your benefit to have queried me. I am one of the few that knows anything. %hnt2[/record]
-%key? %hnt[/record]
-%hnt You surely are already aware that.[/record]
-%hnt2 I estimate that is the best I can tell you.[/record]
-%hnt But everyone knows that.[/record]
-%hnt[/record]
-%hnt Is that what you're talking about?[/end]"
-7278,"My dear %pcf. %hnt Didn't you know?[/record]
-The talk among the court is amusing. %hnt[/record]
-My spies told me about this. %hnt2[/record]
-%hnt[/record]
-I have impeccable sources. %hnt2[/record]
-%hnt There may be more to it.[/record]
-%hnt Someone else may have the full story.[/end]"
-7279,"%hnt At least that's the street buzz.[/record]
-%oth. Don't you know? %hnt[/record]
-Here's the real story. %hnt2[/record]
-I beat this info outta a guy. %hnt2[/record]
-I got contacts. %hnt2[/record]
-I'm not da best person ta ask. %hnt That's all I know.[/record]
-Ask someone else, %pcf. %hnt. Which anyone could have told you.[/end]"
-7280,"%pcn! If only I could help. I really and truly don't know anything about %key.[/record]
-I would sell the Underking's skivvies for you %pcf, but forgive me. I just don't know.[/record]
-I pains me to admit this, especially to you, but I haven't got a clue.[/record]
-Please don't hold it against me, but I just don't have the answer.[/record]
-After what you've done for us %pcf, I'd love to tell you about %key. However, I don't know.[/end]"
-7281,"%hnr, if I knew, I'd tell ya fer sure.[/record]
-Ya knows ya can depend on me %pcf. But when it comes ta %key, I just don't know.[/record]
-I don't know %hnr. Please don't think poorly of me.[/record]
-What I'd give ta know 'bout %key. I'm sorry %hnr.[/record]
-%oth. Such a simple question, and me not knowin'. I begs yer forgiveness %hnr.[/end]"
-7282,"My loyal patron, it grieves me to admit ignorance about %key.[/record]
-I am a fount of information %pcf. Sadly I lack any shred of data about %key.[/record]
-You are congnizant that I would answer if I could. %key is an enigma to me.[/record]
-You are my loyal comrade, but none of these tomes have references to %key.[/record]
-Though you are my deeply trusted ally, I know not the answer.[/end]"
-7283,"Though your loyalty to me is beyond reproach, I just don't know about %key.[/record]
-As one of my most loyal supporters, I would tell you if I only knew the answer.[/record]
-%key? I haven't the foggiest dear %pcf.[/record]
-I heard about %key once, but I forgotten what it was.[/record]
-I trust you implicitly, so I hope you understand when I tell you that I just don't know.[/end]"
-7284,"You're like a brother ta me %pcf. But I can't tell ya what I don't know.[/record]
-%key? Never heard of %key.[/record]
-Hey, I'd trust ya with my back in da alley, but I don't know anythin' about %key. You've never snitched on me, %pcf. But if I don't know, I don't know.[/record]
-%key rings a bell...naw. You know I'd tell ya just about anythin', but I can't remember.[/end]"
-7285,"Anything for %hnr %pcf. It's %hnt.[/record]
-Gladly %hnr. Go %hnt.[/record]
-It would be my honor. Try %hnt.[/record]
-I'd take you there myself, but I'm needed here. It's %hnt.[/record]
-It's sunshine in my day to help %hnr %pcf. Go %hnt.[/record]
-Give me a second. That's %hnt.[/record]
-You ought to try looking %hnt.[/end]"
-7286,"Yes %hnr. With pleasure. Go %hnt.[/record]
-For da honorable %pcn, take ya %hnt.[/record]
-You've always done good fer me and mine %hnr %pcf. It's %hnt.[/record]
-I likes doin' ya favors %pcf. Try %hnt.[/record]
-It's me pleasure %hnr %pcf. It's %hnt.[/record]
-You will find %key %hnt.[/record]
-Yes, I do know that location. It's %hnt.[/record]
-Let me think for a minute ... %key is %hnt.[/record]
-I see ... %key is %hnt.[/end]"
-7287,"Readily and gladly done. It's %hnt.[/record]
-For you, of course. Go %hnt.[/record]
-The simplest of tasks. Try %hnt.[/record]
-Gladly %hnr. It's %hnt.[/record]
-A trivial request. Go %hnt.[/end]"
-7288,"For one of your loyalty, of course. It's %hnt.[/record]
-I could do no less for a loyal subject. Go %hnt.[/record]
-Simplicity in itself. Try %hnt.[/record]
-You have always helped me, now I can return the favor. It's %hnt.[/record]
-Of course. Have we not always been friends? Go %hnt[/record]
-.[/end]"
-7289,"Ya don't haveta ask twice. It's %hnt.[/record]
-Fer you? No sweat. Go %hnt.[/record]
-'Tis not well known, but try %hnt.[/record]
-Since it's that or slit yer throat (wink and chuckle), it's %hnt.[/record]
-Go %hnt. Watch yer back %pcf.[/end]"
-7290,"I trust you. %hnt[/record]
-Most folk know this already. %hnt[/record]
-I shouldn't really tell you this. %hnt2[/record]
-%hnt2 I know you'll do the right thing %pcf.[/record]
-You are one of the few people I'd tell this to. %hnt2[/record]
-As a matter of fact, I happen to know something. %hnt2[/record]
-You asked the right person. %hnt2[/end]"
-7291,"Beggin' yer pardon %hnr %pcf, but most folk know this. %hnt[/record]
-Always glad ta help you, %pcf. %hnt[/record]
-Me cousin told me somethin'. %hnt[/record]
-I overheard things. %hnt2 Does that help?[/record]
-I've been savin' this tidbit fer you %hnr %pcf. %hnt2[/record]
-I'm not sure what you already know. %hnt[/record]
-Well, you probably already know this. %hnt[/end]"
-7292,"%hnt It is common knowledge that %hnt.[/record]
-Confidentially, this is what my research indicates. %hnt2[/record]
-Trust begets trust. %hnt2[/record]
-My divinations have revealed much. %hnt2[/record]
-A private scrying shows many things. %hnt2[/record]
-Ah yes, not everyone knows this. %hnt2[/record]
-It may interest you to know this. %hnt[/record]
-Well ... %hnt. Does that help?[/record]
-You want to know more? %hnt2 I assume.[/end]"
-7293,"Your loyalty to the %t has its reward. %hnt[/record]
-You have always been loyal to me. %hnt[/record]
-You are lucky to have asked me. Court gossip has its benefits. %hnt2[/record]
-I am always glad to help you %pcf. %hnt2[/record]
-Your faithful service is reason enough for me to tell you. %hnt2[/end]"
-7294,"Youse can always count on me, %pcf. %hnt[/record]
-You sharpened my blade, now I'll sharpen yours. %hnt2[/record]
-Fer me drinkin' buddy, of course. %hnt2[/record]
-. %hnt2 At least that what the Thieves Guild says.[/record]
-%hnt2 It's all over the Dark Brotherhood.[/end]"
-7332,"... Let me just mark %loc here on your map[/record]
-... It'd be easiest if I just marked %loc on your map[/record]
-... Hold on, let me show you %loc on your map[/record]
-... Right here. You can see %loc on your map[/record]
-very nearby. Here, I'll show you %loc on your map[/record]
-awfully close by. It'd be best if I marked %loc on your map[/record]
-right there (points to %loc your map)[/end]"
-7333,"여기서 %di 입니다.[/record]
-우리가 서있는 여기서 %di 으로 가면 됩니다.[/record]
-저쪽, %di 으로 계속 가면 됩니다.[/record]
-저쪽, %di 입니다.[/record]
-여기서 %di 으로 가면 됩니다.[/record]
-not too far to the %di, if you don't mind walking[/record]
-%di of here, unless I'm mistaken[/record]
-%di of here, I think[/record]
-%di, with a bit of a walk[/end]"
+Beggin' yer pardon, but that's such a stupid question, I don't think I should haveta answer.[/record] I reckin' a little more wanderin' around will make a right good improvement in yer manners.[/record] 'Course I know where %key is. But I don't wanna tell the likes of you.[/record] Freakin' %ra. Always beggin' us common folk fer help. Whattya done fer me lately?[/record] Why on Tamriel would I want you to know, %pcf?[/record] Why the hell would I want to give you directions %pcf?[/record] Listen, I ain't got time for this. Why don't you just kiss off, %pcf.[/record] Don't know, don't care, and don't wanna to talk to ya anymore. Goodbye.[/record] Why don't you try asking me like a normal human being would?[/record] Listen, I don't give directions to people who talk to me like that.[/end]"
+7257,"댁 같은 %ra 들은 지식인에 대한 대한 존중이 없는것 같습니다. %key 에 대한 정보는 알려줄 생각이 없습니다.[/record] %pcn? 난 바뻐서 %key 가는 길 같은건 못알려 주겠습니다.[/record] %key 에 대해 알고는 있습니다만. 당신이 좀 덜 무례하면, 말해 드릴 수도 있습니다.[/record] 저는 학자입니다. %key 같은 쓸데없는 질문에 대답해줄 시간은 없습니다.[/record] 그같은 지식은 저같은 학자는 알고 있습니다만, 질문이 무례한 것이 안타깝군요.[/record] 아뇨. 되도록 친절하고 싶습니다만, 그냥 가십시오.[/record] 댁이 어디로 가든 신경 안씁니다. 오블리언에나 떨어지고, 그냥 가시죠.[/end]"
+7258,"평민들한테 물어보시오. 뻔한 질문은 귀중한 내 시간을 낭비만 하는 것이니.[/record]누가 나한테 말해 된다고 허락했나? %key 어디서 찾아야 할지 알긴 하지만, 알려줄 생각 없네.[/record]%pcn, 이름은 들어본 적 있지. 자신의 신분을 자각해라. 귀족은 방향 표지판이 아니니까.[/record]네 신분을 착각한 모양이군 %ra. 널 매질해야 하지만, 놔주도록 하지.[/record] 재미있군... 이 %ra 평민이 %key 찾기에 여념이 없다니. 네 수준에 맞춰 대답해 줄 생각 없다.[/end]"
+7259,"Last bloke that asked how to get to %key wound up dead.[/record] Howd' ya like a knife in yer gut? Thought so.[/record] You lookin' to find %key? I oughta kick yer arse fer wastin' my time.[/record] You're that lousy %pcn. Stay away from %key. Or else I'll haveta slit yer throat.[/record] I hate %ra scum. Git. Or I'll fill my cup with yer blood.[/end]"
+7260,"I've heard about you %pcn. I'm not telling you anything about %key.[/record] %key? I know lots. But I'm not about to tell the likes of you.[/record] %ra dog. I wouldn't help you find out about %key for anything.[/record] I know that %key is none of your damn business.[/record] To be honest, I don't trust you, %pcn.[/record] Wouldn't you like to know?[/record] You're on the right track, %pcf. Now talk to someone who trusts you.[/record] Listen, I couldn't talk to you about that if I wanted to.[/record] Who do you think you are, talking to me like that?[/record] Listen, I don't care for your tone of voice.[/record] I'm not sure I should talk about %key with a relative stranger.[/record] Of course I know about %key. But I don't talk about it with just anyone.[/end]"
+7261,"I ain't tellin' ya nothin' 'bout %key.[/record] %key? I got someplace else ta be.[/record] You're that evil %pcn! Tellin' you would be like tellin' Clavicus Vile hisself.[/record] %key? %key! I ain't gonna talk about %key to nobody.[/record] Why should I tell some %ra 'bout %key? Wouldn't you like to know?[/record] Oh, maybe I know ... something. But I'm not to talk about it.[/record] No offense, but why would I tell you anything?[/record] It's none of yer damn business.[/end]"
+7262,"Knowledge of %key is privileged, particularly with respect to you.[/record] %key is difficult to learn about. I shall enjoy observing your discomfort and ignorance.[/record] Where did you hear about %key? I'll not tell some wetback %ra any more about %key.[/record] I would never divulge information about %key.[/record] %key? To %pcn? This must be some lowbrow attempt at humor. Listen, you are obviously not a busy person, but I am. Get lost, %pcf.[/record] This isn't going anywhere, %pcf. I'm going back to my life, you go to yours.[/record] I have no interest in telling you anything. Run along now, %pcf.[/record] Who do you think I am, the travellers bureau? Leave me alone.[/end]"
+7263,"Nobody trusts you %pcn. Why should I?[/record] You have my permission to prostrate yourself and beg for forgiveness. %key indeed.[/record] A %ra wanting to know about %key. How droll. I've always said commonfolk need to be kept ignorant.[/record] Of course I know all about %key. The problem is I don't like you.[/record] Noblemen should not consort with common rabble. Leave me.[/record] I don't think I care for your tone of voice, %pcf.[/record] Listen, I don't talk to anyone who talks to me like that.[/record] How impertinent to think I'd want to give you any sort of information. Goodbye.[/record] Listen, I have a life. I'd recommend you go out and get one too. Goodbye, %pcf.[/end]"
+7264,"%key? I'll show ya the edge of my knife instead! Scram.[/record] Come any closer and I'll slit yer gizzard %pcf.[/record] Ya have a hankerin' ta die? Then keep askin' around about %key.[/record] A %ra. Wonder what color blood ya have. Come 'ere and let me see.[/record] I know all about %key. But if I told ya, I'd have ta kill ya.[/record] Maybe I know something, maybe I don't. But I'm through with talking, %pcf.[/record] I don't care to discuss that or anything else with you. Goodbye.[/end]"
+7265,"I'm afraid I can't help you, %pcf.[/record] Sorry, %pcf. I don't know anything about %key.[/record] Sorry, friend. I'd help you if I could.[/record] I'm afraid I just don't know.[/record] %oth, I wish I could help you, %pcf.[/record] I'm really sorry, %pcf. I wish I knew something about that.[/record] Please forgive my ignorance, %pcf. I know little about that.[/record] To be honest, I know nothing about that, %pcf. I'm very sorry.[/record] Excuse me? %key? No idea one way or the other.[/record] You'll want to ask someone else. I have no idea.[/end]"
+7266,"저도 알고 있으면 좋겠습니다만, %pcf. 어딘지 모르겠습니다.[/record]전에 어디선가 들은 적 있는 것 같지만, 모르겠습니다.[/record]미안합니다. 전혀 모르겠습니다.[/record]근처 어딘가에 있을 겁니다.[/record]뭔 소린지는 알겠지만, %pcn. 알아야 도와 주지.[/record]도와주고 싶지만, %pcf, 그거에 대해서는 아는게 없습니다.[/record]미안하네, 친구. 그부분은 도와줄 수가 없어.[/record]근처에 물어보시죠, 친구. 누군가는 알겁니다.[/record]아니, 전혀 모르겠습니다.[/record]댁이 나한테 물어볼 필요가 없는 거요. 애초 내가 못도와주는 거니까.[/end]"
+7267,"Quite a conundrum. I am completely baffled.[/record] You are the first person to ask. Sadly, I remain ignorant of the answer.[/record] North? No...south? My profuse apologies. I am unable to recall anything about %key.[/record] I had one once, but the wheel fell off. Would you hold my foot while I get a drink of air?[/record] An obtuse topic if ever there was one. No answer appears to be forthcoming.[/record] I'm sorry to ask, but why did you think I'd care about that?[/record] Come on, %pcf, you know me better than to think I'd care about that![/record] Wait. Does that sound like something I'm involved in, %pcf? Really.[/end]"
+7268,"You have at least mastered the minimum forms of etiquette, but I just don't know.[/record] How refreshing. A %ra with manners. Sadly, I know nothing of %key.[/record] Ah, a true servant of %reg. You may kiss my ring, but I know nothing of %key.[/record] %pcn? Hmmm. I seem to remember some courtier speaking well of you. Sadly I can't help you with %key.[/record] %key? Doesn't sound familiar.[/record] Sorry, %pcf. I can't help you with that.[/record] I am certainly the wrong person to ask, %pcf.[/end]"
+7269,"%key? Never heard of it. Doesn't ring any bells. If is about somethin' hot, go through the guild.[/record] Is %key a problem? I knows people that can take care of problems.[/record] Does %key have anythin' ta do with %fn? No? Then I can't help ya %pcf.[/record] You've gotta good rep on the streets %pcn. Sorry I don't know nothin' about %key.[/end]"
+7270,"Sure. %key is %hnt.[/record] That's %hnt.[/record] I suppose it's okay to tell you. It's %hnt.[/record] You'll find %key %hnt.[/record] You'll want to go %hnt.[/record] Oh, that's %hnt.[/record] Well, it's %hnt.[/record] You'll find it %hnt. Just ask me civilly next time.[/record] If it's your concern, you'll find it %hnt.[/end]"
+7271,"Mmm. Well, try %hnt.[/record] I guess I can tell ya it's %hnt.[/record] Ya gotta go %hnt.[/record] %key is somewhere %hnt.[/record] Go north...no, east...no, %hnt.[/record] That's easy, %pcf. It's %hnt.[/record] Last time I checked it was %hnt.[/record] Of course I'll help you. Just go %hnt.[/record] It's really easy. You'll want to go %hnt.[/record] The best way is to go %hnt.[/record] What you're going to want to do is to go %hnt.[/record] You asked the right person. Just look for it %hnt.[/record] Simple. You'll find it %hnt.[/record] That's %hnt.[/record] You'll find it %hnt.[/end]"
+7272,"Our maps show %key to be %hnt.[/record] Hmm. I recall being instructed that %key is %hnt.[/record] %pcn is it? I do not mind reveal that %key is %hnt.[/record] Directionally challenged %pcf? Try %hnt.[/record] Go %hnt.[/end]"
+7273,"Dear fellow, try %hnt.[/record] The lower classes get lost so easily. Go %hnt.[/record] Lets see, the palace is over there...%key is %hnt.[/record] My personal scrivner assures me %key is %hnt.[/record] Try %hnt. That's how my carriage driver goes.[/end]"
+7274,"I know an alley short cut to %key. Try %hnt.[/record] You're an okay %ra. Go %hnt.[/record] I pinched some gold near %key. Go %hnt.[/record] I cut someone there yesterday. It's %hnt.[/record] %key? Gonna pinch some coin, are ya? No? Well, it's %hnt.[/end]"
+7275,"Oh, ho! %hnt[/record] %fn told me this. %hnt[/record] You're a good sort, %pcf. %hnt[/record] %hnt[/record] Everybody has heard this one. %hnt2[/record] %hnt[/record] This is all I know. %hnt[/record] I can help you with that. %hnt2[/record] Oh, that's easy. %hnt[/record] Ah, %key. %hnt[/record] Well, as if you don't know already. %hnt[/record] If you must know, I'll tell you. %hnt[/record] I don't see how it's your business. %hnt[/end]"
+7276,"This is what they says. %hnt[/record] It's a good story it is. %hnt[/record] %hnt[/record] I wouldn't wanna be called no gossip, but...%hnt[/record] Who woulda thought it. %hnt[/record] %hnt I wish I could tell you more.[/record] %hnt I'm afraid that's all I know.[/record] Oh yes. %hnt[/record] %hnt But you may already know that.[/record] Pardon me? %hnt That's all I know.[/record] Well, you probably already know this. %hnt[/end]"
+7277,"The tomes are very specific. %hnt[/record] My scrying is rarely wrong. %hnt[/record] Some sources disagree, but I am sure. %hnt2[/record] I suppose it is harmless. %hnt2[/record] It is to your benefit to have queried me. I am one of the few that knows anything. %hnt2[/record] %key? %hnt[/record] %hnt You surely are already aware that.[/record] %hnt2 I estimate that is the best I can tell you.[/record] %hnt But everyone knows that.[/record] %hnt[/record] %hnt Is that what you're talking about?[/end]"
+7278,"My dear %pcf. %hnt Didn't you know?[/record] The talk among the court is amusing. %hnt[/record] My spies told me about this. %hnt2[/record] %hnt[/record] I have impeccable sources. %hnt2[/record] %hnt There may be more to it.[/record] %hnt Someone else may have the full story.[/end]"
+7279,"%hnt At least that's the street buzz.[/record] %oth. Don't you know? %hnt[/record] Here's the real story. %hnt2[/record] I beat this info outta a guy. %hnt2[/record] I got contacts. %hnt2[/record] I'm not da best person ta ask. %hnt That's all I know.[/record] Ask someone else, %pcf. %hnt. Which anyone could have told you.[/end]"
+7280,"%pcn! If only I could help. I really and truly don't know anything about %key.[/record] I would sell the Underking's skivvies for you %pcf, but forgive me. I just don't know.[/record] I pains me to admit this, especially to you, but I haven't got a clue.[/record] Please don't hold it against me, but I just don't have the answer.[/record] After what you've done for us %pcf, I'd love to tell you about %key. However, I don't know.[/end]"
+7281,"%hnr, if I knew, I'd tell ya fer sure.[/record] Ya knows ya can depend on me %pcf. But when it comes ta %key, I just don't know.[/record] I don't know %hnr. Please don't think poorly of me.[/record] What I'd give ta know 'bout %key. I'm sorry %hnr.[/record] %oth. Such a simple question, and me not knowin'. I begs yer forgiveness %hnr.[/end]"
+7282,"My loyal patron, it grieves me to admit ignorance about %key.[/record] I am a fount of information %pcf. Sadly I lack any shred of data about %key.[/record] You are congnizant that I would answer if I could. %key is an enigma to me.[/record] You are my loyal comrade, but none of these tomes have references to %key.[/record] Though you are my deeply trusted ally, I know not the answer.[/end]"
+7283,"Though your loyalty to me is beyond reproach, I just don't know about %key.[/record] As one of my most loyal supporters, I would tell you if I only knew the answer.[/record] %key? I haven't the foggiest dear %pcf.[/record] I heard about %key once, but I forgotten what it was.[/record] I trust you implicitly, so I hope you understand when I tell you that I just don't know.[/end]"
+7284,"You're like a brother ta me %pcf. But I can't tell ya what I don't know.[/record] %key? Never heard of %key.[/record] Hey, I'd trust ya with my back in da alley, but I don't know anythin' about %key. You've never snitched on me, %pcf. But if I don't know, I don't know.[/record] %key rings a bell...naw. You know I'd tell ya just about anythin', but I can't remember.[/end]"
+7285,"Anything for %hnr %pcf. It's %hnt.[/record] Gladly %hnr. Go %hnt.[/record] It would be my honor. Try %hnt.[/record] I'd take you there myself, but I'm needed here. It's %hnt.[/record] It's sunshine in my day to help %hnr %pcf. Go %hnt.[/record] Give me a second. That's %hnt.[/record] You ought to try looking %hnt.[/end]"
+7286,"Yes %hnr. With pleasure. Go %hnt.[/record] For da honorable %pcn, take ya %hnt.[/record] You've always done good fer me and mine %hnr %pcf. It's %hnt.[/record] I likes doin' ya favors %pcf. Try %hnt.[/record] It's me pleasure %hnr %pcf. It's %hnt.[/record] You will find %key %hnt.[/record] Yes, I do know that location. It's %hnt.[/record] Let me think for a minute ... %key is %hnt.[/record] I see ... %key is %hnt.[/end]"
+7287,"Readily and gladly done. It's %hnt.[/record] For you, of course. Go %hnt.[/record] The simplest of tasks. Try %hnt.[/record] Gladly %hnr. It's %hnt.[/record] A trivial request. Go %hnt.[/end]"
+7288,"For one of your loyalty, of course. It's %hnt.[/record] I could do no less for a loyal subject. Go %hnt.[/record] Simplicity in itself. Try %hnt.[/record] You have always helped me, now I can return the favor. It's %hnt.[/record] Of course. Have we not always been friends? Go %hnt[/record] .[/end]"
+7289,"Ya don't haveta ask twice. It's %hnt.[/record] Fer you? No sweat. Go %hnt.[/record] 'Tis not well known, but try %hnt.[/record] Since it's that or slit yer throat (wink and chuckle), it's %hnt.[/record] Go %hnt. Watch yer back %pcf.[/end]"
+7290,"I trust you. %hnt[/record] Most folk know this already. %hnt[/record] I shouldn't really tell you this. %hnt2[/record] %hnt2 I know you'll do the right thing %pcf.[/record] You are one of the few people I'd tell this to. %hnt2[/record] As a matter of fact, I happen to know something. %hnt2[/record] You asked the right person. %hnt2[/end]"
+7291,"Beggin' yer pardon %hnr %pcf, but most folk know this. %hnt[/record] Always glad ta help you, %pcf. %hnt[/record] Me cousin told me somethin'. %hnt[/record] I overheard things. %hnt2 Does that help?[/record] I've been savin' this tidbit fer you %hnr %pcf. %hnt2[/record] I'm not sure what you already know. %hnt[/record] Well, you probably already know this. %hnt[/end]"
+7292,"%hnt It is common knowledge that %hnt.[/record] Confidentially, this is what my research indicates. %hnt2[/record] Trust begets trust. %hnt2[/record] My divinations have revealed much. %hnt2[/record] A private scrying shows many things. %hnt2[/record] Ah yes, not everyone knows this. %hnt2[/record] It may interest you to know this. %hnt[/record] Well ... %hnt. Does that help?[/record] You want to know more? %hnt2 I assume.[/end]"
+7293,"Your loyalty to the %t has its reward. %hnt[/record] You have always been loyal to me. %hnt[/record] You are lucky to have asked me. Court gossip has its benefits. %hnt2[/record] I am always glad to help you %pcf. %hnt2[/record] Your faithful service is reason enough for me to tell you. %hnt2[/end]"
+7294,"Youse can always count on me, %pcf. %hnt[/record] You sharpened my blade, now I'll sharpen yours. %hnt2[/record] Fer me drinkin' buddy, of course. %hnt2[/record] . %hnt2 At least that what the Thieves Guild says.[/record] %hnt2 It's all over the Dark Brotherhood.[/end]"
+7332,"... Let me just mark %loc here on your map[/record] ... It'd be easiest if I just marked %loc on your map[/record] ... Hold on, let me show you %loc on your map[/record] ... Right here. You can see %loc on your map[/record] very nearby. Here, I'll show you %loc on your map[/record] awfully close by. It'd be best if I marked %loc on your map[/record] right there (points to %loc your map)[/end]"
+7333,"여기서 %di 입니다.[/record] 우리가 서있는 여기서 %di 으로 가면 됩니다.[/record] 저쪽, %di 으로 계속 가면 됩니다.[/record] 저쪽, %di 입니다.[/record] 여기서 %di 으로 가면 됩니다.[/record] not too far to the %di, if you don't mind walking[/record] %di of here, unless I'm mistaken[/record] %di of here, I think[/record] %di, with a bit of a walk[/end]"
 7700,"Start inserting action type 99 here... (do not translate)[/end]"
-7701,"A bored guard says ""Only castle staff and[/center]
-trusted guests are allow beyond those doors.""[/center]
-[/end]"
-7702,"A bored guard says ""Only castle staff and[/center]
-trusted guests are allow beyond those doors.""[/center]
-[/end]"
-7703,"A bored guard says ""Only castle staff and[/center]
-trusted guests are allow beyond those doors.""[/center]
-[/end]"
-7704,"A bored guard says ""Only castle staff and[/center]
-trusted guests are allow beyond those doors.""[/center]
-[/end]"
-7705,"A bored guard says ""Only castle staff and[/center]
-trusted guests are allowed beyond those doors.""[/center]
-[/end]"
+7701,"A bored guard says ""Only castle staff and[/center] trusted guests are allow beyond those doors.""[/center] [/end]"
+7702,"A bored guard says ""Only castle staff and[/center] trusted guests are allow beyond those doors.""[/center] [/end]"
+7703,"A bored guard says ""Only castle staff and[/center] trusted guests are allow beyond those doors.""[/center] [/end]"
+7704,"A bored guard says ""Only castle staff and[/center] trusted guests are allow beyond those doors.""[/center] [/end]"
+7705,"A bored guard says ""Only castle staff and[/center] trusted guests are allowed beyond those doors.""[/center] [/end]"
 7717,"A strong, Orcish voice in the back of the hall snarls ""All who enter must face the trial by arms.""[/end]"
-7764,"Chanting and odd, alien noises seep under[/left]
-the door. The smell of sulphur and[/left]
-noxious potions invades your nose.[/left]
-[/end]"
-7765,"The door restrains an unnatural silence,[/left]
-devoid of even the chittering of small[/left]
-insects. You hear Popudax say  Our storeroom[/left]
-is only open to those whom I trust.[/left]
-[/end]"
-7766,"A small heraldic device above the door handle[/left]
-clearly marks this as the private chambers of[/left]
-a member of the royal family.[/left]
-[/end]"
-7767,"Bold, brash male voices echo from behind the door.[/left]
-Faint clatters of metal, obviously made by men in[/left]
-armor moving about, can be heard.[/left]
-[/end]"
-7768,"A rhythmic clang of metal upon metal rings[/left]
-through the door. The door itself is[/left]
-slightly warm to the touch.[/left]
-[/end]"
-7769,"The guard speaks up, ""Careful there, Squire.[/left]
-That there door opens into the dungeons. Only[/left]
-them that has permission can get in.""  Faint[/left]
-howls and a low ominous growl from behind[/left]
-the door send chills down your spine.[/left]
-[/end]"
-7770,"The clatter of pots and pans and the smell[/left]
-of fresh baked bread waft through this door.[/left]
-[/end]"
+7764,"Chanting and odd, alien noises seep under[/left] the door. The smell of sulphur and[/left] noxious potions invades your nose.[/left] [/end]"
+7765,"The door restrains an unnatural silence,[/left] devoid of even the chittering of small[/left] insects. You hear Popudax say  Our storeroom[/left] is only open to those whom I trust.[/left] [/end]"
+7766,"A small heraldic device above the door handle[/left] clearly marks this as the private chambers of[/left] a member of the royal family.[/left] [/end]"
+7767,"Bold, brash male voices echo from behind the door.[/left] Faint clatters of metal, obviously made by men in[/left] armor moving about, can be heard.[/left] [/end]"
+7768,"A rhythmic clang of metal upon metal rings[/left] through the door. The door itself is[/left] slightly warm to the touch.[/left] [/end]"
+7769,"The guard speaks up, ""Careful there, Squire.[/left] That there door opens into the dungeons. Only[/left] them that has permission can get in.""  Faint[/left] howls and a low ominous growl from behind[/left] the door send chills down your spine.[/left] [/end]"
+7770,"The clatter of pots and pans and the smell[/left] of fresh baked bread waft through this door.[/left] [/end]"
 8050,"%pcn, 너는 %cri 의 죄로 기소 되었다.[/center]만약 네가 무죄를 항변하고 유죄 판결을 받으면,[/center]%pen 의 처벌을 받게 될 것이다.[/center]그러나 네 죄를 인정하고 이 법정의 자비를[/center]구한다면 처벌은 훨씬 가벼울 것이다.[/center]무엇을 탄원하겠는가?[/center][/end]"
 8052,"골드가 모자라군, %pcn.[/center]형기가 %pdg 일 더 늘어날 것이다.[/center][/end]"
 8053,"석방될 때까지 %dip 일을 기다리시겠습니까?[/center][/end]"
@@ -2123,268 +1807,41 @@ of fresh baked bread waft through this door.[/left]
 8062,"%pcn, 무죄를 선고한다.[/center]가도 좋다.[/center][/end]"
 8063,"%pcn, 유죄를 선고한다,[/center]%cn 에서 추방하며, 돌아오지 말 것을 명령한다.[/center][/end]"
 8064,"법정에 어떻게 무죄를 설득하시겠습니까?[/center][/end]"
-8075,"I can't think of any work available for a %ra like you.[/record]
-Why in Tamriel would I offer a %ra like you a job?[/record]
-Maybe you ought to learn a trade like cobbling.[/record]
-Work? You ought to find something else to do with your time.[/record]
-Ah, the curse of the drinking classes. I can't help you.[/record]
-Unemployed, are we? You're likely to remain so for some time.[/record]
-I haven't heard of any work at all, no.[/record]
-A %ra who actually wants to work! Amazing.[/record]
-Perhaps you ought to check in some other community.[/record]
-I don't know of any employment at all, I fear.[/record]
-You might check with ... No one comes to mind, actually.[/end]"
-8076,"%pqn might have work. You can find %g2 in %pqp.[/record]
-Check with %pqn -- %g usually has work over at %pqp.[/record]
-I don't know what it pays, but %pqn has something to do over at %pqp.[/record]
-%pqn asked me to look for people like you. Go find %g2 at %pqp.[/record]
-You'd be perfect for this job %pqn needs done. You'll find %g2 at %pqp.[/record]
-%pqp is the place you need to go. Look for someone named %pqn.[/end]"
-8077,"You will be the answer to %pqn's prayers. You can find %g2 at %pqp.[/record]
-Go to %pqp and look for %pqn. You would be perfect for %g3 kind of work.[/record]
-You didn't hear this from me, but go find someone named %pqn at %pqp.[/record]
-%pqn might have something for you to do at %pqp.[/record]
-As a matter of fact, %pqn asked me to direct unemployed mercenaries to %pqp.[/record]
-You might want to check with %pqn over at %pqp.[/record]
-A quest, you mean? I'd check in with %pqn -- %g's usually in %pqp.[/record]
-Here's what you do. Go to a place called %pqp and talk to someone named %pqn.[/end]"
-8078,"There's no work available at all.[/record]
-I'm afraid everyone's searching for work these days.[/record]
-Not a good time to be unemployed I fear.[/end]"
-8100,"The %n Lair[/record]
-The Hall of %n[/record]
-%n's Asylum[/record]
-The Cave of %n[/record]
-%n's Cave[/record]
-The Hole of %n[/record]
-%n's Haunt[/record]
-The Pit of %n[/record]
-%n's Pit[/record]
-%n's Prison[/record]
-The Prison of %n[/record]
-The Cage of %n[/record]
-The Dungeon of %n[/record]
-%n's Dungeon[/record]
-%n's Hold[/record]
-The Hold of %n[/record]
-The Mines of %n[/record]
-%n's Cavern[/record]
-The Cavern of %n[/end]"
-8200,"The Vault of %vn[/record]
-The Crypt of %vn[/record]
-%vn's Tomb[/record]
-The Tomb of %vn[/record]
-The Grave of %vn[/record]
-The Masoleum of %vn[/record]
-The Sepulcher of %vn[/record]
-%vn's Barrow[/record]
-The Barrow of %vn[/record]
-The Cairn of %vn[/record]
-The Mastaba of %vn[/end]"
+8075,"I can't think of any work available for a %ra like you.[/record] Why in Tamriel would I offer a %ra like you a job?[/record] Maybe you ought to learn a trade like cobbling.[/record] Work? You ought to find something else to do with your time.[/record] Ah, the curse of the drinking classes. I can't help you.[/record] Unemployed, are we? You're likely to remain so for some time.[/record] I haven't heard of any work at all, no.[/record] A %ra who actually wants to work! Amazing.[/record] Perhaps you ought to check in some other community.[/record] I don't know of any employment at all, I fear.[/record] You might check with ... No one comes to mind, actually.[/end]"
+8076,"%pqn might have work. You can find %g2 in %pqp.[/record] Check with %pqn -- %g usually has work over at %pqp.[/record] I don't know what it pays, but %pqn has something to do over at %pqp.[/record] %pqn asked me to look for people like you. Go find %g2 at %pqp.[/record] You'd be perfect for this job %pqn needs done. You'll find %g2 at %pqp.[/record] %pqp is the place you need to go. Look for someone named %pqn.[/end]"
+8077,"You will be the answer to %pqn's prayers. You can find %g2 at %pqp.[/record] Go to %pqp and look for %pqn. You would be perfect for %g3 kind of work.[/record] You didn't hear this from me, but go find someone named %pqn at %pqp.[/record] %pqn might have something for you to do at %pqp.[/record] As a matter of fact, %pqn asked me to direct unemployed mercenaries to %pqp.[/record] You might want to check with %pqn over at %pqp.[/record] A quest, you mean? I'd check in with %pqn -- %g's usually in %pqp.[/record] Here's what you do. Go to a place called %pqp and talk to someone named %pqn.[/end]"
+8078,"There's no work available at all.[/record] I'm afraid everyone's searching for work these days.[/record] Not a good time to be unemployed I fear.[/end]"
+8100,"The %n Lair[/record] The Hall of %n[/record] %n's Asylum[/record] The Cave of %n[/record] %n's Cave[/record] The Hole of %n[/record] %n's Haunt[/record] The Pit of %n[/record] %n's Pit[/record] %n's Prison[/record] The Prison of %n[/record] The Cage of %n[/record] The Dungeon of %n[/record] %n's Dungeon[/record] %n's Hold[/record] The Hold of %n[/record] The Mines of %n[/record] %n's Cavern[/record] The Cavern of %n[/end]"
+8200,"The Vault of %vn[/record] The Crypt of %vn[/record] %vn's Tomb[/record] The Tomb of %vn[/record] The Grave of %vn[/record] The Masoleum of %vn[/record] The Sepulcher of %vn[/record] %vn's Barrow[/record] The Barrow of %vn[/record] The Cairn of %vn[/record] The Mastaba of %vn[/end]"
 8201,%on[/end]"
-8202,"The Stronghold of %mn[/record]
-Castle %mn[/record]
-Castle %mn[/record]
-The Fortress of %mn[/record]
-The Hold of %mn[/record]
-%mn's Hold[/record]
-The Citadel of %mn[/record]
-Tower %mn[/record]
-%mn Tower[/record]
-The Tower of %mn[/record]
-%mn's Guard[/record]
-%mn Hall[/end]"
-8203,"The Dungeon of %mn[/record]
-The Prison of %mn[/record]
-The %mn Prison[/record]
-The Gaol of %mn[/record]
-%mn's Gaol[/record]
-The Penitentiary of %mn[/record]
-The %mn Reformatory[/record]
-The %mn House of Correction[/record]
-The %mn Asylum[/record]
-The Asylum of %mn[/end]"
-8204,"The Temple of %dn[/record]
-The Cathedral of %dn[/record]
-The %dn Monastery[/record]
-The Monastery of %dn[/record]
-%dn Minster[/record]
-The Abbey of %dn[/record]
-The %dn Manse[/record]
-The %dn Rectory[/record]
-The Convent of %dn[/record]
-The %dn Cloister[/record]
-The Friary of %dn[/record]
-The Shrine of %dn[/record]
-The %dn Shrine[/record]
-The %dn Hermitage[/record]
-The Hermitage of %dn[/end]"
-8205,"The Mines of %mn[/record]
-The %mn Mines[/record]
-The %mn Lode[/record]
-The %mn Pit[/record]
-The %mn Quarry[/record]
-The Quarry of %mn[/record]
-The %mn Excavation[/record]
-The %mn Tunnel[/record]
-The %mn Dig[/end]"
-8206,"The %dn Cavern[/record]
-The %dn Cave[/record]
-The Cave of %dn[/record]
-The Cavern of %dn[/record]
-The Grotto of %dn[/record]
-The %dn Grotto[/record]
-The Lair of %dn[/record]
-The Hole of %dn[/record]
-The %dn Hole[/record]
-%dn Hollow[/record]
-The Pit of %dn[/record]
-The Den of %dn[/end]"
-8207,"The %fn Coven[/record]
-The Coven of %fn[/record]
-The Cult of %fn[/record]
-%fn Cultus[/record]
-The Cabal of %fn[/record]
-The %fn Cabal[/record]
-The %fn Tradition[/record]
-The Tenebrium of %fn[/end]"
-8208,"The Haunt of %vn[/record]
-The House of %vn[/record]
-Castle %vn[/record]
-%vn Hall[/record]
-The Haunt of %vn[/record]
-The House of %vn[/record]
-Castle %vn[/record]
-%vn Hall[/record]
-The Haunt of %vn[/record]
-The House of %vn[/record]
-Castle %vn[/record]
-%vn Hall[/record]
-The %vn Mews[/end]"
-8209,"%mn Laboratory[/record]
-%mn Laboratory[/record]
-%mn Laboratory[/record]
-The Laboratory of %mn[/record]
-The %mn Academy[/record]
-The School of %mn[/end]"
-8210,"The Nest of %on[/record]
-The Nest of %on[/record]
-The %on Aerie[/record]
-The %on Aerie[/record]
-The %on Mews[/record]
-The %on Nest[/record]
-The %on Coop[/record]
-The Roost of %on[/record]
-The Aviary of %on[/record]
-The Roost of %on[/record]
-The Aviary of %on[/record]
-The %on Aviary[/record]
-The %on Aviary[/end]"
-8211,"Castle %ln[/record]
-The Castle of %ln[/record]
-The Fortress of %ln[/record]
-The Hold of %ln[/record]
-%ln's Hold[/record]
-The Citadel of %ln[/record]
-Tower %ln[/record]
-The Tower of %ln[/record]
-%ln's Guard[/record]
-%ln Hall[/record]
-The House of %ln[/record]
-The %ln Ruins[/record]
-The %ln Remains[/end]"
-8212,"%on's Nest[/record]
-The Nest of %on[/record]
-The %on Nest[/record]
-%on's Web[/record]
-The Web of %on[/record]
-%on's Web[/record]
-The Web of %on[/record]
-The %on Web[/record]
-The %on Web[/record]
-The Lair of %on[/record]
-The %on Lair[/end]"
+8202,"The Stronghold of %mn[/record] Castle %mn[/record] Castle %mn[/record] The Fortress of %mn[/record] The Hold of %mn[/record] %mn's Hold[/record] The Citadel of %mn[/record] Tower %mn[/record] %mn Tower[/record] The Tower of %mn[/record] %mn's Guard[/record] %mn Hall[/end]"
+8203,"The Dungeon of %mn[/record] The Prison of %mn[/record] The %mn Prison[/record] The Gaol of %mn[/record] %mn's Gaol[/record] The Penitentiary of %mn[/record] The %mn Reformatory[/record] The %mn House of Correction[/record] The %mn Asylum[/record] The Asylum of %mn[/end]"
+8204,"The Temple of %dn[/record] The Cathedral of %dn[/record] The %dn Monastery[/record] The Monastery of %dn[/record] %dn Minster[/record] The Abbey of %dn[/record] The %dn Manse[/record] The %dn Rectory[/record] The Convent of %dn[/record] The %dn Cloister[/record] The Friary of %dn[/record] The Shrine of %dn[/record] The %dn Shrine[/record] The %dn Hermitage[/record] The Hermitage of %dn[/end]"
+8205,"The Mines of %mn[/record] The %mn Mines[/record] The %mn Lode[/record] The %mn Pit[/record] The %mn Quarry[/record] The Quarry of %mn[/record] The %mn Excavation[/record] The %mn Tunnel[/record] The %mn Dig[/end]"
+8206,"The %dn Cavern[/record] The %dn Cave[/record] The Cave of %dn[/record] The Cavern of %dn[/record] The Grotto of %dn[/record] The %dn Grotto[/record] The Lair of %dn[/record] The Hole of %dn[/record] The %dn Hole[/record] %dn Hollow[/record] The Pit of %dn[/record] The Den of %dn[/end]"
+8207,"The %fn Coven[/record] The Coven of %fn[/record] The Cult of %fn[/record] %fn Cultus[/record] The Cabal of %fn[/record] The %fn Cabal[/record] The %fn Tradition[/record] The Tenebrium of %fn[/end]"
+8208,"The Haunt of %vn[/record] The House of %vn[/record] Castle %vn[/record] %vn Hall[/record] The Haunt of %vn[/record] The House of %vn[/record] Castle %vn[/record] %vn Hall[/record] The Haunt of %vn[/record] The House of %vn[/record] Castle %vn[/record] %vn Hall[/record] The %vn Mews[/end]"
+8209,"%mn Laboratory[/record] %mn Laboratory[/record] %mn Laboratory[/record] The Laboratory of %mn[/record] The %mn Academy[/record] The School of %mn[/end]"
+8210,"The Nest of %on[/record] The Nest of %on[/record] The %on Aerie[/record] The %on Aerie[/record] The %on Mews[/record] The %on Nest[/record] The %on Coop[/record] The Roost of %on[/record] The Aviary of %on[/record] The Roost of %on[/record] The Aviary of %on[/record] The %on Aviary[/record] The %on Aviary[/end]"
+8211,"Castle %ln[/record] The Castle of %ln[/record] The Fortress of %ln[/record] The Hold of %ln[/record] %ln's Hold[/record] The Citadel of %ln[/record] Tower %ln[/record] The Tower of %ln[/record] %ln's Guard[/record] %ln Hall[/record] The House of %ln[/record] The %ln Ruins[/record] The %ln Remains[/end]"
+8212,"%on's Nest[/record] The Nest of %on[/record] The %on Nest[/record] %on's Web[/record] The Web of %on[/record] %on's Web[/record] The Web of %on[/record] The %on Web[/record] The %on Web[/record] The Lair of %on[/record] The %on Lair[/end]"
 8213,%on[/end]"
-8214,"%dn's Den[/record]
-The Lair of %mn[/record]
-The Den of %mn[/record]
-The Chamber of %mn[/end]"
-8215,"The Gathering of %fn[/record]
-The Assembly of %fn[/record]
-The %fn Assembly[/record]
-The Convocation of %fn[/record]
-The %fn Council[/record]
-The Conclave of %fn[/record]
-The %fn Convergence[/record]
-The Community of %fn[/record]
-The Circle of %fn[/record]
-The %fn Circle[/end]"
+8214,"%dn's Den[/record] The Lair of %mn[/record] The Den of %mn[/record] The Chamber of %mn[/end]"
+8215,"The Gathering of %fn[/record] The Assembly of %fn[/record] The %fn Assembly[/record] The Convocation of %fn[/record] The %fn Council[/record] The Conclave of %fn[/record] The %fn Convergence[/record] The Community of %fn[/record] The Circle of %fn[/record] The %fn Circle[/end]"
 8350,"오늘은 %cn 의 민중들이 새해를 기리며[/center]새삶 축제를 하는 날입니다. 황제가 신년 발표에서 또다시 세금 인상을 공표했고, 다들 이 금전적인 어려움에 불평하고 있지만,[/center]모든 선술집에서 무료 에일이 나오는 %ct 의 새삶절 전통은 계속되고 있습니다.[/center]%cn 사람들은 축제를 제대로 즐길줄 아는 사람들입니다...[/center][/end]"
-8351,"Scour Day is a celebration held in most High Rock[/center]
-villages on the day after New Life. It was once[/center]
-the day one cleans up after New Life, but has[/center]
-changed into a party of its own.[/center]
-[/end]"
+8351,"Scour Day is a celebration held in most High Rock[/center] villages on the day after New Life. It was once[/center] the day one cleans up after New Life, but has[/center] changed into a party of its own.[/center] [/end]"
 8352,"오반크의 날은 알리키어 사막의 민중들이[/center] 스탠다르에게 평안하고 자비로운 한해를 기원하는[/center] 날입니다. 그들에겐 아주 신성한 날입니다.[/center] [/end]"
 8353,"15일의 샛별의 날은 %cn 에서는 아주 중요한 기념일입니다.[/center] 남풍의 기원이라고 하며, 탐리엘의 모든 종교가 풍작을 기원하는[/center] 날입니다. 탐리엘에 있는 모든 신자들은 %ct 사원으로 몰려드는데[/center] 이 날은 성직자들이 무료로 치료를 베풀기 때문입니다.[/center] 매우 소수의 인원만 무료 치료를 받을 수 있음에도,[/center] 몰려드는 이유는 이 때가 아니면 가격이 터무니 없기 때문입니다...[/center] [/end]"
 8354,"빛의 날은 일리악 만에 거주하는 대부분의 해머펠[/center] 마을 사람들이 기념하는 날입니다.[/center] 풍작과 풍어의 한해를 기원하며, 이들에게는 매우 중요한 날입니다.[/center] [/end]"
-8355,"The people in Yeorth Burrowland invented Waking Day[/center]
-in prehistoric times to wake the spirits of nature[/center]
-after a long, cold winter. It has evolved into a[/center]
-sort of orgiastic celebration of the end of winter.[/center]
-[/end]"
-8356,"Mad Pelagius is a silly little tradition in High[/center]
-Rock in a mock memorial to Pelagius Septim II, one[/center]
-of the maddest emperors in recent history. He died[/center]
-about 350 years ago, so the Septims since have taken[/center]
-it with good humor.[/center]
-[/end]"
-8357,"The people of Dwynnen have a huge party to celebrate[/center]
-Othroktide, the day when Baron Othrok took Dwynnen[/center]
-from the undead forces who claimed it in the Battle[/center]
-of Wightmoor.[/center]
-[/end]"
-8358,"The people of Glenumbra Moors may be the only people[/center]
-to remember or care about the battle between Aiden[/center]
-Direnni and the Alessian Army in the first era.[/center]
-They celebrate it vigorously on the Day of Release.[/center]
-[/end]"
-8359,"Today is the 16th of Sun's Dawn, a holiday celebrated[/center]
-all over Tamriel as Heart's Day. It seems that in every[/center]
-house, the Legend of the Lovers is being sung for the[/center]
-younger generation. In honor of these Lovers, Polydor[/center]
-and Eloisa, the inns of the %ct offer a[/center]
-free room for visitors. If such kindness had been[/center]
-given the Lovers, it is said, it would always be[/center]
-springtime in the world.[/center]
-[/end]"
-8360,"Perserverance Day is quite a party in Ykalon. It was[/center]
-originally held as a solemn memorial to those killed[/center]
-in battle, resisting the Camaron Usurper, but has[/center]
-since become a boisterous festival.[/center]
-[/end]"
-8361,"The villages in the Bantha celebrate the baser[/center]
-urges that come with Springtide on Aduros Nau.[/center]
-The traditions vary from village to village, but none[/center]
-of them are for the overly virtuous.[/center]
-[/end]"
-8362,"On the 7th of First Seed every year, the people of %cn[/center]
-celebrate First Planting, symbolically sowing the seeds[/center]
-for the autumn harvest. It is a festival of fresh[/center]
-beginnings, both for the crops and for the men and[/center]
-women of the %ct. Neighbors are reconciled[/center]
-in their disputes, resolutions are formed, bad habits[/center]
-dropped, the diseased cured. The clerics at the[/center]
-temples run a free clinic all day long to cure[/center]
-people of poisoning, different diseases, paralyzation,[/center]
-and the other banes found in the world of Tamriel.[/center]
-[/end]"
-8363,"The Day of Waiting is a very old holy day among[/center]
-certain settlements in the Dragontail Mountains.[/center]
-Every year at that time, a dragon is supposed to[/center]
-come out of the desert and devour the wicked, so[/center]
-everyone locks himself up inside.[/center]
-[/end]"
+8355,"The people in Yeorth Burrowland invented Waking Day[/center] in prehistoric times to wake the spirits of nature[/center] after a long, cold winter. It has evolved into a[/center] sort of orgiastic celebration of the end of winter.[/center] [/end]"
+8356,"Mad Pelagius is a silly little tradition in High[/center] Rock in a mock memorial to Pelagius Septim II, one[/center] of the maddest emperors in recent history. He died[/center] about 350 years ago, so the Septims since have taken[/center] it with good humor.[/center] [/end]"
+8357,"The people of Dwynnen have a huge party to celebrate[/center] Othroktide, the day when Baron Othrok took Dwynnen[/center] from the undead forces who claimed it in the Battle[/center] of Wightmoor.[/center] [/end]"
+8358,"The people of Glenumbra Moors may be the only people[/center] to remember or care about the battle between Aiden[/center] Direnni and the Alessian Army in the first era.[/center] They celebrate it vigorously on the Day of Release.[/center] [/end]"
+8359,"Today is the 16th of Sun's Dawn, a holiday celebrated[/center] all over Tamriel as Heart's Day. It seems that in every[/center] house, the Legend of the Lovers is being sung for the[/center] younger generation. In honor of these Lovers, Polydor[/center] and Eloisa, the inns of the %ct offer a[/center] free room for visitors. If such kindness had been[/center] given the Lovers, it is said, it would always be[/center] springtime in the world.[/center] [/end]"
+8360,"Perserverance Day is quite a party in Ykalon. It was[/center] originally held as a solemn memorial to those killed[/center] in battle, resisting the Camaron Usurper, but has[/center] since become a boisterous festival.[/center] [/end]"
+8361,"The villages in the Bantha celebrate the baser[/center] urges that come with Springtide on Aduros Nau.[/center] The traditions vary from village to village, but none[/center] of them are for the overly virtuous.[/center] [/end]"
+8362,"On the 7th of First Seed every year, the people of %cn[/center] celebrate First Planting, symbolically sowing the seeds[/center] for the autumn harvest. It is a festival of fresh[/center] beginnings, both for the crops and for the men and[/center] women of the %ct. Neighbors are reconciled[/center] in their disputes, resolutions are formed, bad habits[/center] dropped, the diseased cured. The clerics at the[/center] temples run a free clinic all day long to cure[/center] people of poisoning, different diseases, paralyzation,[/center] and the other banes found in the world of Tamriel.[/center] [/end]"
+8363,"The Day of Waiting is a very old holy day among[/center] certain settlements in the Dragontail Mountains.[/center] Every year at that time, a dragon is supposed to[/center] come out of the desert and devour the wicked, so[/center] everyone locks himself up inside.[/center] [/end]"
 8364,"Flower Day is another of the frivolous celebrations[/center]
 of High Rock. Children pick the new flowers of spring[/center]
 while older Bretons, cooped up all winter, come[/center]
@@ -3465,7 +2922,7 @@ The only thing in your victim's pocket was a large ball of cat hair.[/end]"
 9400,"Reserved to 9912 for Bruce and Co. (do not translate)[/end]"
 9999,"Dummy entry. Must always [/end]"
 9000.1,"1.   어느 맑은 날 당신은 특이한 동물을 마주쳤다,[/left]
-    다리가 사냥꾼의 찰코에 걸려있다. 출혈으로 보건데[/left]
+    다리가 사냥꾼의 찰코(기계덫)에 걸려있다. 출혈으로 보건데[/left]
     얼마 살지 못하리라. 당신은:[/left]
  a) 단검을 뽑아, 단칼에 빠르게 숨을 끊는다.[/left]
  b) 자연의 선택에 개입하지 않고, 특이한 동물을[/left]
@@ -3499,29 +2956,23 @@ The only thing in your victim's pocket was a large ball of cat hair.[/end]"
     이정도면 삶에 의미가 있는게 아닐까?[/left]
  c) 적을 교란해서 병사들이 탈출할 수 있으면서도 죽을 필요가[/left]
     없는 가능성을 찾는다.[/left]"
-9000.5,"5.   Your mother sends you to the market with a list of[/left]
-    goods to buy. After you finish you find that by mistake[/left]
-    a shopkeeper has given you too much money back in[/left]
-    exchange for one of the items. Do you:[/left]
- a) Return to the store and give the shopkeeper his hard-[/left]
-    earned money, explaining to him the mistake?[/left]
- b) Pocket the extra money, knowing that shopkeepers in[/left]
-    general tend to overcharge customers anyway?[/left]
- c) Decide to put the extra money to good use and purchase[/left]
-    items that would help your family?[/left]"
-9000.6,"6.   While in a market place you witness a thief cut a[/left]
-    purse from a noble. Even as he does so the noble[/left]
-    notices and calls for the city guards. In his haste to[/left]
-    get away, the thief drops the purse near you.[/left]
-    Surprisingly, no one seems to notice the bag of coins[/left]
-    at your feet. Do you: [/left]
- a) Pick up the bag and pocket it, knowing that the extra[/left]
-    windfall will help your family in times of trouble?[/left]
- b) Pick up the bag and signal to the guard, knowing that[/left]
-    the only honorable thing to do is return the money to[/left]
-    its rightful owner?[/left]
- c) Leave the bag there, knowing that it is better not to[/left]
-    get involved?[/left]"
+9000.5,"5.   어머니가 사올 물건 목록과 함께 시장으로 당신을 보냈다.[/left]
+    장보기를 마친후 가게 주인이 물건을 바꿔 주면서 실수로 돈을[/left]
+    너무 많이 준 것을 알았다. 당신은:[/left]
+ a) 가게로 돌아가 주인에게 실수를 알려주며 돈을 돌려준다.[/left]
+ b) 공돈을 챙긴다, 어짜피 가게 주인은 손님들에게 바가지를[/left]
+    씌우지 않는가?[/left]
+ c) 공돈을 가족에 도움이 되게 물건을 사는데 쓴다.[/left]"
+9000.6,"6.   시장에서 도둑이 귀족의 돈주머니를 잘라 훔치는 것을[/left]
+    목격했다. 하지만 동시에 귀족은 눈치를 채고 도시 경비병을 불렀다.[/left]
+    도둑은 급히 도망치다가, 당신 근처에 돈주머니를 떨어트렸다.[/left]
+    놀랍게도 아무도 당신 발옆의 돈 주머니를 눈치채지 못했다.[/left]
+    당신은:[/left]
+ a) 주머니를 주워 챙긴다, 가족에게 고난이 닥쳤을때[/left]
+    이 돈 주머니가 도움이 될것이다.[/left]
+ b) 주머니를 주워 경비에게 알린다, 돈을 주인에게 돌려주는 것은[/left]
+    명예로운 일이니까.[/left]
+ c) 주머니를 그냥 놔둔다, 이런 일에는 얽히지 않는 것이 최고니까.[/left]"
 9000.7,"7.   Your father sends you on a task which you loathe,[/left]
     cleaning the stables. On the way there, pitchfork in[/left]
     hand, you run into your friend from the homestead near[/left]
