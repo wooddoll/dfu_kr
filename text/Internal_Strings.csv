@@ -143,22 +143,22 @@ youAreNotHungry,배가 고프지 않습니다.
 exhaustedInWater,피로가 몸을 덮쳐, 물속 깊은 곳으로 끌고 갑니다....
 youFeelSomewhatBad,뭔가 좋지 않은 기분이 듭니다.
 avoidDeath,"스텐다르의 자비로, 죽을 상황에서 살아남았습니다!"
-pronounHe,he
-pronounShe,she
-pronounHim,him
-pronounHer,her
-pronounHis,his
-pronounHers,hers
-pronounHimself,himself
-pronounHerself,herself
-city,city
-village,village
-hamlet,hamlet
-farm,farm
-shack,shack
-manor,manor
-community,community
-shrine,shrine
+pronounHe,그
+pronounShe,그녀
+pronounHim,그
+pronounHer,그녀
+pronounHis,그
+pronounHers,그녀
+pronounHimself,그자신
+pronounHerself,그녀자신
+city,도시
+village,마을
+hamlet,부락
+farm,농장
+shack,오두막
+manor,저택
+community,촌락
+shrine,성소
 King,왕
 Queen,여왕
 Duke,공작
@@ -466,7 +466,7 @@ forests,숲
 shores,해안
 medical,의료
 etiquette,에티켓
-streetwise,Streetwise
+streetwise,거리예절
 jumping,도약
 harpy,하피어
 giantish,자이언트어
@@ -778,12 +778,12 @@ Animal,동물
 Undead,언데드
 Humanoid,인간형
 Daedra,데이드라
-dialogButtonInfo,다음 순서로 변경: 진행중 퀘스트; 완료된 퀘스트; 노트북; 메세지
+dialogButtonInfo,다음 순서로 변경: 진행중 퀘스트; 완료된 퀘스트; 메모장; 메세지
 activeQuests,진행중 퀘스트
 activeQuestsInfo,진행중 퀘스트를 누르면 퀘스트 목적지로 여행.
 finishedQuests,완료된 퀘스트
 finishedQuestsInfo,좌 클릭시 누른 곳으로 이동. 우 클릭시 삭제.
-notebook,노트북
+notebook,메모장
 notebookInfo,좌 클릭으로 메모 이동. 우 클릭으로 삭제. 빈 곳 좌 클릭시 새 메모 작성.
 messages,메세지
 messagesInfo,화면에 표시된 메세지 내역
@@ -1268,7 +1268,7 @@ TavernsB,"틈새
 말썽꾸러기
 요정"
 houseForSale,내놓은 집
-theBankOf,은행 -
+theBankOf,은행:
 daggerfall,대거폴
 wayrest,웨이레스트
 sentinel,센티넬
@@ -1547,3 +1547,60 @@ sister,Sister
 daedricSkill,데이드릭어
 orcishSkill,오크어
 midDateTimeFormatString,{0:00}:{1:00}:{2:00} {3:00} {4:00} 3E{5}
+hthDamageFormatString,{0} 피해량: {1}-{2}
+affiliationFormatString,{0} (평판:{1})
+answers_5404,"bow
+bow arrow
+crossbow
+bows
+crossbows
+활
+활 화살
+쇠뇌
+십자궁
+석궁"
+answers_5406,"one
+1
+하나
+한개
+한명"
+answers_5423,"Benefactor
+the Benefactor
+후원자"
+answers_5424,"shut up
+shutup
+shaddup
+닥쳐
+닥쳐주세요
+닥치라고
+입닫아
+입닫으라고
+입닫아주세요"
+answers_5464,"예
+좋소
+동의하지
+ㅇ
+동의
+그래
+알았어
+알아들었어
+알겠어
+좋아
+그러지
+그렇게 하지
+그렇게하지
+그렇게 할게
+그렇게할게
+동의하겠소
+동의하겟소
+동의 하겠소
+동의 하겟소
+물론
+물론이지
+예아
+
+fine
+okay
+sure
+yep"
+random,랜덤
