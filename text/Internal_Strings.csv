@@ -29,7 +29,7 @@ loiterHowManyHours,대기 시간:
 restHowManyHours,휴식 시간:
 potionRecipeFor,%po 포션 제작법
 potionOf,%po 포션
-letterPrefix,편지:
+letterPrefix,편지: 
 multipleAssignments,여러 임무 수행중입니다...
 youAreEntering,%s 입장.
 storeClosed,상점이 문을 닫음. 개점 시간 %d1:00 에서 %d2:00.
@@ -1598,10 +1598,11 @@ answers_5464,"예
 동의 하겟소
 물론
 물론이지
-예아
-
 fine
 okay
 sure
 yep"
 random,랜덤
+nordSurnameImmutableSuffix,sen
+confirmDefaultControls,Are you sure you want to set default controls?
+saveLoadPromptFormat,{0} for '{1}'
