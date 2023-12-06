@@ -1,0 +1,76 @@
+-- Quest: C:\QUESTS\WORKING\A0C01Y01.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: peasant
+-- Repute: 01
+-- QuestId: 1
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 14
+Quest: A0C01Y01
+DisplayName: 경호원
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>%pcn, 제 목숨이 달아날까 두렵습니다.
+<ce>절 보호해 주실 수 있으십니까?
+<ce>오늘 밤 저를 죽인다는 _villains_의 협박이 있었습니다.
+<ce>땅을 팔지 않는다는 이유 때문입니다.
+<ce>금화 _gold_닢을 드리겠습니다.
+                                     <--->
+<ce>%ra, 제가 절박한 재난에 닥쳤습니다.
+<ce>어떤 %cn 불량배가 오늘 밤 제 집에 쑥대밭으로 만들겠다며
+<ce>으름장을 놓았습니다. 혹시 이 작자들의 면상을 창의적으로
+<ce>다시 맞춰주실 시간이 있으실런지요?
+
+RefuseQuest:  [1001]
+<ce>제 걱정은 하지 않으셔도 됩니다, %pcn.
+<ce>어떻게든... 다른 사람을 구할 수 있을겁니다.
+
+AcceptQuest:  [1002]
+<ce>고맙습니다, 축복받으시길! 그놈들은 _qgiverhome_에
+<ce>자정이 되기 세 시간 전에 들이닥칠 겁니다.
+<ce>부디 그때 절 지켜주시면 감사하겠습니다.
+<ce>그 작자들만 물리치면 전 다시 안전해질 겁니다.
+
+QuestComplete:  [1004]
+<ce>제 목숨을 구해주셨습니다, %pcf.
+<ce>기꺼이 약속드렸던 금화를 드리겠습니다.
+
+RumorsDuringQuest:  [1005]
+<ce>도둑길드와 _qgiver_ 간에 문제가 있다고 합니다.
+<ce>도둑길드가 %g2를 손봐 주려 한다는 소문을 들었습니다.
+
+RumorsPostfailure:  [1006]
+<ce>얼마전에 _qgiver_의 얼굴을 봤습니다.
+<ce>%g, 깡패들에게 꽤 당했더군요.
+
+RumorsPostsuccess:  [1007]
+<ce>_qgiver_의 의뢰를 받았다는 %ra 맞습니까?
+<ce>난동 부리는 깡패들을 쫓아냈다던데.
+
+QuestorPostsuccess:  [1008]
+<ce>절 도와주신것 잊지 않고 있습니다. %pcf
+<ce>그 불한당을 물리쳐 주신 것, 잊지 않겠습니다.
+
+QuestorPostfailure:  [1009]
+<ce>그 깡패들에게 당한 상처가 아직도 남아있습니다.
+<ce>날 지켜 달라고 고용했더니, 망쳐버렸어.
+<ce>다시 볼일 없었으면 합니다.
+
+QuestLogEntry:  [1010]
+%qdt,
+ ___qgiver_의 _qgiver_에게서
+ %g2를 지켜달라는 요청을 받았다.
+ %g2를 폭행하겠다는 _villains_의
+ 협박을 받았다고 하며, 오후 9시와 자정 사이에
+ _qgiverhome_에 올 것이라고 했다.
+
+Message:  1011
+<ce>네가 상관할 문제가 아니야, 외지놈아.
+<ce>_qgiver_ 처리는 우리가 알아서 할거고
+<ce>가만히 못있겠다면 그자리가 묫자리가 되게 해주마!
+
+Message:  1013
+<ce>이곳이 의뢰를 요청 받은 곳이다.
+<ce>_qgiver_의 장소 설명과 일치한다.
