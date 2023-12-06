@@ -43,7 +43,7 @@ RumorsDuringQuest:  [1005]
 
 RumorsPostfailure:  [1006]
 <ce>얼마전에 _qgiver_의 얼굴을 봤습니다.
-<ce>%g, 깡패들에게 꽤 당했더군요.
+<ce>깡패들에게 꽤 당했더군요.
 
 RumorsPostsuccess:  [1007]
 <ce>_qgiver_의 의뢰를 받았다는 %ra 맞습니까?
