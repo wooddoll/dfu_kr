@@ -863,8 +863,8 @@ serviceMembersOnly,이 서비스는 회원 전용입니다.
 serviceDonateHowMuch,기부할 금화 : 
 curedDisease,질병이 치료 되었습니다.
 freeHolidayCuring,오늘이 명절이기 때문에 무료로 치료 받았습니다.
-gettingQuests1,"지금 가능한 의뢰를 살펴 보겠습니다."
-gettingQuests2,"잠시만 기다려 주시지요, %pcf."
+gettingQuests1,의뢰 목록을 찾아보고 있는 것 같다.
+gettingQuests2,당신은 잠시 기다렸다.
 illegalRestWarning,도시 안이나 근처에서 노숙은 불법입니다. 노숙 하시겠습니까?
 cannotLoiterMoreThanXHours1,대기 불가
 cannotLoiterMoreThanXHours2,{0} 시간 이상 대기 할 수 없습니다.
