@@ -77,37 +77,37 @@
             {
                 "setIndex": 4,
                 "parts": [
-                    "Hawk",
-                    "Wood",
+                    "호크",
+                    "우드",
                     "Yeom",
-                    "Hearth",
-                    "King",
-                    "Green",
+                    "하스",
+                    "킹",
+                    "그린",
                     "Gaer",
-                    "Master",
-                    "Moor",
-                    "Copper",
-                    "Bucking",
-                    "Ash",
-                    "Wick"
+                    "마스터",
+                    "무어",
+                    "코퍼",
+                    "버킹",
+                    "애쉬",
+                    "윜"
                 ]
             },
             {
                 "setIndex": 5,
                 "parts": [
-                    "wing",
-                    "house",
-                    "sly",
-                    "croft",
-                    "sley",
-                    "hart",
-                    "field",
-                    "ston",
+                    "윙",
+                    "하우스",
+                    "스레이",
+                    "크로프트",
+                    "슬레이",
+                    "허트",
+                    "필드",
+                    "스턴",
                     "ing",
-                    "smith",
-                    "ham",
-                    "ton",
-                    "ford"
+                    "스미스",
+                    "햄",
+                    "턴",
+                    "포드"
                 ]
             }
         ]
