@@ -1,0 +1,86 @@
+-- Quest: C:\QUESTS\WORKING\M0B00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: fighter
+-- Repute: 0
+-- QuestId: 0
+Messages: 81
+Quest: M0B00Y00
+DisplayName: 수인 사냥
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>관심 있을지 모르겠지만 조그만 의뢰가 들어왔어.
+<ce>늑대인간이나, 맷돼지인간 인지 뭔 짐승인간 인지 모르겠지만
+<ce>비슷한게 있는 모양이야. 근방에 있는 많은 농부들이
+<ce>오랫동안 골치가 아팠던거 같더군. 이걸 죽일 사람이 필요해.
+<ce>자네 주머니에 _reward_닢이 들어간단 소리지.
+<ce>관심 있나?
+
+RefuseQuest:  [1001]
+<ce>어쩔수 없군. 다른 누가 해야 겠구만.
+
+AcceptQuest:  [1002]
+<ce>훌륭해. ___mondung_에서 그놈을 찾을 수 있을거야.
+<ce>=1stparton_일 이내에 잡도록 하게.
+<ce>그 다음에 돌아오면 된다, 애송이.
+
+QuestFail:  [1003]
+<ce>짐승이 너무 벅찼던 모양이구만, 애송이
+<ce>아님 아예 시도도 못해봤나?
+<ce>아 뭐, 지금쯤 다른 어딘가로 이동했겠군.
+<ce>안타깝구만.
+
+QuestComplete:  [1004]
+<ce>잘했어, 수인-사냥꾼. 금화 잘 맛보라고.
+
+RumorsDuringQuest:  [1005]
+I've heard there's some kind of werewolf on the loose around here.
+<--->
+I hear the wereboar's found a lair in someplace called ___mondung_.
+<--->
+Didja hear that howling last night? Wolf howling?
+
+RumorsPostfailure:  [1006]
+Werewolves are real nomads, I guess. I hear our loup moved down south.
+<--->
+My cousin tells me that our wereboar was spotted down south aways.
+
+RumorsPostsuccess:  [1007]
+I hear they found out that werething was a priest during the day!
+<--->
+A lot of people feel safer knowing that werebeast is dead.
+<--->
+You heard about that werewolf some %ra hunted down?
+
+QuestorPostsuccess:  [1008]
+<ce>           Thanks for taking care of that werecritter %pcf.
+
+QuestorPostfailure:  [1009]
+<ce>                  Get outta here. You're so pathetic.
+<ce>                   You couldn't even handle a werewolf.
+
+Message:  1020
+<ce>                   The lycanthrope threat is ended.
+
+Message:  1021
+<ce>                     This must be the "werebeast"
+<ce>                      everyone is afraid of. Just
+<ce>                       an ordinary grizzly bear.
+
+Message:  1030
+%qdt:
+ The Fighters Guild of
+ ___questgiver_ has hired
+ me to kill a troublesome werewolf,
+ wereboar, or whatever, in its lair,
+ ___mondung_. The beast needs
+ to be dead in =1stparton_ days
+ time for me to collect my payment.
+
+Message:  1080
+<ce>                    Here's a map to a place called
+<ce>                     ___newdung_.  All the killing
+<ce>                      and treasure you can handle.
+<ce>                          Knock yourself out.
