@@ -143,11 +143,3 @@ Dear %pcf,
  
 <ce>                              -- Morgiah
 <ce>                          Princess of Wayrest
-
-
--- Symbols used in the QRC file:
---
---              %pcf occurs 3 times.
---              %pcn occurs 7 times.
---              %qdt occurs 2 times.
---               %ra occurs 1 time.
