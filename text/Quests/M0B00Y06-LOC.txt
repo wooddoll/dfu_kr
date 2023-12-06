@@ -30,8 +30,8 @@ AcceptQuest:  [1002]
 <ce>없을테지요. 그 짐승이 죽고 여기로 돌아오면
 <ce>제가 보수를 준비해 놓겠습니다.
 <ce> 
-<ce>[_qgiver_의 외침], "어이! 그 _house_에 있는게
-<ce>뭔 짐승이더라?"
+<ce>[_qgiver_의 외침]
+<ce>"어이! 그 _house_ 뭔 짐승이더라?"
 
 QuestComplete:  [1004]
 <ce>잘했습니다, %pcf.
