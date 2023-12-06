@@ -174,10 +174,3 @@ Message:  1025
 <ce>생매장될지도 모른다는 공포는 더 넓은 길로 향하는 통로가 보이자
 <ce>사그라들었다. 이 길로 나아가면 동굴을 나갈 수 있을지도 모르며,
 <ce>그 후에는 황제께서 내리신 임무를 시작할 수 있을 것이다.
-
--- Symbols used in the QRC file:
---
---              %pcf occurs 10 times.
---              %pcn occurs 6 times.
---              %qdt occurs 2 times.
---       __dirtypit_ occurs 16 times.
