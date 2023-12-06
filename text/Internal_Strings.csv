@@ -149,8 +149,8 @@ pronounHim,그
 pronounHer,그녀
 pronounHis,그
 pronounHers,그녀
-pronounHimself,그자신
-pronounHerself,그녀자신
+pronounHimself,그 자신
+pronounHerself,그녀 자신
 city,도시
 village,마을
 hamlet,부락
@@ -191,8 +191,8 @@ Battered,닳아빠진
 Worn,낡은
 Used,꽤 사용한
 SlightlyUsed,약간 사용한
-AlmostNew,거의 새것
-New,새것
+AlmostNew,거의 새 것
+New,새 것
 Nothing,Nothing
 local,local
 tavern,선술집
@@ -848,7 +848,7 @@ cannotDeleteVamp,뱀파이어 특수 주문은 삭제할 수 없습니다.
 cannotDeleteWere,늑대인간 특수 주문은 삭제할 수 없습니다.
 noRecipes,제작법이 없습니다.
 potionMixed,포션이 제조 되었습니다.
-potionFailed,Those ingredients did not concoct an effective potion.
+potionFailed,이 재료로는 효능이 있는 포션을 만들 수 없습니다.
 reqIngredients,필요한 재료가 없습니다.
 region,지역
 account,계좌
@@ -863,7 +863,7 @@ serviceMembersOnly,이 서비스는 회원 전용입니다.
 serviceDonateHowMuch,기부할 금화 : 
 curedDisease,질병이 치료 되었습니다.
 freeHolidayCuring,오늘이 명절이기 때문에 무료로 치료 받았습니다.
-gettingQuests1,"지금 가능한 임무를 살펴 보겠습니다."
+gettingQuests1,"지금 가능한 의뢰를 살펴 보겠습니다."
 gettingQuests2,"잠시만 기다려 주시지요, %pcf."
 illegalRestWarning,도시 안이나 근처에서 노숙은 불법입니다. 노숙 하시겠습니까?
 cannotLoiterMoreThanXHours1,대기 불가
@@ -1055,15 +1055,15 @@ youNote,기록:
 customName,Custom name: 
 StoresA,"%ef 의
 %cn 최고급
-The Essential
+최상품
 %ef 경의
 모험가의
-The Odd
+특출난
 %ef 의 최상
 할인점
 골동품점
 황제의
-%cn t18373
+%cn
 %ef 의 일반
 특상품
 %ef 의 고급
@@ -1089,7 +1089,7 @@ Wares
 Warehouse"
 WeaponStoresB,"무기
 무기점
-Arms
+병기점
 무장
 무장점
 무장 제작점
@@ -1097,18 +1097,18 @@ Arms
 대장간
 대장장이
 무기 대장장이"
-ArmorStoresB,"갑옷
-Mail
-Shielding
-Armor
-Shields
+ArmorStoresB,"갑옷점
+갑주
+방호구
+갑옷
+방패점
 Aegis
 Metalworks
-Blacksmith
+대장장이
 Metalsmith
-Armorer
-Smith
-Smithy"
+갑옷 대장장이
+대장장이
+대장간"
 BookStoresB,"책
 서점
 서점
@@ -1419,7 +1419,7 @@ agiRatings,"돌덩이
 민첩한
 몸이 날랜
 몸이 날렵한
-서커스"
+곡예사"
 endRatings,"병약한
 허약한
 잔병이 많은
@@ -1449,7 +1449,7 @@ spdRatings,"거의 움직이지 못하는
 빠른
 발이 빠른
 번개 같은
-초월적인 속도"
+초월적인"
 lucRatings,"저주받은
 가망이 없는
 절망적인
