@@ -458,7 +458,7 @@ morrowind,모로윈드
 skyrim,스카이림
 sumurset,서머셋
 valenwood,발렌우드
-rollingHills,rolling hills
+rollingHills,구릉지
 desertLand,사막
 mountains,산
 swamps,늪지
@@ -532,7 +532,7 @@ lockedExteriorDoor,잠김.
 canOnlyCastOncePerDay,하루에 한번만 쓸 수 있습니다...
 youNeedToHuntTheInnocent,먹이감을 사냥하고 싶은 욕구가 생깁니다...
 youDreamOfTheMoon,"꿈을, 꿨다, 달의 꿈을..."
-inventoryWhileShapechanged,변형중에는 소지품을 볼 수 없습니다...
+inventoryWhileShapechanged,변형 중에는 소지품을 볼 수 없습니다...
 youGetNoResponse,대답이 없습니다.
 copyLogbookInfo,왼쪽-클릭: 선택한 글 복사. 오른쪽-클릭: 현재 대화 전부 복사.
 east,동쪽
@@ -565,14 +565,14 @@ Pawnshops,전당포
 Taverns,선술집
 Weaponsmiths,무기 대장장이
 Localtemples,지역 사원
-Sir,Sir
-Ma'am,Ma'am
-oldLeaderFate0,심장 마비로 사망했습니다.
-oldLeaderFate1,떨어져서 머리를 부딪혔습니다.
-oldLeaderFate2,질병으로 사망했습니다.
-oldLeaderFate3,압력으로 사임했습니다.
-oldLeaderFate4,강판되었습니다.
-oldLeaderFate5,침대에서 암살당한 채로 발견되었습니다.
+Sir,경
+Ma'am,부인
+oldLeaderFate0,심장마비로 사망했습니다
+oldLeaderFate1,떨어져서 머리를 부딪혔습니다
+oldLeaderFate2,질병으로 사망했습니다
+oldLeaderFate3,압력으로 사임했습니다
+oldLeaderFate4,강판되었습니다
+oldLeaderFate5,침대에서 암살당한 채로 발견되었습니다
 toBeReplacedStringRegional,Any
 replacementStringRegional,any
 comma,",  "
@@ -673,25 +673,25 @@ curePoison,독 치료
 chameleonForm,카멜레온
 shadowForm,그림자
 purification,정화
-LeatherCuirass,Leather Cuirass
-LeatherGauntlets,Leather Gauntlets
-LeatherGreaves,Leather Greaves
-LeatherLeftPauldron,Leather Left Pauldron
-LeatherRightPauldron,Leather Right Pauldron
-LeatherHelm,Leather Helm
-LeatherBoots,Leather Boots
-ChainCuirass,Chain Cuirass
-ChainGauntlets,Chain Gauntlets
-ChainGreaves,Chain Greaves
-ChainLeftPauldron,Chain Left Pauldron
-ChainRightPauldron,Chain Right Pauldron
-ChainHelm,Chain Helm
-ChainBoots,Chain Boots
-SteelCuirass,Steel Cuirass
-SteelGauntlets,Steel Gauntlets
-SteelGreaves,Steel Greaves
-SteelLeftPauldron,Steel Left Pauldron
-SteelRightPauldron,Steel Right Pauldron
+LeatherCuirass,가죽 퀴레이스
+LeatherGauntlets,가죽 건틀릿
+LeatherGreaves,가죽 그레이브
+LeatherLeftPauldron,가죽 좌측 폴드론
+LeatherRightPauldron,가죽 우측 폴드론
+LeatherHelm,가죽 투구
+LeatherBoots,가죽 부츠
+ChainCuirass,체인 퀴레이스
+ChainGauntlets,체인 건틀릿
+ChainGreaves,체인 그레이브
+ChainLeftPauldron,체인 좌측 폴드론
+ChainRightPauldron,체인 우측 폴드론
+ChainHelm,체인 투구
+ChainBoots,체인 부츠
+SteelCuirass,강철 퀴레이스
+SteelGauntlets,강철 건틀릿
+SteelGreaves,강철 그레이브
+SteelLeftPauldron,강철 좌측 폴드론
+SteelRightPauldron,강철 우측 폴드론
 SteelHelm,강철 투구
 SteelBoots,강철 부츠
 SteelBuckler,강철 버클러
@@ -729,7 +729,7 @@ ExtraWeight,물품 무게 증가
 WeakensArmor,방어력 약화
 BadRepWith,상대에 나쁜평판
 inHolyPlaces,성스러운 장소
-wheneverUsed,사용할때마다
+wheneverUsed,사용할 때마다
 unlessUsedDaily,매일 사용하지 않을시
 unlessUsedWeekly,매주 사용하지 않을시
 fromHumanoids,인간형
@@ -806,7 +806,7 @@ houseDeed,등록 문서를 획득했고, %region 의 %town 에 있는 집을 얻
 levelProgress,다음 레벨 까지 누적된 진행도: {0}%
 readMap,지도를 보고 %map 위치를 알아냈다.
 readMapTG,도둑 길드에서 긴밀히 지켜오던 보물 위치가 적힌 %map 지도를 받았습니다.
-readMapDB,다크 브라더후드에서 보물이 있는 지하도 %map 에 대한 비밀을 건네받았습니다.
+readMapDB,다크 브라더후드에서 보물이 있는 %map 에 대한 비밀을 건네받았습니다.
 readMapFail,이미 이 지도에 나오는 지역은 알고 있습니다.
 howManyItems,물품 몇 개를 이동 합니까(최대 {0})?
 wagonFullGold,마차에 금화 {0}닢 이상 실을 수 없습니다.
@@ -826,12 +826,12 @@ cannotCarryAnymore,더 이상의 물건은 소지할 수 없습니다.
 cannotHoldAnymore,수레에 더 이상 물건을 넣을 수 없습니다.
 cannotUseThis,이것은 사용할 수 없습니다.
 equippingWeapon,%s-손에 들었습니다.
-lightDouse,%it 을 껐습니다.
+lightDouse,%it 의 불을 껐습니다.
 lightLight,%it 에 불을 붙였습니다.
-lightDies,%it 이 깜빡거리더니 꺼졌습니다.
+lightDies,%it 의 빛이 깜빡거리더니 꺼졌습니다.
 lightEmpty,%it 에 기름이 없습니다.
-lightRefuel,%it 을 기름병으로 채웠습니다.
-lightFull,%it 이 가득 찼습니다.
+lightRefuel,%it 의 기름을 채웠습니다.
+lightFull,%it 에 기름이 가득 찼습니다.
 kgSrc,킬로그램
 kgRep,kg
 damSrc,points of damage
@@ -847,7 +847,7 @@ unknownAuthor,작자 미상
 cannotDeleteVamp,뱀파이어 특수 주문은 삭제할 수 없습니다.
 cannotDeleteWere,늑대인간 특수 주문은 삭제할 수 없습니다.
 noRecipes,제작법이 없습니다.
-potionMixed,포션이 제조 되었습니다.
+potionMixed,포션을 제조 했습니다.
 potionFailed,이 재료로는 효능이 있는 포션을 만들 수 없습니다.
 reqIngredients,필요한 재료가 없습니다.
 region,지역
@@ -855,7 +855,7 @@ account,계좌
 loan,대출
 dueDate,대출 기한
 noAccount,없음
-loanReminder,{1} 에서 대출 받은 금화 {0} 닢을
+loanReminder,{1}에서 대출 받은 금화 {0}닢을
 loanReminder2,{0} 달 안에 상환해야 합니다.
 classicIcons,Classic
 suggestedIcons,Suggested
@@ -1293,10 +1293,10 @@ Wrothgarian Mountains
 대거폴
 Glenpoint
 Betony
-Sentinel
+센티넬
 Anticlere
 Lainlyn
-Wayrest
+웨이레스트
 Gen Tem High Rock village
 Gen Rai Hammerfell village
 Orsinium Area
@@ -1544,7 +1544,7 @@ nonMember,non-member
 knightSister,Knight Sister
 matriarch,Matriarch
 sister,Sister
-daedricSkill,데이드릭어
+daedricSkill,데이드라어
 orcishSkill,오크어
 midDateTimeFormatString,{0:00}:{1:00}:{2:00} {3:00} {4:00} 3E{5}
 hthDamageFormatString,{0} 피해량: {1}-{2}
