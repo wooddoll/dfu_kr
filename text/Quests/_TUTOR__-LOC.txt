@@ -1,0 +1,268 @@
+Quest: _TUTOR__
+DisplayName: Tutorial
+QRC:
+
+RumorsDuringQuest:  [1005]
+<ce>                       I'll give you a hint %ra.
+<ce>                   If you want to succeed in magic,
+<ce>                         join the mages guild.
+                                     <--->
+<ce>                  A small tip for you. Put your money
+<ce>                  in the bank of %reg. Have them give
+<ce>                  you letters of credit. They hardly
+<ce>                            weigh a thing.
+                                     <--->
+<ce>                  Specialty shops are the best place
+<ce>                         to find unsual items.
+                                     <--->
+<ce>                   They just passed a vagrancy law.
+<ce>                  You can't sleep in the streets. The
+<ce>                 guards even patrol outside the walls.
+<ce>                   You have to get a room at an Inn.
+                                     <--->
+<ce>                  Everyone should join a temple. The
+<ce>                   only question is what god is best
+<ce>                   for you? I'd check into them all.
+
+RumorsPostfailure:  [1006]
+<ce>                    Things are really heating up in
+<ce>                  the city of Daggerfall. You should
+<ce>                    go there if you want adventure.
+                                     <--->
+<ce>                    I've heard that the royalty of
+<ce>                  Wayrest is stirring things up. Its
+<ce>                    a great opportunity for anyone
+<ce>                   with the guts to actually ask the
+<ce>                        king or queen for work.
+                                     <--->
+<ce>                     I've heard that Sentinel is a
+<ce>                   good place to earn quick gold and
+<ce>                     the opportunity for a bit of
+<ce>                    adventure. The royal family is
+<ce>                   hiring heroes for dangerous work.
+
+QuestLogEntry:  [1010]
+<ce>엘더스크롤: 대거폴 튜토리얼 입니다.
+<ce>처음 던전과 약간 후의 플레이까지 진행됩니다.
+<ce>튜토리얼을 하시겠습니까?
+
+Message:  1012
+<ce>튜토리얼 수업 1
+<ce>제일 먼저 해봐야 할 것은 캐릭터로 주변을 돌아 다녀보는 것 입니다.
+<ce>여기 첫번째 방에서는 없기 때문에 적 걱정은 하지 않아도 됩니다.
+<ce>
+<ce>이 메세지가 사라지면 마우스를 움직여서 보는 방향을 움직일 수 있습니다.
+<ce>
+<ce>W, A, S, D 키를 사용해서 움직일 수 있습니다.
+<ce>힌트:이것은 기본 키 설정입니다. ESC 키를 눌러 컨트롤 버튼을 누르면
+<ce>설정을 변경할 수 있습니다.
+<ce>
+<ce>일분 후에 무장을 갖추고 괴물과 싸우는 방법에 대해 알려 드리겠습니다.
+
+Message:  1013
+<ce>튜토리얼 수업 2
+<ce>
+<ce>사략해적 소굴 깊이 들어가기 전에 먼저 무장을 갖추어야 합니다.
+<ce>F6 키를 눌러 물품 창을 띄우십시오.
+<ce>
+<ce>무기를 클릭해서 무장하십시오. 이제 무기를 뽑을 수 있습니다.
+<ce>나가기 버튼을 눌러서 게임으로 돌아가십시오.
+<ce>
+<ce>힌트:무기 두개를 장비할 수 있습니다.
+<ce>H 키를 누르면 무기를 서로 바꿀 수 있습니다.
+<ce>예 버튼을 눌러 계속하거나, 아니오 를 눌러 튜토리얼을 취소하십시오.
+
+Message:  1015
+<ce>튜토리얼 수업 3
+<ce>
+<ce>무기를 뽑기 위해선 Z 키를 누르면 됩니다.
+<ce>무기를 장비한 직후에는 약간의 대기시간이 있습니다.
+<ce>즉시 무기가 뽑히지 않더라도 걱정하지 마십시오.
+<ce>
+<ce>몇번 연습으로 무기를 휘둘러 보십시오. 오른쪽 마우스를 클릭하고
+<ce>마우스를 움직이면 됩니다. 이렇게 괴물과 싸우면 됩니다.
+<ce>
+<ce>힌트:마우스를 움직이는 방향에 따라서 무기를 다르게 사용합니다.
+<ce>이 방법에 따라서 적을 맞출 확률과 주는 피해량이 달라집니다.
+<ce>
+<ce>무기 연습 시간을 1분 드리겠습니다.
+<ce>
+<ce>예 버튼을 눌러 계속하거나, 아니오 를 눌러 튜토리얼을 취소하십시오.
+
+Message:  1020
+<ce>튜토리얼 수업 4
+<ce>
+<ce>통로로 나아가서 문을 지나면 거대 쥐가 있습니다.
+<ce>잡아 봅시다!
+<ce>
+<ce>문 앞에 도착하면 문을 화면 중앙에 두고 마우스 버튼을
+<ce>눌러서 여십시오. 이런 방법으로 문, 바퀴, 보물 더미, 조작 장치
+<ce>사람 등과 상호작용할 수 있습니다.
+<ce>보물 더미 처럼 죽은 시체에 클릭해서 물건을 얻을 수도 있습니다.
+<ce>
+<ce>힌트: 이 문은 비밀 문입니다. 쥐를 죽인 후에 열었던 문을
+<ce>들어온 방 안에서 마우스를 눌러 다시 닫아 보십시오.
+<ce>찾기 매우 어려운 비밀 문도 있습니다.
+<ce>
+<ce>몇분 후에 다음 수업을 계속 하겠습니다.
+<ce>예 버튼을 눌러 계속하거나, 아니오 를 눌러 튜토리얼을 취소하십시오.
+
+Message:  1025
+<ce>튜토리얼 수업 5
+<ce>
+<ce>쥐가 있는 방 안의 검은 제단에 보물 더미가 있습니다.
+<ce>가까이 가서 클릭해 보십시오. 물품 창이 뜨게 됩니다.
+<ce>보물 더미에 있는 모든 물건은 물품 창의 오른쪽 세로 줄에
+<ce>표시됩니다.
+<ce>
+<ce>장비, 버리기 중 하나를 클릭해 보십시오. 그 다음
+<ce>오른쪽 세로줄에 표시된 물건을 클릭하면, 여러분의
+<ce>물품 창으로 들어오게 되거나(버리기), 여러분의
+<ce>캐릭터가 착용하게(장비)됩니다.
+<ce>
+<ce>힌트: 물품에 대한 정보를 정보 버튼을 누르고 물건을
+<ce>눌러 확인할 수 있습니다.
+<ce>
+<ce>일분 후에 게임을 저장하는 방법에 대해 알려드리겠습니다.
+<ce>예 버튼을 눌러 계속하거나, 아니오 를 눌러 튜토리얼을 취소하십시오.
+
+Message:  1030
+<ce>                           Tutorial Lesson 6
+<ce>                                    
+<ce>         This would be a good time to save the game (assuming
+<ce>         you are not in the middle of a fight). Press the ESC
+<ce>          key and click on SAVE GAME.
+<ce>                                    
+<ce>         If you get killed in this dungeon, you can go back to
+<ce>       that saved game without having to create a new character.
+<ce>                                    
+<ce>        Hint: You can also use F9 to quicksave and
+<ce>            F12 to quickload.
+<ce>                                    
+<ce>         I'll leave you for several minutes now. Go ahead and
+<ce>           explore the dungeon. Click YES to continue, NO to
+<ce>                         cancel the tutorial.
+
+Message:  1035
+<ce>                           Tutorial Lesson 7
+<ce>                                    
+<ce>          If you have a spell casting character, try using a
+<ce>                    spell against the next monster.
+<ce>                                    
+<ce>          Press the BACKSPACE key to pull up the spells menu.
+<ce>        select SHOCK by double clicking on it. This spell will
+<ce>        only work if you are close enough to touch the monster
+<ce>            To cast the spell, press the left mouse button;
+<ce>        spells are always fired at the center of the screen.
+<ce>                                    
+<ce>           I'll wait until you have escaped from the dungeon
+<ce>                    for your next tutorial lesson.
+
+Message:  1040
+<ce>                           Tutorial Lesson 8
+<ce>                                    
+<ce>         Congratulations! You have made it out of the starter
+<ce>                      dungeon, Privateer's Hold.
+<ce>         I bet you are wondering what to do now? What you need
+<ce>           is a town. Towns have the services you will need
+<ce>             throughout the game. Lets fast travel to one.
+<ce>                                    
+<ce>                            (continued...)
+
+Message:  1041
+<ce>         Fast travel is done by pressing the V key. The region
+<ce>          that you are in (Daggerfall) is highlighted in red.
+<ce>         Click on that region and you get a blow up map. There
+<ce>        are a lot of places on this map! Lets find the city of
+<ce>            Daggerfall. Click FIND and type in DAGGERFALL.
+<ce>           The most convenient way to travel is by clicking
+<ce>          CAUTIOUSLY and INNS, both of which are the default
+<ce>          settings. Otherwise you risk arriving at night and
+<ce>              having to climb the walls to get into town.
+<ce>                                    
+<ce>           For this tutorial to continue, you should go to a
+<ce>           large city, such as the city of Daggerfall. We'll
+<ce>           pick up the lessons again in =2dagger_ days. This
+<ce>             should give you plenty of time to get there.
+
+QuestTimeLapse:  [1045]
+<ce>                           Tutorial Lesson 9
+<ce>                                    
+<ce>         Ah, the sights and sounds of the city! Did you arrive
+<ce>        at night or try to rest? If so, the guards will not let
+<ce>         anyone sleep in the streets or even too close to the
+<ce>           walls. You can only rest in Taverns, if you have
+<ce>                        purchased a room there.
+<ce>                                    
+<ce>        The first thing you want to do is to press the F4 key to
+<ce>         set your mode to DIALOGUE (you can change the mode of
+<ce>       interaction anytime using F1 to F4). Now get close to one
+<ce>        of the townsfolk. They won't stop to talk to you unless
+<ce>         you are not moving. Click on the person and you will
+<ce>                  be placed into the Dialogue screen.
+<ce>                                    
+<ce>                            (continued...)
+
+Message:  1046
+<ce>        You want to find a general store or weaponsmith. It is
+<ce>         one of the places you can sell your excess gear. The
+<ce>          person will probably give you directions. Travel in
+<ce>       that direction for a while and then ask another passerby.
+<ce>     Continue this until somebody marks the location on your map.
+<ce>                                    
+<ce>        Press M to view the map of the city. You should be able
+<ce>        to tell where the building is from that. All shops have
+<ce>       signs out front. Learn the signs and you will be able to
+<ce>        get around much easier. You will need a tavern to rest.
+<ce>                     look for the mug of ale sign.
+<ce>                                    
+<ce>       Hint: Pressing F3 switchs you to INFO mode. You can click
+<ce>      on buildings to learn what they are. Some shops don't open
+<ce>      until late in the day. You can loiter (a REST option) until
+<ce>              the shopkeeper decides to unlock the door.
+<ce>                                    
+<ce>       Don't leave town! I'll check in with you again tomorrow.
+
+Message:  1050
+<ce>                          Tutorial Lesson 10
+<ce>                                    
+<ce>      Today's lesson is about guilds. A guild is an organization
+<ce>       that offers benefits for its members. As you rise in rank
+<ce>        in a guild, you get more benefits. To rise in rank, you
+<ce>        must improve skills that guild cares about, and perform
+<ce>       quests on a regular basis to improve your reputation with
+<ce>             them. You can belong to more than one guild.
+<ce>                                    
+<ce>        All spellcasters should join the Mages Guild. Everyone
+<ce>        should pick a temple to join. However, pick carefully.
+<ce>         You can only be a member of one temple. Fighter type
+<ce>        characters should join either the fighter's guild or a
+<ce>                            knightly order.
+<ce>                                    
+<ce>         Hint: Thieves and murderers, just do your thing. The
+<ce>              underworld will contact you after a while.
+<ce>                                    
+<ce>              I'll be back tomorrow with the next lesson.
+
+Message:  1055
+<ce>                          Tutorial Lesson 11
+<ce>                                    
+<ce>        Today we want a quest. A quest is an adventure given by
+<ce>      someone in town. Its amazing how many people in Daggerfall
+<ce>             need the services of a brave hero or heroine.
+<ce>                                    
+<ce>      Go to someone in a tavern or on the street. Ask them about
+<ce>       work. Odds are that they will direct you to someone else
+<ce>      in town. That person will offer you a quest. You don't have
+<ce>     to take every quest that is offered. Successfully completing
+<ce>       a quest means that person, and his friends, will like you
+<ce>       a little better. It can also be profitable. Last, but not
+<ce>             least, it is the best way to locate dungeons!
+
+Message:  1056
+<ce>        This is the last of the tutorial lessons. There is much
+<ce>       more to learn about Tamriel and about the game. However,
+<ce>        you now have the basics to be able to explore and learn
+<ce>                       these things on your own.
+<ce>                                    
+<ce>                       Good luck, and have fun!
