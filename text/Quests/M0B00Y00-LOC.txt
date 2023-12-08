@@ -36,51 +36,47 @@ QuestComplete:  [1004]
 <ce>잘했어, 수인-사냥꾼. 금화 잘 맛보라고.
 
 RumorsDuringQuest:  [1005]
-I've heard there's some kind of werewolf on the loose around here.
+이 근방에 무슨 늑대인간 같은게 돌아다닌다고 들었습니다.
 <--->
-I hear the wereboar's found a lair in someplace called ___mondung_.
+___mondung_에 맷돼지인간 소굴이 있다고 들었습니다.
 <--->
-Didja hear that howling last night? Wolf howling?
+어젯밤 울부짖는 소리 들으셨습니까? 늑대 울음?
 
 RumorsPostfailure:  [1006]
-Werewolves are real nomads, I guess. I hear our loup moved down south.
+늑대인간은 자주 이동하는 모양입니다. 수인이 남쪽으로 갔다고 들었습니다.
 <--->
-My cousin tells me that our wereboar was spotted down south aways.
+친척이 맷돼지인간이 남쪽으로 가는걸 봤다고 하더군요.
 
 RumorsPostsuccess:  [1007]
-I hear they found out that werething was a priest during the day!
+그 변신하는 뭐가 낮에는 성직자였다고 합니다!
 <--->
-A lot of people feel safer knowing that werebeast is dead.
+그 수인이 죽어서 다들 안전해 졌다고 좋아합니다.
 <--->
-You heard about that werewolf some %ra hunted down?
+당신이 그 늑대인간을 잡았다던 %ra 맞습니까?
 
 QuestorPostsuccess:  [1008]
-<ce>           Thanks for taking care of that werecritter %pcf.
+<ce>그 골칫거리 수인 문제를 처리해줘서 고맙군, %pcf.
 
 QuestorPostfailure:  [1009]
-<ce>                  Get outta here. You're so pathetic.
-<ce>                   You couldn't even handle a werewolf.
+<ce>여기서 나가. 한심한.
+<ce>늑대인간 하나 처리를 못하다니.
 
 Message:  1020
-<ce>                   The lycanthrope threat is ended.
+<ce>수인 문제를 처리했다.
 
 Message:  1021
-<ce>                     This must be the "werebeast"
-<ce>                      everyone is afraid of. Just
-<ce>                       an ordinary grizzly bear.
+<ce>이게 분명 다들 두려워하는 "맷돼지인간" 인 것 같다.
+<ce>하지만 그냥 평범한 불곰이다.
 
 Message:  1030
 %qdt:
- The Fighters Guild of
- ___questgiver_ has hired
- me to kill a troublesome werewolf,
- wereboar, or whatever, in its lair,
- ___mondung_. The beast needs
- to be dead in =1stparton_ days
- time for me to collect my payment.
+ 파이터 길드의 ___questgiver_에게 의뢰를 받았다.
+ ___mondung_에 있는
+ 늑대인간, 맷돼지인간, 인지 뭔지 모를 것의
+ 소굴로 가서 그 짐승을 죽이라는 것이다.
+ =1stparton_일 안에 죽여야 보수를 받을 수 있닫.
 
 Message:  1080
-<ce>                    Here's a map to a place called
-<ce>                     ___newdung_.  All the killing
-<ce>                      and treasure you can handle.
-<ce>                          Knock yourself out.
+<ce>여기 ___newdung_ 지도가 있네.
+<ce>죽일거 죽이고 챙길거 다 챙기라고.
+<ce>잘 벌어보라고.
