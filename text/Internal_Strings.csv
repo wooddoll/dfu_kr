@@ -1604,5 +1604,5 @@ sure
 yep"
 random,랜덤
 nordSurnameImmutableSuffix,sen
-confirmDefaultControls,Are you sure you want to set default controls?
-saveLoadPromptFormat,{0} for '{1}'
+confirmDefaultControls,조작방식을 기본값으로 되돌리시겠습니까?
+saveLoadPromptFormat,'{1}' 캐릭터 {0}
