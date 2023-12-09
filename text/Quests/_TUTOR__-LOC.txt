@@ -3,43 +3,37 @@ DisplayName: Tutorial
 QRC:
 
 RumorsDuringQuest:  [1005]
-<ce>                       I'll give you a hint %ra.
-<ce>                   If you want to succeed in magic,
-<ce>                         join the mages guild.
+<ce>조언 하나 드리죠 %ra.
+<ce>마법쪽으로 성공하고 싶으면
+<ce>메이지 길드에 가입하십시오.
                                      <--->
-<ce>                  A small tip for you. Put your money
-<ce>                  in the bank of %reg. Have them give
-<ce>                  you letters of credit. They hardly
-<ce>                            weigh a thing.
+<ce>작은 조언하나 드리겠습니다. %reg 은행에
+<ce>저축하고 어음을 달라고 하면 좋습니다.
+<ce>아주 가볍거든요.
                                      <--->
-<ce>                  Specialty shops are the best place
-<ce>                         to find unsual items.
+<ce>특별한 물건이 필요하다면
+<ce>전문 상점을 찾는게 최고입니다.
                                      <--->
-<ce>                   They just passed a vagrancy law.
-<ce>                  You can't sleep in the streets. The
-<ce>                 guards even patrol outside the walls.
-<ce>                   You have to get a room at an Inn.
+<ce>노숙 금지법이 통과됬습니다.
+<ce>길가에서 잠을 자면 안됩니다.
+<ce>경비병이 성벽 밖도 순찰을 돌고 있습니다.
+<ce>꼭 여관에서 방을 구해야 합니다.
                                      <--->
-<ce>                  Everyone should join a temple. The
-<ce>                   only question is what god is best
-<ce>                   for you? I'd check into them all.
+<ce>사원에 가입하는게 좋습니다.
+<ce>어느 신을 섬길지가 문제인데,
+<ce>잘 알아보고 가입하는게 좋습니다.
 
 RumorsPostfailure:  [1006]
-<ce>                    Things are really heating up in
-<ce>                  the city of Daggerfall. You should
-<ce>                    go there if you want adventure.
+<ce>대거폴 도시 상황이 심상치 않습니다.
+<ce>일을 하고 싶다면 가보는게 좋겠지요.
                                      <--->
-<ce>                    I've heard that the royalty of
-<ce>                  Wayrest is stirring things up. Its
-<ce>                    a great opportunity for anyone
-<ce>                   with the guts to actually ask the
-<ce>                        king or queen for work.
+<ce>웨이레스트 가신들의 충성심에 문제가 생기고 있다고
+<ce>들었습니다. 왕이나 여왕에게 직접 임무를 요청할
+<ce>패기가 있다면 좋은 기회겠지요.
                                      <--->
-<ce>                     I've heard that Sentinel is a
-<ce>                   good place to earn quick gold and
-<ce>                     the opportunity for a bit of
-<ce>                    adventure. The royal family is
-<ce>                   hiring heroes for dangerous work.
+<ce>센티넬에 가면 모험과 금화를 얻을 기회가
+<ce>많다고 들었습니다. 왕가에서 위험한 임무를
+<ce>맡을 영웅을 고용하고 있다고 합니다.
 
 QuestLogEntry:  [1010]
 <ce>엘더스크롤: 대거폴 튜토리얼 입니다.
@@ -102,7 +96,7 @@ Message:  1020
 <ce>
 <ce>힌트: 이 문은 비밀 문입니다. 쥐를 죽인 후에 열었던 문을
 <ce>들어온 방 안에서 마우스를 눌러 다시 닫아 보십시오.
-<ce>찾기 매우 어려운 비밀 문도 있습니다.
+<ce>이 문과 달리 찾기 매우 어려운 비밀 문도 있습니다.
 <ce>
 <ce>몇분 후에 다음 수업을 계속 하겠습니다.
 <ce>예 버튼을 눌러 계속하거나, 아니오 를 눌러 튜토리얼을 취소하십시오.
@@ -127,142 +121,122 @@ Message:  1025
 <ce>예 버튼을 눌러 계속하거나, 아니오 를 눌러 튜토리얼을 취소하십시오.
 
 Message:  1030
-<ce>                           Tutorial Lesson 6
-<ce>                                    
-<ce>         This would be a good time to save the game (assuming
-<ce>         you are not in the middle of a fight). Press the ESC
-<ce>          key and click on SAVE GAME.
-<ce>                                    
-<ce>         If you get killed in this dungeon, you can go back to
-<ce>       that saved game without having to create a new character.
-<ce>                                    
-<ce>        Hint: You can also use F9 to quicksave and
-<ce>            F12 to quickload.
-<ce>                                    
-<ce>         I'll leave you for several minutes now. Go ahead and
-<ce>           explore the dungeon. Click YES to continue, NO to
-<ce>                         cancel the tutorial.
+<ce>튜토리얼 수업 6
+<ce>
+<ce>지금 전투중이 아니라고 가정하겠습니다.
+<ce>게임을 저장하기 적절한 시간인 것 같군요.
+<ce>ESC 키를 눌러 게임 저장 버튼을 누르십시오.
+<ce>
+<ce>던전을 진행하다가 죽으면 저장한 시점으로 돌아가서
+<ce>다시 시작할 수 있습니다. 새로 캐릭터를 만들 필요
+<ce>가 없지요.
+<ce>
+<ce>힌트: F9 키를 눌러 퀵세이브 F12 키를 눌러 퀵로드를 할 수 있습니다.
+<ce>
+<ce>몇분후에 다음 수업을 진행하겠습니다. 던전을 더 탐험해 보십시오.
+<ce>예 버튼을 눌러 계속하거나, 아니오 를 눌러 튜토리얼을 취소하십시오.
 
 Message:  1035
-<ce>                           Tutorial Lesson 7
-<ce>                                    
-<ce>          If you have a spell casting character, try using a
-<ce>                    spell against the next monster.
-<ce>                                    
-<ce>          Press the BACKSPACE key to pull up the spells menu.
-<ce>        select SHOCK by double clicking on it. This spell will
-<ce>        only work if you are close enough to touch the monster
-<ce>            To cast the spell, press the left mouse button;
-<ce>        spells are always fired at the center of the screen.
-<ce>                                    
-<ce>           I'll wait until you have escaped from the dungeon
-<ce>                    for your next tutorial lesson.
+<ce>튜토리얼 수업 7
+<ce>
+<ce>주문을 구사하는 캐릭터라면 다음 적에게 마법을 사용해 보십시오.
+<ce>
+<ce>Backspace 키를 눌러 주문 목록을 불러오고 전기충격을 클릭해
+<ce>선택하십시오. 이 주문은 적에게 가까이 가야만 시전할 수 있습니다.
+<ce>주문을 시전하려면 왼쪽 마우스 클릭을 하면 됩니다.
+<ce>주문은 항상 화면 중앙으로 나가게 됩니다.
+<ce>
+<ce>던전을 탈출하면 다음 수업을 진행하도록 하겠습니다.
 
 Message:  1040
-<ce>                           Tutorial Lesson 8
-<ce>                                    
-<ce>         Congratulations! You have made it out of the starter
-<ce>                      dungeon, Privateer's Hold.
-<ce>         I bet you are wondering what to do now? What you need
-<ce>           is a town. Towns have the services you will need
-<ce>             throughout the game. Lets fast travel to one.
-<ce>                                    
-<ce>                            (continued...)
+<ce>튜토리얼 수업 8
+<ce>
+<ce>축하합니다! 시작 던전인 사략해적의 소굴을 탈출하셨습니다.
+<ce>이제 뭘 해야하나 궁금하실거라 생각합니다. 다음은 마을로
+<ce>가야 합니다. 마을에는 게임을 진행하면서 필요한 여러 상점들이
+<ce>있습니다. 마을로 빠른 이동을 해봅시다.
+<ce>
+<ce>(계속됨...)
 
 Message:  1041
-<ce>         Fast travel is done by pressing the V key. The region
-<ce>          that you are in (Daggerfall) is highlighted in red.
-<ce>         Click on that region and you get a blow up map. There
-<ce>        are a lot of places on this map! Lets find the city of
-<ce>            Daggerfall. Click FIND and type in DAGGERFALL.
-<ce>           The most convenient way to travel is by clicking
-<ce>          CAUTIOUSLY and INNS, both of which are the default
-<ce>          settings. Otherwise you risk arriving at night and
-<ce>              having to climb the walls to get into town.
-<ce>                                    
-<ce>           For this tutorial to continue, you should go to a
-<ce>           large city, such as the city of Daggerfall. We'll
-<ce>           pick up the lessons again in =2dagger_ days. This
-<ce>             should give you plenty of time to get there.
+<ce>빠른 이동은 V 키를 눌러 할 수 있습니다. 당신이 현재 있는 지역
+<ce>(대거폴)이 붉은 색으로 깜빡이며 표시됩니다.
+<ce>지역을 클릭하면 확대됩니다. 지도에 정말 많은 장소가 있을 것입니다!
+<ce>대거폴 도시를 찾아봅시다. 밑의 찾기 버튼을 눌러 대거폴을 입력해 봅시다.
+<ce>(한글패치에서는 대 입력후 스페이스, 거 입력후 스페이스, 폴 입력후 스페이스)
+<ce>빠른 이동 메뉴에서 가장 편하게 이동하는 방법은 경계하면서 와 여관 숙박을
+<ce>선택하는 것입니다. 이는 기본값으로 설정되어 있습니다. 다른 방법을 사용하면
+<ce>밤에 도착해 도시에 들어가기 위해 성벽을 넘어야 할 수 도 있습니다.
+<ce>
+<ce>튜토리얼을 계속하려면 대거폴 도시 같은 아주 큰 도시 로 가야합니다.
+<ce>=2dagger_일 후에 수업을 진행하겠습니다. 이 정도 시간이면 배우기에
+<ce>충분할 것입니다.
 
 QuestTimeLapse:  [1045]
-<ce>                           Tutorial Lesson 9
-<ce>                                    
-<ce>         Ah, the sights and sounds of the city! Did you arrive
-<ce>        at night or try to rest? If so, the guards will not let
-<ce>         anyone sleep in the streets or even too close to the
-<ce>           walls. You can only rest in Taverns, if you have
-<ce>                        purchased a room there.
-<ce>                                    
-<ce>        The first thing you want to do is to press the F4 key to
-<ce>         set your mode to DIALOGUE (you can change the mode of
-<ce>       interaction anytime using F1 to F4). Now get close to one
-<ce>        of the townsfolk. They won't stop to talk to you unless
-<ce>         you are not moving. Click on the person and you will
-<ce>                  be placed into the Dialogue screen.
-<ce>                                    
-<ce>                            (continued...)
+<ce>튜토리얼 수업 9
+<ce>
+<ce>아, 도시의 경치, 소리가 들리는 군요! 밤에 도착했거나 지금 쉬려고
+<ce>하십니까? 경비병이 도시 거리 혹은 도시 밖이라도 성벽에서 너무 가까우면
+<ce>노숙하는 것을 막을 것입니다. 쉬려면 여관에 숙박하야만 합니다.
+<ce>물론 방을 잡아야 하지요.
+<ce>
+<ce>먼저 F4 를 눌러 대화 모드로 변경합시다(F1 부터 F4 까지 상호작용 모드를
+<ce>변경 할 수 있습니다). 마을 사람에 가까이 가봅시다. 당신이 움직이기 전까지는
+<ce>가만히 있을 것입니다. 사람에 클릭하면 대화 창이 뜨게 됩니다.
+<ce>
+<ce>(계속됨...)
 
 Message:  1046
-<ce>        You want to find a general store or weaponsmith. It is
-<ce>         one of the places you can sell your excess gear. The
-<ce>          person will probably give you directions. Travel in
-<ce>       that direction for a while and then ask another passerby.
-<ce>     Continue this until somebody marks the location on your map.
-<ce>                                    
-<ce>        Press M to view the map of the city. You should be able
-<ce>        to tell where the building is from that. All shops have
-<ce>       signs out front. Learn the signs and you will be able to
-<ce>        get around much easier. You will need a tavern to rest.
-<ce>                     look for the mug of ale sign.
-<ce>                                    
-<ce>       Hint: Pressing F3 switchs you to INFO mode. You can click
-<ce>      on buildings to learn what they are. Some shops don't open
-<ce>      until late in the day. You can loiter (a REST option) until
-<ce>              the shopkeeper decides to unlock the door.
-<ce>                                    
-<ce>       Don't leave town! I'll check in with you again tomorrow.
+<ce>무기 대장장이나 일반 상점을 찾아봅시다. 남는 장비를 팔 수 있는 곳입니다.
+<ce>마을 사람은 보통 방향을 알려줄 것입니다. 그 방향으로 좀 가다가 근처에
+<ce>있는 사람에게 다시 물어 보십시오. 반복하다보면 누군가 지도에 정확한 위치를
+<ce>표시해 줄 것입니다.
+<ce>
+<ce>M 키를 눌러서 도시 지도를 볼 수 있습니다. 이제 해당 건물이 어디 있는지
+<ce>알 수 있을 것입니다. 모든 상점은 앞에 표식을 세워 뒀습니다. 어떤 표식인지
+<ce>알게되면 찾기 더 쉬워집니다. 지금은 쉴 선술집이 필요하므로 에일 잔이 표식을
+<ce>찾아 봅시다.
+<ce>
+<ce>힌트: F3 키를 눌러 정보 모드로 바꿀 수 있습니다. 그 다음 건물을 클릭하면
+<ce>어떤 건물인지 뜨게 됩니다. 어떤 상점은 늦으면 문을 닫습니다.
+<ce>(R 키를 눌러 휴식 메뉴로 들어가 대기 버튼으로 개점 시간까지 대기할 수 있습니다)
+<ce>
+<ce>아직 도시를 떠나지 마십시오! 내일 다시 시작하겠습니다.
 
 Message:  1050
-<ce>                          Tutorial Lesson 10
-<ce>                                    
-<ce>      Today's lesson is about guilds. A guild is an organization
-<ce>       that offers benefits for its members. As you rise in rank
-<ce>        in a guild, you get more benefits. To rise in rank, you
-<ce>        must improve skills that guild cares about, and perform
-<ce>       quests on a regular basis to improve your reputation with
-<ce>             them. You can belong to more than one guild.
-<ce>                                    
-<ce>        All spellcasters should join the Mages Guild. Everyone
-<ce>        should pick a temple to join. However, pick carefully.
-<ce>         You can only be a member of one temple. Fighter type
-<ce>        characters should join either the fighter's guild or a
-<ce>                            knightly order.
-<ce>                                    
-<ce>         Hint: Thieves and murderers, just do your thing. The
-<ce>              underworld will contact you after a while.
-<ce>                                    
-<ce>              I'll be back tomorrow with the next lesson.
+<ce>튜토리얼 수업 10
+<ce>
+<ce>오늘의 수업은 길드에 대한 것입니다. 길드는 구성원에게 여러 이득을
+<ce>제공하는 단체입니다. 길드에서의 등급이 오르면 더 많은 혜택을 받습니다.
+<ce>승급 하려면 길드에서 평가하는 기술을 향상시켜야하며, 길드에서 의뢰를
+<ce>수행해 길드의 평판을 높여야 합니다. 동시에 여러 길드에 가입할 수 있습니다.
+<ce>
+<ce>주문을 구사하는 모든 직업은 메이지 길드에 가입하는 것이 좋으며,
+<ce>어느 직업이든 사원에 가입하는게 좋습니다. 하지만 한번에 하나의 사원에만
+<ce>가입 할 수 있기 때문에 잘 선택하는게 좋습니다. 육박전을 하는 직업이면
+<ce>파이터 길드 혹은 기사단에 가입하는 것이 좋습니다.
+<ce>
+<ce>힌트: 도둑이나 암살 계열은 직업이 원래 하는 바를 하면 됩니다.
+<ce>그쪽 세계에서 당신에게 접촉할 것입니다.
+<ce>
+<ce>내일 다음 수업을 시작하겠습니다.
 
 Message:  1055
-<ce>                          Tutorial Lesson 11
-<ce>                                    
-<ce>        Today we want a quest. A quest is an adventure given by
-<ce>      someone in town. Its amazing how many people in Daggerfall
-<ce>             need the services of a brave hero or heroine.
-<ce>                                    
-<ce>      Go to someone in a tavern or on the street. Ask them about
-<ce>       work. Odds are that they will direct you to someone else
-<ce>      in town. That person will offer you a quest. You don't have
-<ce>     to take every quest that is offered. Successfully completing
-<ce>       a quest means that person, and his friends, will like you
-<ce>       a little better. It can also be profitable. Last, but not
-<ce>             least, it is the best way to locate dungeons!
+<ce>튜토리얼 수업 11
+<ce>
+<ce>오늘은 임무를 해보려고 합니다. 임무란 마을에서 받을 수 있는 모험입니다.
+<ce>대거폴에서 많은 이들이 용감한 영웅의 도움을 필요로 하고 있습니다.
+<ce>
+<ce>선술집이나 마을 거리에 아무에게 가서 일이 없냐고 물어 보십시오.
+<ce>아마 대게 마을의 다른 누군가를 알려줄 것입니다. 그 사람이 임무를
+<ce>주게 됩니다. 요청 받는 임무를 모두 수행할 필요는 없습니다.
+<ce>임무를 성공적으로 수행하면 의뢰인과 그 친구들에게 평판이 조금 높아집니다.
+<ce>또한 금전적인 이득이 되기도 하지요.
+<ce>그리고 던전을 찾는 가장 좋은 방법이기도 합니다!
 
 Message:  1056
-<ce>        This is the last of the tutorial lessons. There is much
-<ce>       more to learn about Tamriel and about the game. However,
-<ce>        you now have the basics to be able to explore and learn
-<ce>                       these things on your own.
-<ce>                                    
-<ce>                       Good luck, and have fun!
+<ce>튜토리얼 수업의 마지막입니다.
+<ce>탐리엘과 게임에 대해 배워야 할 것이 더 많지만,
+<ce>혼자서 탐험하고 배울 수 있을 정도로는 이미 배웠습니다.
+<ce>
+<ce>행운을 빕니다, 그리고 게임을 즐겨주세요!
