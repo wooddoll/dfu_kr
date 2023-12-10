@@ -54,11 +54,11 @@ spellLightingInfo,                                  마법 사용시 광원을 �
 spellShadows,                                       주문 그림자
 spellShadowsInfo,                                   마법 사용시 그림자를 활성화
 instantRepairs,                                     즉각적인 수리 서비스
-instantRepairsInfo,                                 장비 수리시의 대기시간을 제거하고 즉시 완료되게 합니다
+instantRepairsInfo,                                 장비 수리시의 대기시간을 제거하고 즉시 수리함
 bowDrawback,                                        활 - 당기기 놓기
-bowDrawbackInfo,                                    오른쪽 마우스 클릭시 활을 당기고 클릭을 놓으면 쏘게 합니다
+bowDrawbackInfo,                                    오른쪽 마우스 클릭시 활을 당기고 클릭을 놓으면 사격
 toggleSneak,                                        은신 토글
-toggleSneakInfo,                                    은신시 키를 누르고 있지 않고 누르면 은신하고 다시 누르면 은신을 풀게 합니다
+toggleSneakInfo,                                    키를 누를때 마다 은신/비은신 상태 전환
 
 toolTips,                                           툴팁
 toolTipsInfo,                                       아이템 정보를 띄웁니다
@@ -97,7 +97,7 @@ travelMapLocationsOutlineInfo,                      지역 지도에 위치 표�
 guildQuestListBox,                                  길드 퀘스트 플레이어 선택
 guildQuestListBoxInfo,                              현재 접근 가능한 길드 퀘스트를 리스트 형식의 박스창으로 표시합니다
 bowLeftHandWithSwitching,                           활 장비시 왼손만 가능
-bowLeftHandWithSwitchingInfo,                       활을 왼손으로만 장비 가능하게 해서 한손 무기 변경을 가능하게 합니다\r무기 변경에 약간 시간이 걸립니다
+bowLeftHandWithSwitchingInfo,                       활을 왼손으로만 장비 가능하게 해서 한손 무기 변경을 가능하게 함\r무기 변경에 약간의 대기시간
 loiterLimitInHours,                                 최대 대기시간
 loiterLimitInHoursInfo,                             기본 대기 시간 제한을 변경
 automapTempleColor,                                 길드홀 색상
@@ -116,19 +116,19 @@ dunMicMapBorderColor,                               외각 블럭 색상
 dunMicMapBorderColorInfo,                           개선점 옵션 사용시 마이크로맵에 던전 외각 블록 색상
 
 modSystem,                                          모드 시스템
-modSystemInfo,                                      모드 지원 활성화
+modSystemInfo,                                      모드 지원 활성화.
 assetInjection,                                     에셋 인젝션
-assetInjectionInfo,                                 활성화한 모드와 개별 파일로 부터 임포트한 에셋 오버라이드
+assetInjectionInfo,                                 활성화한 모드와 개별 파일로 부터 임포트한 에셋 오버라이드.
 compressModdedTextures,                             모드 텍스쳐 압축
-compressModdedTexturesInfo,                         모드 텍스쳐를 압축 포맷으로 임포트해 그래픽 메모리 사용량을 줄입니다
+compressModdedTexturesInfo,                         모드 텍스쳐를 압축 포맷으로 임포트해 그래픽 메모리 사용량을 줄임.
 gameConsole,                                        게임 콘솔
 gameConsoleInfo,                                    콘솔 명령 입력을 활성화
 nearDeathWarning,                                   빈사상태 경고
-nearDeathWarningInfo,                               빈사 상태시에 깜빡임/박동 화면 효과로 경고를 표시합니다
+nearDeathWarningInfo,                               빈사 상태시에 깜빡임/박동 화면 효과로 경고를 표시합니다.
 alternateRandomEnemySelection,                      대체 무작위 적 배치
-alternateRandomEnemySelectionInfo,                  던전의 무작위 적 종류를 더 다양하게 만듭니다
+alternateRandomEnemySelectionInfo,                  던전의 무작위 적 종류를 더 다양하게 만듭니다.
 advancedClimbing,                                   고급 등반 시스템
-advancedClimbingInfo,                               벽등반시 모든 방향 & 등반시 점프와 점프해서 벽잡기 가능
+advancedClimbingInfo,                               벽등반시 모든 방향 & 등반시 점프와 점프해서 벽잡기 가능.
 dungeonAmbientLightScale,                           던전 배경 조명
 dungeonAmbientLightScaleInfo,                       던전 안의 기본 배경 조명 밝기
 nightAmbientLightScale,                             야간 배경 조명
@@ -136,13 +136,13 @@ nightAmbientLightScaleInfo,                         실내와 야외 야간시 �
 playerTorchLightScale,                              플레이어 횃불 조명
 playerTorchLightScaleInfo,                          플레이어 개인 조명의 밝기
 playerTorchFromItems,                               아이템 기반 플레이 조명
-playerTorchFromItemsInfo,                           플레이어 조명을 인게임내 광원으로 활성화
+playerTorchFromItemsInfo,                           횃불/촛불/랜턴 같은 인게임 물품으로 조명을 켤 수 있게 합니다.
 combatVoices,                                       전투시 음성
-combatVoicesInfo,                                   플레이어와 엔피시가 공격/피격시 소리를 냄
+combatVoicesInfo,                                   플레이어와 엔피시가 공격과 피격시 소리를 내게 됩니다.
 enemyInfighting,                                    적 내부교전
 enemyInfightingInfo,                                AI 캐릭터가 아군 관계가 아닐시 서로 싸우게 됩니다
 enhancedCombatAI,                                   고급 전투 AI
-enhancedCombatAIInfo,                               전투AI에 오리지널 대거폴에 없던 여러가지 개선점을 적용 합니다
+enhancedCombatAIInfo,                               전투 AI에 오리지널 대거폴에 없던 여러가지 개선점을 적용합니다
 allowMagicRepairs,                                  마법 물품 수리
 allowMagicRepairsInfo,                              인챈트된 일상물품을 수리 가능하게 합니다
 
@@ -153,7 +153,7 @@ fullscreenInfo,                                     전체화면 활성화
 exclusiveFullscreen,                                독점 전체화면
 exclusiveFullscreenInfo,                            독점 전체화면 활성화
 runInBackground,                                    백그라운드 실행
-runInBackgroundInfo,                                게임이 활성화 상태가 아니더라도 계속 실행되게 합니다
+runInBackgroundInfo,                                게임이 활성화 상태가 아니더라도 계속 실행
 qualityLevel,                                       품질 수준
 qualityLevelInfo,                                   일반 그래픽 수준
 mainFilterMode,                                     메인 필터
@@ -179,7 +179,29 @@ interiorLightShadowsInfo,                           실내 조명에 표시되�
 exteriorLightShadows,                               야외 조명 그림자
 exteriorLightShadowsInfo,                           야외 조명에 표시되는 그림자
 ambientLitInteriors,                                실내 조명 단순화
-ambientLitInteriorsInfo,                            실내 표시 성능을 높이기 위해 덜 복잡한 조명처리 방식을 사용
+ambientLitInteriorsInfo,                            덜 복잡한 조명처리 방식을 사용해 실내 광원 성능을 높입니다.
+
+- Configure Joystick Controls UI
+
+rightClickString,                                   오른쪽-클릭
+middleClickString,                                  가운데-클릭
+leftClickString,                                    좌측-클릭
+backString,                                         뒤
+configureJoystickControls,                          조이스틱 조작 설정
+continue,                                           계속
+enableController,                                   컨트롤러 활성화
+invert,                                             반전
+lookSensitivity,                                    시야 조작 민감도
+uiMouseSensitivity,                                 UI 마우스 민감도
+maximumMovementThreshold,                           최대 이동 임계치
+deadzone,                                           데드존
+movementH,                                          수평 이동.
+movementV,                                          수직 이동.
+cameraH,                                            카메라 수평.
+cameraV,                                            카메라 수직.
+primary,                                            기본
+secondary,                                          부가
+
 
 - Options shared among sliders. Missing keys use default text.
 
