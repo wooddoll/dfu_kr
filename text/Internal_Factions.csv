@@ -1,38 +1,38 @@
 Key,Value
-17,Oblivion
-1,Clavicus Vile
-2,Mehrunes Dagon
-3,Molag Bal
-4,Hircine
-5,Sanguine
-6,Peryite
-7,Malacath
-8,Hermaeus Mora
-10,Boethiah
-11,Namira
-12,Meridia
-13,Vaernima
-14,Nocturnal
-15,Mephala
-356,The Night Mother
+17,오블리비언
+1,클라비쿠스 바일
+2,메이룬스 데이건
+3,몰라그 발
+4,허씬
+5,생귄
+6,페리아이트
+7,말라카스
+8,헤르메우스 모라
+10,보에시아
+11,나미라
+12,메레디아
+13,베르미나
+14,녹터널
+15,메팔라
+356,나이트 마더
 108,다크 브라더후드
-839,Dark Trainers
-840,Dark Mixers
-841,Venom Masters
-842,Dark Plotters
-843,Dark Binders
-807,Dark Slayers
-16,Azura
-9,Sheogorath
-450,Generic Temple
-240,Temple Missionaries
-810,Temple Treasurers
-813,Temple Healers
-811,Temple Blessers
+839,다크 트레이너
+840,다크 믹서
+841,베놈 마스터
+842,다크 플로터
+843,다크 바인더
+807,다크 슬레이어
+16,아주라
+9,쉐오고라스
+450,일반 신전
+240,템플 미셔너리
+810,템플 트레져러
+813,템플 힐러
+811,템플 블레서
 25,Ebonarm
 90,The Citadel of Ebonarm
 91,The Battlelords
-21,Arkay
+21,아케이
 82,The Order of Arkay
 83,The Knights of the Circle
 453,Apothecaries of Arkay
@@ -40,14 +40,14 @@ Key,Value
 456,Summoners of Arkay
 455,Binders of Arkay
 241,Teachers of Arkay
-22,Zen
+22,젠
 84,The Resolution of Z'en
 85,The Knights of Iron
 462,Apothecaries of Z'en
 463,Mixers of Z'en
 464,Summonists of Z'en
 243,Teachers of Z'en
-24,Mara
+24,마라
 88,The Benevolence of Mara
 402,Lord Quistley
 89,The Maran Knights
@@ -55,7 +55,7 @@ Key,Value
 469,Mixers of Mara
 470,Summoners of Mara
 245,Teachers of Mara
-26,Akatosh
+26,아카토쉬
 92,The Akatosh Chantry
 93,The Order of the Hour
 385,Charvek-si
@@ -63,7 +63,7 @@ Key,Value
 474,Mixers of Akatosh
 475,Summoners of Akatosh
 247,Teachers of Akatosh
-27,Julianos
+27,줄리아노스
 94,The School of Julianos
 95,The Knights Mentor
 407,Br'itsa
@@ -71,21 +71,21 @@ Key,Value
 481,Smiths of Julianos
 482,Summoners of Julianos
 249,Teachers of Julianos
-29,Dibella
+29,디벨라
 98,The House of Dibella
 99,The Order of the Lily
 485,Apothecaries of Dibella
 487,Mixers of Dibella
 488,Summoners of Dibella
 250,Teachers of Dibella
-33,Stendarr
+33,스텐다르
 106,The Temple of Stendarr
 107,The Crusaders
 490,Apothecaries of Stendarr
 491,Mixers of Stendarr
 492,Summoners of Stendarr
 252,Teachers of Stendarr
-35,Kynareth
+35,키나레스
 36,The Temple of Kynareth
 37,The Kynaran Order
 370,Lord Coulder
@@ -173,7 +173,7 @@ Key,Value
 521,Court of Glenpoint
 522,People of Glenpoint
 413,The Knights of the Owl
-204,Sentinel
+204,센티넬
 380,Queen Akorithi
 383,Lord Vhosek
 384,The Royal Guards
@@ -199,7 +199,7 @@ Key,Value
 406,Lord Kain
 246,Court of Lainlyn
 525,People of Lainlyn
-207,Wayrest
+207,웨이레스트
 390,King Eadwyre
 391,Queen Barenziah
 392,Princess Elysana
@@ -306,16 +306,16 @@ Key,Value
 303,Nulfaga
 304,Skakmat
 305,King of Worms
-306,The Necromancers
+306,네크로맨서
 350,The Septim Empire
 351,The Great Knight
-129,The Blades
+129,블레이드
 352,Lady Brisienna
-353,The Underking
+353,언더킹
 354,Agents of The Underking
 355,Lord Harth
 412,The Host of the True Horn
-358,Orsinium
+358,오시니움
 357,Gortwog
 598,Court of Orsinium
 599,People of Orsinium
