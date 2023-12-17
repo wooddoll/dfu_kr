@@ -39,99 +39,95 @@ e.	타인을 돕기 위해
 	#4259
 	r0 +10
 
-3.	In between formal study, you spent your
-	time ___.
-a.	socializing with aristocrats
+3.	정규 교육을 받는 중간 어떻게 시간을 보냈습니까?
+a.	귀족 계층과 친분을 맺었다
 	#4260
 	1 +6
 	r3 +5
 	r0 -5
-b.	learning streetsmarts
+b.	뒷골목의 생태를 배웠다
 	#4261
 	2 +6
 	r0 +2
 	r4 +3
 	r3 -5
-c.	practicing acrobatics
+c.	곡예를 연습했다
 	#4262
 	3 +2
 	20 +2
 	18 +2
-d.	learning economics
+d.	경제에 대해 공부했다
 	#4263
 	14 +6
-e.	swimming
+e.	수영을 했다
 	#4265
 	17 +6
-f.	sparring
+f.	맨손 격투 대련을 했다
 	#4266
 	30 +6
 
-4.	Since childhood, you have saved  ___.
-a.	100 gold pieces
+4.	어렸을 때부터 이것을 아껴두고 있었다.
+a.	금화 100닢
 	#4167
 	GP +100
-b.	A favorite book
+b.	좋아하는 책
 	#4168
 	IT 7 0 0
-c.	A cuirass
+c.	흉갑 한벌
 	#4169
 	IT 2 0 0
-d.	A katana
+d.	카타나 한 자루
 	#4193
 	IT 3 8 0
 
-5.	In gratitude for services rendered, the
-	Emperor gave you ___.
-a.	Over 200 gold pieces
+5.	황제께서 황가에 대한 충성을 치하하시며 하사품을 내리셨습니다.
+a.	금화 200닢
 	#4172
 	GP +250
-b.	An ebony dagger
+b.	에보니 단검 한 자루
 	#4173
 	IT 3 0 7
-c.	A book
+c.	책 한 권
 	#4174
 	IT 7 0 0
-d.	A ruby
+d.	루비 하나
 	#4175
 	IT 14 0 0
-e.	A silver staff
+e.	은제 지팡이 한 자루
 	#4176
 	IT 3 2 2
-f.	An amulet
+f.	목걸이 하나
 	#4192
 	IT 25 0 0
 
-6.	As you grew older, you received additional
-	magical training in ___.
-a.	The School of Destruction
+6.	나이가 들면서, 이 마법 학파를 추가로 공부했습니다.
+a.	파괴마법 학파
 	22 +6
-b.	The School of Restoration
+b.	회복마법 학파
 	23 +6
-c.	The School of Illusion
+c.	환영마법 학파
 	24 +6
-d.	The School of Alteration
+d.	변화마법 학파
 	25 +6
-e.	The School of Thaumaturgy
+e.	역동마법 학파
 	26 +6
-f.	The School of Mysticism
+f.	신비마법 학파
 	27 +6
 
-7.	You spend any free time you have
-	training with ___.
-a.	Short-bladed weapons
+7.	자유시간에 이것을 수련했습니다.
+a.	소검 무기
 	28 +6
 	IT 3 3 0
-b.	Hand-to-hand combat
+b.	맨손 격투
 	30 +6
 	IT 2 1 0
-c.	Axe fighting
+c.	도끼 전투
 	31 +6
 	IT 3 14 0
-d.	Blunt weapons
+d.	둔기 무기
 	32 +6
 	IT 3 12 0
-e.	Archery
+e.	궁술
 	33 +6
 	IT 3 16 0
 	IT 3 18 0
@@ -140,84 +136,82 @@ e.	Archery
 	IT 3 18 0
 	IT 3 18 0
 	IT 3 18 0
-f.	Longblade
+f.	장검 무기
 	29 +6
 	IT 3 7 0
 
-8.	You are friendlier than most with ___.
-b.	the savage Harpies
+8.	남들보다 이것들과 친합니다.
+b.	야만적인 하피
 	5 +6
-c.	the simple Giants
+c.	단순한 거인
 	6 +6
-d.	the glorious Dragons
+d.	자부심 넘치는 용
 	7 +6
-e.	the immodest Nymphs
+e.	무례한 님프
 	8 +6
-f.	the infernal Daedra
+f.	지옥의 데이드라
 	9 +6
-g.	the bucolic Spriggans
+g.	자연과 가까운 스프리건
 	10 +6
-h.	the primitive Centaurs
+h.	원시적인 켄타우로스
 	11 +6
-i.	the mischevious Imps
+i.	장난을 좋아하는 임프
 	12 +6
 
-9.	Of all disagreeable types, you have the
-	most personal hatred for ___.
-a.	Sanctimonious priests
+9.	가장 싫어하는 부류는?
+a.	신성한척 하는 사제들
 	AE M 8 12 +3
-b.	Diabolic wizards
+b.	악독한 마법사들
 	AE M 8 2 +4
-c.	Stupid peasants
+c.	멍청한 평민들
 	AE M 8 8 +3
-d.	Power-mad robber barons
+d.	권력욕에 미친 귀족들
 	AE M 8 17 +4
-e.	Immoral assassins
+e.	무자비한 암살자들
 	AE M 8 11 +2
 
-10.	You are intimate friends with ___.
-a.	a Monk
+10.	당신은 이들과 가장 친한 친구입니다.
+a.	사제들
 	AF O 8 12 +1
-b.	a Mage
+b.	마법사들
 	AF O 8 2 +1
-c.	a Rogue
+c.	도적들
 	AF O 8 8 +1
-d.	a Warrior
+d.	전사들
 	AF O 8 17 +1
-e.	an Assassin
+e.	암살자들
 	AF O 8 11 +1
 
-11.	What god, if any, do you worship?
-a.	None
+11.	당신은 어떤 신을 믿습니까?
+a.	없다
 	r2 +5
-b.	Arkay, Birth and Death God
+b.	아케이, 삶과 죽음의 신
 	rf82 +5
-c.	Zenithar, God of Commerce
+c.	제니타르, 상업의 신
 	rf84 +5
-d.	Mara, the Mother Goddess
+d.	마라, 어머니 여신
 	rf88 +5
-e.	Dibella, Goddess of Beauty
+e.	디벨라, 아름다움의 여신
 	rf98 +5
-f.	Julianos, God of Logic
+f.	줄리아노스, 논리의 신
 	rf94 +5
-g.	Akatosh, God of Time
+g.	아카토쉬, 시간의 신
 	rf92 +5
-h.	Stendarr, God of Mercy
+h.	스텐다르, 자비의 신
 	rf106 +5
-i.	Kynareth, Goddess of Air
+i.	키나레스, 바람의 여신
 	rf36 +5
 
-12.	You have the most trouble ___.
-a.	Resisting poisons
+12.	당신은 이것에 문제가 많습니다.
+a.	독에 저항하기
 	RP -10
-b.	Staying awake and alert
+b.	깨어 있기와 주변 경계
 	FT -5
-c.	Getting along with others
+c.	타인과 친해지기
 	RR -5
-d.	Avoiding diseases
+d.	질병에 걸리는 것
 	RD -5
-e.	Resisting magic
+e.	마법에 저항
 	MR -5
-f.	Fighting without magic
+f.	마법 없이 전투
 	TH -5
-
