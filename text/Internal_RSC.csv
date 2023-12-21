@@ -189,7 +189,7 @@ Fireblood[/end]"
 [/left]
 [/left]
 [/left]
-%sub by %an[/record]
+몰0%sub by %an[/record]
 [/left]
 [/left]
 [/left]
@@ -205,7 +205,7 @@ Fireblood[/end]"
 [/left]
 [/left]
 [/left]
-The %sub by %an[/record]
+몰1The %sub by %an[/record]
 [/left]
 [/left]
 [/left]
@@ -221,7 +221,7 @@ The %sub by %an[/record]
 [/left]
 [/left]
 [/left]
-%adj by %an[/record]
+몰2%adj by %an[/record]
 [/left]
 [/left]
 [/left]
@@ -237,7 +237,7 @@ The %sub by %an[/record]
 [/left]
 [/left]
 [/left]
-%adj %sub by %an[/record]
+몰3%adj %sub by %an[/record]
 [/left]
 [/left]
 [/left]
@@ -253,7 +253,7 @@ The %sub by %an[/record]
 [/left]
 [/left]
 [/left]
-%pp1 %sub by %an[/record]
+몰4%pp1 %sub by %an[/record]
 [/left]
 [/left]
 [/left]
@@ -269,7 +269,7 @@ The %sub by %an[/record]
 [/left]
 [/left]
 [/left]
-%pp1 %adj %sub by %an[/record]
+몰5%pp1 %adj %sub by %an[/record]
 [/left]
 [/left]
 [/left]
@@ -285,7 +285,7 @@ The %sub by %an[/record]
 [/left]
 [/left]
 [/left]
-%sub %pp2 by %an[/record]
+몰6%sub %pp2 by %an[/record]
 [/left]
 [/left]
 [/left]
@@ -301,7 +301,7 @@ The %sub by %an[/record]
 [/left]
 [/left]
 [/left]
-%adj %sub %pp2 by %an[/record]
+몰7%adj %sub %pp2 by %an[/record]
 [/left]
 [/left]
 [/left]
@@ -317,7 +317,7 @@ The %sub by %an[/record]
 [/left]
 [/left]
 [/left]
-%pp1 %adj %sub %pp2 by %an[/end]"
+몰8%pp1 %adj %sub %pp2 by %an[/end]"
 255,"여보게 난 곳이 어디요?[/end]"
 256,"누군가 외쳤다, ""들어오십시오.""[/record]
 ""어서오시오""[/record]
@@ -343,9 +343,9 @@ The %sub by %an[/record]
 ""이런 물건은 그닥 잘 팔리진 않지만,[/center]팔 수 는 있습니다. %a 골드 드리지요.[/center]이정도면 완전히 공정한 가격입니다.""[/center][/record]
 ""예, 맞습니다. 아무리 봐도 좋은 물건 입니다.[/center]정상 가격에서 약간 더 드릴 수 있겠습니다.[/center]%a 골드""[/center][/end]"
 265,"""댁한테 볼 시간 없습니다. 이런 쓰레기는[/center]%a 밖에 못줍니다.""[/record]
-""%a 골드다 애송이. 팔던지 말던지.""[/center][/record]
+""%a 닢이다. 애송이. 팔던지 말던지.""[/center][/record]
 ""어줍잖은 흥정할 생각 마라, 아가야.[/center]%a 골드 주마, 이게 최고가니까[/center]더이상 흥정할 생각 하지마.""[/center][/record]
-""자, %ra. 그쪽이나 나나 이게 %a 골드 이상은[/center]못 받는다는거 알고 있잖습니까?[/center]더 이상 아닌 척은 하지 맙시다.[/center]물론, 동의 안해도 상관은 없지만, 난 이렇게 밖에 못줍니다.""[/center][/end]"
+""자, %ra. 그쪽이나 나나 이게 %a 닢 이상은[/center]못 받는다는거 알고 있잖습니까?[/center]더 이상 아닌 척은 하지 맙시다.[/center]물론, 동의 안해도 상관은 없지만, 난 이렇게 밖에 못줍니다.""[/center][/end]"
 266,"문 안으로 들어서자 좋은 향 냄새와 부드러운[/center]음악에 몸의 긴장이 풀립니다. 가게 안의 물품들은[/center]세심하게 배치되어 있으며,[/center]그 어떤 물건도 흠잡을 곳이 없어 보입니다.[/center][/end]"
 267,"이 상점은 다른 곳 보다 물건이 잘 갖춰져 있습니다.[/center]상품들이 매대에 가지런히 놓여있습니다.[/center]왕실에 진상될 정도는 아니지만,[/center]모두 잘만들어진 물건입니다.[/center][/end]"
 268,"가게가 실용적이고 직관적으로 배치되어 있습니다.[/center]물건 모두가 쓸만한 품질인 것 같습니다.[/center][/end]"
@@ -545,7 +545,7 @@ White flowers litter the path.[/end]"
 원로들께서 무능력한 공헌에는 강등이 있음을[/center]명하셨습니다, %pcn.[/center][/record]
 원로들께서 무능함에 직위의 격하로서 답하셨습니다.[/center]이를 마땅히 받아들여야 할 것입니다.[/center][/center][/end]"
 668,"%pcn, 최근 조직에 실망을 주어왔는바.[/center]이제부터 조직원으로서 주어지는 혜택에[/center]걸맞지 않게 되엇습니다.[/center]다시 들어오게 될지도 모르나,[/center]지금 당신은, 파문이오.[/center][/record]
-이곳에서 아무것도 할 수 없습니다, %pcn.[/center]원로들께서 추방을 결정하셨습니다.[/center][/record]
+이곳에서 아무 것도 할 수 없습니다, %pcn.[/center]원로들께서 추방을 결정하셨습니다.[/center][/record]
 평판을 지킬 수 있을 정도의 연줄이[/center]없었던 모양입니다.[/center]%pcn, 그대는 추방이오.[/center][/record]
 그간 쌓아온 모든 명예와 혜택은 박탈[/center]되었습니다, %pcn. 추방임을 아시오.[/center][/end]"
 679,"파이터 길드는 값을 지불한다면 누구에게든[/center]잘 무장된 강인한 전사를 파견할 준비가 되어 있지.[/center]꾸준히 일을 받아 금화를 벌고 싶다면, 파이터 길드야.[/center]기사놈들 보다 훨씬 낫고 말고.[/center]거기는 일해주고도 돈도 안받는다고 하더군.[/center][/record]
@@ -558,14 +558,14 @@ White flowers litter the path.[/end]"
 안타깝지만 가진게 %gii 골드 밖에 없으십니다.[/center][/record]
 %gii 골드 밖에 주실 수 없습니다.[/center]그게 그쪽이 가지고 계신 전부입니다.[/center][/end]"
 703,"기부 감사합니다.[/center]%god 께서 미래의 일탈 행위를 더 관대히 봐주실지도 모르겠습니다.[/center][/record]
-물론 %gdd 에선 기부는 모두 받습니다만,[/center]기적을 기대하지는 마십시오.[/center]기적은 골드 이상의 것이 필요합니다.[/center][/record]
-기부는 감사합니다만,[/center]%god 께서는 그 어떤 악행일지라도 돈으로서[/center]용서 하는 분이 아니라는 것을상기 시켜 드리고 싶습니다.[/center][/end]"
+물론 %gdd 에선 기부는 모두 받습니다만,[/center]기적을 기대하지는 마십시오.[/center]기적은 금화 이상의 것이 필요합니다.[/center][/record]
+기부는 감사합니다만,[/center]%god 께서는 그 어떤 악행일지라도 돈으로서[/center]용서 하는 분이 아니라는 것을 상기 시켜 드리고 싶습니다.[/center][/end]"
 705,"젠께서 차후 몇일 간 그대의 상업 기술에[/center]축복을 내리실 겁니다.[/center][/end]"
 707,"마라께서 차후 몇일 간 그대의 매력에[/center]축복을 내리실 겁니다.[/end]"
 709,"아카토쉬께서 차후 몇일 간 그대의 여행에[/center]축복을 내리실 겁니다.[/center][/end]"
 710,"줄리아노스께서 차후 몇일 간 그대의 지능에[/center]축복을 내리실 겁니다.[/center][/end]"
 712,"디벨라께서 차후 몇일 간 그대의 행운에[/center]축복을 내리실 겁니다.[/center][/end]"
-716,"스텐다르께서 차후 몇일 간 그대의 평판에[/center]축복을 내리실 겁니다.[/center][/center][/end]"
+716,"스텐다르께서 차후 몇일 간 그대의 평판에[/center]축복을 내리실 겁니다.[/center][/end]"
 717,"키나레스께서 차후 몇일 간 그대의 체력에[/center]축복을 내리실 겁니다.[/center][/end]"
 740,"예, 본 사원에 입당하기 충분한 분인 것 같습니다.[/center]%fon 에 들어오실 수 있습니다.[/center]가입 하시겠습니까?[/center][/end]"
 744,"죄송합니다만, 기사단에 가입하기엔 부족한 것 같습니다.[/center]%god 께서 축복하신 기술들중 적어도 하나에 어느 정도[/center]수준이 되시는 분들만 받고 있습니다.[/center][/center][/record]
@@ -2042,12 +2042,14 @@ running[/end]"
 concealment[/end]"
 4507,"climbing[/record]
 scaling walls[/end]"
-4508,"swimming[/end]"4509,"fisticuffs[/record]
+4508,"swimming[/end]"
+4509,"fisticuffs[/record]
 boxing[/record]
 brawling[/end]"
 4510,"palace[/record]
 castle[/record]
-mansion[/end]"4511,"squires[/record]
+mansion[/end]"
+4511,"squires[/record]
 brats[/record]
 aristocrats[/end]"
 4512,"shortsword[/record]
