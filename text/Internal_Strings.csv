@@ -140,7 +140,7 @@ serviceSummonCost3," 닢입니다."
 roomFreeForKnightSuchAsYou,기사이기 때문에 숙박은 무료입니다.
 roomFreeDueToHeartsDay,사랑의 날이기 때문에 숙박이 무료입니다.
 youAreNotHungry,배가 고프지 않습니다.
-exhaustedInWater,피로가 몸을 덮쳐, 물속 깊은 곳으로 끌고 갑니다....
+exhaustedInWater,"피로가 몸을 덮쳐, 물속 깊은 곳으로 끌고 갑니다...."
 youFeelSomewhatBad,뭔가 좋지 않은 기분이 듭니다.
 avoidDeath,"스텐다르의 자비로, 죽을 상황에서 살아남았습니다!"
 pronounHe,그
@@ -211,7 +211,7 @@ Pickpocketing,소매치기
 Theft,절도
 Treason,반역
 Loan_Default,Loan Default
-Regular_Punishment_String,벌금 금화 %gtp 닢, 징역 %dip 일
+Regular_Punishment_String,"벌금 금화 %gtp 닢, 징역 %dip 일"
 Banishment,추방
 Execution,사형
 cannotChangeTransportationIndoors,실내에서 이동 수단을 바꿀 수 없습니다.
@@ -802,7 +802,7 @@ endedQuest,실패
 finishQuestHeader,{0} {1} 시간 {2}:
 quest,Quest
 noteHeader,시간:{0} 장소:{1}
-houseDeed,등록 문서를 획득했고, %region 의 %town 에 있는 집을 얻었다.
+houseDeed,"등록 문서를 획득했고, %region 의 %town 에 있는 집을 얻었다."
 levelProgress,다음 레벨 까지 누적된 진행도: {0}%
 readMap,지도를 보고 %map 위치를 알아냈다.
 readMapTG,도둑 길드에서 긴밀히 지켜오던 보물 위치가 적힌 %map 지도를 받았습니다.
