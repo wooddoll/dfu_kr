@@ -101,8 +101,8 @@ lockpickChance,"이 잠금을 열 수 있을지 자신의 능력에 의문이 �
 초보적인 잠금장치 수준에 웃고 말았습니다...
 이 잠금은 처참한 수준입니다...
 이걸 열지 못하면 모욕적인 일이 될 것입니다..."
-youPinchedGoldPiece,금화 한 닢을 집어냈습니다.
-youPinchedGoldPieces,금화 %d 닢을 집어냈습니다.
+youPinchedGoldPiece,"금화 한 닢을 집어냈습니다."
+youPinchedGoldPieces,"금화 %d 닢을 집어냈습니다."
 youAreNotSuccessful,소매치기에 실패했습니다...
 daysUntilFreedom,석방까지 %d 일.
 skillImprove,%s 기술이 향상되었습니다.
@@ -348,7 +348,7 @@ repWithGroups,"평민
 귀족
 범죄자
 모두"
-youReceiveGoldPieces,금화 %s 을 받았습니다.
+youReceiveGoldPieces,금화 %s 닢을 받았습니다.
 bankPurchasePrice,가격 : 금화 %s 닢
 youHaveRentedRoom,%s 숙박 기간이 %d 시간 남았습니다.
 haveNotRentedRoom,이곳에 방을 잡지 않았습니다.
@@ -1136,7 +1136,7 @@ Fashion
 Tailoring
 Outfits
 Finery"
-AlchemyStoresB,"Herbs
+AlchemyStoresB,"약초
 Potherbs
 Spices
 Remedies
@@ -1164,7 +1164,7 @@ GemStoresB,"보석
 귀금속
 귀금속점
 귀금속 판매점
-Bijoutry
+장신구점
 보석상
 보석 거래
 보석 거래점
@@ -1479,24 +1479,24 @@ Barbarian,바바리안
 Warrior,워리어
 Knight,나이트
 Custom,커스텀
-darkBrotherhoodRanks,"견습생
-Journeyman
+darkBrotherhoodRanks,"어프렌티스
+저니맨
 Operator
 Slayer
-Executioner
-Punisher
-Terminator
-Assassin
+처형자
+처벌자
+제거자
+암살자
 다크 브라더
 마스터 어새신"
-fightersRanks,"견습생
-Journeyman
-Swordsman
-Protector
-Defender
-Warder
-Guardian
-Champion
+fightersRanks,"어프렌티스
+숙련자
+소드맨
+프로텍터
+디펜더
+워더
+가디언
+챔피언
 워리어
 마스터"
 knightlyOrderRanks,"지원자
@@ -1509,14 +1509,14 @@ Commander
 Marshall
 대집사
 팔라딘"
-magesRanks,"견습생
-Journeyman
-Evoker
-Conjurer
-Magician
-Enchanter
-Warlock
-Wizard
+magesRanks,"어프렌티스
+숙련자
+에보커
+컨져러
+매지션
+인챈터
+워록
+위저드
 마스터 위저드
 아크메이지"
 templeRanks,"예비자
@@ -1530,13 +1530,13 @@ Diviner
 마스터
 총대주교"
 thievesRanks,"견습생
-Journeyman
-Filcher
-Crook
-Robber
-Bandit
-Thief
-Ringleader
+숙련자
+좀도둑
+불량배
+강도
+도적
+도둑
+행동대장
 마스터 마인드
 마스터 시프"
 darkSister,Dark Sister
