@@ -1,0 +1,111 @@
+-- Quest: C:\QUESTS\WORKING\Z0C00Y00.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: Mephala
+-- Repute: 0
+-- QuestId: 0
+Messages: 42
+Quest: Z0C00Y00
+DisplayName: 메팔라의 임무
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>너일 거라 짐작은 했었지. 이런 소환엔 거의 응하지 않지만.
+<ce>뭐, 벌레가 말벌로 진화하길 원하는 게 자연스러운 걸지도
+<ce>모르겠네. 좋아, %pcf, 네게 힘을 주지, 하지만 뭘 좀 해줘야겠어.
+<ce>문제를 좀 일으키는 말단 귀족이 있는데 암살해줬으면 좋겠군.
+<ce>맡겨도 되겠나?
+
+RefuseQuest:  [1001]
+<ce>그것도 괜찮지. 감사할 줄 모르는 게으른
+<ce>말썽꾸러기를 위해서 힘을 키워주느니
+<ce>그 시간에 다른 걸 하는게 더 낫거든.
+
+AcceptQuest:  [1002]
+<ce>음, 하긴 하는군. __palace_에
+<ce>짜증나는 _enemy_라는 관료가 있어,
+<ce>그 궁전에서 아늑하고 안전하게 있고,
+<ce>그렇게 믿고 있지. 어떻게 궁전에
+<ce>들어갈지는 나도 모르지만, 스스로
+<ce>잘 알아낼거라 생각하네.
+<ce>안죽고 잘 처리하면 ___qgfriend_으로 가.
+<ce>네게 줄 새로운 힘을 내 종에게 준비시켜 두지.
+<ce>_artifact_.
+<ce>__qgfriend_의 _qgfriend_에게
+<ce>=1stparton_일동안 기다리라고 하겠어.
+<ce>부디 늦지말도록, 이상이네.
+
+QuestFail:  [1003]
+<ce>아냐, 아냐, 아냐, 아냐! __palace_에
+<ce>있는 기사를 먼저 죽이고, 그 다음 날 보러 와야해!
+<ce>%oth, 메팔라께서 옳으셨군.
+
+QuestComplete:  [1004]
+<ce>안녕하신가, %pcf, 나는 _qgfriend_.
+<ce>메팔라께 누가 올지도 모른다고 들었지만,
+<ce>_enemy_와 맞붙고 살아 있을지 의심하시는 것
+<ce>같았는데. 뭐, 칼을 가져오길 잘한것 같네, 안그래?
+<ce>메팔라께서 내리신 말씀이 기분이 나빴다면 미안해.
+<ce>_enemy_ 놈이 죽었으니 메팔라께서도
+<ce>기분이 훨씬 나아지셨겠지. 그래서 말인데, 고마워.
+
+--removed odd <---> in 1004.
+
+RumorsDuringQuest:  [1005]
+_enemy_의 말로는 자기가 다크 브라더후드의 본부를 찾아낼 수 있다고 했답니다.
+<--->
+다크 브라더후드도 _enemy_에겐 못당하고 무서워할겁니다.
+
+RumorsPostfailure:  [1006]
+다크 브라더후드가 _enemy_ 암살을 위해 누군가 보냈지만, %g2를 죽이지 못했답니다!
+<--->
+_enemy_ 암살 시도가 실패한 후에 __palace_에서 다른 곳으로 떠났다고 합니다.
+
+RumorsPostsuccess:  [1007]
+그 _enemy_, 암흑의 은신처 위치를 찾는데 너무 가까이 갔던 모양입니다.
+<--->
+다크 브라더후드가 _enemy_의 목적에 대해 알아냈나 보더군요.
+
+Message:  1011
+_qgfriend_ 그 젠체하는 =qgfriend_ 말입니까, 여기서 %di __qgfriend_에 처박혀 있을겁니다.
+<--->
+_qgfriend_, 그 =qgfriend_ 말이시군요. %di __qgfriend_에 있습니다.
+
+Message:  1012
+%reg의 __qgfriend_에 있는 메팔라의 요원의 이름은 _qgfriend_입니다.
+<--->
+%g는 __qgfriend_에 있는 =qgfriend_인 메팔라의 종이며 이름은 _qgfriend_입니다.
+
+Message:  1013
+메팔라는 살해의 데이드라 군주이며 다크 브라더후드의 후원자입니다.
+<--->
+메팔라는 오블리비언의 살해 영역을 지배하는 데이드릭 프린스입니다.
+
+Message:  1014
+<ce>_artifact_는 흡혈의 힘을 가진 아티팩트입니다,
+<ce>베인자의 생명력을 빨아들여 사용자에게 돌려줍니다.
+
+Message:  1020
+%qdt:
+ 데이드릭 프린스 중 하나인 메팔라와 계약을 맺었다.
+ 관리 _enemy_의 암살을 처리하면 _artifact_라는
+ 아티팩트를 주기로 했다.
+ 접선책은 ___qgfriend_, __qgfriend_에서
+ =1stparton_일 동안 날 기다릴 것이다.
+ 이름은 _qgfriend_.
+ 유일한 문제는 목표가 __palace_ 궁에
+ 산다는 점이다. %g2에게 접근하는게 어려울 수도 있다.
+
+Message:  1030
+<ce>_enemy_의 죽음은 메팔라가
+<ce>좋아할 것이다.
+<ce>이제 도주해야할 시간이다.
+
+Message:  1040
+<ce>넌 누구고 여기서 뭘 하는거냐?
+
+Message:  1041
+<ce>숨으려 기어다니는 암살자 놈들은 다 똑같지.
+<ce>그래서 제대로된 경호원을 구해두었다.
+<ce>=bodyguard_! 일어나라, 덩치놈. 저걸 죽여!
