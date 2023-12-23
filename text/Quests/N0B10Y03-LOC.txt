@@ -1,0 +1,91 @@
+-- Quest: C:\QUESTS\WORKING\N0B10Y03.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: mage
+-- Repute: 10
+-- QuestId: 3
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 14
+Quest: N0B10Y03
+DisplayName: 길드 경비
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>메이지 길드에서 오늘밤
+<ce>마법 물품 _treasure_
+<ce>보호 경비가 필요합니다.
+<ce>이를 감당할 수 있겠습니까?
+<ce>보수는 _potion_입니다.
+                                     <--->
+<ce>길드 건물, 어떻게 설명해야 할지?
+<ce>일을 하다보면, 알겠지만, 그 항상
+<ce>그 하는 사람들이... 음, 계속 길드와
+<ce>대립하는, 아니 뭐랄까, 문제를 일으키는...
+<ce>내말은, %pct, 이곳에 경비가 필요합니다.
+<ce>맡아보겠습니까?
+
+RefuseQuest:  [1001]
+<ce>괜찮습니다. 일을 찾는 길드원은
+<ce>언제나 있기 때문이지요.
+
+AcceptQuest:  [1002]
+<ce>메이지 길드에 자정이 되기 전까지
+<ce>도착해야 합니다. 새벽 3:00까지
+<ce>경비 시간입니다.
+
+QuestComplete:  [1004]
+<ce>수고했습니다, %pcf.
+<ce>도둑을 손쉽게 처리했군요.
+<ce>여기 _potion_입니다.
+<ce>받아 주십시오.
+
+RumorsDuringQuest:  [1005]
+도둑들이 메이지 길드에 있는 _treasure_ 값어치가 엄청나다고 생각하는게 분명합니다.
+<--->
+도둑들이 메이지 길드에 있는 _treasure_ 라는 걸 훔치겠다고 위협하고 있다고 합니다.
+
+RumorsPostfailure:  [1006]
+도둑놈들이 결국 _treasure_ 인가를 훔쳐낸 모양입니다.
+<--->
+메이지 길드에서 제대로된 경비를 못구한 것 같습니다. 그 _treasure_, 도난 당했다고 하니까요.
+
+RumorsPostsuccess:  [1007]
+그 도둑들 다시는 _treasure_ 훔치려고 못 덤벼들겁니다, 제가 장담하죠.
+<--->
+그 _treasure_ 훔치려고 했던 도둑놈들, 제대로된 경비가 있을거라곤 몰랐을 겁니다.
+
+QuestorPostsuccess:  [1008]
+잘 지냅니까, %pcf? 그 _potion_, 잘 썼는지 모르겠습니다.
+
+QuestorPostfailure:  [1009]
+<ce>_treasure_ 잃어놓고,
+<ce>아직도 여기에 있는 겁니까?
+<ce>이해를 못하겠군요.
+<ce>가십시오, %pcn.
+
+QuestLogEntry:  [1010]
+%qdt:
+ 메이지 길드의 ___qgiver_ 의뢰로
+ 마법이 부여된 _treasure_ 경호를
+ 맡기로 했다.
+ 자정부터 세시 사이에 경비를 서야 한다.
+
+-moved line down from %qdt line.
+
+Message:  1011
+%qdt:
+ 참을 수가 없었다.
+ 지켜야할 _treasure_에 손을 댔다.
+ 분명 뒷감당을 해야 하리라.
+
+Message:  1012
+<ce>여거 보게 친구들. 경비 나부랭이잖아.
+<ce>세상에, 너무 무서워서 몸이 다 떨리네.
+<ce>문앞에다 혀 좀 잘라서 놔두자고.
+<ce>도둑 길드에 대들면 안된다는 경고로 말이지.
+<ce>저놈 잡아!
+
+Message:  1013
+<ce>메이지 길드가 나에게
+<ce>도둑이자 배신자로서 현상금을 걸었다.
