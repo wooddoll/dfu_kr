@@ -1,0 +1,60 @@
+-- Quest: C:\QUESTS\WORKING\A0C00Y06.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: peasant
+-- Repute: 0
+-- QuestId: 6
+Messages: 15
+Quest: A0C00Y06
+DisplayName: 뜻밖의 여정
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>제 이름은 _qgiver_ 입니다.
+<ce>저희 주인님께서 위험한 임무를 수행할
+<ce>용감한 모험가를 찾아달라고 하셨습니다.
+<ce>성공하신다면 금화 _gold_닢을 드릴 것을
+<ce>빼면 더이상 말씀 드릴 수 없습니다.
+<ce>관심 있으신지요?
+
+RefuseQuest:  [1001]
+<ce>다른 곳에서 주인 어르신의
+<ce>의뢰를 해결해주실 영웅을
+<ce>찾아야겠군요.
+
+AcceptQuest:  [1002]
+<ce>_meetingplace_에 가시면
+<ce>주인 어르신이 계실겁니다.
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_에서
+ _qgiver_의 의뢰를 받았다.
+ %g3의 주인이 _meetingplace_에
+ 있으며 알려줄 수 없는 위험한 의뢰를
+ 해결해 주면 금화 _gold_닢을
+ 지불한다고 했다.
+
+Message:  1011
+%qdt:
+ 배신자 _traitor_의
+ 마법 때문에 __dungeon_에
+ 갇히게 되었습니다.
+ 여기서 나가면 다시 만나도록 합시다.
+
+Message:  1012
+<ce>내가 누군지 똑똑히 알아두라.
+<ce>나는 네 숙적 _traitor_!
+<ce>널 위해 특별한 최후를 준비해 두었다.
+
+Message:  1013
+<ce>_traitor_의 배신은 생각하지 못했습니다.
+<ce>저는 아무 관련이 없습니다, %pcn.
+<ce>%g는 이 마을의 _hidingplace_에
+<ce>있는 것 같습니다. 그곳에서 %g2를 찾아보시죠.
+
+Message:  1014
+<ce>어떻게 ___dungeon_에서 도망쳤는지는
+<ce>모르겠군, %pcf.
+<ce>하지만 상관 없다. 죽을 준비나 해라!
