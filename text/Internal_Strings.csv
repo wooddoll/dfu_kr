@@ -1059,9 +1059,9 @@ StoresA,"%ef 의
 %ef 경의
 모험가의
 특출난
-%ef 의 최상
-할인점
-골동품점
+%ef 의 최상품
+저렴한
+최상품
 황제의
 %cn
 %ef 의 일반
@@ -1275,10 +1275,10 @@ sentinel,센티넬
 palace,궁전
 regionNames,"알리키어 사막
 Dragontail Mountains
-Glenpoint Foothills
+글렌포인트 Foothills
 Daggerfall Bluffs
 Yeorth Burrowland
-Dwynnen
+드위넨
 Ravennian Forest
 Devilrock
 Malekna Forest
@@ -1287,15 +1287,15 @@ Bantha
 Dak'fron
 Islands in the Western Iliac Bay
 Tamarilyn Point
-Lainlyn Cliffs
+라인린 Cliffs
 Bjoulsae River
 Wrothgarian Mountains
 대거폴
-Glenpoint
+글렌포인트
 Betony
 센티넬
-Anticlere
-Lainlyn
+안티클레어
+라인린
 웨이레스트
 Gen Tem High Rock village
 Gen Rai Hammerfell village
@@ -1316,7 +1316,7 @@ Urvaius
 Ykalon
 Daenia
 Shalgora
-Abibon-Gora
+아비본-고라
 Kairou
 Pothago
 Myrkwasa
@@ -1328,7 +1328,7 @@ Totambu
 Mournoth
 Ephesus
 Santaki
-Antiphyllos
+안티필로스
 Bergama
 Gavaudon
 Tulune
