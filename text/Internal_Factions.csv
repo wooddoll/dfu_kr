@@ -33,38 +33,38 @@ Key,Value
 90,The Citadel of Ebonarm
 91,The Battlelords
 21,아케이
-82,The Order of Arkay
-83,The Knights of the Circle
+82,아케이 교단
+83,원의 기사단
 453,Apothecaries of Arkay
 454,Mixers of Arkay
 456,Summoners of Arkay
 455,Binders of Arkay
 241,Teachers of Arkay
 22,젠
-84,The Resolution of Z'en
-85,The Knights of Iron
+84,젠의 의지
+85,철의 기사단
 462,Apothecaries of Z'en
 463,Mixers of Z'en
 464,Summonists of Z'en
 243,Teachers of Z'en
 24,마라
-88,The Benevolence of Mara
+88,마라의 자애
 402,Lord Quistley
-89,The Maran Knights
+89,마란 기사단
 468,Apothecaries of Mara
 469,Mixers of Mara
 470,Summoners of Mara
 245,Teachers of Mara
 26,아카토쉬
-92,The Akatosh Chantry
-93,The Order of the Hour
+92,아카토쉬 예배당
+93,시간의 기사단
 385,Charvek-si
 473,Apothecaries of Akatosh
 474,Mixers of Akatosh
 475,Summoners of Akatosh
 247,Teachers of Akatosh
 27,줄리아노스
-94,The School of Julianos
+94,줄리아노스의 학교
 95,The Knights Mentor
 407,Br'itsa
 480,Crafters of Julianos
@@ -72,22 +72,22 @@ Key,Value
 482,Summoners of Julianos
 249,Teachers of Julianos
 29,디벨라
-98,The House of Dibella
+98,디벨라의 집
 99,The Order of the Lily
 485,Apothecaries of Dibella
 487,Mixers of Dibella
 488,Summoners of Dibella
 250,Teachers of Dibella
 33,스텐다르
-106,The Temple of Stendarr
+106,스텐다르 사원
 107,The Crusaders
 490,Apothecaries of Stendarr
 491,Mixers of Stendarr
 492,Summoners of Stendarr
 252,Teachers of Stendarr
 35,키나레스
-36,The Temple of Kynareth
-37,The Kynaran Order
+36,키나레스 사원
+37,키나레스 기사단
 370,Lord Coulder
 497,Spellsmiths of Kynareth
 498,Summoners of Kynareth
@@ -144,9 +144,9 @@ Key,Value
 852,Random Ruler
 242,Random Noble
 853,Random Knight
-200,Dwynnen
-516,Court of Dwynnen
-517,People of Dwynnen
+200,드위넨
+516,Court of 드위넨
+517,People of 드위넨
 414,The Order of the Raven
 844,Generic Knightly Order
 845,Smiths
@@ -161,7 +161,7 @@ Key,Value
 500,Cyndassa
 366,Mynisera
 367,Lord Bridwell
-368,The Knights of the Dragon
+368,용의 기사단
 377,Lady Bridwell
 501,Lady Northbridge
 595,Court of Daggerfall
@@ -169,10 +169,10 @@ Key,Value
 203,Betony
 519,Court of Betony
 520,People of Betony
-202,Glenpoint
-521,Court of Glenpoint
-522,People of Glenpoint
-413,The Knights of the Owl
+202,글렌포인트
+521,Court of 글렌포인트
+522,People of 글렌포인트
+413,올빼미 기사단
 204,센티넬
 380,Queen Akorithi
 383,Lord Vhosek
@@ -180,25 +180,25 @@ Key,Value
 381,Prince Greklith
 382,Prince Lhotun
 386,Lord K'avar
-408,The Order of the Candle
+408,양초 기사단
 387,Lord Provlith
 596,Court of Sentinel
 523,People of Sentinel
-205,Anticlere
+205,안티클레어
 400,Lady Doryanna Flyte
 410,The Knights of the Flame
 401,Lord Auberon Flyte
 403,Farrington
 404,Lord Perwright
-597,Court of Anticlere
-524,People of Anticlere
-206,Lainlyn
+597,Court of 안티클레어
+524,People of 안티클레어
+206,라인린
 379,Baron Shrike
 411,The Host of the Horn
 405,Baroness Dh'emka
 406,Lord Kain
-246,Court of Lainlyn
-525,People of Lainlyn
+246,Court of 라인린
+525,People of 라인린
 207,웨이레스트
 390,King Eadwyre
 391,Queen Barenziah
@@ -244,9 +244,9 @@ Key,Value
 218,Shalgora
 547,Court of Shalgora
 548,People of Shalgora
-219,Abibon-Gora
-549,Court of Abibon-Gora
-550,People of Abibon-Gora
+219,아비본-고라
+549,Court of 아비본-고라
+550,People of 아비본-고라
 415,The Knights of the Wheel
 220,Kairou
 551,Court of Kairou
@@ -282,9 +282,9 @@ Key,Value
 230,Santaki
 571,Court of Santaki
 572,People of Santaki
-231,Antiphyllos
-573,Court of Antiphyllos
-574,People of Antiphyllos
+231,안티필로스
+573,Court of 안티필로스
+574,People of 안티필로스
 417,The Knights of the Hawk
 232,Bergama
 575,Court of Bergama
