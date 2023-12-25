@@ -1,5 +1,5 @@
 Key,Value
-0,"근력[/center]근력은 무게제한, 무기피해량에 영향을 주며[/left]근력 관련 기술 습득량에 영향을 줍니다.[/left][/left]%str 의 근력은, %ark 수준입니다.[/left][/pos:x=10,y=0]%dam[/pos:x=30,y=0]수정치가 맨손/무기 피해량에 추가됩니다.[/left][/pos:x=10,y=0]%enc[/pos:x=30,y=0]킬로그램이 최대 무게제한 수치입니다.[/left][/end]"
+0,"근력[/center]근력은 무게제한, 무기 피해량에 영향을 주며[/left]근력 관련 기술 습득량에 영향을 줍니다.[/left][/left]%str 의 근력은, %ark 수준입니다.[/left][/pos:x=10,y=0]%dam[/pos:x=30,y=0]수정치가 맨손/무기 피해량에 추가됩니다.[/left][/pos:x=10,y=0]%enc[/pos:x=30,y=0]킬로그램이 최대 무게제한 수치입니다.[/left][/end]"
 1,"지능[/center]지능은 마법 잠재력의 총량에 영향을 주며[/left]지능 관련 기술 습득량에 영향을 줍니다.[/left][/left]%int 의 지능은, %ark 수준입니다.[/left][/pos:x=10,y=0]%spc - %spt 주문 점수를 캐스팅에 사용 가능합니다.[/left][/end]"
 2,"의지[/center]의지력은 주문 효과를 저항하는데 영향을 주며[/left]의지 관련 기술의 습득량에 영향을 줍니다.[/left][/left]%wil 의 의지력은, %ark 수준입니다.[/left][/pos:x=10,y=0]+%mad[/pos:x=30,y=0]수정치가 마법 저항력에 추가됩니다.[/left][/end]"
 3,"민첩[/center]민첩성은 명중률에 영향을 주며, 피격을 피하고,[/left]민첩 관련 기술의 습득량에 영향을 줍니다.[/left][/left]%agi 의 민첩은, %ark 수준입니다.[/left][/pos:x=10,y=0]%thd [/pos:x=30,y=0]수정치가 전투시 계산에 추가됩니다.[/left][/end]"
@@ -684,7 +684,7 @@ Old Man[/record]
 Strumpet[/record]
 Concubine[/record]
 Woodcutter[/end]"
-860,"도둑 길드는 강도, 창부, 다른 건달들이 모인 조직입니다. 그들의 본부는 아무도 모르죠.[/record]
+860,"도둑 길드는 강도, 창부, 다른 건달들이 모인 조직입니다. 그들의 본부는 아무도 모릅니다.[/record]
 길드에 속하지 않은 뚜쟁이, 소매치기, 빈집털이, 사기꾼, 강도들이 있긴 하지만, 탐리엘에서 가장 조직적인 범죄자들은 도둑 길드 소속입니다. 집단의 소속이라는게 이점이 있는데다, 도둑 길드가 가입하라고 어떤... 압박을 주기 때문이지요.[/record]
 사실상 탐리엘의 거의 모든 중소 도시, 마을, 대도시에는 이 전문적인 범죄집단이 서로 보호해주면서 뿌리를 내리고 있다는 겁니다.[/record]
 도둑 길드는 다른 길드와 똑같습니다. 그저 전문이 범죄일뿐인 겁니다. 조직원에게는 특별한 혜택과 관리들에게 뇌물을 찔러넣고, 비 조직원을 처벌하죠. 다른 길드하고 똑같습니다.[/end]"
@@ -731,28 +731,28 @@ Woodcutter[/end]"
 줄리아노스의 학교는 탐리엘에서 최고 수준의 교육 기관입니다, 메이지 길드를 빼면 최고일지도 모릅니다. 메이지와 줄리아노스 학자들 사이에는 경쟁 구도가 많이 있습니다.[/end]"
 874,"스텐다르 사원은 자비의 신 스텐다르를 모시는 곳입니다. 자선사업을 가장 대규모로 하는 곳입니다.[/record]
 스텐다르는 자비의 신이며 스텐다르의 사원에서는 모든 탐리엘에 평화의 신명을 전하고 있습니다. 실제로 탐리엘에 평화가 있는지 아닌지는 보면 아실겁니다.[/record]
-그 교단은 평화와 자비의 신을 숭배하고 스텐다르의 사원이라고 합니다. 믿긴 힘들지만, 이들이 탐리엘에 대해 평화를 이루고 싶어하는 것은사실입니다.[/end]"
+그 교단은 평화와 자비의 신을 숭배하고 스텐다르의 사원이라고 합니다. 믿긴 힘들지만, 이들이 탐리엘에 대해 평화를 이루고 싶어 하는 것은 사실입니다.[/end]"
 875,"키나레스는 바람의 여신이자, 대거폴 왕국을 포함한 여러 곳의 수호신입니다. 키나레스의 사원은 신도 수도 많지만 사원도 여러 곳에 있습니다.[/record]
 키나레스 사원의 신도들은 바람의 여신을 숭상하며, 모리하우스에게 군주의 갑옷을 처음 준 것도 키나레스 입니다.[/record]
 공기의 여신을 숭배하는 성직자들이 신도들을 모아 기도를 드리는 곳입니다.[/end]"
 876,"원의 기사단은 아케이 교단의 수호자들입니다. 아케이를 교단의 성직자 처럼 숭배하고 있습니다.[/end]"
 877,"철의 기사단은 상업의 신, 제니타르를 모시고 있습니다. 젠의 의지를 따르는 자들을 방해하는 것을 막습니다.[/end]"
 878,"마란 기사단은 어머니 여신 마라에 그들의 칼을 바친 전사들입니다. 탐리엘에서 여신의 의지와 자애를 수호하기로 맹세한 자들 입니다.[/end]"
-879,"The Order of the Hour is the group of knights sworn to Akatosh, the Dragon God of Time. They work to further His cause and protect His Chantries.[/end]"
-880,"The Knights Mentor are those bound to follow the call of Julianos, the God of Wisdom and Learning. While the Schools of Julianos do most of the actual teaching, the Knights Mentor protect the sages and fight the ubiquitous forces of ignorance.[/end]"
-881,"The Order of the Lily are the knights sworn to the ideal of Dibella, Goddess of Beauty. They protect, and when necessary, die prettily for her Houses.[/end]"
-882,"The Crusaders are the knights of Stendarr, God of Mercy. They protect the Temples of Stendarr and act as his compassionate blade when the situation demands.[/end]"
-883,"The Kynaran Order is composed of knights who have dedicated themselves mind, body, and sword to the Goddess of the Air, Kynareth. They are most often in the company of Her priests of the Temple of Kynareth.[/end]"
-884,"The Knights of the Dragon are composed of the finest knights of the Daggerfall militia, bound together by vows of service to the royal family and kingdom.[/end]"
-885,"The Order of the Candle is the knightly order charged with the protection of the royal family and kingdom of Sentinel.[/end]"
-886,"The Knights of the Rose are consecrated as protectors and warriors for the royal family and kingdom of Wayrest.[/end]"
-887,"The Knights of the Flame have been affiliated with the royal Flyte family for centuries, and now they have become the protectors of the land of Anticlere.[/end]"
-888,"The Host of the Horn is composed of the finest knights of Lainlyn, bound by oaths to protect and serve the Barony of Lainlyn and its ruling family.[/end]"
-889,"The Knights of the Owl are the traditional guard and militia of Glenpoint, the finest in the region.[/end]"
-890,"The Order of the Raven has been the consecrated protector of the Barony of Dwynnen for hundreds of years.[/end]"
-891,"The Knights of the Wheel protect and serve the people and ruling family of Abibon-Gora. They are among the finest knights in Hammerfell.[/end]"
-892,"The Order of the Scarab is composed of knights charged by holy oaths with the protection of the royal family and land of Totambu.[/end]"
-893,"The Knights of the Hawk are chosen from the finest, noblest warriors in Antiphyllos, to protect and fight for the royal family and people of the land.[/end]"
+879,"시간의 기사단은 시간의 용신인 아카토쉬에 충성을 맹세한 자들입니다. 아카토쉬의 뜻을 알리고 교단을 지키려 일하는 사람들 입니다.[/end]"
+880,"기사의 스승은 줄리아노스의 가르침을 따르기로 맹세한 자들입니다. 줄리아노스는 지혜와 가르침의 신입니다. 실질적으론 줄리아노스의 학교에서 교습이 이루어지며, 기사의 스승은 현자들을 보호하고, 곳곳에 퍼져있는 무지의 세력들과 싸웁니다.[/end]"
+881,"백합의 기사단은 미의 여신 디벨라의 이상에 충성을 바치는 기사들입니다. 디벨라의 사원을 보호하며 죽어야 한다면 아름답게 목숨을 바친다고 합니다.[/end]"
+882,"십자군은 자비의 신 스텐다르의 기사들입니다. 스텐다르의 사원을 지키며 필요하면 스텐다르의 자비로운 칼이 되기도 합니다.[/end]"
+883,"키나레스 기사단은 몸과 마음, 검을 바람의 여신 키나레스에 바친 기사들이 모인 곳입니다. 보통 키나레스 사원의 성직자들과 행동을 같이 합니다.[/end]"
+884,"용의 기사단은 대거폴 군의 가장 뛰어난 기사들이 모인 곳입니다. 왕국과 왕가에 충성을 맹세한 자들입니다.[/end]"
+885,"양초 기사단은 센티넬 왕국과 왕가를 지키는 책임을 맡은 기사단입니다.[/end]"
+886,"장미 기사단은 웨이레스트 왕국과 왕가의 전사이자 보호자가 되길 서약한 자들입니다.[/end]"
+887,"불꽃 기사단은 수세기 동안 플라이트 왕가와 깊은 연계를 맺어왔으며, 현재는 안티클레어의 보호 기사단입니다.[/end]"
+888,"뿔의 군단은 라인린의 가장 뛰어난 기사들로 구성되어, 라인린의 영토와 왕가의 보호를 맹세한 자들입니다.[/end]"
+889,"올빼미 기사단은 전통적으로 글렌포인트의 경비병이자 군대로서 복무하며, 글렌포인트에서 가장 정예 병력입니다.[/end]"
+890,"까마귀 기사단은 남작영지인 드위넨의 보호자로 서약해 수백년간 이어져온 기사단입니다.[/end]"
+891,"바퀴의 기사단은 아비본-고라를 다스리는 가문과 그 백성을 보호하고 있습니다. 해머펠의 가장 뛰어난 기사들 중 하나입니다.[/end]"
+892,"풍뎅이 기시단은 토탐부와 왕가의 보호를 성스러운 맹세로서 서약한 기사들로 구성되어 있습니다.[/end]"
+893,"매의 기사단은 안티필로스의 전사들중 가장 뛰어나고 고귀한 자가 선택된 기사단으로, 왕가와 백성들의 땅을 지키며 싸우는 자들입니다.[/end]"
 894,"미의 여신을 모시는 사원으로 디벨라의 집이라고 부릅니다. 정신과 물질적인 형태로서의 미를 숭상하는 성직자들로 쾌락을 추구하고 난잡한 자들입니다.[/end]"
 900,"Fowls in the wood[/record]
 I would if I could[/record]
@@ -1552,7 +1552,7 @@ By the order of %nrn, for the duration[/center]of the war between %fx1 and %fx2,
 2064,"The Host of the Horn have the honor of serving[/center]his most terrible Grace, the Baron Shrike. Our[/center]duties consist of all important activities from[/center]straight warfare to espionage and tax collection.[/center][/center]It may be worth dispelling this confusion: the[/center]Baron's weak brother Lord Kain has his own order[/center]devoted to the illegal acquisition of the throne[/center]of Lainlyn, and he idiotically calls his[/center]piteous group, the Host of the True Horn.[/center][/center]If one has demonstrated loyalty to Baron Shrike[/center]and prowess in battle, one may be considered for[/center]admission in our proud Host. We have not earned[/center]the fear and respect of all in Lainlyn by[/center]wasting time with the hopeless.[/center][/center]Are you perhaps interested in joining?[/center][/end]"
 2065,"We of the Knights of the Owl are responsible[/center]for protecting and fighting for the royal family[/center]of Glenpoint. Only those of the most refined[/center]fighting skills and dedicated to the welfare[/center]of Glenpoint are considered for inclusion in[/center]our knightly order.[/center][/center]Our knights are the royal escorts of the[/center]Baron and treated with unparalleled respect[/center]in all of Glenpoint.[/center][/center]Are you perhaps interested in joining?[/center][/end]"
 2066,"In all modesty, the Order of the Raven is a[/center]legendary fighting order. We have the honor of[/center]having led the battle against the Camoran[/center]Usurper and freed half of Tamriel from his tyranny.[/center][/center]We remain the vanguards of the Barony of Dwynnen,[/center]protecting the entire region. Given our[/center]reputation, we cannot admit any but the greatest[/center]warriors, the most loyal servants of the Baron,[/center]into our order.[/center][/center]Are you perhaps interested in joining?[/center][/end]"
-2067,"The Knights of the Wheel represent the royal[/center]family and the city of Abibon-Gora in all[/center]military situations.[/center][/center]We are not currently soliciting new recruits[/center]into our order. A suitably talented warrior[/center]known for his or her loyalty to Abibon-Gora[/center]might, however, still merit consideration.[/center][/center]Are you perhaps interested in joining?[/center][/end]"
+2067,"The Knights of the Wheel represent the royal[/center]family and the city of 아비본-고라 in all[/center]military situations.[/center][/center]We are not currently soliciting new recruits[/center]into our order. A suitably talented warrior[/center]known for his or her loyalty to 아비본-고라[/center]might, however, still merit consideration.[/center][/center]Are you perhaps interested in joining?[/center][/end]"
 2068,"We of the Order of the Scarab have the[/center]honor of being the official guard for the[/center]royal family of Totambu. Our duties are many,[/center]our favor is great. Only the most refined[/center]and loyal warriors are considered for[/center]initiation. It is a very great honor indeed.[/center][/center]Are you perhaps interested in joining?[/center][/end]"
 2069,"The Knights of the Hawk act as the noble[/center]warriors and protectors of the town and[/center]royal family of Antiphyllos. Many have trained[/center]since childhood to join our knightly order,[/center]for the honor and prestige.[/center][/center]Are you perhaps interested in joining?[/center][/end]"
 2070,"The Knights of the Circle are the military[/center]arm of the Order of Arkay. It is our solemn[/center]duty to protect the Order and to fight[/center]their battles. Our devotion to the God[/center]Arkay and the Order are complete.[/center][/center]Only those of exceptional fighting prowess[/center]and unswerving loyalty to the Order and[/center]the God Arkay are considered for inclusion[/center]in the Knights of the Circle.[/center][/end]"
@@ -1689,14 +1689,14 @@ The %ln Homestead[/end]"
 %ln 궁전[/record]
 %ln 회관[/record]
 %ln 저택[/end]"
-4055,"The Order of Arkay[/end]"
-4056,"The Resolution of Zenithar[/end]"
-4057,"The Benevolence of Mara[/end]"
-4058,"The Akatosh Chantry[/end]"
-4059,"The House of Dibella[/end]"
-4060,"The School of Julianos[/end]"
-4061,"The Temple of Stendarr[/end]"
-4062,"The Temple of Kynareth[/end]"
+4055,"아케이 교단[/end]"
+4056,"제니타르의 의지[/end]"
+4057,"마라의 자애[/end]"
+4058,"아카토쉬 예배당[/end]"
+4059,"디벨라의 집[/end]"
+4060,"줄리아노스의 학교[/end]"
+4061,"스텐다르의 사원[/end]"
+4062,"키나레스의 사원[/end]"
 4063,"The Old %ln Hovel[/record]
 Old %fn's Hovel[/record]
 The Old %ln Shack[/record]
@@ -1705,23 +1705,23 @@ The %ln Cabin[/record]
 The Old %ln Place[/record]
 Old %fn's Place[/record]
 The Old %ln Hut[/end]"
-4075,"Bleeding[/record]
-Eternal[/record]
-Infinite[/record]
-Burning[/record]
-Fearful[/record]
-Joyous[/record]
-Perpetual[/record]
-Sacred[/record]
-Holy[/record]
-Inner[/record]
-Blessed[/record]
-Gentle[/record]
-Wailing[/record]
-Singing[/record]
-Weeping[/record]
-Silent[/record]
-Laughing[/end]"
+4075,"피흘리는[/record]
+영원한[/record]
+무한한[/record]
+타오르는[/record]
+무서운[/record]
+즐거운[/record]
+영구적인[/record]
+성스러운[/record]
+신성한[/record]
+숨겨진[/record]
+축복받은[/record]
+얌전한[/record]
+울부짖는[/record]
+노래하는[/record]
+우는[/record]
+침묵하는[/record]
+웃는[/end]"
 4076,"Soul[/record]
 Ascension[/record]
 Altar[/record]
@@ -2056,9 +2056,9 @@ aristocrats[/end]"
 fine blade[/end]"
 4513,"메이지 길드[/end]"
 4514,"견습생[/record]
-학생s[/record]
-초보자s[/record]
-학자s[/end]"
+학생[/record]
+초보자[/record]
+학자[/end]"
 4515,"책[/end]"
 4516,"temple[/record]
 chantry[/record]
@@ -3799,7 +3799,7 @@ Day, they make so much noise, fish have been[/center]
 scared away for weeks.[/center]
 [/end]"
 8374,"The festival of Drigh R'Zimb, held in the hottest[/center]
-time of year in Abibon-Gora, is a jubilation held[/center]
+time of year in 아비본-고라, is a jubilation held[/center]
 for the sun Daibethe itself. Scholars do not know[/center]
 how long Drigh R'Zimb has been held, but it is[/center]
 possible the Redguards brought the festival[/center]
