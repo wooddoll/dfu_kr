@@ -1,0 +1,70 @@
+-- Quest: C:\QUESTS\WORKING\M0C00Y11.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: fighter
+-- Repute: 0
+-- QuestId: 11
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 12
+Quest: M0C00Y11
+DisplayName: 거대 전갈 사냥
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>나는 _qgiver_.
+<ce>길드에선 보통 회원에만 일을 주지만,
+<ce>싹수가 보이는 친구에겐 다르지, %pcn.
+<ce>자 들어보게, 거대 전갈을 처리해달라는
+<ce>요청이 있는데 말이야.
+<ce>처리해주면 길드에서 그쪽을 다시보도록
+<ce>손을 써보지. 거래 할텐가?
+
+RefuseQuest:  [1001]
+<ce>잘해주려고 했더니만,
+<ce>이 대접이라니.
+<ce>됐으니 여기서 나가라고.
+
+AcceptQuest:  [1002]
+<ce>강단이 있구만, %pcf. 그건 인정해주지.
+<ce>이 전갈은 누군가의 개인 소유였다가
+<ce>도망친 모양이야. 이제는 _house_에
+<ce>박혀있지. 오늘 안에 죽이면
+<ce>길드에 그쪽 이야기를 잘 해주지.
+
+QuestComplete:  [1004]
+<ce>다들 허약한 물렁이라더니 아닌가 보군.
+<ce>자네의 일처리를 알아야할 사람에게 잘 알려주겠네.
+
+RumorsDuringQuest:  [1005]
+<ce>자기 집에 거대 전갈이 있는 걸 찾았다는
+<ce>불쌍한 멍청이 이야기 들으셨습니까?
+<ce>답 없이 이제는 술에 곯아 떨어져 있다고 합니다.
+
+RumorsPostfailure:  [1006]
+<ce>어떤 취한 바보가 집에 처들어가서 거대 전갈에 죽었답니다.
+<ce>파이터 길드가 전갈을 처리한줄 알았나 봅니다.
+
+RumorsPostsuccess:  [1007]
+<ce>파이터 길드는 좋은 사람들입니다.
+<ce>그 집에 들어갔다던 거대 전갈을 잡아줬답니다.
+
+QuestorPostsuccess:  [1008]
+<ce>거대 전갈을 잘 처리했어.
+<ce>이렇게 계속하면 길드에서
+<ce>인정 받을 수 있겠어.
+
+QuestorPostfailure:  [1009]
+<ce>고작 거대 전갈 하나 잡아달라
+<ce>그게 다 였는데.
+<ce>%pcf, 쓸모 없는 녀석이구만.
+
+QuestLogEntry:  [1010]
+%qdt:
+ 파이터 길드에서 ___qgiver_의
+ 의뢰로 _house_에 들어간
+ 거대 전갈을 처리하게 되었다.
+ 오늘 안에 완료해야 한다.
+
+Message:  1011
+<ce>괴물이 죽었습니다.
