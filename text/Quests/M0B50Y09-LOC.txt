@@ -1,0 +1,75 @@
+-- Quest: C:\QUESTS\WORKING\M0B50Y09.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: fighter
+-- Repute: 50
+-- QuestId: 9
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 81
+Quest: M0B50Y09
+DisplayName: 가고일 사냥
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>상인 하나가 괴물을 잡아달라는데,
+<ce>가고일 하나를 확실히 처리해달라는군.
+<ce>보수는 괜찮아 금화 _gold_.
+<ce>이 일 도와주겠나?
+
+RefuseQuest:  [1001]
+<ce>내가 생각했던 용감하고,
+<ce>영웅적인 친군 아닌가 보구만.
+
+AcceptQuest:  [1002]
+<ce>이 상인이 마법사를 고용해서 웅장한 저택을 지은 것 같아.
+<ce>그러고선 이 멍청이가 마법사에게 줄 보수를 속이려고 한거지.
+<ce>마법사는 화가 났고 저택의 돌 가고일 하나를 움직이게 한거야.
+<ce>그 이후로 계속 상인을 공격한거고. ___dungeon_에 가서
+<ce>그걸 죽이게. =2dung_일 안에 처리해야돼.
+
+QuestComplete:  [1004]
+<ce>영웅 %pcn에 경례!
+<ce>잘했어! 훌륭한 일처리에
+<ce>비하면 아주 쥐꼬리지만
+<ce>금화 _gold_닢 받아두게.
+
+RumorsDuringQuest:  [1005]
+<ce>메이지 길드에서 난동을 부리는 가고일
+<ce>처리를 거부했다고 합니다.
+<ce>자기들 잘못이 아니라고 했다는데, 게으른 녀석들.
+
+RumorsPostfailure:  [1006]
+<ce>어떤 상인 하나가 최근에 죽었답니다.
+<ce>시체 위로 가고일 하나가
+<ce>계속 맴돌았다고 들었습니다.
+
+RumorsPostsuccess:  [1007]
+<ce>파이터 길드에서 가고일을 잡았습니다.
+<ce>괜찮은 사람들이 있어서 다행이죠.
+
+QuestorPostsuccess:  [1008]
+<ce>가고일 처리 잘했어, %pcn.
+
+QuestorPostfailure:  [1009]
+<ce>그 가고일이 상인을 죽였더군.
+<ce>일을 맡지 말았어야지.
+<ce>네 자신뿐만이 아니라 길드도
+<ce>평판이 나빠졌잖나.
+
+QuestLogEntry:  [1010]
+%qdt,
+ 파이터 길드의 ___qgiver_에게
+ ___dungeon_에 있는 가고일을
+ 파괴하라는 의뢰를 받았다.
+ =2dung_일 안에 임무를 처리해야 한다.
+
+Message:  1011
+<ce>_monster_은 죽었습니다.
+<ce>멍청한 상인이 마법사는
+<ce>속이면 안된다는걸
+<ce>배웠으면 좋겠군요.
+
+Message:  1080
+<ce>이 ___newdung_ 지도 받아둬.
+<ce>도움이 됬으면 좋겠군.
