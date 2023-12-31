@@ -1,0 +1,79 @@
+-- Quest: C:\QUESTS\WORKING\M0B30Y03.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: fighter
+-- Repute: 30
+-- QuestId: 3
+Messages: 81
+Quest: M0B30Y03
+DisplayName: 데이드로스 사냥
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>일이 생겼어. 이 일을 맡을 다른 사람이 없군.
+<ce>%pcf, ___mondung_에 데이드로스라는
+<ce>골칫거리가 있는데 말이야.
+<ce>아무도 왜 이게 거기 있는지 모르지만,
+<ce>모두들 이게 없어지길 바라고 있어.
+<ce>_reward_ 주겠네, 맡을 수 있나, %pcf?
+
+RefuseQuest:  [1001]
+<ce>비난은 않겠네, %pcf.
+<ce>나도 데이드로스는 상대하고 싶지 않으니까.
+
+AcceptQuest:  [1002]
+<ce>그래, 좋아, 네가 스스로 선택한거다, %pcf.
+<ce>데이드로쓰를 쓰러트리고 =1stparton_일 안에
+<ce>보수를 받으러 돌아오게. 얼마나 거기에 있을지
+<ce>모르니까, 그 궁둥이 빨리 움직여야 할거야.
+<ce>그리고 내말 잘들어,  %pcf.
+<ce>싸울 준비를 철저히 해.
+
+QuestFail:  [1003]
+<ce>데이드로쓰가 늙어죽기를 기다린건가, %pcf?
+
+QuestComplete:  [1004]
+<ce>이거보게, 나보다 나은 %ra 구만, %pcf.
+<ce>데이드로스 척살자라. 괜찮구만.
+<ce>여기 금화.
+
+RumorsDuringQuest:  [1005]
+___mondung_에 있다는 큰 도마뱀인지 뭔지 모르겠지만, 기분나쁘고 싫습니다.
+<--->
+다들 ___mondung_의 크고 더러운 놈 이야기를 하고 있습니다.
+
+RumorsPostfailure:  [1006]
+데이드로스 소식은 모르겠습니다. 아직 이 근방에 있다더군요.
+<--->
+데이드로쓰가 어디 있는지 알기나 하는게 더 낫습니다. 적어도 어디가 안전한진 알 수 있으니까요.
+
+RumorsPostsuccess:  [1007]
+%god께 감사를, 파이터 길드에서 데이드로스를 처리했다고 합니다.
+<--->
+그래도 저는 그 크고 흉측한 놈이 뭐였을지 궁금합니다.
+
+QuestorPostsuccess:  [1008]
+<ce>___mondung_ 데이드로스를
+<ce>처리해준 %ra 친구구만.
+<ce>일단 악수나 하세.
+
+QuestorPostfailure:  [1009]
+<ce>파이터 길드에선 실패를 가볍게 여기지 않아.
+<ce>데이드로스 상대를 못하겠다면, 일을 맡질
+<ce>말았어야지. 네 말상대 하는 것보다 할일이 많다.
+
+Message:  1020
+<ce>데이드로스가 죽었습니다.
+
+Message:  1030
+%qdt:
+ 파이터 길드의 ___questgiver_에게서
+ ___mondung_의 데이드로스를
+ 잡으면 보수 _reward_의 의뢰를 받았다.
+ =1stparton_일 안에 처리해야 한다.
+
+Message:  1080
+<ce>데이드로스 잡는데 눈도 깜짝안하니까 말인데,
+<ce>이 ___newdung_ 지도 가져가게.
+<ce>%pct 라면, 즐길게 많을거야.
