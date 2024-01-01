@@ -67,4 +67,4 @@ QuestLogEntry:  [1010]
  오늘 안에 완료해야 한다.
 
 Message:  1011
-<ce>괴물이 죽었습니다.
+<ce>_monster_이 죽었습니다.
