@@ -1,0 +1,65 @@
+-- Quest: C:\QUESTS\WORKING\M0C00Y12.Qbn.
+-- StartsBy: NPC
+-- Questee: anyone
+-- Questor: fighter
+-- Repute: 0
+-- QuestId: 12
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 12
+Quest: M0C00Y12
+DisplayName: 거대 거미 사냥
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>내 이름은 _qgiver_,
+<ce>비 길드원에게 일을 주는건 별로 좋아하지 않지만,
+<ce>넌 믿을만한 부류 같구만. 어떤 불쌍한 친구가
+<ce>거대 거미가 알을 깐 집을 산 모양이야.
+<ce>이 안타까운 게으른 친구는 의뢰줄 돈이 없어.
+<ce>그렇긴 한데 이 일을 공짜로 처리해주면
+<ce>길드가 좋게 볼거야, 내가 확실히 약속해 주지
+<ce>관심 있나?
+
+RefuseQuest:  [1001]
+<ce>일에 별로 관심이 없나 보군.
+
+AcceptQuest:  [1002]
+<ce>이거 큰 기회야.
+<ce>_house_에 거미가 갖혀있으니,
+<ce>오늘 안에 죽이면
+<ce>길드에 좋은 말을 넣어줄게.
+
+QuestComplete:  [1004]
+<ce>패기가 있구만 %pcf.
+<ce>계속 열심히 하면
+<ce>파이터 길드에서 쓸만해 지겠군.
+
+RumorsDuringQuest:  [1005]
+<ce>거대 거미 알이 있는 집을 샀다는 바보 이야기 들었습니까.
+<ce>이젠 다리 8개 달린 애완동물에 잡아먹힐 신세랍니다!
+
+RumorsPostfailure:  [1006]
+<ce>어떤 불쌍한 멍청이가 거대 거미에 찔려서
+<ce>거의 죽을뻔 했는데, 자기 집에서 그랬답니다!
+
+RumorsPostsuccess:  [1007]
+<ce>거대 거미를 죽인 사람이군요.
+<ce>파이터 길드 나 뭐 그런거에 들어가보시죠.
+
+QuestorPostsuccess:  [1008]
+<ce>거대 거미 처리 잘했어.
+
+QuestorPostfailure:  [1009]
+<ce>거미 처리도 못하면, 길드에서 원하는
+<ce>다른 일은 어떻게 할텐가
+
+QuestLogEntry:  [1010]
+%qdt:
+ 파이터 길드 ___qgiver_에게서
+ _house_에 부화한 거대 거미를
+ 죽여달라고 의뢰 받았다.
+ 오늘 내로 끝내야 한다.
+
+Message:  1011
+<ce>거대 거미는 죽었다.
