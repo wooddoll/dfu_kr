@@ -1,0 +1,161 @@
+-- Quest: C:\QUESTS\WORKING\M0B21Y19.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: fighter
+-- Repute: 21
+-- QuestId: 19
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 72
+Quest: M0B21Y19
+DisplayName: 통상 경호
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>잘 지내나, %pcf?
+<ce>일 필요하면, 하나 있는데.
+<ce>일반적인 경호 의뢰야.
+<ce>생각 있나?
+
+RefuseQuest:  [1001]
+<ce>그래, 요즘엔 이런 일 못하는 몸이시니까,
+<ce>그렇지?
+
+AcceptQuest:  [1002]
+<ce>좋아, 의뢰인 이름은 _victim_,
+<ce>_victimhouse_에 있을거야.
+<ce>여기서 약간만 가면 있지.
+<ce>의뢰인은 바로 와달라고 하더군.
+<ce>아주 불안한 것 같더라고,
+<ce>평소에도 불안한 그런 사람말이야.
+<ce>가서 만나보면 더 알려줄거야.
+
+QuestFail:  [1003]
+<ce>내가 아는건 그게 다야.
+<ce>가서 알아보라고.
+
+QuestComplete:  [1004]
+<ce>제 목숨을 살려주셔서 어떻게 감사 드려야 할지,
+<ce>게다가 돌아가신 아버지의 복수까지 해주시다니.
+<ce>여기 _reward_, 이걸 받아 주십시오.
+<ce>아버지가 가지고 계시던 것입니다,
+<ce>받아 주셨으면 좋겠습니다.
+
+QuestorPostsuccess:  [1008]
+<ce>_victim_ 이야기 안됐지 않습니까?
+<ce>자기가 생각보다 위험한 상황인줄 몰랐나 봅니다.
+
+QuestorPostfailure:  [1009]
+<ce>네 탓이 아닌 건 알지만, _victim_ 건은 기분이 안좋구만.
+<ce>그 불쌍한 친구 일을 더 신경 썼어야 했는데.
+
+Message:  1015
+<ce>그 _darkb_, 아마 ___darkb_에 있을겁니다.
+<ce>항상 음습한 사람들을 만나고 다닙니다.
+<ce>그러니 문제 생기고 싶지 않으면 찾지 않는게 좋습니다.
+                                     <--->
+<ce>_darkb_, 말입니까. 보통 ___darkb_에 있습니다.
+
+Message:  1016
+<ce>_darkb_, 이 사람은 지역 다크 브라더후드의 윗선 중에 하나입니다.
+<ce>본거지는 ___darkb_의 __darkb_에 있습니다.
+
+Message:  1020
+%qdt:
+ 파이터 길드의 ___questgiver_의
+ 의뢰로 _victimhouse_에 가서
+ 의뢰인과 만나야 한다.
+ 이름은 _victim_ 이며,
+ 경호가 필요하다고 한다.
+ 의뢰인이 직접 세부 사항을 알려준다고 한다.
+
+Message:  1021
+%qdt:
+ 너무 늦었다. _victimhouse_에 있던
+ 암살자들에 기습을 당했다,
+ _victim_의 목숨은 이미 끊어져 있었다.
+
+Message:  1022
+%qdt:
+ _daughter_에게서 쪽지를 받았다.
+ 쪽지에는 자신은 _victim_의 딸이며
+ __daughterhouse_의 _daughterhouse_에
+ 기회가 되면 찾아와 달라고 요청했다.
+
+Message:  1023
+%qdt:
+ 딸을 만나러 갔지만, 매복 공격이었다.
+ 싸워서 탈출하고 난 후 _daughter_ 와
+ 함께 __safehouse_의 _safehouse_에
+ 가고 있다.
+
+Message:  1030
+이것이 내 경고를
+ 무시한 자들에게
+ 일어나는 일이다.
+ 
+<ce>_darkb_
+
+Message:  1031
+%pcn께:
+ 
+   제 이름은 _daughter_ 입니다.
+ _victim_의 딸입니다.
+ 제 아버지의 죽음을 갚아주신 용맹한
+ 이야기를 듣고나서, 감사를 드리고 싶습니다.
+ 시간이 나신다면, 제게 와주셨으면 합니다.
+ 
+<ce>                               _daughter_
+<ce>                            _daughterhouse_,
+<ce>                            __daughterhouse_
+
+Message:  1035
+<ce>비켜, 형씨,
+<ce>저기 있는 _victim_ 처럼 되기 싫으면.
+
+Message:  1036
+<ce>무기 관리하는 시간 만큼
+<ce>눈치도 기르는게 좋겠군,
+<ce>%pcn.
+<ce>너 같은 파이터 길드 잔챙이
+<ce>매복은 너무 쉽거든.
+
+Message:  1040
+<ce>_victim_ 소식 들으셨습니까?
+<ce>자기 집에서 벌건 대낮에 칼에 죽었답니다.
+                                     <--->
+<ce>다들 다크 브라더후드가 _victim_ 살해 주범인걸 알지만
+<ce>누구도 뭘 할 엄두를 못냅니다.
+
+Message:  1041
+<ce>다크 브라더후드의 고위직을 어떤 %ra에 잃어서
+<ce>분노하고 있습니다.
+                                     <--->
+<ce>다크 브라더후드가 ___darkb_ 기지를 공격한 자를
+<ce>추적해 죽이기로 서약했답니다.
+<ce>저와 관계없는 일이라서 다행입니다.
+
+Message:  1050
+<ce>무슨...? 잠깐, 넌 _victim_,
+<ce>그 늙은 멍청이가 자길 지킬 수 있을지 알고
+<ce>고용한 파이터 길드 패거리 아닌가?
+<ce>누가 이 %ra 들여보냈어?!
+
+Message:  1051
+<ce>%pcn, 조심하세요!
+<ce>함정입니다!
+
+Message:  1052
+<ce>저 암살자들한테 구해주셔서 감사합니다.
+<ce>__safehouse_에 있는 _safehouse_에
+<ce>데려다 주시면 %reg에서 제 스스로
+<ce>도망칠 수 있을 것 같습니다.
+
+Message:  1070
+<ce>먼지 덮인 배달부가 당신을 불러 세웠다.
+<ce>"%pcn 맞습니까? %god 이시어 감사합니다.
+<ce>드디어 찾았군요, 여기 편지입니다."
+
+Message:  1071
+<ce>도와주셔서 감사합니다.
+<ce>여기서 부턴 제 스스로 가겠습니다.
