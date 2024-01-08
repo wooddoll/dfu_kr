@@ -1,0 +1,87 @@
+-- Quest: C:\QUESTS\WORKING\N0B00Y08.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: mage
+-- Repute: 0
+-- QuestId: 8
+Messages: 12
+Quest: N0B00Y08
+DisplayName: 수면 주문 시전
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>메이지 길드는 귀족이신 _warrior_께
+<ce>많은 사업 부분에서 후원을 받아왔는데,
+<ce>우리에겐 적이 있고 그분에게도 적이 있습니다.
+<ce>배달부 편으로 연락을 받았는데 어떤 마녀가
+<ce>그분께 잠들지 못하는 저주를 걸었다고 합니다.
+<ce>가서 주문을 구사할 여유가 있으신지요?
+<ce>_gold_닢을 지급하겠습니다.
+                                     <--->
+<ce>표준 원형화 주문인 수면을 구사할 능력이
+<ce>있으시다면, 길드의 협력자 한 사람이 도움이
+<ce>필요합니다.
+<ce>저주 때문에 _warrior_에게
+<ce>수면 주문이 필요합니다.
+<ce>힘을 빌려주신다면 금화 _gold_닢을
+<ce>지급하겠습니다.
+
+RefuseQuest:  [1001]
+<ce>알겠습니다.  %oth, 수면 주문은
+<ce>비교적 간단한 주문인데.
+<ce>배워두면 도움이 될 것입니다.
+
+AcceptQuest:  [1002]
+<ce>아주 좋습니다, _warrior_께는
+<ce>배달부를 통해 수면 말고 다른 주문은 사용하지
+<ce>않겠다고 전해 두었습니다.
+<ce>저주 주문으로 많은 고통을 받았으니 불안하겠지요.
+<ce>__castle_의 _castle_에 가보시면 됩니다.
+<ce>아마 무장을 잘 갖춘 상태일 겁니다.
+<ce>길드의 친구에게 제대로 잠을 잘 수 있게 하고,
+<ce>꼭 =queston_일 내로 돌아오십시오.
+
+QuestComplete:  [1004]
+<ce>_warrior_ 소식 들었습니다.
+<ce>긍정적인 깊은 무력상태에 빠지셨다고 하더군요.
+<ce>생을 마감하기 전에 깨어나겠지요.
+<ce>물론 당신은 확실히 금화 _gold_닢을
+<ce>받을 자격이 있습니다.
+
+RumorsDuringQuest:  [1005]
+그 불쌍한 _warrior_ 인지 몇일동안 잠을 못잤답니다. 정신이 제정신이 아니겠지요.
+<--->
+그 마녀가 _warrior_에 걸었다는 저주가 정말 심한건가 봅니다.
+
+RumorsPostfailure:  [1006]
+메이지 길드와 _warrior_ 사이가 틀어졌다고 하니다. 길드가 도움이 못된 것 같습니다.
+<--->
+마녀와 _warrior_ 간에 다툼이 끝난 것 같지만, 메이지 길드를 용서하진 않을 것 같습니다.
+
+RumorsPostsuccess:  [1007]
+듣기로는 _warrior_의 깊은 수면이 아직도 이어진다고 합니다. 이젠 일어나지 못하는게 아닐까 걱정한다더군요.
+<--->
+마녀에게 불면 저주를 받았던 사람이 마녀에 복수를 맹세했다고 하더군요.
+
+QuestorPostsuccess:  [1008]
+이번에 _warrior_와의 관계 유지에 도움을 주셨지요. 뭘 도와드릴까요?
+
+QuestorPostfailure:  [1009]
+<ce>_warrior_ 의뢰 실패는 길드에게도 좋지 않습니다.
+<ce>한동안은 오지마시고 나중에 기회가 있을겁니다, %pcn.
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_ 메이지 길드의
+ 후원자인 _warrior_에
+ 수면 마법을 시전해 주는 의뢰를 받았다.
+ =queston_일 안에 __castle_의 
+ _castle_에 가서 주문을 써줘야 한다.
+ 그 후 메이지 길드의 _qgiver_에게
+ 돌아가야 한다.
+
+Message:  1011
+<ce>_warrior_에게 수면 주문을 썼다,
+<ce>아직은 서있지만, 곧 깊은 수면 상태가
+<ce>될 것이다.
