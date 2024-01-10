@@ -66,7 +66,7 @@ QuestorPostfailure:  [1009]
 
 QuestLogEntry:  [1010]
 %qdt:
- 메이지 길드의 ___qgiver_ 의뢰로
+ ___qgiver_ 메이지 길드의 의뢰로
  마법이 부여된 _treasure_ 경호를
  맡기로 했다.
  자정부터 세시 사이에 경비를 서야 한다.
