@@ -1,8 +1,0 @@
-
-mp4
-Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, smpte170m/smpte170m/bt709, progressive), 768x600 [SAR 1:1 DAR 32:25], 465 kb/s, 30 fps, 30 tbr, 90k tbn (default)
-Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 11025 Hz, mono, fltp, 51 kb/s (default)
-
-webm
-Stream #0:0: Video: vp8, yuv420p(tv, smpte170m/smpte170m/bt709, progressive), 768x600, SAR 1:1 DAR 32:25, 30 fps, 30 tbr, 1k tbn (default)
-Stream #0:1: Audio: vorbis, 11025 Hz, mono, fltp (default)
