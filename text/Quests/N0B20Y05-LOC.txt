@@ -1,0 +1,93 @@
+-- Quest: C:\QUESTS\WORKING\N0B20Y05.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: mage
+-- Repute: 20
+-- QuestId: 5
+Messages: 41
+Quest: N0B20Y05
+DisplayName: 위험한 마법사
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>분명, 미친 마법사 _wizard_ 이야기를
+<ce>들어보셨을겁니다. 강대한 힘을 가지고 있어서
+<ce>%rt %rn 께서 공격 결정을
+<ce>내리시는 것이 지연 되었지만, 이런 지연 전략도
+<ce>이제 끝입니다. %t 께서 길드 요원을
+<ce>보내 이 광란의 마법사를 숙청하라는 요청을 하셨습니다.
+<ce>임무 보수로 마법 부여된 _reward_의 지급이
+<ce>있을겁니다. 길드를 위해 해주시겠습니까?
+                                     <--->
+<ce>%reg 주민들이 메이지 길드에 대해
+<ce>미친 마법사에 대한 대응을 요구했습니다.
+<ce>이 지역에 한동안 두려움의 대상이었습니다.
+<ce>아치 마지스터께서 직접 내리신 명령으로
+<ce>저희가 하게 되었습니다. 메이지 길드 같이
+<ce>학술적 기관 성격의 단체에서 이런 임무라니
+<ce>저도 힘든 일인 것응 알지만, 광란의 마법사를
+<ce>찾아서 조각내 주실 수 있으십니까?
+
+RefuseQuest:  [1001]
+<ce>이런.
+<ce>일을 믿고 맡길 수 있을 거로 생각했는데.
+
+AcceptQuest:  [1002]
+<ce>훌륭하군요. 길드를 실망시키지 않을거라 믿습니다.
+<ce>%pcf. 자, _wizard_의 실험실 위치는
+<ce>___mondung_ 입니다.
+<ce>%g3 는 =1stparton_일 후쯤 실험실을 옮길겁니다.
+<ce>%t 께서 =1stparton_일 안에 마법사를 처단하라
+<ce>명하셨으니, 일 처리후에 늦지 마십시오.
+<ce>=1stparton_일 안에 다시 봅시다.
+<ce>맡아줘서 고맙고 행운을 빕니다, %pcf.
+
+QuestFail:  [1003]
+<ce>이전 일을 생각하면 그쪽은 갈 길이나
+<ce>가는 게 좋겠지요, 안 그렇습니까?
+I think you ought to be moving along on that matter we spoke of, don't you?
+QuestComplete:  [1004]
+<ce>또다시 뛰어난 기술과 효율적인 일처리로
+<ce>절 놀라게 하는군요, %pcf.
+<ce>탁월한 성과였습니다. %t 께서도
+<ce>저만큼 만족하시겠지요.
+<ce>자 약속드렸던 _reward_ 입니다.
+<ce>잘 써주십시오.
+
+RumorsDuringQuest:  [1005]
+메이지 길드에서 ___mondung_에 있다는 미친 마법사를 처리할 사람을 보냈다더군요.
+<--->
+모두들 그 마법사가 다음에 무슨 짓을 할지 두려워 숨을 죽이고 있습니다.
+
+RumorsPostfailure:  [1006]
+메이지 길드도 그 미친 마법사를 어떻게 하진 못했습니다.
+<--->
+그 _wizard_ 인지 어디로 갔는지 몰라도, 그 마법사가 죽기전엔 어디든 안전한 곳이 없을 겁니다.
+
+RumorsPostsuccess:  [1007]
+___mondung_의 그 미친 마법사 이야기를 듣는 건 이번이 마지막이었길 빕니다.
+<--->
+미친 마법사 걱정이 없으니, 이젠 뭔가 조용하단 느낌까지 듭니다.
+
+QuestorPostsuccess:  [1008]
+안녕하십니까, %pcf. 그 미친 마법사에 당한게 많이 아프진 않았길 바랍니다.
+
+QuestorPostfailure:  [1009]
+<ce>그래, 돌아오셨습니까, 그런데
+<ce>___mondung_에 있는
+<ce>미친 마법사 처리는 못하셨군요?
+<ce>참담합니다, %pcf,
+<ce>참담해.
+
+Message:  1030
+%qdt:
+ ___questgiver_ 메이지 길드에서
+ ___mondung_의 마법사를 죽여달라는
+ 의뢰를 요청했다.
+ =1stparton_일 안에 일을 끝내야
+ 보상을 받을 수 있다.
+
+Message:  1040
+<ce>___mondung_의 미친 마법사
+<ce>_wizard_ 처리를 해결했다.
