@@ -1,0 +1,91 @@
+-- Quest: C:\QUESTS\WORKING\M0B20Y02.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: fighter
+-- Repute: 20
+-- QuestId: 2
+Messages: 81
+Quest: M0B20Y02
+DisplayName: 자이언트 무리
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>그래, 일거리가 하나 있어.
+<ce>아무한테 줄수는 없는 일이지만, 너는 잘 해왔으니까.
+<ce>거인 패거리가 있는데 좀 잡아줘야 겠어.
+<ce>보수는 그냥 평균 수준이지, 금화 _reward_닢.
+<ce>하겠나?
+
+RefuseQuest:  [1001]
+<ce>알았수다, 뭐 괜찮아.
+<ce>이런 일 마음에 들어할 줄 알았는데 말이지.
+
+AcceptQuest:  [1002]
+<ce>잘 생각했어, %pcf. 고객 말로는
+<ce>___mondung_ 라는 곳에 자이언트들이
+<ce>본거지를 차렸다더군. 여섯 놈이 있고,
+<ce>=1stparton_일 안에 다 잡기전엔
+<ce>돈 안내겠다는구만.
+<ce>알아들었지, %pcf? 좋아.
+
+QuestFail:  [1003]
+<ce>알고 있겠지만,
+<ce>그 거인 여섯 숨통을 끊기 전엔
+<ce>이야기 할게 없어.
+
+QuestComplete:  [1004]
+<ce>%oth,
+<ce>거인놈들 정신도 못차리고
+<ce>당했겠구만, 안그런가, %pcf?
+<ce>약속했던 보수야, 금화 _reward_닢.
+
+RumorsDuringQuest:  [1005]
+___mondung_에 거인들이 잔뜩 있다는데, 문제를 일으키고 있지는 않다고 합니다.
+<--->
+듣기로는 %t 께서 ___mondung_의 거인을 싹 처리하라고 하셨답니다.
+
+RumorsPostfailure:  [1006]
+뭔가 일이 나서 거인들이 겁을 먹고 도망간 모양빈다. 뭐가 일어난건지.
+<--->
+내가 그 거인들이라도 도망갔을 겁니다. 이 근방은 너무 사람이 많거든요.
+
+RumorsPostsuccess:  [1007]
+___mondung_에 다른 거인 무리가 꼬이는데 얼마나 걸릴지 궁금하군요.
+<--->
+그 거인들 제가 보기엔 불쌍한데요. 아무 말썽도 일으킨 적이 없었거든요.
+
+QuestorPostsuccess:  [1008]
+<ce>자이언트들은 거친 놈들이지. 잘했어 %pcf.
+<ce>이걸로 길드에서 입지가 좀 스겠구만.
+
+QuestorPostfailure:  [1009]
+<ce>자이언트 상대는 너무 힘들었던건가?
+<ce>다른 애송이를 보내는게 낫겠군.
+
+QuestLogEntry:  [1010]
+<ce>자이언트는 모두 죽었다.
+
+Message:  1020
+<ce>여긴 거인 영역이다!
+<ce>네 조그만 영역으로
+<ce>돌아가라 %ra, 얼른 가!
+                                     <--->
+<ce>어젠 %ra 고기를 먹었지.
+<ce>맛있었다.
+                                     <--->
+<ce>부셔주마! 납작하게 부셔주마!
+
+Message:  1030
+%qdt:
+ ___questgiver_ 파이터 길드에서
+ ___mondung_에 자리를 잡은
+ 거인 부족 6마리를 죽여달라는
+ 의뢰를 받았다.
+ 의뢰를 수행하고 =1stparton_일 이내에
+ 보고하면 보수를 받을 수 있다.
+
+Message:  1080
+<ce>어이 %pct, 뭐좀 잡아볼 생각이면,
+<ce>여기 ___newdung_ 지도 받으라고.
+<ce>여기에 잡을게 많거든.
