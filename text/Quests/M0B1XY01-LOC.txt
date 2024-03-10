@@ -1,0 +1,81 @@
+-- Quest: C:\QUESTS\WORKING\M0B1XY01.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: fighter
+-- Repute: 1X
+-- QuestId: 1
+Messages: 81
+Quest: M0B1XY01
+DisplayName: 하피 사냥
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>애송이, 난 네가 맘에 들어. 이 일은 아무나 할수 있는게 아니야.
+<ce>날아다니는 육식 하피들이 있어서 행상인들이 아주 걱정이 많아.
+<ce>___mondung_에 가서
+<ce>좀 찌르고 썰고 해서 금화 _reward_개 챙길 생각 없나?
+
+RefuseQuest:  [1001]
+<ce>거 아깝구만.
+<ce>난 보수가 꽤 괜찮다고 생각 했는데 말이야.
+
+AcceptQuest:  [1002]
+<ce>좋아 그럼. ___mondung_에는
+<ce>이 아름다운 놈들이 다섯놈이 있어,
+<ce>=1stparton_일 안에 잡아야해, 못하면 일 없고.
+<ce>조언 하나 하자면 =1stparton_일 안에
+<ce>잡고 돌아와야할뿐 아니라 ___mondung_에
+<ce>가능한 빨리 가야해, 하피가 이동할때가 되면
+<ce>못잡는거야. 알았지 애송이, 자 가봐, 행운을 빈다.
+
+QuestFail:  [1003]
+<ce>애송이 잘들어, 내가 자꾸 보고 싶은 미남인건 알지만,
+<ce>그 하피들이 아직 남았어, 다섯놈 확실히 다 잡으라고
+<ce>알겠나?
+
+QuestComplete:  [1004]
+<ce>아좋구만, 애송이, 잘했어.
+<ce>금화 _reward_닢이야.
+<ce>이정도면 두둑한편이지.
+
+RumorsDuringQuest:  [1005]
+얼마전 ___mondung_ 상황을 보러간 사람이 갈기갈기 찢겨서 죽었다고 들었습니다.
+<--->
+그 하피들이 계속 남쪽으로 이동했으면 하는게 제 유일한 바람입니다.
+
+RumorsPostfailure:  [1006]
+___mondung_에 하피들이 아예 둥지 자리를 잡았다고 들었는데, 쫒아내야 합니다.
+<--->
+하피들이 행상인 무리를 돌아다니는 음식 잔치 처럼 쫒아다니고 있습니다.
+
+RumorsPostsuccess:  [1007]
+그 하피들 장사 경기에 정말 피해가 많았었습니다. 이제 나아지겠지요.
+<--->
+하피 둥지 가본 사람 이야기를 들었는데 알이 산더미 처럼 있었답니다.
+
+QuestorPostsuccess:  [1008]
+<ce>어이! 그 하피들 골칫거리를 처리한
+<ce>%ra 친구가 다시 왔구만.
+
+QuestorPostfailure:  [1009]
+<ce>그 하피 몇놈도 처리 못한 %ra 친구 아닌가.
+<ce>한심하구만.
+
+Message:  1020
+<ce>이걸로 다섯 마리다.
+<ce>_questgiver_에 보고할 수 있다.
+
+Message:  1030
+%qdt:
+ ___questgiver_ 파이터길드에서
+ ___mondung_에 있는
+ 하피 둥지를 소탕하라는 의뢰를 받았다.
+ 하피 다섯을 처리하고 =1stparton_일내로
+ 돌아가야 보수를 받을 수 있다.
+
+Message:  1080
+<ce>이번 일 도움이 많이 됬어, 자,
+<ce>___newdung_ 지도야.
+<ce>가서 다 잡고 챙길거 챙기라고.
+<ce>내가 주는 거야.
