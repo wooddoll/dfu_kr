@@ -30,11 +30,11 @@ restHowManyHours,휴식 시간:
 potionRecipeFor,%po 포션 제작법
 potionOf,%po 포션
 letterPrefix,편지: 
-multipleAssignments,여러 임무 수행중입니다...
+multipleAssignments,키 설정이 중복되었습니다...
 youAreEntering,%s 입장.
 storeClosed,상점이 문을 닫음. 개점 시간 %d1:00 에서 %d2:00.
 guildClosed,길드가 문을 닫음. 개방 시간 %d1:00 에서 %d2:00.
-any,아는 아무 %s
+any,아무 %s
 arkayDesc,삶과 죽음의 신
 zenDesc,직업과 상업의 신
 maraDesc,사랑의 여신
