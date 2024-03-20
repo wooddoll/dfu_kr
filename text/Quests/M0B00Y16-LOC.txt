@@ -1,0 +1,120 @@
+-- Quest: C:\QUESTS\WORKING\M0B00Y16.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: fighter
+-- Repute: 0
+-- QuestId: 16
+Messages: 81
+Quest: M0B00Y16
+DisplayName: 거인 죽이기
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>안녕하신가, %pcf. 몇일 시간이 있으면,
+<ce>거인을 좀 잡는 일거리가 방금 들어왔는데,
+<ce>네 생각이 났거든. 관심 있나?
+
+RefuseQuest:  [1001]
+<ce>많이 바쁜가 보지? 내가 네 나이땐,
+<ce>거인 한두놈 잡을 시간은 항상 있었는데.
+<ce>요즘 어린 것들이란, 거참.
+
+AcceptQuest:  [1002]
+<ce>그래. 이 거인 말인데, ___mondung_에
+<ce>들어간 것 같아. 그리고 바로 얼마전
+<ce>_dummy_의 양하고 근처 마을 사람 몇명으로
+<ce>잔치를 벌인 모양이야 뭐, 먹은거지,
+<ce>그런데 이 _dummy_, 전혀 관심이 없어.
+<ce>어쨌든, 의뢰주는 =qtime_일 안에 거인을
+<ce>처리해 달라고 하고, 금 _gold_ 닢 내겠다는군.
+<ce>좀 있다가 보자고.
+
+QuestFail:  [1003]
+<ce>뭐, 거인들이 과식으로 죽기라도 바란건가?
+<ce>갈길가, %pcf. 네 할일 해.
+
+QuestComplete:  [1004]
+<ce>거인 척살자 만세!
+<ce>이일에 적임자인줄 알고 있었지.
+<ce>여기 금화 _gold_개 받으라구.
+
+RumorsDuringQuest:  [1005]
+<ce>___mondung_의 거인이 근방 주민에 두려움의 대상이지만,
+<ce>_dummy_ 쪽에선 관심이 없는 것 같습니다.
+                                     <--->
+<ce>___mondung_에 있다는 거인이 또 마을 사람을 잡아갔습니다.
+
+RumorsPostfailure:  [1006]
+<ce>거인들이 드디어 ___mondung_에서 나갔다니 다행입니다.
+<ce>매일매일 같은 마을 사람만 먹다보니 질렸나봅니다.
+
+RumorsPostsuccess:  [1007]
+<ce>%god 시여, _dummy_ 쪽에서 드디어 ___mondung_ 거인을
+<ce>잡을 사람을 보내셨습니다. %g3 의 비싼 양을 죽인거겠지요.
+
+QuestorPostsuccess:  [1008]
+<ce>우리 거인 척살자 %pcf 왔구만!
+
+QuestorPostfailure:  [1009]
+<ce>나때는, 거인 한놈 못잡을 수준이면
+<ce>파이터 길드에서 쫓겨날 수도 있었어.
+<ce>세상이 변했구만.
+
+Message:  1020
+%qdt:
+ ___questgiver_ 파이터 길드의
+ _questgiver_에게
+ ___mondung_에 있는
+ 거인 처리 의뢰를 받았다.
+ =qtime_일 안에 일을 처리후 보고하면
+ 금화 _gold_ 닢을 보수로 받기로 했다.
+
+Message:  1021
+%qdt:
+ 거인이 간식으로 먹으려고
+ 잡아둔 상인을 구출했다.
+ _villager_의 말로는
+ __store_에 있는
+ _store_에 데려다 달라고 한다.
+
+Message:  1030
+<ce>거인은 고통으로 울부짖었다.
+<ce>육중한 발소리가 다가오는 것을 들었다.
+<ce>거인이 식사에 친구 몇을 더 부른 것 같다...
+
+Message:  1031
+<ce>잡으러 왔던 거인들을 처리했다.
+
+Message:  1040
+<ce>와주시다니 %god 께 감사를! 저는 어제
+<ce>시장에 가는 길이었는데 거인이 저와 같이
+<ce>여행 가던 다른 상인 넷을 끌고 왔습니다.
+<ce>다른 상인은 거인이 잡아먹었지만,
+<ce>전 나중에 먹으려고 놔둔 것 같습니다.
+<ce>제발 여기서 나가게 도와주실 수 있으십니까?
+<ce>제 스스로는 절대 여길 탈출하지 못할겁니다.
+
+Message:  1041
+<ce>진정한 영웅이시군요. 제 소개를 하자면 전
+<ce>___villager_의 _villager_입니다.
+<ce>__store_의 _store_에
+<ce>가던 중이었습니다. 절 데려다 주실 수 있다면
+<ce>이 빚은 영원히 잊지 않겠습니다.
+
+Message:  1042
+<ce>도와주셔서 감사합니다만, 여기서 부터는
+<ce>제 스스로 알아서 갈 수 있겠습니다.
+
+Message:  1043
+<ce>정말 인정이 없으십니다.
+
+Message:  1044
+<ce>동행해주셔서 감사합니다, %pcf
+<ce>제 목숨을 구해주신것, 절대 잊지 않겠습니다.
+
+Message:  1080
+<ce>어이, 여기 ___newdung_ 지도야.
+<ce>다른 친구가 저번에 찾은거지.
+<ce>내가 몇년만 더 젊었으면,
+<ce>그런데는 갈아버렸을텐데 말이지.
