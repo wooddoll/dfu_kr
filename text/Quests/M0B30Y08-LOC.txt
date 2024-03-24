@@ -1,0 +1,76 @@
+-- Quest: C:\QUESTS\WORKING\M0B30Y08.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: fighter
+-- Repute: 30
+-- QuestId: 8
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 81
+Quest: M0B30Y08
+DisplayName: 가정 불화
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>좀 이상한 가정내 다툼 일이야,  %pcf.
+<ce>__house_에 있는 여자가
+<ce>자기 남편을 없애달라고 하더군.
+<ce>문제는 남편이 죽었다는거고.
+<ce>일 맡아 보겠나?
+
+RefuseQuest:  [1001]
+<ce>아쉽구만. 보통 이런일은 사원에만 들어오거든.
+<ce>괜찮은 일거리를 안받는구만 %pcn.
+
+AcceptQuest:  [1002]
+<ce>남편이 좀비야. 낮에는 어딘가에 숨어있지.
+<ce>낮이 아닐땐 _house_에 없다는군.
+<ce>밤에는 주변을 돌아다니는 거지.
+<ce>그 남편의 고통을 끝내주고
+<ce>=2dung_일 안에 와서 보고하게
+<ce>금화 _gold_닢 값을 치르지.
+
+QuestComplete:  [1004]
+<ce>그 친구, 소문처럼 냄새가 고약했나?
+<ce>속옷 들어있는 장롱을 장마에 한달은
+<ce>내팽겨놓은 냄새라던데.
+<ce>어쨌든, 여기 보수야, %pcn.
+
+RumorsDuringQuest:  [1005]
+<ce>들으셨습니까? 어떤 할망구가 그러는데
+<ce>그 여자를 괴롭히려고 남편이 무덤에서
+<ce>일어나 돌아온거고 합니다.
+
+RumorsPostfailure:  [1006]
+<ce>그 여자, 집에서 죽은채로 발견됬답니다.
+<ce>오래전에 죽은 남편 옆에 썩은 시체로
+<ce>있었다고 합니다.
+
+RumorsPostsuccess:  [1007]
+<ce>파이터 길드에서 그 좀비를 사람을 보내서
+<ce>처리했다고 들었습니다.
+<ce>길드쪽 사람들은 괜찮은 사람들입니다.
+
+QuestorPostsuccess:  [1008]
+<ce>그 좀비 잘 처리했어, %pcn.
+
+QuestorPostfailure:  [1009]
+<ce>좀비는 감당이 안된건가, 응?
+<ce>못하는 거면 받질 말았어야지.
+
+QuestLogEntry:  [1010]
+%qdt,
+ ___qgiver_ 파이터 길드에서
+ __house_의 _house_에 있는
+ 좀비를 처리해 달라는 의뢰를
+ 받았다. =2dung_일 안에 해결해야 한다.
+
+Message:  1011
+<ce>_monster_는 죽었다.
+<ce>부인은 안심하고 잘수 있을것이다.
+
+Message:  1080
+<ce>어이 %pcf, 좀비 사냥이 재밌었으면,
+<ce>여기 괴물이 들끓는 곳 지도를 받아
+<ce>이름이 ___newdung_.
+<ce>너 같은 %ra 한테는 노는 수준일거야.
