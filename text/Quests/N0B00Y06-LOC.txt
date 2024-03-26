@@ -7,7 +7,7 @@
 -- Edited for Daggerfall Unity by Jay_H
 Messages: 12
 Quest: N0B00Y06
-DisplayName: 미라 감싼 천
+DisplayName: 미라 천
 -- Message panels
 QRC:
 
@@ -70,7 +70,7 @@ RumorsPostfailure:  [1006]
 <--->
 제 고모 할머니가 일리악 만 건너편에 있는 의사를 찾아서 간다고 하십니다.
 <--->
-요즘 날이 어두워지는 때가 제멋대로 입니다.
+이 근방은 해가 넘어가는 시간이 제멋대로 입니다.
 <--->
 이 주변에 전쟁 기념 석상을 세워야 할 것 같습니다.
 <--->
