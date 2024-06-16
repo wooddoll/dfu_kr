@@ -1,0 +1,69 @@
+-- Quest: C:\QUESTS\WORKING\M0B00Y07.Qbn.
+-- StartsBy: NPC
+-- Questee: member
+-- Questor: fighter
+-- Repute: 0
+-- QuestId: 7
+-- Edited for Daggerfall Unity by Jay_H
+Messages: 81
+Quest: M0B00Y07
+DisplayName: 불청객
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>이런 멍청한 의뢰인이 가끔씩 오곤 하지.
+<ce>뒷문을 열어둬서 야생 동물이 꼬이는거.
+<ce>호랑이인지 곰인지 잘 모르겠다고 하는데 별 상관 없어.
+<ce>둘다 맹수니까. 자네가 가서 맹수를 잡아 주게.
+<ce>이런 일은 기준 보수가 _gold_닢이야.
+<ce>맡아 볼텐가 %pcn?
+
+RefuseQuest:  [1001]
+<ce>알았네. 호랑이가 잡아먹으라고 놔두지 뭐.
+<ce>집에 들어가게 한 놈이 애초부터 잘못이지.
+<ce>안 그래?
+
+AcceptQuest:  [1002]
+<ce>좋아. __house_의 _house_에
+<ce>가보라고. 죽이고 오는데 =2dung_일 주지.
+
+QuestComplete:  [1004]
+<ce>크게 어려운건 없었겠지?
+<ce>없었을거야. 여기 금화 _gold_닢.
+
+RumorsDuringQuest:  [1005]
+<ce>_house_에 호랑이가 들어가 있다는 이야기를
+<ce>들었습니다. 돈 주고 잡을 거라고 합니다.
+
+RumorsPostfailure:  [1006]
+호랑이 하나가 어떤 불쌍한 친구를 자기 집에서 죽였답니다. 끔찍하고 비극적인 일이죠.
+
+RumorsPostsuccess:  [1007]
+혹시 _house_에서 날뛰던 호랑이를 잡은 분 아닙니까?
+
+QuestorPostsuccess:  [1008]
+그 호랑이 잘 처리했네.
+
+QuestorPostfailure:  [1009]
+그래 범이 세긴 하지. 자네한텐 다람쥐 잡는걸로 시작을 해야할지도 모르겠구만. 모자란 친구 같으니.
+
+QuestLogEntry:  [1010]
+%qdt:
+ ___qgiver_ _qgiver_에게
+ 호랑이 혹은 곰의 사냥 의뢰를 받았다.
+ __house_ _house_에
+ 들어가 있다고 한다.
+ =2dung_일 안에 돌아가면
+ 금화 _gold_ 닢을 받을 수 있다.
+
+Message:  1011
+<ce>_monster_를 잡았다.
+
+Message:  1012
+<ce>_bear_을 잡았다.
+
+Message:  1080
+<ce>아, 방금 기억났는데, 길드원 하나가
+<ce>___newdung_ 지도를 찾았다네.
+<ce>한번에 다 잡진 말라구.
