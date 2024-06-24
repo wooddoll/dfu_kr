@@ -62,7 +62,7 @@ Message:  1020
 %qdt:
  ___questgiver_ __questgiver_의
  _questgiver_에게 의뢰를 받았다.
- 오늘밤 10시 _targethouse_에 있는
+ 오늘 밤 10시 _targethouse_에 있는
  _target_와 만나라는 내용이다.
  _target_의 신변이 강력한 적때문에
  위협받고 있다는 것 말고는 알고 있는 것이 없다.
