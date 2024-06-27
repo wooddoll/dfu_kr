@@ -1,0 +1,95 @@
+-- Quest: C:\QUESTS\WORKING\S0000500.Qbn.
+-- Main story quest.
+-- QuestId: 500
+Messages: 71
+Quest: S0000500
+DisplayName: 카바르 영주 임무 파트 II
+-- Message panels
+QRC:
+
+QuestComplete:  [1004]
+<ce>%pcf, 내 가장 친한 친구들이 날 버렸을때 내 목숨을 구했으니.
+<ce>빚을 졌군. 내 재산이 예전 같진 않지만, 내 감사의 의미로
+<ce>적지만 이 _gold_ 닢을 받아 줬으면 좋겠어.
+
+RumorsDuringQuest:  [1005]
+<ce>_queen_의 대 영주 하나가 반역으로 체포 됬습니다.
+<ce>대영주의 친구들이 선처를 탄원했지만, 여왕이 이미 처형일을 잡았다고 하는군요.
+
+RumorsPostsuccess:  [1007]
+<ce>_queen_의 경비병들이 _traitor_의 탈출을 막지 못했다고 들었습니다.
+<ce>센티넬 궁전 지하감옥에서 탈출했으니 여왕이 화가 많이 났을 겁니다!
+
+Message:  1020
+%qdt:
+ _contact1_에게 편지를 받았다.
+ 자기가 ____tavern_, __tavern_의
+ _tavern_에 있으니 와서 만나달라며,
+ 센티넬의 _traitor_에 대한 일이라고
+ 했다.
+
+Message:  1021
+%qdt:
+ _contact1_에게 _traitor_ 이야기를
+ 들었다, 센티넬 지하감옥에서 고통 받고 있으며,
+ =executiondelay_일 후로 처형일이 잡혔다고 했다.
+ _contact1_은 너무 늦기 전에 구해달라고 간청했다.
+
+Message:  1022
+%qdt:
+ 센티넬 궁성 지하감옥에서 _traitor_ 구출에
+ 성공해 ____safehouse_, __safehouse_의
+ _safehouse_ 까지 호위해야 한다.
+ 거기서 _contact2_와 만나야 한다.
+
+Message:  1030
+Dear %pcn:
+ 당신이 _traitor_의 친구라면,
+ ____tavern_, __tavern_,
+ _tavern_에서 가능한 빨리 만나고 싶습니다.
+ 목숨이 달린 문제입니다! =firsttimer_일 내로 와주십시오.
+ 
+<ce>                              _contact1_
+
+Message:  1040
+<ce>%pcn? 당신이 제 마지막 희망입니다.
+<ce>_traitor_의 친구나 동맹들은 그 폭군 _queen_이
+<ce>반역죄를 뒤집어 씌운 후에 다 민낯이 드러났습니다.
+<ce>이젠 센티넬 궁성 지하감옥에 갇혀 처형을 기다리고 있지요.
+<ce>부디, 조금이라도 불쌍히 여기신다면 사형 당하지 않게 구해주십시오.
+<ce>당신의 능력과 용기를 높게 평가하던 사람입니다.
+<ce>도와주시리라 믿습니다. 사형은 =executiondelay_일 밖에 남지
+<ce>않았습니다! 서둘러주십시오!
+
+Message:  1041
+<ce>%oth, 만나서 반가워. 경보가 울리기 전에 여기서 빠져나가야해.
+<ce>방금 전까지 탈출할 계획을 짜고 있었지만, 이젠 필요 없겠군, 응?
+<ce>앞으론 제 굳건한 오른팔로 부르도록 하겠습니다.
+<ce>내가 센티넬의 왕이 된다면, 왕국에서 가장 부유한 영주가 되어
+<ce>저와 함께 하게 될겁니다! 멋지지 않습니까? 추격자들을 벗어나면
+<ce>____safehouse_ __safehouse_에 갑시다. _safehouse_에
+<ce>센티넬 장악을 다시금 도와줄 친구가 있습니다.
+<ce>앞장서시오 %pcn, 떠납시다!
+<ce>=escapetime_일 내로 만나야 합니다.
+
+Message:  1050
+<ce>경보를 울려라! _traitor_ 놈이 도망친다!
+<ce>=guards_! 여기다!
+
+Message:  1051
+<ce>_traitor_이 박수를 치더니, 진심으로 말했다.
+<ce>
+<ce>"그 절망의 검은 구덩이에서 구해줘서 고마워,
+<ce>하지만 이제 여기서 부턴 다른 길을 가야겠어."
+
+Message:  1060
+<ce>_traitor_의 역모자 처형 들으셨습니까?
+<ce>생각보다 큰 사건이 된 것 같습니다.
+<ce>_queen_의 궁성 앞 광장에서 교수형을 집행 했다더군요.
+                                     <--->
+<ce>센티넬의 반역자 _traitor_의 목이 교형대에 매였습니다.
+<ce>죽기전에 꼴사납게 살려달라 간청했다고 하더군요.
+
+Message:  1070
+<ce>배달부가 잠깐 멈춰달라고 외치는 소리를 들었다.
+<ce>"%pcn, 맞습니까? 여기 편지입니다. 전 가보겠습니다."
