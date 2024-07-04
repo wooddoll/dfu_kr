@@ -7,7 +7,7 @@
 -- Edited for Daggerfall Unity by Jay_H
 Messages: 11
 Quest: N0B30Y15
-DisplayName: 풀려난 임프
+DisplayName: 도망친 임프
 -- Message panels
 QRC:
 
