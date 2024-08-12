@@ -1,0 +1,128 @@
+-- Quest: C:\QUESTS\WORKING\S0000503.Qbn.
+-- Main story quest.
+-- QuestId: 503
+Messages: 72
+Quest: S0000503
+DisplayName: 전 학생 파트 III
+-- Message panels
+QRC:
+
+Message:  1020
+%qdt:
+ ____tavern_, __tavern_
+ _tavern_에 와달라는 알수없는 요청을 받았다,
+ 내 친구 _rebel_의 요청인 것 같다.
+
+Message:  1021
+%qdt:
+ _rebel_에게 도움을 주기로 했다.
+ __magesguild_ 메이지 길드에서
+ ___itemdung_ 지도를
+ "영구히 빌려" 올 것이다.
+
+Message:  1022
+%qdt:
+ 지도를 회수 했다. _rebel_에겐
+ 할 다른 일이 있어서, _tavern_에서
+ =keytime_일 안으로 다시 만날 수 있을 것이다.
+
+Message:  1023
+%qdt:
+ 지도를 회수 했다. ___keydung_에게
+ ___itemdung_에 있는
+ _key_ 열쇠를 찾아보자고 제안 했다.
+ _tavern_에서 =keytime_일 안으로
+ _rebel_와 만나야 한다.
+
+Message:  1030
+<ce>너덜너덜한 ___itemdung_ 지도다.
+
+Message:  1040
+<ce>오길 잘했어. 네가 관심 있을만한 새로운
+<ce>일이 있거든.
+<ce>메이지 길드에 있는 친구들한테 작은 습격을
+<ce>해줘야 할 필요가 있지만.
+<ce>어떻게 할래?
+
+Message:  1041
+<ce>마음대로 해. 너하고 난
+<ce>친구 사이라고 생각했는데 말야, 이걸로 끝이군.
+
+Message:  1042
+<ce>거절 못할 줄 알았지! 계획을 말해줄게.
+<ce>마법 물품이 쌓여 있다는 ___itemdung_ 위치를
+<ce>한동안 찾고 있었지, 내가 개인적으로 필요한
+<ce>_item_ 하나가 있기도 하고, 뭐 그건 다른 이야기고.
+<ce>__magesguild_ 메이지 길드가 ___itemdung_ 지도를
+<ce>가지고 있다는 걸 알게 됬거든.
+<ce>길드에서 공식적으로 퇴출되긴 했지만, 아직 친구가 좀 있거든..,
+<ce>길드는 자기들이 가진게 뭔지도 모르니까, 우리가 지도를
+<ce>제대로 써먹을 필요가 있다는 거지.
+
+Message:  1043
+<ce>그래 이게 그 지도야!
+
+Message:  1044
+<ce>_rebel_의 손에든 지팡이가 올라갔다.
+<ce>"신사숙녀 여러분, 저희는 이제 가봐야 겠군요."
+<ce>지팡이에서 빛이 뿜어져 나와, 당신의 눈을 멀게 했다.
+
+QuestTimeLapse:  [1045]
+<ce>벌집을 건드렸으니, 잠깐 떨어져서 잠잠해지길 기다리는게 좋겠어.
+<ce>___itemdung_ 들어가기 전에 해결 해야할
+<ce>문제가 하나 더 있는데... 혹시 대신 해줄 수 있을까?
+
+Message:  1046
+<ce>___itemdung_에 들어가려면 열쇠가 반드시 필요해.
+<ce>_key_ 열쇠는 ___keydung_ 어딘가에 있다는 걸 알았지.
+<ce>열쇠를 찾으면 __tavern_ _tavern_에
+<ce>=keytime_일 안으로 날 찾으러 와.
+
+Message:  1047
+<ce>상관 없어. 정리하려면 음 =keytime_일 정도 필요할거야.
+<ce>내가 ___itemdung_ 열쇠를 얻으면
+<ce>__tavern_ _tavern_에서 다시 보자고!
+
+Message:  1050
+<ce>___itemdung_ 열쇠인 _key_가 틀림 없다.
+
+Message:  1051
+<ce>_key_가 손에 들어왔으니, ___itemdung_갈 준비가 됬군.
+<ce>앞장 서라고, 친구!
+
+Message:  1052
+<ce>공허한 목소리가 울려퍼졌다,
+<ce>"침입자는 환영 받지 못한다!"
+
+Message:  1053
+<ce>늦었잖아, _rebel_! _key_만 찾아주면
+<ce>___itemdung_ 가는건 쉬운 문제라고.
+<ce>_item_ 이 물건은 내거야!
+
+Message:  1054
+<ce>"음, %pcf, 짧지만 재밌는 여행이었지 응?
+<ce>_item_, 이건 내가 가져가도록 할게."
+<ce>
+<ce>_rebel_에게 _item_ 주시겠습니까?
+
+Message:  1055
+<ce>다음에 보자고!
+
+Message:  1056
+<ce>그래, 이게 네 본색이로군.
+<ce>조그만걸 바랬을뿐인데,
+<ce>네 욕심은 끝이 없는 것 같군.
+
+Message:  1070
+<ce>그림자가 머리위로 맴돈다.
+<ce>까마귀가 돌다가 거칠게 말하곤
+<ce>서쪽으로 사라진다.
+<ce>
+<ce>"시간 없다! 시간 없다!
+<ce>_tavern_,
+<ce>__tavern_
+<ce>____tavern_!"
+
+Message:  1071
+<ce>%pcf, 괜찮나?
+<ce>안타깝지만 난 가봐야 할 것 같아.
